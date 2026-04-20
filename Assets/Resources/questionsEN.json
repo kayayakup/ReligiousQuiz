@@ -1,0 +1,4004 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "How many times a day are Muslims required to pray (Salah)?",
+      "answers": ["3", "5", "7", "4"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 2,
+      "questionText": "What is the first pillar of Islam?",
+      "answers": ["Salah (Prayer)", "Shahada (Declaration of Faith)", "Zakat (Charity)", "Sawm (Fasting)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 3,
+      "questionText": "In which month do Muslims fast from dawn to sunset?",
+      "answers": ["Shaban", "Rajab", "Ramadan", "Muharram"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 4,
+      "questionText": "What is the direction Muslims face during prayer?",
+      "answers": ["Jerusalem", "Madinah", "Makkah (the Kaaba)", "Damascus"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 5,
+      "questionText": "What is the obligatory charity in Islam called?",
+      "answers": ["Sadaqah", "Zakat", "Khums", "Waqf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 6,
+      "questionText": "Which prayer is performed at dawn?",
+      "answers": ["Dhuhr", "Asr", "Fajr", "Isha"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 7,
+      "questionText": "What is the pilgrimage to Makkah called?",
+      "answers": ["Umrah", "Hajj", "Jihad", "Hijrah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 8,
+      "questionText": "How many rakats are in the Fajr (dawn) prayer?",
+      "answers": ["4", "3", "2", "1"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 9,
+      "questionText": "What is the night prayer called in Islam?",
+      "answers": ["Tahajjud", "Witr", "Duha", "Ishraq"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 10,
+      "questionText": "What is the Arabic term for ablution before prayer?",
+      "answers": ["Ghusl", "Tayammum", "Wudu", "Istinja"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 11,
+      "questionText": "How many pillars of Islam are there?",
+      "answers": ["4", "5", "6", "7"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 12,
+      "questionText": "Which prayer is the longest compulsory daily prayer in terms of rakats?",
+      "answers": ["Fajr", "Dhuhr", "Maghrib", "Isha"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 13,
+      "questionText": "What is the Friday congregational prayer called?",
+      "answers": ["Eid prayer", "Jumu'ah", "Taraweeh", "Janazah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 14,
+      "questionText": "What is the minimum percentage of wealth given as Zakat?",
+      "answers": ["5%", "10%", "2.5%", "1%"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 15,
+      "questionText": "What type of ablution is performed using clean earth when water is unavailable?",
+      "answers": ["Wudu", "Ghusl", "Tayammum", "Masah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 16,
+      "questionText": "How many rakats are in the Isha (night) prayer?",
+      "answers": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 17,
+      "questionText": "What is the special prayer performed during Ramadan nights called?",
+      "answers": ["Tahajjud", "Taraweeh", "Witr", "Istikhara"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 18,
+      "questionText": "What breaks the fast during Ramadan?",
+      "answers": ["Sleeping", "Intentionally eating or drinking", "Breathing deeply", "Walking long distances"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 19,
+      "questionText": "In which Hijri month is Hajj performed?",
+      "answers": ["Muharram", "Rajab", "Shawwal", "Dhul Hijjah"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 20,
+      "questionText": "What is the prayer of repentance called?",
+      "answers": ["Salat al-Tawbah", "Salat al-Duha", "Salat al-Kusuf", "Salat al-Istisqa"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 21,
+      "questionText": "What is I'tikaf?",
+      "answers": ["A type of fasting", "Seclusion in the mosque for worship", "A pilgrimage ritual", "A type of charity"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 22,
+      "questionText": "What is the Fidyah in the context of fasting?",
+      "answers": ["A prayer", "Compensation for missed fasts", "A type of charity", "A pilgrimage ritual"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 23,
+      "questionText": "What is the Nisab threshold for gold in Zakat calculation?",
+      "answers": ["50 grams", "85 grams", "100 grams", "200 grams"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 24,
+      "questionText": "Which of these is NOT one of the conditions that make Hajj obligatory?",
+      "answers": ["Being Muslim", "Being of sound mind", "Having memorized the entire Quran", "Physical and financial ability"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 25,
+      "questionText": "What is the prayer for seeking guidance from Allah called?",
+      "answers": ["Salat al-Istikhara", "Salat al-Janazah", "Salat al-Eid", "Salat al-Kusuf"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 26,
+      "questionText": "During Hajj, what is the act of walking between Safa and Marwah called?",
+      "answers": ["Tawaf", "Sa'i", "Wuquf", "Rami"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 27,
+      "questionText": "What is the prayer performed for a deceased person called?",
+      "answers": ["Salat al-Eid", "Salat al-Janazah", "Salat al-Istikhara", "Salat al-Hajah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 28,
+      "questionText": "How many days of fasting are recommended in the month of Shawwal after Ramadan?",
+      "answers": ["3", "6", "10", "15"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 29,
+      "questionText": "What is the term for the state of ritual consecration during Hajj or Umrah?",
+      "answers": ["Talbiyah", "Ihram", "Tawaf", "Miqat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 30,
+      "questionText": "According to Islamic jurisprudence, how many categories of people are eligible to receive Zakat?",
+      "answers": ["5", "6", "7", "8"],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 31,
+      "questionText": "What is the Nisab threshold for silver in Zakat calculation?",
+      "answers": ["200 grams", "595 grams", "400 grams", "1000 grams"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 32,
+      "questionText": "What is the difference between Hajj al-Ifrad and Hajj al-Tamattu'?",
+      "answers": ["Ifrad includes Umrah, Tamattu' does not", "Tamattu' includes Umrah before Hajj, Ifrad is Hajj only", "There is no difference", "Ifrad is only for women"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 33,
+      "questionText": "What is the ruling on Witr prayer in the Hanafi school of thought?",
+      "answers": ["Sunnah Muakkadah", "Wajib (obligatory)", "Mustahab (recommended)", "Fard"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 34,
+      "questionText": "On which day do pilgrims stand at Arafat during Hajj?",
+      "answers": ["8th Dhul Hijjah", "9th Dhul Hijjah", "10th Dhul Hijjah", "12th Dhul Hijjah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 35,
+      "questionText": "What is Kaffarah for deliberately breaking a fast in Ramadan without a valid excuse?",
+      "answers": ["Making up the fast only", "Fasting 60 consecutive days or feeding 60 poor", "Paying Zakat", "Performing Hajj"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 36,
+      "questionText": "What is the first Surah (chapter) of the Quran?",
+      "answers": ["Al-Baqarah", "Al-Fatiha", "Al-Ikhlas", "Al-Nas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 37,
+      "questionText": "How many chapters (Surahs) are in the Quran?",
+      "answers": ["100", "114", "120", "99"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 38,
+      "questionText": "What is the longest Surah in the Quran?",
+      "answers": ["Al-Imran", "An-Nisa", "Al-Baqarah", "Al-Maidah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 39,
+      "questionText": "Which Surah is known as 'The Heart of the Quran'?",
+      "answers": ["Ar-Rahman", "Ya-Sin", "Al-Mulk", "Al-Kahf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 40,
+      "questionText": "In which language was the Quran originally revealed?",
+      "answers": ["Persian", "Hebrew", "Arabic", "Aramaic"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 41,
+      "questionText": "What does 'Quran' literally mean?",
+      "answers": ["The Light", "The Recitation", "The Book", "The Guidance"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 42,
+      "questionText": "Which Surah mentions the story of the People of the Cave?",
+      "answers": ["Al-Kahf", "Al-Anfal", "At-Tawbah", "Maryam"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 43,
+      "questionText": "How many verses (ayahs) are in Surah Al-Fatiha?",
+      "answers": ["5", "6", "7", "8"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 44,
+      "questionText": "Which Surah is equivalent to one-third of the Quran in reward?",
+      "answers": ["Al-Fatiha", "Al-Falaq", "Al-Ikhlas", "Al-Kawthar"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 45,
+      "questionText": "What is the shortest Surah in the Quran?",
+      "answers": ["Al-Ikhlas", "Al-Kawthar", "Al-Asr", "Al-Nas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 46,
+      "questionText": "Over how many years was the Quran revealed?",
+      "answers": ["10 years", "15 years", "23 years", "30 years"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 47,
+      "questionText": "Which angel is believed to have revealed the Quran to Prophet Muhammad (PBUH)?",
+      "answers": ["Mikail", "Israfil", "Jibril (Gabriel)", "Azrael"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 48,
+      "questionText": "Which Surah begins with 'Alif Lam Mim'?",
+      "answers": ["Al-Fatiha", "Al-Baqarah", "An-Nas", "Al-Ikhlas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 49,
+      "questionText": "What is the Ayat al-Kursi (Verse of the Throne) found in?",
+      "answers": ["Surah Al-Imran", "Surah Al-Baqarah", "Surah An-Nisa", "Surah Al-Maidah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 50,
+      "questionText": "Which Surah is named after a woman?",
+      "answers": ["Al-Baqarah", "Maryam", "An-Nisa", "Al-Ahzab"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 51,
+      "questionText": "What is the last Surah of the Quran?",
+      "answers": ["Al-Falaq", "Al-Ikhlas", "Al-Nas", "Al-Kafirun"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 52,
+      "questionText": "Which Surah contains the verse 'There is no compulsion in religion'?",
+      "answers": ["Al-Baqarah", "Al-Imran", "An-Nisa", "Al-Maidah"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 53,
+      "questionText": "How many parts (Juz) is the Quran divided into?",
+      "answers": ["20", "25", "30", "40"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 54,
+      "questionText": "Which Surah mentions the story of Prophet Yusuf (Joseph) in detail?",
+      "answers": ["Yusuf", "Ibrahim", "Luqman", "Hud"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 55,
+      "questionText": "What is the name of the Surah that mentions Dhul-Qarnayn?",
+      "answers": ["Al-Anbiya", "Al-Kahf", "Al-Isra", "Al-Hajj"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 56,
+      "questionText": "Which Surah is recommended to be recited every Friday?",
+      "answers": ["Ya-Sin", "Al-Kahf", "Ar-Rahman", "Al-Mulk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 57,
+      "questionText": "In Surah Al-Ikhlas, which attribute of Allah is emphasized?",
+      "answers": ["His Mercy", "His Oneness (Tawhid)", "His Power", "His Knowledge"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 58,
+      "questionText": "Which Surah contains the verse known as the 'Greatest Verse' (Ayat al-Kursi)?",
+      "answers": ["Al-Baqarah (2:255)", "Al-Imran (3:18)", "An-Nisa (4:87)", "Al-Hashr (59:22)"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 59,
+      "questionText": "What is the approximate number of verses (ayahs) in the Quran?",
+      "answers": ["5,000", "6,236", "7,000", "8,500"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 60,
+      "questionText": "Which Caliph ordered the compilation of the Quran into a single book?",
+      "answers": ["Umar ibn al-Khattab", "Abu Bakr al-Siddiq", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 61,
+      "questionText": "Which Caliph standardized the text of the Quran and distributed official copies?",
+      "answers": ["Abu Bakr", "Umar", "Uthman", "Ali"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 62,
+      "questionText": "What is a 'Makki' Surah?",
+      "answers": ["A Surah revealed in Madinah", "A Surah revealed in Makkah before the Hijrah", "A Surah about Makkah", "A Surah with more than 100 verses"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 63,
+      "questionText": "Which Surah does not begin with 'Bismillah'?",
+      "answers": ["Al-Fatiha", "Al-Baqarah", "At-Tawbah", "Al-Kawthar"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 64,
+      "questionText": "What is the science of Quranic recitation rules called?",
+      "answers": ["Tafsir", "Tajweed", "Fiqh", "Usul al-Hadith"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 65,
+      "questionText": "Which Surah mentions 'Bismillah' twice?",
+      "answers": ["Al-Fatiha", "An-Naml", "Al-Baqarah", "Al-Anfal"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 66,
+      "questionText": "How many Surahs in the Quran begin with 'Huruf al-Muqatta'at' (disconnected letters)?",
+      "answers": ["19", "25", "29", "33"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 67,
+      "questionText": "What is the term for the science of interpreting the Quran?",
+      "answers": ["Hadith", "Tajweed", "Tafsir", "Fiqh"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 68,
+      "questionText": "Which verse of the Quran is considered the verse of debt (longest verse)?",
+      "answers": ["Al-Baqarah 2:255", "Al-Baqarah 2:282", "Al-Imran 3:7", "An-Nisa 4:11"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 69,
+      "questionText": "Which companion of the Prophet was known as 'Katib al-Wahy' (Scribe of Revelation)?",
+      "answers": ["Abu Bakr", "Umar", "Zaid ibn Thabit", "Muadh ibn Jabal"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 70,
+      "questionText": "What are the 'Seven Ahruf' in the context of the Quran?",
+      "answers": ["Seven translations", "Seven modes/dialects of recitation", "Seven chapters", "Seven prophets mentioned"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 71,
+      "questionText": "Who was the first prophet in Islam?",
+      "answers": ["Ibrahim (Abraham)", "Nuh (Noah)", "Adam", "Muhammad (PBUH)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 72,
+      "questionText": "Who is considered the last prophet in Islam?",
+      "answers": ["Isa (Jesus)", "Musa (Moses)", "Muhammad (PBUH)", "Ibrahim (Abraham)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 73,
+      "questionText": "Which prophet was swallowed by a whale?",
+      "answers": ["Musa (Moses)", "Yunus (Jonah)", "Ayyub (Job)", "Idris (Enoch)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 74,
+      "questionText": "Which prophet built the Ark?",
+      "answers": ["Ibrahim (Abraham)", "Sulaiman (Solomon)", "Nuh (Noah)", "Dawud (David)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 75,
+      "questionText": "Which prophet was given the Zabur (Psalms)?",
+      "answers": ["Musa (Moses)", "Isa (Jesus)", "Dawud (David)", "Ibrahim (Abraham)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 76,
+      "questionText": "Which prophet was thrown into a fire but was saved by Allah?",
+      "answers": ["Musa (Moses)", "Ibrahim (Abraham)", "Ismail (Ishmael)", "Yaqub (Jacob)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 77,
+      "questionText": "Which prophet is known as 'Khalilullah' (Friend of Allah)?",
+      "answers": ["Musa (Moses)", "Muhammad (PBUH)", "Ibrahim (Abraham)", "Nuh (Noah)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 78,
+      "questionText": "Which prophet was given the Torah?",
+      "answers": ["Dawud (David)", "Musa (Moses)", "Isa (Jesus)", "Harun (Aaron)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 79,
+      "questionText": "Which prophet could speak to animals and commanded jinn?",
+      "answers": ["Dawud (David)", "Sulaiman (Solomon)", "Idris (Enoch)", "Dhul-Kifl"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 80,
+      "questionText": "Who was the brother of Prophet Musa (Moses)?",
+      "answers": ["Ismail (Ishmael)", "Harun (Aaron)", "Ishaq (Isaac)", "Yusuf (Joseph)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 81,
+      "questionText": "Which prophet was sold into slavery by his brothers?",
+      "answers": ["Musa (Moses)", "Yusuf (Joseph)", "Ismail (Ishmael)", "Ayyub (Job)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 82,
+      "questionText": "Which prophet is referred to as 'Ruhullah' (Spirit of Allah)?",
+      "answers": ["Ibrahim (Abraham)", "Muhammad (PBUH)", "Isa (Jesus)", "Adam"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 83,
+      "questionText": "How many prophets are mentioned by name in the Quran?",
+      "answers": ["20", "25", "30", "35"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 84,
+      "questionText": "Which prophet is known as 'Safiullah' (Chosen by Allah)?",
+      "answers": ["Nuh (Noah)", "Adam", "Ibrahim (Abraham)", "Muhammad (PBUH)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 85,
+      "questionText": "Which prophet is known for his extraordinary patience?",
+      "answers": ["Yusuf (Joseph)", "Ayyub (Job)", "Yunus (Jonah)", "Shuaib"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 86,
+      "questionText": "Which prophet was taken up to the heavens alive according to Islamic belief?",
+      "answers": ["Musa (Moses)", "Idris (Enoch)", "Elyas (Elijah)", "Isa (Jesus)"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 87,
+      "questionText": "Which two prophets built the Kaaba?",
+      "answers": ["Adam and Nuh", "Ibrahim and Ismail", "Musa and Harun", "Muhammad and Ibrahim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 88,
+      "questionText": "Which prophet was sent to the people of 'Ad?",
+      "answers": ["Salih", "Hud", "Shuaib", "Lut (Lot)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 89,
+      "questionText": "Which prophet was sent to the people of Thamud?",
+      "answers": ["Hud", "Salih", "Shuaib", "Nuh (Noah)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 90,
+      "questionText": "Which prophet's people were destroyed for their immoral practices (city of Sodom)?",
+      "answers": ["Shuaib", "Hud", "Lut (Lot)", "Salih"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 91,
+      "questionText": "What miracle was Prophet Musa (Moses) given?",
+      "answers": ["Healing the sick", "Staff turning into a serpent", "Speaking to birds", "Splitting the moon"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 92,
+      "questionText": "Which prophet had 12 sons who became the tribes of Israel?",
+      "answers": ["Ibrahim (Abraham)", "Ishaq (Isaac)", "Yaqub (Jacob)", "Yusuf (Joseph)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 93,
+      "questionText": "Which prophet was known for making chain armor (coats of mail)?",
+      "answers": ["Sulaiman (Solomon)", "Dawud (David)", "Dhul-Kifl", "Idris (Enoch)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 94,
+      "questionText": "What was the miracle of Prophet Salih to the people of Thamud?",
+      "answers": ["A flood", "A she-camel from a rock", "Fire from the sky", "A talking bird"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 95,
+      "questionText": "Which prophet was sent to the people of Madyan?",
+      "answers": ["Lut (Lot)", "Hud", "Shuaib", "Salih"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 96,
+      "questionText": "What title is given to Prophet Muhammad (PBUH)?",
+      "answers": ["Khalilullah", "Kalimatullah", "Habibullah (Beloved of Allah)", "Ruhullah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 97,
+      "questionText": "Which prophet is believed to have been born without a father in Islam?",
+      "answers": ["Adam", "Isa (Jesus)", "Idris (Enoch)", "Yahya (John)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 98,
+      "questionText": "Which prophet's father, grandfather, and great-grandfather were all prophets?",
+      "answers": ["Muhammad (PBUH)", "Yusuf (Joseph)", "Isa (Jesus)", "Musa (Moses)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 99,
+      "questionText": "Which prophet was given the 'Suhuf' (Scrolls)?",
+      "answers": ["Nuh (Noah)", "Musa (Moses)", "Ibrahim (Abraham)", "Dawud (David)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 100,
+      "questionText": "In the Night Journey (Isra and Mi'raj), which prophet did Muhammad (PBUH) meet at the first heaven?",
+      "answers": ["Ibrahim (Abraham)", "Musa (Moses)", "Adam", "Isa (Jesus)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 101,
+      "questionText": "Which prophet is described in the Quran as 'Dhul-Nun' (companion of the fish)?",
+      "answers": ["Ayyub (Job)", "Yunus (Jonah)", "Dawud (David)", "Ilyas (Elijah)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 102,
+      "questionText": "According to Islamic tradition, at how many heavens did Prophet Muhammad (PBUH) meet prophets during Mi'raj?",
+      "answers": ["5", "6", "7", "9"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Prophets"
+    },
+    {
+      "id": 103,
+      "questionText": "Which prophet asked Allah to show him how He gives life to the dead (involving birds)?",
+      "answers": ["Musa (Moses)", "Ibrahim (Abraham)", "Isa (Jesus)", "Sulaiman (Solomon)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Prophets"
+    },
+    {
+      "id": 104,
+      "questionText": "Which prophet's story is referred to as 'Ahsan al-Qasas' (the best of stories) in the Quran?",
+      "answers": ["Musa (Moses)", "Ibrahim (Abraham)", "Yusuf (Joseph)", "Nuh (Noah)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 105,
+      "questionText": "What is the name of Prophet Ibrahim's wife who was the mother of Ismail?",
+      "answers": ["Sarah", "Hajar (Hagar)", "Maryam", "Asiyah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 106,
+      "questionText": "Which prophet lived the longest according to Islamic tradition?",
+      "answers": ["Adam", "Nuh (Noah)", "Idris (Enoch)", "Ibrahim (Abraham)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Prophets"
+    },
+    {
+      "id": 107,
+      "questionText": "What is a Hadith?",
+      "answers": ["A verse of the Quran", "A saying or action of Prophet Muhammad (PBUH)", "A type of prayer", "A chapter of the Quran"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 108,
+      "questionText": "Who compiled the most authentic collection of Hadith (Sahih)?",
+      "answers": ["Imam Muslim", "Imam Bukhari", "Imam Abu Dawud", "Imam Tirmidhi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 109,
+      "questionText": "What are the two most authentic Hadith collections called collectively?",
+      "answers": ["Al-Muwatta and Musnad", "Sahihayn (Sahih Bukhari and Sahih Muslim)", "Sunan an-Nasa'i and Sunan Ibn Majah", "Jami and Musannaf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 110,
+      "questionText": "What does 'Sahih' mean in the context of Hadith classification?",
+      "answers": ["Weak", "Fabricated", "Authentic/Sound", "Good"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 111,
+      "questionText": "What is the chain of narrators in a Hadith called?",
+      "answers": ["Matn", "Isnad", "Rawi", "Sanad"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 112,
+      "questionText": "What is the text/content of a Hadith called?",
+      "answers": ["Isnad", "Sanad", "Matn", "Rawi"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 113,
+      "questionText": "What is a 'Hadith Qudsi'?",
+      "answers": ["A hadith about prayer", "A hadith where Allah speaks in His own words through the Prophet", "A hadith about fasting", "A fabricated hadith"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 114,
+      "questionText": "According to a famous Hadith, what are the actions judged by?",
+      "answers": ["Results", "Intentions (Niyyah)", "Words", "Witnesses"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 115,
+      "questionText": "How many Hadith does Sahih Bukhari contain (approximately, without repetitions)?",
+      "answers": ["About 2,600", "About 4,000", "About 7,000", "About 10,000"],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 116,
+      "questionText": "What classification is given to a Hadith with a weak narrator in its chain?",
+      "answers": ["Sahih", "Hasan", "Da'if (Weak)", "Mawdu"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 117,
+      "questionText": "What is a 'Mawdu' Hadith?",
+      "answers": ["An authentic hadith", "A good hadith", "A fabricated/forged hadith", "A weak hadith"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 118,
+      "questionText": "Which of the following is NOT one of the 'Six Books' (Kutub al-Sittah) of Hadith?",
+      "answers": ["Sahih Bukhari", "Al-Muwatta of Imam Malik", "Sunan Abu Dawud", "Sahih Muslim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 119,
+      "questionText": "Complete this Hadith: 'None of you truly believes until he loves for his brother...'",
+      "answers": ["...what he loves for himself", "...more than himself", "...the best of deeds", "...paradise"],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 120,
+      "questionText": "What does 'Mutawatir' mean in Hadith classification?",
+      "answers": ["Narrated by one person", "Narrated through many independent chains making fabrication impossible", "A weak narration", "A hadith about miracles"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 121,
+      "questionText": "What is the Hadith '40 Hadith of Imam Nawawi' known for?",
+      "answers": ["Being the longest hadiths", "Being a concise collection of fundamental Islamic teachings", "Being only about prayer", "Being compiled by Bukhari"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 122,
+      "questionText": "According to Hadith, which three deeds are the most beloved to Allah?",
+      "answers": ["Hajj, Umrah, Jihad", "Prayer on time, kindness to parents, Jihad in the path of Allah", "Fasting, charity, pilgrimage", "Reading Quran, Dhikr, Sadaqah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 123,
+      "questionText": "What is 'Ilm al-Rijal' in Hadith sciences?",
+      "answers": ["The study of men/narrators", "The study of hadith text", "The study of Arabic grammar", "The study of Islamic law"],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 124,
+      "questionText": "What is a 'Mursal' Hadith?",
+      "answers": ["A hadith with a continuous chain", "A hadith where a Tabi'i narrates directly from the Prophet, skipping the Companion", "A fabricated hadith", "A hadith with multiple chains"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 125,
+      "questionText": "According to Hadith, what is the best supplication on the Day of Arafah?",
+      "answers": ["Subhanallah", "Alhamdulillah", "La ilaha illallah wahdahu la sharika lah...", "Astaghfirullah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 126,
+      "questionText": "What is a 'Hasan' Hadith?",
+      "answers": ["Fabricated", "Authentic", "Good (acceptable but slightly below Sahih)", "Weak"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 127,
+      "questionText": "Who was the first Caliph of Islam after Prophet Muhammad (PBUH)?",
+      "answers": ["Umar ibn al-Khattab", "Ali ibn Abi Talib", "Abu Bakr al-Siddiq", "Uthman ibn Affan"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 128,
+      "questionText": "What year did the Hijrah (migration from Makkah to Madinah) take place?",
+      "answers": ["610 CE", "622 CE", "630 CE", "632 CE"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 129,
+      "questionText": "What was the first major battle in Islamic history?",
+      "answers": ["Battle of Uhud", "Battle of Badr", "Battle of the Trench", "Battle of Khaybar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 130,
+      "questionText": "Who was the first woman to accept Islam?",
+      "answers": ["Aisha (RA)", "Fatimah (RA)", "Khadijah (RA)", "Sumayyah (RA)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 131,
+      "questionText": "What was the name of the first mosque built in Islam?",
+      "answers": ["Al-Aqsa Mosque", "Masjid Quba", "Masjid an-Nabawi", "Masjid al-Haram"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 132,
+      "questionText": "Who was the first muezzin (caller to prayer) in Islam?",
+      "answers": ["Abdullah ibn Masud", "Bilal ibn Rabah", "Ammar ibn Yasir", "Salman al-Farisi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 133,
+      "questionText": "In which year was Makkah conquered by the Muslims?",
+      "answers": ["624 CE", "625 CE", "628 CE", "630 CE"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 134,
+      "questionText": "What was the Treaty of Hudaybiyyah?",
+      "answers": ["A declaration of war", "A peace treaty between Muslims and the Quraysh", "A trade agreement", "A document establishing the Islamic state"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 135,
+      "questionText": "Who was the second Caliph of Islam?",
+      "answers": ["Abu Bakr", "Umar ibn al-Khattab", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 136,
+      "questionText": "What is the 'Year of the Elephant' known for?",
+      "answers": ["The year Muslims conquered Makkah", "The year Prophet Muhammad (PBUH) was born", "The year the Quran was completed", "The year of the Hijrah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 137,
+      "questionText": "Who was known as 'The Sword of Allah'?",
+      "answers": ["Ali ibn Abi Talib", "Umar ibn al-Khattab", "Khalid ibn al-Walid", "Sad ibn Abi Waqqas"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 138,
+      "questionText": "Where did the Muslims first migrate to escape persecution?",
+      "answers": ["Madinah", "Abyssinia (Ethiopia)", "Egypt", "Syria"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 139,
+      "questionText": "What was the name of the constitution established in Madinah?",
+      "answers": ["Treaty of Hudaybiyyah", "Charter of Madinah (Constitution of Madinah)", "Declaration of Makkah", "Covenant of Aqabah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 140,
+      "questionText": "Who was the first child to accept Islam?",
+      "answers": ["Umar", "Zaid ibn Harithah", "Ali ibn Abi Talib", "Abdullah ibn Abbas"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 141,
+      "questionText": "What was the Battle of the Trench (Khandaq) known for?",
+      "answers": ["Naval warfare", "Digging a trench to defend Madinah", "A battle fought in a mountain pass", "A siege of Makkah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 142,
+      "questionText": "Who suggested digging the trench at the Battle of Khandaq?",
+      "answers": ["Abu Bakr", "Umar", "Salman al-Farisi", "Khalid ibn al-Walid"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 143,
+      "questionText": "In which year did Prophet Muhammad (PBUH) pass away?",
+      "answers": ["630 CE", "632 CE", "634 CE", "636 CE"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 144,
+      "questionText": "Which Islamic dynasty built the Dome of the Rock in Jerusalem?",
+      "answers": ["Abbasid", "Ottoman", "Umayyad", "Fatimid"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 145,
+      "questionText": "Who was the first Umayyad Caliph?",
+      "answers": ["Abd al-Malik", "Muawiyah ibn Abi Sufyan", "Yazid ibn Muawiyah", "Marwan ibn al-Hakam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 146,
+      "questionText": "Which Caliph introduced the Islamic calendar based on the Hijrah?",
+      "answers": ["Abu Bakr", "Umar ibn al-Khattab", "Uthman", "Ali"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 147,
+      "questionText": "What was the Ridda Wars?",
+      "answers": ["Wars between Muslims and Romans", "Wars against apostasy after the Prophet's death", "Wars between Umayyads and Abbasids", "Crusade wars"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 148,
+      "questionText": "Who led the Muslim forces in the Battle of Yarmouk against the Byzantines?",
+      "answers": ["Umar ibn al-Khattab", "Khalid ibn al-Walid", "Abu Bakr", "Amr ibn al-As"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 149,
+      "questionText": "Which Muslim general conquered Egypt?",
+      "answers": ["Khalid ibn al-Walid", "Sad ibn Abi Waqqas", "Amr ibn al-As", "Tariq ibn Ziyad"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 150,
+      "questionText": "Who opened the way to Spain (Al-Andalus) for the Muslims?",
+      "answers": ["Khalid ibn al-Walid", "Tariq ibn Ziyad", "Musa ibn Nusayr", "Saladin"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 151,
+      "questionText": "What was the capital of the Abbasid Caliphate?",
+      "answers": ["Damascus", "Baghdad", "Cairo", "Cordoba"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 152,
+      "questionText": "Who was Saladin (Salah ad-Din) and what is he famous for?",
+      "answers": ["An Umayyad poet", "The founder of the Ottoman Empire", "The Muslim leader who recaptured Jerusalem from the Crusaders", "The inventor of algebra"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 153,
+      "questionText": "Which battle in 1258 CE marked the fall of the Abbasid Caliphate?",
+      "answers": ["Battle of Ain Jalut", "Siege of Baghdad", "Battle of Hattin", "Battle of Manzikert"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 154,
+      "questionText": "Which empire ended the Abbasid Caliphate by sacking Baghdad?",
+      "answers": ["Crusaders", "Mongols", "Ottomans", "Safavids"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 155,
+      "questionText": "Who founded the Ottoman Empire?",
+      "answers": ["Suleiman the Magnificent", "Mehmed II", "Osman I", "Bayezid I"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 156,
+      "questionText": "Which Ottoman Sultan conquered Constantinople in 1453?",
+      "answers": ["Osman I", "Suleiman the Magnificent", "Mehmed II (the Conqueror)", "Selim I"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 157,
+      "questionText": "What was the 'Golden Age of Islam' known for?",
+      "answers": ["Military conquests", "Advancements in science, medicine, mathematics, and philosophy", "Building mosques", "Expansion of trade routes"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 158,
+      "questionText": "Who is known as the 'Father of Algebra'?",
+      "answers": ["Ibn Sina", "Al-Khwarizmi", "Al-Razi", "Ibn Rushd"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 159,
+      "questionText": "Which Muslim scholar wrote 'The Canon of Medicine'?",
+      "answers": ["Al-Khwarizmi", "Al-Razi", "Ibn Sina (Avicenna)", "Ibn Khaldun"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 160,
+      "questionText": "Who wrote the 'Muqaddimah', considered a masterpiece of historiography?",
+      "answers": ["Ibn Sina", "Al-Ghazali", "Ibn Khaldun", "Al-Tabari"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 161,
+      "questionText": "What were the 'Pledges of Aqabah'?",
+      "answers": ["Trade treaties", "Pledges of allegiance from Madinah to the Prophet before Hijrah", "Peace agreements with the Quraysh", "Military alliances"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 162,
+      "questionText": "Who was the first martyr (female) in Islam?",
+      "answers": ["Khadijah", "Fatimah", "Sumayyah bint Khayyat", "Asma bint Abu Bakr"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 163,
+      "questionText": "What are the six articles of faith (Iman) in Islam?",
+      "answers": ["Shahada, Salah, Zakat, Sawm, Hajj, Jihad", "Belief in God, Angels, Books, Prophets, Day of Judgment, Divine Decree", "Prayer, Fasting, Charity, Pilgrimage, Belief, Patience", "Tawhid, Risalah, Akhirah, Salah, Sawm, Zakat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 164,
+      "questionText": "What is Ihsan in Islam?",
+      "answers": ["Giving charity", "To worship Allah as though you see Him", "Going on pilgrimage", "Reading the Quran"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 165,
+      "questionText": "What is the prayer performed during a solar eclipse called?",
+      "answers": ["Salat al-Istisqa", "Salat al-Kusuf", "Salat al-Khauf", "Salat al-Duha"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 166,
+      "questionText": "What prayer is performed to ask for rain?",
+      "answers": ["Salat al-Kusuf", "Salat al-Khusuf", "Salat al-Istisqa", "Salat al-Hajah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 167,
+      "questionText": "How many times is Surah Al-Fatiha recited in a 5-rakat prayer?",
+      "answers": ["5 times", "3 times", "7 times", "5 times (once per rakat)"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 168,
+      "questionText": "What is 'Sujud as-Sahw'?",
+      "answers": ["The main prostration in prayer", "Prostration of forgetfulness for mistakes in prayer", "Prostration of gratitude", "Prostration during Quran recitation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 169,
+      "questionText": "What is the night known as 'Laylat al-Qadr' (Night of Decree)?",
+      "answers": ["The first night of Ramadan", "A night in the last 10 nights of Ramadan better than 1000 months", "The night of Eid", "The night before Hajj"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 170,
+      "questionText": "In which Surah is Laylat al-Qadr described?",
+      "answers": ["Al-Baqarah", "Al-Qadr", "Al-Fajr", "Al-Buruj"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 171,
+      "questionText": "Which Surah is known as 'The Sovereignty' or 'The Dominion'?",
+      "answers": ["Al-Mulk", "Al-Waqiah", "Ar-Rahman", "Al-Hadid"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 172,
+      "questionText": "Which Surah starts with 'The Most Gracious (Ar-Rahman)'?",
+      "answers": ["Surah 54", "Surah 55", "Surah 56", "Surah 57"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 173,
+      "questionText": "What is the 'Bismillah' that begins most Surahs?",
+      "answers": ["A prayer for protection", "'In the name of Allah, the Most Gracious, the Most Merciful'", "A verse about fasting", "A call to prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 174,
+      "questionText": "Which animal is named as a Surah title in the Quran?",
+      "answers": ["Al-Fil (The Elephant)", "Al-Baqarah (The Cow)", "An-Naml (The Ant)", "All of the above"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 175,
+      "questionText": "What is 'Asbab al-Nuzul' in Quranic studies?",
+      "answers": ["The science of recitation", "The occasions/reasons of revelation", "The abrogation of verses", "The grammar of the Quran"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 176,
+      "questionText": "What does 'Naskh' mean in Quranic sciences?",
+      "answers": ["Copying the Quran", "Abrogation of a ruling by a later one", "Recitation rules", "Translation of the Quran"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 177,
+      "questionText": "Which prophet is mentioned the most times in the Quran?",
+      "answers": ["Ibrahim (Abraham)", "Muhammad (PBUH)", "Musa (Moses)", "Isa (Jesus)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 178,
+      "questionText": "What was the name of Prophet Muhammad's (PBUH) first wife?",
+      "answers": ["Aisha", "Hafsa", "Khadijah", "Zainab"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 179,
+      "questionText": "What is the Islamic declaration of faith (Shahada)?",
+      "answers": ["Subhanallah", "La ilaha illallah Muhammadur Rasulullah", "Allahu Akbar", "Bismillahir Rahmanir Rahim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 180,
+      "questionText": "What does 'Tawakkul' mean?",
+      "answers": ["Repentance", "Reliance and trust in Allah", "Gratitude", "Patience"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 181,
+      "questionText": "What is the prophet's mosque in Madinah called?",
+      "answers": ["Masjid al-Haram", "Masjid al-Aqsa", "Al-Masjid an-Nabawi", "Masjid Quba"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 182,
+      "questionText": "What is the 'Isra and Mi'raj'?",
+      "answers": ["The migration to Madinah", "The night journey and ascension of Prophet Muhammad (PBUH)", "The conquest of Makkah", "The first revelation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 183,
+      "questionText": "What event does the Islamic calendar start from?",
+      "answers": ["Birth of Prophet Muhammad", "The first revelation", "The Hijrah (migration to Madinah)", "The conquest of Makkah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 184,
+      "questionText": "Who was the Prophet's uncle who protected him but did not accept Islam?",
+      "answers": ["Hamza", "Abu Lahab", "Abu Talib", "Abbas"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 185,
+      "questionText": "What is 'Shura' in Islamic governance?",
+      "answers": ["Military strategy", "Consultation in decision-making", "Tax collection", "Judicial ruling"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 186,
+      "questionText": "According to Hadith, 'The best of you are those who...'",
+      "answers": ["...pray the most", "...fast the most", "...learn the Quran and teach it", "...give the most charity"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 187,
+      "questionText": "What does the Hadith 'Religion is sincerity (Nasihah)' refer to?",
+      "answers": ["Only praying", "Sincere counsel towards Allah, His Book, His Prophet, Muslim leaders and their masses", "Giving charity", "Fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 188,
+      "questionText": "According to a Hadith, what are the 'seven destructive sins'?",
+      "answers": ["Lying, cheating, stealing, murder, envy, backbiting, gossip", "Shirk, sorcery, unlawful killing, usury, consuming orphan's wealth, fleeing battle, slandering chaste women", "Pride, greed, lust, envy, sloth, wrath, gluttony", "Gambling, drinking, lying, stealing, murder, adultery, backbiting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 189,
+      "questionText": "What is 'Hadith Ahad'?",
+      "answers": ["A hadith narrated by one or few chains of narrators", "A fabricated hadith", "A hadith about dreams", "A hadith narrated by women only"],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 190,
+      "questionText": "Who compiled Sunan Abu Dawud?",
+      "answers": ["Imam Bukhari", "Abu Dawud al-Sijistani", "Imam Tirmidhi", "Imam Nasa'i"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 191,
+      "questionText": "What is the meaning of 'Ihsan' as described in the Hadith of Jibril?",
+      "answers": ["Giving charity to the poor", "Believing in the six pillars of faith", "Worshipping Allah as if you see Him", "Performing Hajj"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 192,
+      "questionText": "What was the first revelation received by Prophet Muhammad (PBUH)?",
+      "answers": ["Surah Al-Fatiha", "The first verses of Surah Al-Alaq (Read/Iqra)", "Surah Al-Ikhlas", "Ayat al-Kursi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 193,
+      "questionText": "Where was the first revelation received?",
+      "answers": ["In the Kaaba", "In Masjid an-Nabawi", "In the Cave of Hira", "At Mount Arafat"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 194,
+      "questionText": "How old was Prophet Muhammad (PBUH) when he received the first revelation?",
+      "answers": ["25 years old", "30 years old", "40 years old", "45 years old"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 195,
+      "questionText": "What was the Quraysh's main reason for opposing Prophet Muhammad (PBUH)?",
+      "answers": ["He was poor", "His message of monotheism threatened their status and polytheistic traditions", "He wanted political power", "He was from another tribe"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 196,
+      "questionText": "What is 'Dhikr' in Islam?",
+      "answers": ["Fasting", "Remembrance of Allah through phrases and prayers", "A type of charity", "A pilgrimage ritual"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 197,
+      "questionText": "What does 'Subhanallah' mean?",
+      "answers": ["God is great", "Glory be to God", "There is no god but God", "God willing"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 198,
+      "questionText": "What does 'Alhamdulillah' mean?",
+      "answers": ["God is great", "Glory be to God", "All praise is due to God", "God willing"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 199,
+      "questionText": "What does 'Allahu Akbar' mean?",
+      "answers": ["God is great", "Glory be to God", "All praise is due to God", "In the name of God"],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 200,
+      "questionText": "What does 'Insha'Allah' mean?",
+      "answers": ["God is great", "God willing", "Thanks to God", "I seek refuge in God"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 201,
+      "questionText": "What is the Eid celebrated after Ramadan called?",
+      "answers": ["Eid al-Adha", "Eid al-Fitr", "Eid al-Ghadir", "Eid Mawlid"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 202,
+      "questionText": "What is the Eid celebrated during Hajj called?",
+      "answers": ["Eid al-Fitr", "Eid al-Adha", "Eid al-Ghadir", "Eid Mawlid"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 203,
+      "questionText": "What sacrifice is performed during Eid al-Adha called?",
+      "answers": ["Sadaqah", "Zakat", "Qurbani / Udhiyyah", "Khums"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 204,
+      "questionText": "How many rakats is Salat al-Eid?",
+      "answers": ["2", "3", "4", "6"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 205,
+      "questionText": "What is the opening supplication at the start of prayer called?",
+      "answers": ["Tashahud", "Du'a al-Istiftah", "Qunut", "Tasbih"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 206,
+      "questionText": "What is said in the Tashahhud during prayer?",
+      "answers": ["Subhanallah", "At-tahiyyatu lillahi...", "Alhamdulillahi Rabbil Alamin", "Rabbana atina fid-dunya hasanah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 207,
+      "questionText": "What was the first battle where the Muslims lost initially?",
+      "answers": ["Badr", "Uhud", "Khandaq", "Khaybar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 208,
+      "questionText": "Who killed Hamza (RA), the Prophet's uncle, at the Battle of Uhud?",
+      "answers": ["Abu Jahl", "Abu Sufyan", "Wahshi ibn Harb", "Khalid ibn al-Walid"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 209,
+      "questionText": "What is the Farewell Sermon (Khutbat al-Wada)?",
+      "answers": ["The first sermon in Madinah", "Prophet Muhammad's last major public address during Hajj", "A sermon given at the Battle of Badr", "Abu Bakr's first sermon as Caliph"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 210,
+      "questionText": "What key message was in the Farewell Sermon?",
+      "answers": ["Prepare for war", "All people are equal regardless of race; hold fast to the Quran and Sunnah", "Build more mosques", "Expand the Islamic empire"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 211,
+      "questionText": "Which companion was known as 'Al-Farooq' (the one who distinguishes right from wrong)?",
+      "answers": ["Abu Bakr", "Umar ibn al-Khattab", "Ali ibn Abi Talib", "Uthman ibn Affan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 212,
+      "questionText": "Which companion was known as 'Dhun-Nurayn' (possessor of two lights)?",
+      "answers": ["Abu Bakr", "Umar", "Uthman ibn Affan", "Ali"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 213,
+      "questionText": "Who was the daughter of Prophet Muhammad (PBUH) and wife of Ali?",
+      "answers": ["Zainab", "Ruqayya", "Umm Kulthum", "Fatimah"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 214,
+      "questionText": "What is the 'Sunnah' in Islam?",
+      "answers": ["The Quran", "The practices and traditions of Prophet Muhammad (PBUH)", "The five pillars", "The six articles of faith"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 215,
+      "questionText": "What does 'Bid'ah' mean in Islam?",
+      "answers": ["A good deed", "An innovation in religious matters not practiced by the Prophet", "A type of prayer", "A charitable act"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 216,
+      "questionText": "Which Surah mentions the story of Pharaoh's drowning?",
+      "answers": ["Al-Baqarah", "Yunus", "Ta-Ha", "All of these mention it"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 217,
+      "questionText": "What is the Islamic term for lawful or permissible?",
+      "answers": ["Haram", "Halal", "Makruh", "Mubah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 218,
+      "questionText": "What is the Islamic term for forbidden or prohibited?",
+      "answers": ["Halal", "Haram", "Makruh", "Wajib"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 219,
+      "questionText": "What does 'Makruh' mean in Islamic jurisprudence?",
+      "answers": ["Obligatory", "Forbidden", "Disliked but not sinful", "Recommended"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 220,
+      "questionText": "What does 'Fard' mean?",
+      "answers": ["Optional", "Recommended", "Obligatory", "Disliked"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 221,
+      "questionText": "How many major schools of Islamic jurisprudence (Madhahib) are there in Sunni Islam?",
+      "answers": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 222,
+      "questionText": "Which of the following is NOT a Sunni school of jurisprudence?",
+      "answers": ["Hanafi", "Ja'fari", "Shafi'i", "Hanbali"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 223,
+      "questionText": "Who founded the Hanafi school of jurisprudence?",
+      "answers": ["Imam Malik", "Imam Shafi'i", "Imam Abu Hanifa", "Imam Ahmad ibn Hanbal"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 224,
+      "questionText": "What is 'Fiqh' in Islam?",
+      "answers": ["Islamic theology", "Islamic jurisprudence (understanding of religious law)", "Islamic mysticism", "Islamic history"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 225,
+      "questionText": "What is 'Tafsir'?",
+      "answers": ["Islamic law", "Exegesis/interpretation of the Quran", "Hadith science", "Islamic mysticism"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 226,
+      "questionText": "Which city is known as the 'City of the Prophet'?",
+      "answers": ["Makkah", "Madinah", "Jerusalem", "Damascus"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 227,
+      "questionText": "What are the three holiest mosques in Islam?",
+      "answers": ["Masjid al-Haram, Masjid an-Nabawi, Masjid al-Aqsa", "Masjid Quba, Masjid al-Haram, Masjid an-Nabawi", "Masjid al-Haram, Blue Mosque, Al-Azhar", "Masjid an-Nabawi, Masjid al-Aqsa, Masjid Quba"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 228,
+      "questionText": "What is 'Sadaqah Jariyah' (ongoing charity)?",
+      "answers": ["One-time charity", "Charity whose benefits continue after the giver's death", "Obligatory charity", "Charity given only in Ramadan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 229,
+      "questionText": "What is the reward for praying in Masjid al-Haram compared to other mosques?",
+      "answers": ["10 times", "1,000 times", "100,000 times", "500 times"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 230,
+      "questionText": "What is Zamzam water?",
+      "answers": ["Water from the Nile", "Sacred water from a well in Makkah near the Kaaba", "Rainwater collected in Madinah", "Water from the Dead Sea"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 231,
+      "questionText": "According to Islamic tradition, which prophet's wife discovered the Zamzam well?",
+      "answers": ["Sarah", "Hajar (Hagar)", "Maryam", "Khadijah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 232,
+      "questionText": "What is 'Tawbah' in Islam?",
+      "answers": ["Gratitude", "Patience", "Repentance", "Trust in Allah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 233,
+      "questionText": "What is 'Sabr' in Islam?",
+      "answers": ["Gratitude", "Patience and perseverance", "Charity", "Fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 234,
+      "questionText": "What is 'Shukr' in Islam?",
+      "answers": ["Patience", "Gratitude and thankfulness to Allah", "Fasting", "Prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 235,
+      "questionText": "What is 'Taqwa'?",
+      "answers": ["Pilgrimage", "God-consciousness and piety", "Charity", "Fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 236,
+      "questionText": "What is the 'Black Stone' (Al-Hajar al-Aswad)?",
+      "answers": ["A meteorite in a museum", "A sacred stone set in the corner of the Kaaba", "A stone from Mount Sinai", "A stone in Masjid al-Aqsa"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 237,
+      "questionText": "What does 'Tawaf' mean?",
+      "answers": ["Standing at Arafat", "Circling the Kaaba seven times", "Walking between Safa and Marwah", "Throwing pebbles at the Jamarat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 238,
+      "questionText": "What is 'Rami al-Jamarat' during Hajj?",
+      "answers": ["Tawaf around the Kaaba", "Stoning of the pillars (symbolic rejection of Satan)", "Standing at Arafat", "Running between Safa and Marwah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 239,
+      "questionText": "What is the last Surah revealed in the Quran (according to most scholars)?",
+      "answers": ["Al-Fatiha", "An-Nasr", "Al-Maidah", "At-Tawbah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 240,
+      "questionText": "Which Surah is called 'The Chapter of the Elephant'?",
+      "answers": ["Al-Fil", "Al-Baqarah", "An-Nahl", "Al-Ankabut"],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 241,
+      "questionText": "What is the significance of Surah Al-Fil?",
+      "answers": ["It discusses dietary laws", "It tells the story of the army of the elephant attacking Makkah", "It discusses inheritance", "It is about the Day of Judgment"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 242,
+      "questionText": "Which Surah contains the verse about the parable of a good word being like a good tree?",
+      "answers": ["Ibrahim (14:24-25)", "Al-Baqarah", "An-Nisa", "Al-Anfal"],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 243,
+      "questionText": "What is the 'Throne Verse' (Ayat al-Kursi) about?",
+      "answers": ["The story of Musa", "The attributes and greatness of Allah", "The Day of Judgment", "The creation of humans"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 244,
+      "questionText": "Which Surah is known as 'The Spider'?",
+      "answers": ["An-Naml", "An-Nahl", "Al-Ankabut", "Al-Fil"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 245,
+      "questionText": "Which Muslim astronomer is known for his work on optics and the camera obscura?",
+      "answers": ["Al-Khwarizmi", "Ibn al-Haytham", "Al-Biruni", "Al-Razi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 246,
+      "questionText": "What was the 'House of Wisdom' (Bayt al-Hikmah)?",
+      "answers": ["A mosque in Makkah", "A library and academic center in Baghdad during the Abbasid era", "A market in Damascus", "A school in Cordoba"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 247,
+      "questionText": "Who is known as the 'Imam of the Haram' and scholar of Hadith?",
+      "answers": ["Imam Abu Hanifa", "Imam Malik", "Imam Shafi'i", "Imam Bukhari"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 248,
+      "questionText": "What is 'Waqf' in Islamic law?",
+      "answers": ["A type of fasting", "An endowment of property for religious or charitable purposes", "A marriage contract", "A trade agreement"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 249,
+      "questionText": "What is 'Riba' in Islam?",
+      "answers": ["Charity", "Interest/usury (prohibited in Islam)", "A type of prayer", "Trade"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 250,
+      "questionText": "What does 'Ummah' refer to in Islam?",
+      "answers": ["The Prophet's family", "The global Muslim community", "The pilgrims at Hajj", "The scholars of Islam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 251,
+      "questionText": "Which prophet is known as 'Kalimullah' (One who spoke with Allah)?",
+      "answers": ["Ibrahim", "Adam", "Musa (Moses)", "Muhammad (PBUH)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 252,
+      "questionText": "What did Prophet Sulaiman (Solomon) ask Allah for?",
+      "answers": ["Wealth", "A kingdom the likes of which none would have after him", "Long life", "Many children"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 253,
+      "questionText": "What miracle did Prophet Isa (Jesus) perform as a baby?",
+      "answers": ["Walked on water", "Spoke from the cradle", "Healed the blind", "Turned water into milk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 254,
+      "questionText": "Which prophet is associated with the miracle of a table spread from heaven?",
+      "answers": ["Musa (Moses)", "Ibrahim (Abraham)", "Isa (Jesus)", "Muhammad (PBUH)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 255,
+      "questionText": "What is the Quran's word for Christians and Jews?",
+      "answers": ["Mushrikun", "Ahl al-Kitab (People of the Book)", "Munafiqun", "Kafiroon"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 256,
+      "questionText": "What does 'La ilaha illallah' mean?",
+      "answers": ["God is the greatest", "There is no deity worthy of worship except Allah", "Praise be to God", "In the name of God"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 257,
+      "questionText": "What are the names of Prophet Muhammad's (PBUH) grandsons?",
+      "answers": ["Abu Bakr and Umar", "Hasan and Husayn", "Hamza and Abbas", "Zaid and Abdullah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 258,
+      "questionText": "What tragic event happened to Husayn (RA) at Karbala?",
+      "answers": ["He was exiled", "He was martyred along with his family", "He won a great battle", "He became Caliph"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 259,
+      "questionText": "In what year (CE) did the Battle of Karbala take place?",
+      "answers": ["661 CE", "670 CE", "680 CE", "690 CE"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 260,
+      "questionText": "Who was the 5th Rightly Guided Caliph according to some scholars?",
+      "answers": ["Yazid", "Muawiyah II", "Umar ibn Abd al-Aziz", "Abdul Malik ibn Marwan"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 261,
+      "questionText": "What is the importance of the Day of Ashura (10th of Muharram)?",
+      "answers": ["It marks the birth of the Prophet", "It marks the day Musa (Moses) was saved from Pharaoh", "It is the day of Eid", "It marks the start of Ramadan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 262,
+      "questionText": "What is 'Qiyas' in Islamic jurisprudence?",
+      "answers": ["Consensus", "Analogical reasoning", "Personal opinion", "Prophetic tradition"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 263,
+      "questionText": "What is 'Ijma' in Islamic jurisprudence?",
+      "answers": ["Analogical reasoning", "Personal opinion", "Scholarly consensus", "Prophetic tradition"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 264,
+      "questionText": "What is the 'Maqasid al-Shariah'?",
+      "answers": ["The five pillars of Islam", "The objectives/purposes of Islamic law", "The articles of faith", "The rules of prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 265,
+      "questionText": "What are the five things that the Shariah aims to protect?",
+      "answers": ["Wealth, land, family, honor, knowledge", "Religion, life, intellect, lineage, property", "Prayer, fasting, charity, pilgrimage, faith", "Quran, Sunnah, consensus, analogy, custom"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 266,
+      "questionText": "What is 'Amanah' in Islam?",
+      "answers": ["Patience", "Trust and responsibility", "Prayer", "Fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 267,
+      "questionText": "What is the Islamic concept of 'Tawhid'?",
+      "answers": ["Prophethood", "The Oneness of God", "The Day of Judgment", "Charity"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 268,
+      "questionText": "What is 'Shirk' in Islam?",
+      "answers": ["Praying five times a day", "Associating partners with Allah (polytheism)", "Giving charity", "Fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 269,
+      "questionText": "What is 'Nifaq' (hypocrisy) in Islam?",
+      "answers": ["Sincere worship", "Showing faith outwardly while concealing disbelief inwardly", "Giving charity", "Performing Hajj"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 270,
+      "questionText": "What are the angels Munkar and Nakir known for?",
+      "answers": ["Recording good and bad deeds", "Questioning the dead in the grave", "Guarding Hell", "Carrying the Throne of Allah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 271,
+      "questionText": "What is the angel Israfil known for?",
+      "answers": ["Delivering revelation", "Blowing the trumpet on the Day of Judgment", "Taking souls", "Bringing rain"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 272,
+      "questionText": "What is the angel Mikail responsible for?",
+      "answers": ["Revelation", "Provisions and sustenance", "Death", "Recording deeds"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 273,
+      "questionText": "What is 'Barzakh' in Islamic eschatology?",
+      "answers": ["Paradise", "The barrier/realm between death and resurrection", "Hellfire", "The Day of Judgment"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 274,
+      "questionText": "What is 'Al-Sirat' in Islamic belief?",
+      "answers": ["A river in Paradise", "A bridge over Hellfire that all must cross", "The gate of Paradise", "A mountain on the Day of Judgment"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 275,
+      "questionText": "What is 'Mizan' in the context of the Day of Judgment?",
+      "answers": ["A book of deeds", "The scale on which deeds are weighed", "A type of punishment", "A reward"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 276,
+      "questionText": "What are the major signs of the Day of Judgment?",
+      "answers": ["Earthquakes and floods", "The coming of the Dajjal, return of Isa, and Yajuj and Majuj", "Solar eclipse", "A great plague"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 277,
+      "questionText": "What is 'Al-Dajjal' in Islamic eschatology?",
+      "answers": ["An angel", "The Antichrist / False Messiah", "A prophet", "A king"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 278,
+      "questionText": "Who compiled the 'Muwatta' collection of Hadith?",
+      "answers": ["Imam Bukhari", "Imam Muslim", "Imam Malik", "Imam Ahmad"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 279,
+      "questionText": "What is the Musnad of Imam Ahmad?",
+      "answers": ["A Tafsir book", "A large collection of Hadith organized by narrator", "A book on Fiqh", "A book on Tajweed"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 280,
+      "questionText": "According to a Hadith, what are the three things whose reward continues after death?",
+      "answers": ["Prayer, fasting, Hajj", "A good child who prays, ongoing charity, and beneficial knowledge", "Wealth, property, and business", "Quran recitation, Dhikr, and Salah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 281,
+      "questionText": "According to Hadith, what is the meaning of the 'Hadith of Jibril'?",
+      "answers": ["A hadith about angels", "A hadith where Jibril asks about Islam, Iman, and Ihsan", "A hadith about the Night Journey", "A hadith about fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 282,
+      "questionText": "What does the term 'Tabi'in' refer to?",
+      "answers": ["The Prophet's companions", "The generation that met the companions but not the Prophet", "The scribes of the Quran", "Modern scholars"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 283,
+      "questionText": "What does 'Sahabi' (plural: Sahabah) mean?",
+      "answers": ["A scholar", "A companion of Prophet Muhammad (PBUH)", "A Hadith narrator", "A Quran memorizer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 284,
+      "questionText": "Who was Abu Hurairah?",
+      "answers": ["A military general", "A Companion known for narrating the most Hadiths", "A Quran scribe", "A Caliph"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 285,
+      "questionText": "How many Hadiths is Abu Hurairah reported to have narrated?",
+      "answers": ["About 500", "About 1,500", "About 5,374", "About 10,000"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 286,
+      "questionText": "What is the difference between 'Quran' and 'Hadith Qudsi'?",
+      "answers": ["There is no difference", "Quran is Allah's exact words; Hadith Qudsi is Allah's meaning in the Prophet's words", "Hadith Qudsi is more authentic", "Quran is only for prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 287,
+      "questionText": "Which Surah mentions bees and their produce (honey)?",
+      "answers": ["An-Nahl (The Bee)", "An-Naml (The Ant)", "Al-Ankabut (The Spider)", "Al-Fil (The Elephant)"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 288,
+      "questionText": "Which Surah mentions iron and its benefits?",
+      "answers": ["Al-Baqarah", "Al-Hadid (The Iron)", "An-Nisa", "Al-Maidah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 289,
+      "questionText": "Which Surah is called 'The Light'?",
+      "answers": ["Al-Isra", "An-Nur", "Al-Furqan", "Ya-Sin"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 290,
+      "questionText": "Which Surah is called 'The Criterion'?",
+      "answers": ["Al-Furqan", "An-Nur", "Al-Hajj", "Al-Mu'minun"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 291,
+      "questionText": "What does 'Al-Furqan' mean?",
+      "answers": ["The Light", "The Criterion (distinguishing right from wrong)", "The Mercy", "The Opening"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 292,
+      "questionText": "Which Surah tells the story of the Companions of the Garden?",
+      "answers": ["Al-Kahf", "Al-Qalam (The Pen)", "Al-Baqarah", "Ar-Rahman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 293,
+      "questionText": "What is the only Surah named after a woman in the Quran?",
+      "answers": ["An-Nisa (The Women)", "Maryam (Mary)", "Al-Mujadila", "At-Talaq"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 294,
+      "questionText": "Which prophet was known for interpreting dreams?",
+      "answers": ["Dawud (David)", "Sulaiman (Solomon)", "Yusuf (Joseph)", "Ibrahim (Abraham)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 295,
+      "questionText": "What did Prophet Yusuf (Joseph) interpret from the king's dream of 7 fat and 7 lean cows?",
+      "answers": ["War and peace", "7 years of abundance followed by 7 years of famine", "Wealth and poverty", "Birth and death"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 296,
+      "questionText": "Which prophet was the father of Ishaq (Isaac) and Ismail (Ishmael)?",
+      "answers": ["Adam", "Nuh (Noah)", "Ibrahim (Abraham)", "Yaqub (Jacob)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 297,
+      "questionText": "What was Prophet Nuh (Noah) known for preaching for?",
+      "answers": ["100 years", "500 years", "950 years", "200 years"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 298,
+      "questionText": "Which prophet is associated with splitting the sea?",
+      "answers": ["Nuh (Noah)", "Ibrahim (Abraham)", "Musa (Moses)", "Sulaiman (Solomon)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 299,
+      "questionText": "What book was revealed to Prophet Isa (Jesus)?",
+      "answers": ["The Torah", "The Zabur", "The Injil (Gospel)", "The Quran"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 300,
+      "questionText": "Which prophet was the son of Prophet Dawud (David)?",
+      "answers": ["Musa", "Sulaiman (Solomon)", "Yunus", "Ayyub"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 301,
+      "questionText": "What was the miracle of Prophet Dawud?",
+      "answers": ["He could fly", "He could soften iron and mountains glorified Allah with him", "He could walk on water", "He could become invisible"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 302,
+      "questionText": "Which prophet is both a prophet and a king?",
+      "answers": ["Muhammad (PBUH)", "Dawud (David)", "Ibrahim (Abraham)", "Both Dawud and Sulaiman"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 303,
+      "questionText": "Which prophet is associated with the miracle of a dead bird coming back to life?",
+      "answers": ["Musa", "Isa (Jesus)", "Ibrahim (Abraham)", "Both B and C"],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "Prophets"
+    },
+    {
+      "id": 304,
+      "questionText": "What was Prophet Muhammad's (PBUH) tribe?",
+      "answers": ["Banu Hashim of Quraysh", "Banu Tamim", "Banu Aws", "Banu Khazraj"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 305,
+      "questionText": "What was the name of Prophet Muhammad's (PBUH) father?",
+      "answers": ["Abu Talib", "Abdullah", "Abdul Muttalib", "Hamza"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 306,
+      "questionText": "What was the name of Prophet Muhammad's (PBUH) mother?",
+      "answers": ["Khadijah", "Aminah", "Halimah", "Fatimah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 307,
+      "questionText": "Who raised Prophet Muhammad (PBUH) after his mother's death?",
+      "answers": ["Abu Bakr", "His uncle Abu Talib", "His grandfather Abdul Muttalib, then Abu Talib", "Waraqah ibn Nawfal"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 308,
+      "questionText": "Who was Halimah al-Sa'diyah?",
+      "answers": ["The Prophet's mother", "The Prophet's wet-nurse/foster mother", "The Prophet's wife", "The Prophet's daughter"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 309,
+      "questionText": "What trade was Prophet Muhammad (PBUH) known for before prophethood?",
+      "answers": ["Farming", "Merchant/Trader", "Blacksmith", "Shepherd and later a trader"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 310,
+      "questionText": "What title was given to Prophet Muhammad (PBUH) even before prophethood due to his character?",
+      "answers": ["Al-Mukhtar", "Al-Amin (The Trustworthy)", "Al-Farooq", "Al-Siddiq"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 311,
+      "questionText": "What is the relationship between Prophets Musa and Harun?",
+      "answers": ["Father and son", "Brothers", "Cousins", "Teacher and student"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Prophets"
+    },
+    {
+      "id": 312,
+      "questionText": "Which prophet was also a carpenter according to Islamic tradition?",
+      "answers": ["Adam", "Nuh (Noah)", "Idris", "Zakariyya"],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 313,
+      "questionText": "Who was Prophet Yahya (John)?",
+      "answers": ["Son of Ibrahim", "Son of Zakariyya", "Son of Dawud", "Son of Sulaiman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 314,
+      "questionText": "In the Quran, how did Prophet Zakariyya receive the news of a son (Yahya)?",
+      "answers": ["Through a dream", "Through angels while praying in his chamber", "Through another prophet", "Through his wife"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 315,
+      "questionText": "What test did Allah give Prophet Ibrahim regarding his son Ismail?",
+      "answers": ["To leave him in the desert", "To sacrifice him", "To send him on a journey", "Both A and B"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 316,
+      "questionText": "What was substituted for Ismail when Ibrahim was about to sacrifice him?",
+      "answers": ["A camel", "A ram", "A goat", "A cow"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 317,
+      "questionText": "What is 'Isra' in Islamic history?",
+      "answers": ["The migration to Madinah", "The night journey from Makkah to Al-Aqsa", "The conquest of Makkah", "The first revelation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 318,
+      "questionText": "What is 'Mi'raj'?",
+      "answers": ["The migration", "The ascension through the heavens", "A type of prayer", "A battle"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 319,
+      "questionText": "What was prescribed during the Mi'raj?",
+      "answers": ["Fasting", "Hajj", "The five daily prayers", "Zakat"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 320,
+      "questionText": "Originally, how many daily prayers were prescribed before being reduced to five?",
+      "answers": ["10", "25", "50", "100"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 321,
+      "questionText": "Which prophet advised Muhammad (PBUH) to ask for a reduction in the number of prayers?",
+      "answers": ["Ibrahim", "Isa", "Musa (Moses)", "Adam"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 322,
+      "questionText": "What does 'Barakah' mean?",
+      "answers": ["Punishment", "Divine blessing and increase", "Wisdom", "Purity"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 323,
+      "questionText": "What is 'Du'a'?",
+      "answers": ["A type of fasting", "Supplication/personal prayer to Allah", "A chapter of the Quran", "A ritual of Hajj"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 324,
+      "questionText": "What is the significance of the night of the 15th of Sha'ban?",
+      "answers": ["It is Eid", "It is a night of forgiveness and mercy according to some Hadiths", "It is when Ramadan starts", "It is the Day of Arafah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 325,
+      "questionText": "What is 'Sirah' in Islamic studies?",
+      "answers": ["The science of Hadith", "The biography of Prophet Muhammad (PBUH)", "Quranic interpretation", "Islamic law"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 326,
+      "questionText": "Who wrote the earliest major Sirah (biography) of the Prophet?",
+      "answers": ["Ibn Hisham", "Ibn Ishaq", "Al-Tabari", "Ibn Kathir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 327,
+      "questionText": "What is 'Aqeedah' in Islam?",
+      "answers": ["Islamic law", "Islamic creed/belief system", "Islamic history", "Islamic art"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 328,
+      "questionText": "What is 'Tasawwuf' (Sufism)?",
+      "answers": ["Islamic law", "Islamic mysticism focusing on inner purification", "Islamic theology", "Political Islam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 329,
+      "questionText": "Who wrote 'Ihya Ulum al-Din' (Revival of the Religious Sciences)?",
+      "answers": ["Ibn Rushd", "Al-Ghazali", "Ibn Sina", "Ibn Taymiyyah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 330,
+      "questionText": "What is 'Khutbah'?",
+      "answers": ["A type of fasting", "A sermon, especially the one delivered before Friday prayer", "A type of charity", "A marriage proposal"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 331,
+      "questionText": "What is 'Nikah' in Islam?",
+      "answers": ["Divorce", "Marriage contract", "Charity", "Inheritance"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 332,
+      "questionText": "What is 'Mahr' in Islamic marriage?",
+      "answers": ["A wedding party", "A mandatory gift from the groom to the bride", "A type of prayer", "The marriage certificate"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 333,
+      "questionText": "What is 'Walimah'?",
+      "answers": ["A marriage contract", "A wedding feast", "A divorce", "A prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 334,
+      "questionText": "The Quran verse 'Verily, with hardship comes ease' is from which Surah?",
+      "answers": ["Al-Baqarah", "Ash-Sharh (Al-Inshirah)", "Al-Fatiha", "An-Nas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 335,
+      "questionText": "Which Surah mentions the parable of light (Ayat an-Nur)?",
+      "answers": ["Al-Baqarah", "An-Nur (24:35)", "Al-Isra", "Al-Mulk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 336,
+      "questionText": "What does 'Jannah' refer to in Islam?",
+      "answers": ["Hellfire", "Paradise", "The grave", "This worldly life"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 337,
+      "questionText": "What does 'Jahannam' refer to?",
+      "answers": ["Paradise", "Hellfire", "The grave", "Purgatory"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 338,
+      "questionText": "How many gates does Paradise have according to Hadith?",
+      "answers": ["4", "7", "8", "12"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 339,
+      "questionText": "What is the name of the gate of Paradise for those who fast?",
+      "answers": ["Bab al-Salah", "Bab ar-Rayyan", "Bab al-Jihad", "Bab al-Sadaqah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 340,
+      "questionText": "What is 'Qadr' (Divine Decree)?",
+      "answers": ["Free will", "Allah's predestination and divine will for all events", "A type of prayer", "A Hadith classification"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 341,
+      "questionText": "What is the difference between 'Kitabi Qadr' and 'Active Qadr'?",
+      "answers": ["There is no difference", "Kitabi is what's written; Active is what unfolds in real time by Allah's will", "Kitabi is for prophets; Active is for all", "Kitabi is Quran; Active is Hadith"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 342,
+      "questionText": "Which Surah begins with an oath by the sun?",
+      "answers": ["Al-Fajr", "Ash-Shams", "Al-Layl", "Ad-Duha"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 343,
+      "questionText": "Which Surah begins with an oath by the morning light?",
+      "answers": ["Al-Fajr", "Ash-Shams", "Ad-Duha", "Al-Layl"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 344,
+      "questionText": "Which Surah begins 'By Time, indeed mankind is in loss'?",
+      "answers": ["Al-Asr", "Ad-Duha", "Al-Fajr", "Al-Layl"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 345,
+      "questionText": "What does Surah Al-Asr teach?",
+      "answers": ["Rules of inheritance", "The importance of faith, good deeds, truth, and patience", "The story of Moses", "The rules of prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 346,
+      "questionText": "Which battle was fought between the early Muslims of Madinah before Makkah's conquest?",
+      "answers": ["Badr, Uhud, and Khandaq", "Ain Jalut", "Yarmouk", "Qadisiyyah"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 347,
+      "questionText": "What was the result of the Battle of Badr?",
+      "answers": ["Defeat for Muslims", "Victory for the Muslims despite being outnumbered", "A draw", "Retreat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 348,
+      "questionText": "How many Muslims fought at the Battle of Badr?",
+      "answers": ["About 100", "About 313", "About 700", "About 1000"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 349,
+      "questionText": "What does the name 'Muhammad' mean?",
+      "answers": ["The Trustworthy", "The Praised One", "The Leader", "The Prophet"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamic History"
+    },
+    {
+      "id": 350,
+      "questionText": "What does the name 'Ahmad' mean (another name for the Prophet)?",
+      "answers": ["The Leader", "The Most Praiseworthy", "The Truthful", "The Generous"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 351,
+      "questionText": "What is 'Seerah Nabawiyyah'?",
+      "answers": ["Interpretation of the Quran", "The prophetic biography of Muhammad (PBUH)", "Hadith collection", "Islamic jurisprudence"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 352,
+      "questionText": "What Surah warns Abu Lahab?",
+      "answers": ["Surah Al-Fatiha", "Surah Al-Masad (Al-Lahab)", "Surah Al-Kafirun", "Surah An-Nasr"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 353,
+      "questionText": "What does 'Tafakkur' mean in Islam?",
+      "answers": ["Fasting", "Deep reflection and contemplation", "Charity", "Recitation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 354,
+      "questionText": "What is 'Husn al-Khuluq' (Good character) according to Islam?",
+      "answers": ["Wealth", "One of the heaviest things on the Scale on the Day of Judgment", "A type of prayer", "Physical strength"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 355,
+      "questionText": "According to Hadith, 'The Muslim is one from whose tongue and hand...'",
+      "answers": ["...others benefit", "...others are safe", "...comes knowledge", "...comes prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 356,
+      "questionText": "What does the Hadith 'Make things easy and do not make them difficult' teach?",
+      "answers": ["Avoid all hardship", "The principle of facilitation and gentleness in religion", "Never fast", "Skip difficult obligations"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 357,
+      "questionText": "What is the significance of Masjid al-Aqsa in Islam?",
+      "answers": ["It's the birthplace of the Prophet", "It was the first Qiblah and the destination of the Isra", "It's the largest mosque", "It was built by Muhammad (PBUH)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 358,
+      "questionText": "Which Surah is named 'The Romans'?",
+      "answers": ["Al-Qasas", "Ar-Rum", "Luqman", "As-Sajdah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 359,
+      "questionText": "What prediction about the Romans is made in Surah Ar-Rum?",
+      "answers": ["They would fall forever", "They would defeat the Persians within a few years", "They would accept Islam", "They would build a great temple"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 360,
+      "questionText": "Which Surah advises on parent-child wisdom?",
+      "answers": ["Surah Ibrahim", "Surah Luqman", "Surah Nuh", "Surah Hud"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 361,
+      "questionText": "What are the 'Mu'awwidhat' (protective Surahs)?",
+      "answers": ["Al-Fatiha and Al-Baqarah", "Al-Ikhlas, Al-Falaq, and An-Nas", "Ya-Sin and Ar-Rahman", "Al-Mulk and Al-Sajdah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 362,
+      "questionText": "What is 'Ruqyah' in Islam?",
+      "answers": ["A type of charity", "Recitation of Quran and Du'a for healing and protection", "A marriage contract", "A pilgrimage ritual"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 363,
+      "questionText": "What is the Islamic view on 'Adl' (Justice)?",
+      "answers": ["It is optional", "It is a core value and command in the Quran", "It applies only to courts", "It is only for rulers"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 364,
+      "questionText": "Which Surah commands justice even against oneself?",
+      "answers": ["Al-Baqarah", "An-Nisa (4:135)", "Al-Maidah", "Al-Anfal"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 365,
+      "questionText": "What is the Quran's view on \"killing one innocent soul\"?",
+      "answers": ["It is minor sin", "It is as if he killed all of mankind (5:32)", "It is forgivable easily", "It is not mentioned"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 366,
+      "questionText": "Which companion was known for his knowledge of Quran interpretation?",
+      "answers": ["Abu Hurairah", "Abdullah ibn Abbas", "Anas ibn Malik", "Bilal"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 367,
+      "questionText": "What title was given to Abdullah ibn Abbas?",
+      "answers": ["The Sword of Allah", "The Scholar of the Ummah (Habr al-Ummah)", "The Lion of Allah", "The Shield of Islam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 368,
+      "questionText": "Who was Aisha (RA) known as among scholars?",
+      "answers": ["The Mother of the Believers and a major source of Hadith", "A military leader", "A Quran scribe", "A judge"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 369,
+      "questionText": "What is 'Hisbah' in Islamic governance?",
+      "answers": ["Tax collection", "Market regulation and ensuring public moral order", "Military leadership", "Judicial process"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 370,
+      "questionText": "What is the 'Jizya' in Islamic law?",
+      "answers": ["A type of zakat", "A tax paid by non-Muslim citizens under Muslim rule for protection", "A land tax", "A trade tax"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 371,
+      "questionText": "What does the word 'Islam' literally mean?",
+      "answers": ["Peace", "Submission to the will of God", "Prayer", "Community"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 372,
+      "questionText": "What does the word 'Muslim' mean?",
+      "answers": ["A follower of Muhammad", "One who submits to God", "A person of peace", "A learned person"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 373,
+      "questionText": "What is 'Salam' and its significance?",
+      "answers": ["A prayer", "The greeting of peace (Assalamu Alaikum)", "A fast", "A charity"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 374,
+      "questionText": "According to Hadith, spreading 'Salam' (greetings of peace) leads to what?",
+      "answers": ["Wealth", "Love among Muslims and entry to Paradise", "Knowledge", "Power"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 375,
+      "questionText": "What is 'Istighfar'?",
+      "answers": ["Gratitude", "Seeking forgiveness from Allah", "A type of fasting", "Hajj ritual"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 376,
+      "questionText": "How many times did the Prophet (PBUH) say he seeks forgiveness daily?",
+      "answers": ["10 times", "50 times", "70 times or more", "100 times"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 377,
+      "questionText": "What is 'Salawat' upon the Prophet?",
+      "answers": ["A type of zakat", "Sending blessings and peace upon Prophet Muhammad", "A Hajj ritual", "A fasting rule"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 378,
+      "questionText": "According to the Quran, who are the 'Ulul-Azm' prophets?",
+      "answers": ["Adam, Idris, Nuh, Hud, Salih", "Nuh, Ibrahim, Musa, Isa, Muhammad (PBUH)", "All 25 mentioned prophets", "Dawud, Sulaiman, Ayyub, Yunus, Ilyas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 379,
+      "questionText": "What does 'Ulul-Azm' mean?",
+      "answers": ["The wealthy prophets", "The prophets of strong determination and resolve", "The first prophets", "The last prophets"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 380,
+      "questionText": "What is 'Hikmah' (Wisdom) in the Quran?",
+      "answers": ["It refers only to the Quran", "Deep understanding, often associated with the Sunnah or sound judgment", "A type of prayer", "A historical event"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 381,
+      "questionText": "What does 'Khalifah' (Caliph) mean?",
+      "answers": ["King", "Successor / Vicegerent", "Judge", "Scholar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamic History"
+    },
+    {
+      "id": 382,
+      "questionText": "What is 'Janazah' prayer?",
+      "answers": ["Friday prayer", "Funeral prayer for the deceased", "Eid prayer", "Tahajjud prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 383,
+      "questionText": "How many Takbirs are in the Janazah prayer?",
+      "answers": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 384,
+      "questionText": "What is the Islamic ruling on attending a funeral?",
+      "answers": ["Forbidden", "Fard Kifayah (communal obligation)", "Sunnah only", "Haram"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 385,
+      "questionText": "According to Hadith, visiting the sick is a right of the Muslim upon another. What other rights are mentioned?",
+      "answers": ["Lending money and helping in work", "Returning greetings, following funerals, accepting invitations, saying Yarhamukallah when sneezing", "Giving gifts and sharing food", "Teaching Quran and paying debts"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 386,
+      "questionText": "What is the concept of 'Shafa'ah' (Intercession) in Islam?",
+      "answers": ["Praying for rain", "Seeking intercession from the Prophet or righteous on the Day of Judgment with Allah's permission", "A type of charity", "A legal ruling"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 387,
+      "questionText": "Which prophet will be given the 'Maqam al-Mahmud' (Praised Station) on the Day of Judgment?",
+      "answers": ["Ibrahim", "Musa", "Isa", "Muhammad (PBUH)"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 388,
+      "questionText": "What is 'Al-Hawd' (The Pool/Basin) of the Prophet?",
+      "answers": ["A river in Paradise", "A basin from which believers will drink on the Day of Judgment", "A lake in Madinah", "A well in Makkah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 389,
+      "questionText": "What is the river of Paradise mentioned in Surah Al-Kawthar?",
+      "answers": ["Salsabil", "Al-Kawthar", "Tasnim", "Zamzam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 390,
+      "questionText": "What are the names of rivers in Paradise mentioned in the Quran?",
+      "answers": ["Rivers of water, milk, wine, and honey", "Rivers of gold and silver", "Rivers of oil and perfume", "Rivers of light and fire"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 391,
+      "questionText": "Which Surah describes events of the Day of Judgment with stars falling and oceans erupting?",
+      "answers": ["Al-Mulk", "At-Takwir", "Al-Buruj", "Al-Kawthar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 392,
+      "questionText": "Which Surah begins 'When the sky is cleft asunder'?",
+      "answers": ["At-Takwir", "Al-Infitar", "Al-Inshiqaq", "Al-Qari'ah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 393,
+      "questionText": "What is the 'Trumpet' (As-Sur) in Islamic eschatology?",
+      "answers": ["A musical instrument in Paradise", "The horn blown by Israfil to signal the Day of Judgment", "A call to prayer", "A battle horn"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 394,
+      "questionText": "How many times will the Trumpet be blown?",
+      "answers": ["Once", "Two times", "Three times", "Seven times"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 395,
+      "questionText": "What happens at the first blowing of the Trumpet?",
+      "answers": ["Nothing", "All creation dies/is destroyed", "People are resurrected", "Paradise opens"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 396,
+      "questionText": "What happens at the second blowing of the Trumpet?",
+      "answers": ["All creation dies", "All are resurrected for judgment", "Paradise is created", "Nothing"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 397,
+      "questionText": "What is 'Yawm al-Qiyamah'?",
+      "answers": ["Friday", "The Day of Judgment/Resurrection", "A festival", "The first day of creation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 398,
+      "questionText": "According to the Quran, who will be the first to be resurrected?",
+      "answers": ["Adam", "Ibrahim", "Muhammad (PBUH)", "Musa"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 399,
+      "questionText": "What is the Islamic position on 'Ruh' (Soul)?",
+      "answers": ["It is fully understood", "Its true nature is known only to Allah (17:85)", "It is made of light", "It does not exist"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 400,
+      "questionText": "Which Surah contains the verse 'And they ask you about the soul...'?",
+      "answers": ["Al-Baqarah", "Al-Isra (17:85)", "Maryam", "Ta-Ha"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 401,
+      "questionText": "What is 'Ithm' in Islam?",
+      "answers": ["Good deed", "Sin", "Prayer", "Fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 402,
+      "questionText": "What are 'Kaba'ir' in Islam?",
+      "answers": ["Minor sins", "Major sins", "Good deeds", "Charity"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 403,
+      "questionText": "According to Hadith, which sin is the greatest?",
+      "answers": ["Stealing", "Associating partners with Allah (Shirk)", "Lying", "Backbiting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 404,
+      "questionText": "What is 'Gheebah' (backbiting)?",
+      "answers": ["Praising someone", "Mentioning something about someone that they would dislike", "Lying about someone", "Ignoring someone"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 405,
+      "questionText": "What is 'Buhtan' (slander)?",
+      "answers": ["True gossip", "Saying something false about someone", "Praising excessively", "Truthful criticism"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 406,
+      "questionText": "What does the Quran compare backbiting to?",
+      "answers": ["Stealing", "Eating the flesh of one's dead brother (49:12)", "Murder", "Lying"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 407,
+      "questionText": "What is 'Hasad' (Envy) and its ruling?",
+      "answers": ["It is encouraged", "It is prohibited and warned against in both Quran and Hadith", "It is allowed in moderation", "It is not mentioned in Islam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 408,
+      "questionText": "According to Hadith, 'Beware of envy, for envy...'",
+      "answers": ["...strengthens the heart", "...devours good deeds as fire devours wood", "...is a sign of intelligence", "...brings wealth"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 409,
+      "questionText": "What is the 'Adhan'?",
+      "answers": ["A type of prayer", "The call to prayer", "A supplication", "A Quran recitation style"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 410,
+      "questionText": "What is the 'Iqamah'?",
+      "answers": ["The first call to prayer", "The second call immediately before the prayer begins", "A supplication after prayer", "A type of Dhikr"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 411,
+      "questionText": "What is the supplication said between the Adhan and Iqamah?",
+      "answers": ["Du'a is not accepted then", "Du'a is accepted and not rejected at this time", "One should remain silent", "One should recite Quran only"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 412,
+      "questionText": "What is 'Ijtihad' in Islamic jurisprudence?",
+      "answers": ["Blind following", "Independent reasoning by a qualified scholar", "Hadith memorization", "Quran recitation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 413,
+      "questionText": "What is 'Taqlid'?",
+      "answers": ["Independent reasoning", "Following a qualified scholar's opinion without knowing the evidence", "Rejecting all opinions", "A type of prayer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 414,
+      "questionText": "What is 'Fatwa'?",
+      "answers": ["A command from the government", "A non-binding religious ruling issued by a scholar", "A law in Parliament", "A judicial sentence"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 415,
+      "questionText": "Who is a 'Mufti'?",
+      "answers": ["A judge", "A scholar qualified to issue Fatwas", "A prayer leader", "A Quran reciter"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 416,
+      "questionText": "What is the difference between a Mufti and a Qadi?",
+      "answers": ["No difference", "A Mufti issues non-binding opinions; a Qadi issues binding judicial decisions", "A Mufti is senior", "A Qadi issues fatwas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 417,
+      "questionText": "Which Surah mentions the creation of humans from clay?",
+      "answers": ["Multiple Surahs including Al-Hijr (15:26)", "Only Al-Baqarah", "Only An-Nisa", "It is not mentioned in the Quran"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 418,
+      "questionText": "What is the significance of 'Surah Al-Waqiah' according to Hadith?",
+      "answers": ["It protects from evil eye", "It protects from poverty", "It is about marriage", "It is about fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 419,
+      "questionText": "Which Surah is recommended to recite before sleeping?",
+      "answers": ["Al-Baqarah", "Al-Mulk", "Al-Fatiha", "An-Nasr"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 420,
+      "questionText": "According to Hadith, reciting the last two verses of Surah Al-Baqarah at night is sufficient for what?",
+      "answers": ["Earning Paradise", "Protection throughout the night", "Extra reward", "Replacing Tahajjud"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 421,
+      "questionText": "What is 'Mizab ar-Rahmah' (Spout of Mercy)?",
+      "answers": ["A well in Madinah", "The golden spout on the Kaaba", "A fountain in Paradise", "A river in Makkah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 422,
+      "questionText": "What is the 'Hatim' (Hijr Ismail) near the Kaaba?",
+      "answers": ["A marketplace", "A semi-circular wall part of the original Kaaba structure built by Ibrahim", "A cemetery", "A library"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 423,
+      "questionText": "What is the 'Multazam' of the Kaaba?",
+      "answers": ["The door", "The area between the Black Stone and the Kaaba door where du'as are accepted", "The roof", "The inside of the Kaaba"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 424,
+      "questionText": "What is the 'Maqam Ibrahim' (Station of Abraham)?",
+      "answers": ["A mosque", "The stone with Ibrahim's footprint near the Kaaba", "A mountain", "A well"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 425,
+      "questionText": "What are 'Harakat' in Arabic?",
+      "answers": ["Letters", "Vowel marks (Fatha, Kasra, Damma)", "Punctuation", "Numbers"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 426,
+      "questionText": "What is 'Waqf' in Tajweed?",
+      "answers": ["A type of letter", "Stopping/pausing rules in Quran recitation", "A vowel mark", "A grammatical rule"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 427,
+      "questionText": "What is 'Idgham' in Tajweed?",
+      "answers": ["Elongation", "Merging/assimilation of letters", "Hiding a letter", "Clear pronunciation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 428,
+      "questionText": "What is 'Madd' in Tajweed?",
+      "answers": ["Stopping", "Elongation/prolongation of a vowel sound", "Merging letters", "Nasalization"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 429,
+      "questionText": "What is 'Ghunnah' in Tajweed?",
+      "answers": ["Elongation", "A nasal sound when pronouncing Noon or Meem", "Silent letters", "Emphasis"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 430,
+      "questionText": "Who added the dots to Arabic letters in the Quran?",
+      "answers": ["Prophet Muhammad (PBUH)", "Abu al-Aswad al-Du'ali / Al-Hajjaj's era", "Abu Bakr", "Umar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 431,
+      "questionText": "What is the Battle of Qadisiyyah (636 CE)?",
+      "answers": ["A battle against the Romans", "A decisive battle where Muslims defeated the Sassanid (Persian) Empire", "A naval battle", "A siege of Makkah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 432,
+      "questionText": "Who led the Muslim forces at the Battle of Qadisiyyah?",
+      "answers": ["Khalid ibn al-Walid", "Sad ibn Abi Waqqas", "Amr ibn al-As", "Abu Ubaidah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 433,
+      "questionText": "Who was Abu Ubaidah ibn al-Jarrah?",
+      "answers": ["An Umayyad Caliph", "A trusted companion called 'Amin al-Ummah' (Trustee of the Nation)", "A Hadith scholar", "A poet"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 434,
+      "questionText": "What is 'Al-Ashmaat' in the context of Quran?",
+      "answers": ["Names of Surahs", "Multiple valid readings (Qira'at) of the Quran", "Arabic grammar rules", "Types of verses"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 435,
+      "questionText": "How many recognized Qira'at (readings) of the Quran are there?",
+      "answers": ["3", "7", "10", "14"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 436,
+      "questionText": "Who was the first Hafiz (memorizer) of the Quran?",
+      "answers": ["Abu Bakr", "Uthman", "Prophet Muhammad (PBUH)", "Zaid ibn Thabit"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 437,
+      "questionText": "What is 'Tanzil' vs 'Ta'wil' in Quranic studies?",
+      "answers": ["No difference", "Tanzil is the literal/revealed meaning; Ta'wil is deeper interpretation", "Both mean translation", "Tanzil is abrogation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Quran"
+    },
+    {
+      "id": 438,
+      "questionText": "Which companion memorized the most Quran according to tradition?",
+      "answers": ["Abu Bakr", "Abdullah ibn Mas'ud", "Ubayy ibn Ka'b", "Multiple companions memorized it completely"],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 439,
+      "questionText": "What is 'Sujud al-Tilawah'?",
+      "answers": ["Prostration of gratitude", "Prostration upon reciting or hearing certain verses of the Quran", "Prostration of forgetfulness", "Standing posture"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 440,
+      "questionText": "How many places of Sujud al-Tilawah are in the Quran?",
+      "answers": ["10", "14 or 15 (difference among scholars)", "20", "7"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 441,
+      "questionText": "What is 'Tadabbur' of the Quran?",
+      "answers": ["Memorization", "Deep reflection and pondering over the meanings", "Fast recitation", "Translation"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 442,
+      "questionText": "Which prophet is mentioned in the Quran as having been given wisdom as a child?",
+      "answers": ["Musa", "Isa", "Yahya (John)", "Yusuf"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 443,
+      "questionText": "Which prophet's people worshipped a golden calf?",
+      "answers": ["Ibrahim's people", "Musa's people (Bani Israel)", "Nuh's people", "Hud's people"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Prophets"
+    },
+    {
+      "id": 444,
+      "questionText": "Who made the golden calf for the Israelites?",
+      "answers": ["Pharaoh", "As-Samiri", "Qarun", "Haman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Prophets"
+    },
+    {
+      "id": 445,
+      "questionText": "Who was 'Qarun' (Korah) in the Quran?",
+      "answers": ["A prophet", "A wealthy man from Musa's people who was arrogant about his wealth", "A king", "A priest"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 446,
+      "questionText": "What happened to Qarun according to the Quran?",
+      "answers": ["He repented", "The earth swallowed him and his dwelling", "He became a prophet", "He was forgiven"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 447,
+      "questionText": "Who was 'Luqman' mentioned in the Quran?",
+      "answers": ["A prophet", "A wise man who advised his son", "A king", "An angel"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 448,
+      "questionText": "What was Luqman's first advice to his son?",
+      "answers": ["Be generous", "Do not associate partners with Allah (avoid Shirk)", "Pray five times a day", "Give charity"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 449,
+      "questionText": "What is 'Jumu'ah' prayer's ruling?",
+      "answers": ["Sunnah", "Fard (obligatory) for adult Muslim men", "Mustahab", "Wajib only in Ramadan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 450,
+      "questionText": "How many rakats are Fard in Jumu'ah prayer?",
+      "answers": ["4", "3", "2", "1"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 451,
+      "questionText": "What is special about the hour of acceptance on Friday?",
+      "answers": ["Nothing special", "There is an hour when du'a is accepted", "Fasting is mandatory", "Extra prayers are obligatory"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 452,
+      "questionText": "According to Hadith, which day is the 'master of days'?",
+      "answers": ["Monday", "Thursday", "Friday", "Saturday"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 453,
+      "questionText": "What is recommended to recite on Friday?",
+      "answers": ["Surah Al-Baqarah", "Surah Al-Kahf", "Surah Ya-Sin", "Surah Ar-Rahman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 454,
+      "questionText": "What is 'I'tikaf' and when is it typically observed?",
+      "answers": ["Fasting during Shawwal", "Secluding oneself in the mosque, typically in the last 10 days of Ramadan", "Praying during Eid", "Visiting Makkah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 455,
+      "questionText": "What is 'Zakat al-Fitr'?",
+      "answers": ["Annual wealth tax", "Obligatory charity paid before Eid al-Fitr prayer", "Charity for Hajj", "Optional charity"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 456,
+      "questionText": "What is the amount of Zakat al-Fitr?",
+      "answers": ["2.5% of wealth", "One Sa'a (approximately 2.5-3 kg) of staple food per person", "A fixed monetary amount", "10% of harvest"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 457,
+      "questionText": "What is the Battle of Ain Jalut (1260 CE) significant for?",
+      "answers": ["First crusade victory", "The Mamluks defeated the Mongols, stopping their westward advance", "Ottoman conquest", "Fall of Baghdad"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 458,
+      "questionText": "Who led the Muslim forces at the Battle of Ain Jalut?",
+      "answers": ["Saladin", "Qutuz and Baibars", "Nur ad-Din Zangi", "Muhammad al-Fatih"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 459,
+      "questionText": "What is the concept of 'Wilayah' in Islam?",
+      "answers": ["Divorce", "Authority, guardianship, and closeness to Allah", "A type of prayer", "A financial term"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 460,
+      "questionText": "What is the significance of the 'Talbiyah' during Hajj?",
+      "answers": ["It is a prayer for rain", "The repeated chant 'Labbayk Allahumma Labbayk' declaring response to Allah's call", "It is a battle cry", "It is a farewell greeting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 461,
+      "questionText": "What does 'Labbayk Allahumma Labbayk' mean?",
+      "answers": ["God is great", "Here I am, O Allah, here I am", "Glory be to God", "I seek forgiveness"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 462,
+      "questionText": "What is 'Muzdalifah' in the context of Hajj?",
+      "answers": ["A mount in Makkah", "An open area where pilgrims stay overnight after leaving Arafat", "The Kaaba", "A market"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 463,
+      "questionText": "What are the days of Tashreeq?",
+      "answers": ["Days of Ramadan", "11th, 12th, and 13th of Dhul Hijjah", "First 10 days of Muharram", "Last 10 days of Ramadan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 464,
+      "questionText": "What is 'Shafa' and 'Witr' prayer?",
+      "answers": ["Two types of Sujud", "Even and odd-numbered night prayers after Isha", "Morning prayers", "Friday prayers"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 465,
+      "questionText": "What does 'Al-Asma al-Husna' refer to?",
+      "answers": ["The five pillars", "The 99 Beautiful Names of Allah", "The names of prophets", "The names of angels"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 466,
+      "questionText": "According to Hadith, how many names does Allah have?",
+      "answers": ["33", "66", "99", "1000"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 467,
+      "questionText": "What does 'Ar-Rahman' (one of Allah's names) mean?",
+      "answers": ["The King", "The Most Gracious / The Most Merciful", "The All-Knowing", "The Provider"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 468,
+      "questionText": "What does 'Al-Hakim' (one of Allah's names) mean?",
+      "answers": ["The Creator", "The All-Wise", "The Mighty", "The Forgiving"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 469,
+      "questionText": "What does 'Al-Wadud' (one of Allah's names) mean?",
+      "answers": ["The Provider", "The Most Loving", "The Protector", "The Guide"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Worship"
+    },
+    {
+      "id": 470,
+      "questionText": "What is the significance of 'Laylat al-Bara'ah'?",
+      "answers": ["Night of Eid", "The 15th of Sha'ban, a night of forgiveness according to some traditions", "Night of Qadr", "Night of Isra"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 471,
+      "questionText": "Which famous Islamic scholar is known as 'Hujjat al-Islam' (Proof of Islam)?",
+      "answers": ["Ibn Taymiyyah", "Al-Ghazali", "Ibn Rushd", "Imam Nawawi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 472,
+      "questionText": "What is the Islamic term for 'seeking knowledge'?",
+      "answers": ["Talab al-Ilm", "Dhikr", "Dawah", "Tawbah"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 473,
+      "questionText": "According to Hadith, 'Seeking knowledge is an obligation upon...'",
+      "answers": ["Scholars only", "Every Muslim", "Men only", "Adults only"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 474,
+      "questionText": "What is 'Dawah'?",
+      "answers": ["Migration", "Inviting others to Islam / sharing Islamic knowledge", "Pilgrimage", "Fasting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 475,
+      "questionText": "What does the Quran say about diversity of nations and tribes?",
+      "answers": ["It is a punishment", "It is so that people may know one another (49:13)", "It should be eliminated", "It is not mentioned"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 476,
+      "questionText": "Which verse of the Quran states there is no compulsion in religion?",
+      "answers": ["Al-Baqarah 2:256", "Al-Imran 3:19", "An-Nisa 4:1", "Al-Maidah 5:3"],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 477,
+      "questionText": "What is an 'Imam' in the context of prayer?",
+      "answers": ["A politician", "The person who leads the congregational prayer", "A Quran teacher", "A judge"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Worship"
+    },
+    {
+      "id": 478,
+      "questionText": "What is 'Sutra' in the context of prayer?",
+      "answers": ["A type of clothing", "An object placed in front of the praying person as a barrier", "A prayer mat", "A recitation style"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 479,
+      "questionText": "What is 'Khushu' in prayer?",
+      "answers": ["Speed", "Humility, focus, and devotion during prayer", "Loudness", "Memorization"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Worship"
+    },
+    {
+      "id": 480,
+      "questionText": "According to Hadith, what is the key to Paradise?",
+      "answers": ["Wealth", "La ilaha illallah (Shahada/Testimony of Faith)", "Fame", "Power"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 481,
+      "questionText": "What did Prophet Muhammad (PBUH) say about smiling?",
+      "answers": ["It is wrong", "It is charity (Sadaqah)", "It is only for children", "It is a waste of time"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 482,
+      "questionText": "What is the Islamic view on cleanliness?",
+      "answers": ["Not important", "Cleanliness is half of faith", "Only before prayer", "Optional"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 483,
+      "questionText": "What is 'Fitrah' in Islam?",
+      "answers": ["A type of prayer", "The natural disposition/innate nature of humans inclined towards God", "A charity", "A greeting"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 484,
+      "questionText": "Which Surah tells the story of the companions of the elephant (Abraha's army)?",
+      "answers": ["Al-Qadr", "Al-Fil", "Quraysh", "Al-Kawthar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Quran"
+    },
+    {
+      "id": 485,
+      "questionText": "What is the Surah that follows Al-Fil and mentions the Quraysh tribe?",
+      "answers": ["Al-Kawthar", "Al-Maun", "Quraysh", "Al-Masad"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Quran"
+    },
+    {
+      "id": 486,
+      "questionText": "What is 'Al-Istiwa' in Islamic theology?",
+      "answers": ["A prayer position", "Allah's attribute of rising over the Throne (a matter of creed)", "A type of fasting", "A legal term"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 487,
+      "questionText": "What concept does 'Tawassul' refer to?",
+      "answers": ["Breaking fast", "Seeking means of nearness to Allah through righteous deeds or persons", "A type of Hajj", "A battle strategy"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 488,
+      "questionText": "Which companion pledged under a tree at Hudaybiyyah?",
+      "answers": ["Only 10 companions", "About 1,400 companions (Bay'at ar-Ridwan)", "Only leaders", "No one pledged"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    },
+    {
+      "id": 489,
+      "questionText": "What is 'Bay'at ar-Ridwan' and why is it significant?",
+      "answers": ["A trade pact", "A pledge of allegiance under a tree, praised in the Quran (48:18)", "A marriage ceremony", "A battle treaty"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 490,
+      "questionText": "What does the Quran say about Prophet Ibrahim breaking the idols?",
+      "answers": ["He was punished for it", "He destroyed them to prove their powerlessness (21:57-67)", "He regretted it", "It is not mentioned"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 491,
+      "questionText": "Which prophet was a shepherd before prophethood (as were many prophets)?",
+      "answers": ["Only Muhammad (PBUH)", "Musa (Moses)", "All prophets were shepherds", "Both A and B among others"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Prophets"
+    },
+    {
+      "id": 492,
+      "questionText": "According to Hadith, what did the Prophet say about poets?",
+      "answers": ["All poetry is haram", "Some poetry contains wisdom", "Poetry is the best act", "He never mentioned poetry"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 493,
+      "questionText": "Who was Hassan ibn Thabit?",
+      "answers": ["A military commander", "The poet of the Prophet", "A Quran scribe", "A judge"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamic History"
+    },
+    {
+      "id": 494,
+      "questionText": "What is the concept of 'Wala wal-Bara' in Islamic creed?",
+      "answers": ["Marriage and divorce", "Loyalty to the believers and disavowal of disbelief", "Trade regulations", "Inheritance law"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Worship"
+    },
+    {
+      "id": 495,
+      "questionText": "What is the 'Mus'haf'?",
+      "answers": ["A type of Hadith", "The physical written copy of the Quran", "A prayer mat", "A mosque"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Quran"
+    },
+    {
+      "id": 496,
+      "questionText": "What is the importance of 'Surah Al-Hashr' (verses 22-24)?",
+      "answers": ["It discusses fasting", "It contains many of Allah's Beautiful Names", "It tells the story of Musa", "It is about Hajj"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Quran"
+    },
+    {
+      "id": 497,
+      "questionText": "Which dynasty was known for the Alhambra palace in Spain?",
+      "answers": ["Umayyads", "Abbasids", "Nasrid dynasty of Granada", "Ottomans"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 498,
+      "questionText": "What year did the last Muslim kingdom (Granada) fall in Spain?",
+      "answers": ["1453", "1492", "1517", "1389"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamic History"
+    },
+    {
+      "id": 499,
+      "questionText": "What is the Islamic concept of 'Muhasabah'?",
+      "answers": ["Accounting transaction", "Self-accounting and self-reflection on one's deeds", "A trade term", "A legal process"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Worship"
+    },
+    {
+      "id": 500,
+      "questionText": "According to Umar ibn al-Khattab, 'Hold yourselves accountable...'",
+      "answers": ["...after you're judged", "...before you are held accountable (on the Day of Judgment)", "...when others remind you", "...only in Ramadan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamic History"
+    }
+  ]
+}

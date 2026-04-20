@@ -1,0 +1,4004 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Müslümanların günde kaç vakit namaz kılması farzdır?",
+      "answers": ["3", "5", "7", "4"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 2,
+      "questionText": "İslam'ın ilk şartı (şartı) nedir?",
+      "answers": ["Namaz", "Kelime-i Şehadet", "Zekat", "Oruç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 3,
+      "questionText": "Müslümanlar hangi ayda tan yerinden gün batımına kadar oruç tutar?",
+      "answers": ["Şaban", "Receb", "Ramazan", "Muharrem"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 4,
+      "questionText": "Namaz kılarken Müslümanlar hangi yöne yönelir?",
+      "answers": ["Kudüs", "Medine", "Mekke (Kabe)", "Şam"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 5,
+      "questionText": "İslam'da farz olan zekata ne ad verilir?",
+      "answers": ["Sadaka", "Zekat", "Hums", "Vakıf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 6,
+      "questionText": "Hangi namaz tan yerinin ağarmasıyla kılınır?",
+      "answers": ["Öğle", "İkindi", "Sabah", "Yatsı"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 7,
+      "questionText": "Mekke'ye yapılan hac ibadetine ne ad verilir?",
+      "answers": ["Umre", "Hac", "Cihat", "Hicret"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 8,
+      "questionText": "Sabah namazı kaç rekâttır?",
+      "answers": ["4", "3", "2", "1"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 9,
+      "questionText": "İslam'da gece namazına ne ad verilir?",
+      "answers": ["Teheccüt", "Vitir", "Duha", "İşrak"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 10,
+      "questionText": "Namaz öncesi abdest almanın Arapçası nedir?",
+      "answers": ["Gusül", "Teyemmüm", "Abdest", "İstinca"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 11,
+      "questionText": "İslam'ın kaç temel şartı vardır?",
+      "answers": ["4", "5", "6", "7"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 12,
+      "questionText": "Farz namazlar içinde rekât sayısı en fazla olan hangisidir?",
+      "answers": ["Sabah", "Öğle", "Akşam", "Yatsı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 13,
+      "questionText": "Cuma namazına ne ad verilir?",
+      "answers": ["Bayram namazı", "Cuma namazı", "Teravih", "Cenaze"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 14,
+      "questionText": "Zekat olarak verilmesi gereken malın asgari oranı nedir?",
+      "answers": ["%5", "%10", "%2,5", "%1"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 15,
+      "questionText": "Su bulunmadığında temiz toprakla yapılan abdest türü hangisidir?",
+      "answers": ["Abdest", "Gusül", "Teyemmüm", "Mesh"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 16,
+      "questionText": "Yatsı namazı kaç rekâttır?",
+      "answers": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 17,
+      "questionText": "Ramazan gecelerinde kılınan teravih namazı hangisidir?",
+      "answers": ["Teheccüt", "Teravih", "Vitir", "İstihare"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 18,
+      "questionText": "Ramazan'da orucu bozan şey nedir?",
+      "answers": ["Uyumak", "Kasıtlı olarak yemek veya içmek", "Derin nefes almak", "Uzun mesafe yürümek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 19,
+      "questionText": "Hac ibadeti Hicri takvime göre hangi ayda yapılır?",
+      "answers": ["Muharrem", "Receb", "Şevval", "Zilhicce"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 20,
+      "questionText": "Tövbe namazına ne ad verilir?",
+      "answers": ["Tövbe namazı", "Duha namazı", "Küsuf namazı", "İstiska namazı"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 21,
+      "questionText": "İtikâf nedir?",
+      "answers": ["Bir oruç türü", "İbadet maksadıyla mescidde inzivaya çekilmek", "Hac ritüeli", "Bir sadaka türü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 22,
+      "questionText": "Oruç bağlamında fidye nedir?",
+      "answers": ["Bir dua", "Tutulamayan oruçların bedeli", "Bir sadaka türü", "Bir hac ritüeli"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 23,
+      "questionText": "Altın için zekat nisabı kaç gramdır?",
+      "answers": ["50 gram", "85 gram", "100 gram", "200 gram"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 24,
+      "questionText": "Aşağıdakilerden hangisi haccın farz olma şartlarından DEĞİLDİR?",
+      "answers": ["Müslüman olmak", "Akıllı olmak", "Kur'an'ın tamamını ezberlemiş olmak", "Bedeni ve mali güce sahip olmak"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 25,
+      "questionText": "Allah'tan hayırlı bir iş için rehberlik isteme namazına ne denir?",
+      "answers": ["İstihare namazı", "Cenaze namazı", "Bayram namazı", "Küsuf namazı"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 26,
+      "questionText": "Hac sırasında Safa ile Merve arasında yürümeye ne ad verilir?",
+      "answers": ["Tavaf", "Sa'y", "Vakfe", "Remel"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 27,
+      "questionText": "Ölen bir kişi için kılınan namaza ne denir?",
+      "answers": ["Bayram namazı", "Cenaze namazı", "İstihare namazı", "Hacet namazı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 28,
+      "questionText": "Ramazan'dan sonra Şevval ayında kaç gün oruç tutulması tavsiye edilmiştir?",
+      "answers": ["3", "6", "10", "15"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 29,
+      "questionText": "Hac veya umre sırasında ihramlı olma durumuna ne denir?",
+      "answers": ["Telbiye", "İhram", "Tavaf", "Mikat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 30,
+      "questionText": "İslam fıkhına göre zekat verilebilecek kaç sınıf insan vardır?",
+      "answers": ["5", "6", "7", "8"],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 31,
+      "questionText": "Gümüş için zekat nisabı kaç gramdır?",
+      "answers": ["200 gram", "595 gram", "400 gram", "1000 gram"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 32,
+      "questionText": "Hac-ı İfrad ile Hac-ı Temettu' arasındaki fark nedir?",
+      "answers": ["İfrad umreyi içerir, Temettu' içermez", "Temettu' haccından önce umre yapmayı içerir, İfrad sadece haccı içerir", "Hiçbir fark yoktur", "İfrad sadece kadınlar içindir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 33,
+      "questionText": "Hanefi mezhebine göre vitir namazının hükmü nedir?",
+      "answers": ["Sünnet-i müekkede", "Vacip", "Müstehap", "Farz"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 34,
+      "questionText": "Hacılardan hangi gün Arafat'ta vakfe yapılır?",
+      "answers": ["Zilhicce'nin 8. günü", "Zilhicce'nin 9. günü", "Zilhicce'nin 10. günü", "Zilhicce'nin 12. günü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 35,
+      "questionText": "Ramazan'da mazeretsiz olarak orucu kasıtlı bozmanın keffareti nedir?",
+      "answers": ["Sadece kazasını tutmak", "60 gün peş peşe oruç tutmak veya 60 fakiri doyurmak", "Zekat vermek", "Hacca gitmek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 36,
+      "questionText": "Kur'an'ın ilk suresi hangisidir?",
+      "answers": ["Bakara", "Fatiha", "İhlas", "Nas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 37,
+      "questionText": "Kur'an-ı Kerim'de kaç sure vardır?",
+      "answers": ["100", "114", "120", "99"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 38,
+      "questionText": "Kur'an'ın en uzun suresi hangisidir?",
+      "answers": ["Al-i İmran", "Nisa", "Bakara", "Maide"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 39,
+      "questionText": "Hangi sure 'Kur'an'ın kalbi' olarak bilinir?",
+      "answers": ["Rahman", "Yasin", "Mülk", "Kehf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 40,
+      "questionText": "Kur'an aslen hangi dilde indirilmiştir?",
+      "answers": ["Farsça", "İbranice", "Arapça", "Aramice"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 41,
+      "questionText": "'Kur'an' kelimesinin sözlük anlamı nedir?",
+      "answers": ["Işık", "Okunan şey / okuma", "Kitap", "Rehber"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 42,
+      "questionText": "Hangi sure Eshab-ı Kehf (Ashab-ı Kehf) kıssasını anlatır?",
+      "answers": ["Kehf", "Enfal", "Tevbe", "Meryem"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 43,
+      "questionText": "Fatiha suresi kaç ayettir?",
+      "answers": ["5", "6", "7", "8"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 44,
+      "questionText": "Sevap bakımından Kur'an'ın üçte birine denk olan sure hangisidir?",
+      "answers": ["Fatiha", "Felak", "İhlas", "Kevser"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 45,
+      "questionText": "Kur'an'ın en kısa suresi hangisidir?",
+      "answers": ["İhlas", "Kevser", "Asr", "Nas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 46,
+      "questionText": "Kur'an yaklaşık kaç yılda indirilmiştir?",
+      "answers": ["10 yıl", "15 yıl", "23 yıl", "30 yıl"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 47,
+      "questionText": "Kur'an'ı Hz. Muhammed'e (s.a.v.) vahiy yoluyla getiren melek hangisidir?",
+      "answers": ["Mikail", "İsrafil", "Cebrail", "Azrail"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 48,
+      "questionText": "Hangi sure 'Elif, Lâm, Mîm' ile başlar?",
+      "answers": ["Fatiha", "Bakara", "Nas", "İhlas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 49,
+      "questionText": "Ayetü'l-Kürsi hangi surenin içindedir?",
+      "answers": ["Al-i İmran", "Bakara", "Nisa", "Maide"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 50,
+      "questionText": "Hangi sure bir kadının adını taşır?",
+      "answers": ["Bakara", "Meryem", "Nisa", "Ahzab"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 51,
+      "questionText": "Kur'an'ın son suresi hangisidir?",
+      "answers": ["Felak", "İhlas", "Nas", "Kafirun"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 52,
+      "questionText": "'Dinde zorlama yoktur' ayeti hangi surededir?",
+      "answers": ["Bakara", "Al-i İmran", "Nisa", "Maide"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 53,
+      "questionText": "Kur'an kaç cüzden oluşur?",
+      "answers": ["20", "25", "30", "40"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 54,
+      "questionText": "Hangi sure Hz. Yusuf'un kıssasını detaylı olarak anlatır?",
+      "answers": ["Yusuf", "İbrahim", "Lokman", "Hud"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 55,
+      "questionText": "Zülkarneyn'den bahseden sure hangisidir?",
+      "answers": ["Enbiya", "Kehf", "İsra", "Hac"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 56,
+      "questionText": "Her cuma günü okunması tavsiye edilen sure hangisidir?",
+      "answers": ["Yasin", "Kehf", "Rahman", "Mülk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 57,
+      "questionText": "İhlas suresinde Allah'ın hangi sıfatı vurgulanır?",
+      "answers": ["Rahmeti", "Birliği (Tevhid)", "Kudreti", "İlmi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 58,
+      "questionText": "Ayetü'l-Kürdi (Kürsi) olarak bilinen ayet hangi surededir?",
+      "answers": ["Bakara (2:255)", "Al-i İmran (3:18)", "Nisa (4:87)", "Haşr (59:22)"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 59,
+      "questionText": "Kur'an-ı Kerim'de yaklaşık kaç ayet vardır?",
+      "answers": ["5.000", "6.236", "7.000", "8.500"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 60,
+      "questionText": "Hangi halife Kur'an'ın tek bir kitap halinde toplanmasını emretti?",
+      "answers": ["Ömer bin Hattab", "Ebu Bekir es-Sıddık", "Osman bin Affan", "Ali bin Ebi Talib"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 61,
+      "questionText": "Hangi halife Kur'an metnini standartlaştırıp resmi nüshaları dağıttı?",
+      "answers": ["Ebu Bekir", "Ömer", "Osman", "Ali"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 62,
+      "questionText": "Mekkî sure ne demektir?",
+      "answers": ["Medine'de inen sure", "Hicretten önce Mekke'de inen sure", "Mekke hakkında inen sure", "100'den fazla ayeti olan sure"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 63,
+      "questionText": "Hangi sure 'Bismillah' ile başlamaz?",
+      "answers": ["Fatiha", "Bakara", "Tevbe", "Kevser"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 64,
+      "questionText": "Kur'an okuma kuralları ilmine ne ad verilir?",
+      "answers": ["Tefsir", "Tecvid", "Fıkıh", "Usul-i Hadis"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 65,
+      "questionText": "Hangi surede 'Bismillah' iki kez geçer?",
+      "answers": ["Fatiha", "Neml", "Bakara", "Enfal"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 66,
+      "questionText": "Kur'an'da 'Huruf-u Mukattaa' (kesik harfler) ile başlayan kaç sure vardır?",
+      "answers": ["19", "25", "29", "33"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 67,
+      "questionText": "Kur'an'ı yorumlama ilmine ne ad verilir?",
+      "answers": ["Hadis", "Tecvid", "Tefsir", "Fıkıh"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 68,
+      "questionText": "Kur'an'ın en uzun ayeti (borç ayeti) hangisidir?",
+      "answers": ["Bakara 2:255", "Bakara 2:282", "Al-i İmran 3:7", "Nisa 4:11"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 69,
+      "questionText": "Peygamberimizin vahiy katiplerinden 'Kâtib-i Vahiy' olarak bilinen sahabi kimdir?",
+      "answers": ["Ebu Bekir", "Ömer", "Zeyd bin Sabit", "Muaz bin Cebel"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 70,
+      "questionText": "Kur'an bağlamında 'Yedi Harf' nedir?",
+      "answers": ["Yedi çeviri", "Yedi kıraat / lehçe", "Yedi sure", "Zikredilen yedi peygamber"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 71,
+      "questionText": "İslam'da ilk peygamber kimdir?",
+      "answers": ["İbrahim", "Nuh", "Adem", "Muhammed (s.a.v.)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 72,
+      "questionText": "İslam'da son peygamber kimdir?",
+      "answers": ["İsa", "Musa", "Muhammed (s.a.v.)", "İbrahim"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 73,
+      "questionText": "Hangi peygamber balık tarafından yutulmuştur?",
+      "answers": ["Musa", "Yunus", "Eyyüb", "İdris"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 74,
+      "questionText": "Hangi peygamber gemiyi inşa etti?",
+      "answers": ["İbrahim", "Süleyman", "Nuh", "Davud"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 75,
+      "questionText": "Hangi peygambere Zebur verilmiştir?",
+      "answers": ["Musa", "İsa", "Davud", "İbrahim"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 76,
+      "questionText": "Hangi peygamber ateşe atılmış ancak Allah tarafından kurtarılmıştır?",
+      "answers": ["Musa", "İbrahim", "İsmail", "Yakub"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 77,
+      "questionText": "Hangi peygamber 'Halilullah' (Allah'ın dostu) olarak bilinir?",
+      "answers": ["Musa", "Muhammed (s.a.v.)", "İbrahim", "Nuh"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 78,
+      "questionText": "Hangi peygambere Tevrat verilmiştir?",
+      "answers": ["Davud", "Musa", "İsa", "Harun"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 79,
+      "questionText": "Hangi peygamber hayvanlarla konuşabiliyor ve cinlere hükmediyordu?",
+      "answers": ["Davud", "Süleyman", "İdris", "Zülkifl"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 80,
+      "questionText": "Hz. Musa'nın kardeşi kimdir?",
+      "answers": ["İsmail", "Harun", "İshak", "Yusuf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 81,
+      "questionText": "Hangi peygamber kardeşleri tarafından kuyuya atılıp köle olarak satıldı?",
+      "answers": ["Musa", "Yusuf", "İsmail", "Eyyüb"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 82,
+      "questionText": "Hangi peygamber 'Ruhullah' (Allah'ın ruhu) olarak anılır?",
+      "answers": ["İbrahim", "Muhammed (s.a.v.)", "İsa", "Adem"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 83,
+      "questionText": "Kur'an'da ismi geçen peygamber sayısı kaçtır?",
+      "answers": ["20", "25", "30", "35"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 84,
+      "questionText": "Hangi peygamber 'Safiyullah' (Allah'ın seçkini) olarak bilinir?",
+      "answers": ["Nuh", "Adem", "İbrahim", "Muhammed (s.a.v.)"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 85,
+      "questionText": "Olağanüstü sabrı ile bilinen peygamber hangisidir?",
+      "answers": ["Yusuf", "Eyyüb", "Yunus", "Şuayb"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 86,
+      "questionText": "İslam inancına göre diri olarak göğe yükseltilen peygamber hangisidir?",
+      "answers": ["Musa", "İdris", "İlyas", "İsa"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 87,
+      "questionText": "Kabe'yi hangi iki peygamber inşa etmiştir?",
+      "answers": ["Adem ve Nuh", "İbrahim ve İsmail", "Musa ve Harun", "Muhammed ve İbrahim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 88,
+      "questionText": "Hangi peygamber Âd kavmine gönderilmiştir?",
+      "answers": ["Salih", "Hud", "Şuayb", "Lut"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 89,
+      "questionText": "Hangi peygamber Semud kavmine gönderilmiştir?",
+      "answers": ["Hud", "Salih", "Şuayb", "Nuh"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 90,
+      "questionText": "Ahlaksız davranışları (Sodom kenti) yüzünden helak edilen kavme gönderilen peygamber hangisidir?",
+      "answers": ["Şuayb", "Hud", "Lut", "Salih"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 91,
+      "questionText": "Hz. Musa'ya verilen mucize nedir?",
+      "answers": ["Hastaları iyileştirmek", "Asanın yılana dönüşmesi", "Kuşlarla konuşmak", "Ayı ikiye bölmek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 92,
+      "questionText": "İsrailoğulları'nın on iki kabilesinin atası olan peygamber hangisidir?",
+      "answers": ["İbrahim", "İshak", "Yakub", "Yusuf"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 93,
+      "questionText": "Zırh yapımını bilen peygamber hangisidir?",
+      "answers": ["Süleyman", "Davud", "Zülkifl", "İdris"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 94,
+      "questionText": "Salih peygamberin Semud kavmine gösterdiği mucize neydi?",
+      "answers": ["Tufan", "Kayadan bir dişi deve", "Gökten ateş", "Konuşan kuş"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 95,
+      "questionText": "Medyen halkına gönderilen peygamber hangisidir?",
+      "answers": ["Lut", "Hud", "Şuayb", "Salih"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 96,
+      "questionText": "Hz. Muhammed'e (s.a.v.) verilen unvan nedir?",
+      "answers": ["Halilullah", "Kelimetullah", "Habibullah", "Ruhullah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 97,
+      "questionText": "İslam inancına göre babasız olarak doğan peygamber hangisidir?",
+      "answers": ["Adem", "İsa", "İdris", "Yahya"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 98,
+      "questionText": "Babası, dedesi ve büyük dedesi de peygamber olan peygamber hangisidir?",
+      "answers": ["Muhammed (s.a.v.)", "Yusuf", "İsa", "Musa"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 99,
+      "questionText": "Hangi peygambere 'Suhuf' (Sayfalar) verilmiştir?",
+      "answers": ["Nuh", "Musa", "İbrahim", "Davud"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 100,
+      "questionText": "İsra ve Miraç'ta Hz. Muhammed (s.a.v.) birinci gökte hangi peygamberle karşılaşmıştır?",
+      "answers": ["İbrahim", "Musa", "Adem", "İsa"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 101,
+      "questionText": "Kur'an'da 'Zünnun' (balık sahibi) olarak anılan peygamber hangisidir?",
+      "answers": ["Eyyüb", "Yunus", "Davud", "İlyas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 102,
+      "questionText": "İslam geleneğine göre Miraç'ta Hz. Muhammed (s.a.v.) peygamberlerle kaçıncı gökte karşılaşmıştır?",
+      "answers": ["5", "6", "7", "9"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 103,
+      "questionText": "Allah'a ölüleri nasıl dirilttiğini (kuşlar aracılığıyla) görmesini isteyen peygamber hangisidir?",
+      "answers": ["Musa", "İbrahim", "İsa", "Süleyman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 104,
+      "questionText": "Kur'an'da 'Ahsenü'l-kasas' (kıssaların en güzeli) olarak nitelenen peygamber kıssası hangisidir?",
+      "answers": ["Musa", "İbrahim", "Yusuf", "Nuh"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 105,
+      "questionText": "Hz. İbrahim'in İsmail'in annesi olan hanımının adı nedir?",
+      "answers": ["Sare", "Hacer", "Meryem", "Asiye"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 106,
+      "questionText": "İslam geleneğine göre en uzun yaşayan peygamber hangisidir?",
+      "answers": ["Adem", "Nuh", "İdris", "İbrahim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 107,
+      "questionText": "Hadis nedir?",
+      "answers": ["Kur'an ayeti", "Hz. Muhammed'in (s.a.v.) sözü, fiili veya takriri", "Bir namaz türü", "Kur'an'ın bir bölümü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 108,
+      "questionText": "En güvenilir hadis kitabı olan Sahih'i kim derlemiştir?",
+      "answers": ["İmam Müslim", "İmam Buhari", "İmam Ebu Davud", "İmam Tirmizi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 109,
+      "questionText": "En güvenilir iki hadis kitabı topluca hangi isimle anılır?",
+      "answers": ["Muvatta ve Müsned", "Sahihayn (Buhari ve Müslim)", "Sünen-i Nesei ve Sünen-i İbn Mace", "Cami ve Musannef"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 110,
+      "questionText": "Hadis sınıflandırmasında 'Sahih' ne anlama gelir?",
+      "answers": ["Zayıf", "Uydurma", "Doğru / Sağlam", "Güzel (hasen)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 111,
+      "questionText": "Hadisteki raviler zincirine ne ad verilir?",
+      "answers": ["Metin", "İsnad / Sened", "Ravi", "Sened"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 112,
+      "questionText": "Hadisin metnine ne ad verilir?",
+      "answers": ["İsnad", "Sened", "Metin", "Ravi"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 113,
+      "questionText": "Hadis-i Kutsi nedir?",
+      "answers": ["Namazla ilgili hadis", "Allah'ın kendi sözlerini Peygamber aracılığıyla bildirdiği hadis", "Oruçla ilgili hadis", "Uydurma hadis"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 114,
+      "questionText": "Meşhur bir hadise göre ameller neye göre değerlendirilir?",
+      "answers": ["Sonuçlara", "Niyetlere", "Sözlere", "Şahitlere"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 115,
+      "questionText": "Sahih-i Buhari yaklaşık olarak tekrarsız kaç hadis içerir?",
+      "answers": ["Yaklaşık 2.600", "Yaklaşık 4.000", "Yaklaşık 7.000", "Yaklaşık 10.000"],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 116,
+      "questionText": "Senedinde zayıf ravi bulunan hadise ne denir?",
+      "answers": ["Sahih", "Hasen", "Zayıf", "Meşhur"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 117,
+      "questionText": "Mevzu hadis nedir?",
+      "answers": ["Sahih hadis", "Hasen hadis", "Uydurma hadis", "Zayıf hadis"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 118,
+      "questionText": "Aşağıdakilerden hangisi Kütüb-i Sitte'den (Altı Hadis Kitabı) DEĞİLDİR?",
+      "answers": ["Sahih-i Buhari", "İmam Malik'in Muvatta'sı", "Sünen-i Ebu Davud", "Sahih-i Müslim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 119,
+      "questionText": "Şu hadisi tamamlayın: 'Sizden biriniz, kendisi için sevdiğini (başka) Müslüman kardeşi için de sevmedikçe ...'",
+      "answers": ["...gerçek iman etmiş olmaz", "...tam Müslüman olamaz", "...cennete giremez", "...Allah'a yaklaşamaz"],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 120,
+      "questionText": "Hadis sınıflandırmasında 'Mütevatir' ne anlama gelir?",
+      "answers": ["Tek raporlu", "Yalan ihtimali olmayacak kadar çok sayıda bağımsız senedle rivayet edilen", "Zayıf rivayet", "Mucizelerle ilgili hadis"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 121,
+      "questionText": "İmam Nevevi'nin 'Kırk Hadis'i neyle bilinir?",
+      "answers": ["En uzun hadisler olmasıyla", "Temel İslam öğretilerini özlü bir şekilde toplamasıyla", "Sadece namazla ilgili olmasıyla", "Buhari tarafından derlenmesiyle"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 122,
+      "questionText": "Bir hadise göre Allah'a en sevimli gelen üç amel hangileridir?",
+      "answers": ["Hac, umre, cihat", "Vaktinde namaz, ana babaya iyilik, Allah yolunda cihat", "Oruç, sadaka, hac", "Kur'an okumak, zikir, sadaka"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 123,
+      "questionText": "Hadis ilminde 'İlmü'r-rical' nedir?",
+      "answers": ["Metin incelemesi", "Ravilerin (adamların) incelenmesi / cerh-ta'dil ilmi", "Arapça gramer çalışması", "İslam hukuku"],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 124,
+      "questionText": "Mürsel hadis nedir?",
+      "answers": ["Senedi muttasıl hadis", "Tabiînin, sahabeyi atlayarak doğrudan Peygamber'den rivayet ettiği hadis", "Uydurma hadis", "Çok senedli hadis"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 125,
+      "questionText": "Bir hadise göre Arefe gününün en faziletli duası hangisidir?",
+      "answers": ["Sübhanallah", "Elhamdülillah", "La ilahe illallahu vahdehu la şerike leh...", "Estağfirullah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 126,
+      "questionText": "Hasen hadis nedir?",
+      "answers": ["Uydurma", "Sahih", "Güzel (Sahih'in biraz altında, kabul edilebilir)", "Zayıf"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 127,
+      "questionText": "Hz. Muhammed'den (s.a.v.) sonra ilk halife kimdir?",
+      "answers": ["Ömer bin Hattab", "Ali bin Ebi Talib", "Ebu Bekir es-Sıddık", "Osman bin Affan"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 128,
+      "questionText": "Hicret (Mekke'den Medine'ye göç) hangi yıl gerçekleşmiştir?",
+      "answers": ["610 M", "622 M", "630 M", "632 M"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 129,
+      "questionText": "İslam tarihindeki ilk büyük savaş hangisidir?",
+      "answers": ["Uhud", "Bedir", "Hendek", "Hayber"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 130,
+      "questionText": "İlk Müslüman kadın kimdir?",
+      "answers": ["Aişe (r.a.)", "Fatıma (r.a.)", "Hatice (r.a.)", "Sümeyye (r.a.)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 131,
+      "questionText": "İslam'da inşa edilen ilk mescidin adı nedir?",
+      "answers": ["Mescid-i Aksa", "Mescid-i Kubâ", "Mescid-i Nebevî", "Mescid-i Haram"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 132,
+      "questionText": "İslam'da ilk müezzin (ezan okuyan) kimdir?",
+      "answers": ["Abdullah bin Mesud", "Bilal-i Habeşî", "Ammar bin Yasir", "Selman-ı Farisî"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 133,
+      "questionText": "Mekke Müslümanlar tarafından hangi yılda fethedilmiştir?",
+      "answers": ["624 M", "625 M", "628 M", "630 M"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 134,
+      "questionText": "Hudeybiye Antlaşması nedir?",
+      "answers": ["Bir savaş ilanı", "Müslümanlar ile Kureyş arasında yapılan bir barış antlaşması", "Bir ticaret anlaşması", "İslam devletini kuran belge"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 135,
+      "questionText": "İslam'ın ikinci halifesi kimdir?",
+      "answers": ["Ebu Bekir", "Ömer bin Hattab", "Osman bin Affan", "Ali bin Ebi Talib"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 136,
+      "questionText": "'Fil Yılı' neyle bilinir?",
+      "answers": ["Müslümanların Mekke'yi fethettiği yıl", "Hz. Muhammed'in (s.a.v.) doğduğu yıl", "Kur'an'ın tamamlandığı yıl", "Hicret yılı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 137,
+      "questionText": "'Allah'ın Kılıcı' olarak bilinen sahabi kimdir?",
+      "answers": ["Ali bin Ebi Talib", "Ömer bin Hattab", "Halid bin Velid", "Sa'd bin Ebi Vakkas"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 138,
+      "questionText": "Müslümanlar zulümden kaçarak ilk nereye hicret etmişlerdir?",
+      "answers": ["Medine", "Habeşistan (Etiyopya)", "Mısır", "Şam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 139,
+      "questionText": "Medine'de oluşturulan anayasanın adı nedir?",
+      "answers": ["Hudeybiye Antlaşması", "Medine Sözleşmesi (Medine Vesikası)", "Mekke Bildirgesi", "Akabe Biatı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 140,
+      "questionText": "İslam'ı kabul eden ilk çocuk (genç) kimdir?",
+      "answers": ["Ömer", "Zeyd bin Harise", "Ali bin Ebi Talib", "Abdullah bin Abbas"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 141,
+      "questionText": "Hendek Savaşı neyle bilinir?",
+      "answers": ["Deniz savaşı", "Medine'yi savunmak için hendek kazılması", "Dağ geçidinde yapılan savaş", "Mekke kuşatması"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 142,
+      "questionText": "Hendek Savaşı'nda hendek kazmayı kim önermiştir?",
+      "answers": ["Ebu Bekir", "Ömer", "Selman-ı Farisî", "Halid bin Velid"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 143,
+      "questionText": "Hz. Muhammed (s.a.v.) hangi yıl vefat etmiştir?",
+      "answers": ["630 M", "632 M", "634 M", "636 M"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 144,
+      "questionText": "Kudüs'teki Kubbetü's-Sahra'yı hangi İslam hanedanı inşa etmiştir?",
+      "answers": ["Abbasiler", "Osmanlılar", "Emeviler", "Fatımiler"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 145,
+      "questionText": "İlk Emevi halifesi kimdir?",
+      "answers": ["Abdülmelik", "Muaviye bin Ebu Süfyan", "Yezid bin Muaviye", "Mervan bin Hakem"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 146,
+      "questionText": "Hicri takvimi başlatan halife kimdir?",
+      "answers": ["Ebu Bekir", "Ömer bin Hattab", "Osman", "Ali"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 147,
+      "questionText": "Ridde Savaşları nedir?",
+      "answers": ["Müslümanlar ile Romalılar arasındaki savaşlar", "Peygamberin vefatından sonra dinden dönenlerle yapılan savaşlar", "Emeviler ile Abbasiler arasındaki savaşlar", "Haçlı savaşları"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 148,
+      "questionText": "Bizanslılara karşı Yermük Savaşı'nda Müslüman ordusunu kim yönetti?",
+      "answers": ["Ömer bin Hattab", "Halid bin Velid", "Ebu Bekir", "Amr bin As"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 149,
+      "questionText": "Mısır'ı fetheden Müslüman komutan kimdir?",
+      "answers": ["Halid bin Velid", "Sa'd bin Ebi Vakkas", "Amr bin As", "Tarık bin Ziyad"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 150,
+      "questionText": "İspanya'yı (Endülüs) Müslümanlara kim açmıştır?",
+      "answers": ["Halid bin Velid", "Tarık bin Ziyad", "Musa bin Nusayr", "Selahaddin"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 151,
+      "questionText": "Abbasi Hilafeti'nin başkenti neresiydi?",
+      "answers": ["Şam", "Bağdat", "Kahire", "Kurtuba"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 152,
+      "questionText": "Selahaddin Eyyubi kimdir ve neyle ünlüdür?",
+      "answers": ["Bir Emevi şairi", "Osmanlı Devleti'nin kurucusu", "Kudüs'ü Haçlılardan geri alan Müslüman lider", "Cebirin mucidi"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 153,
+      "questionText": "1258'de Abbasilerin yıkılmasına yol açan savaş hangisidir?",
+      "answers": ["Ayn Calut Savaşı", "Bağdat Kuşatması", "Hıttin Savaşı", "Malazgirt Savaşı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 154,
+      "questionText": "Bağdat'ı yağmalayarak Abbasileri yıkan imparatorluk hangisidir?",
+      "answers": ["Haçlılar", "Moğollar", "Osmanlılar", "Safeviler"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 155,
+      "questionText": "Osmanlı Devleti'ni kim kurdu?",
+      "answers": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmed", "Osman Bey", "Yıldırım Bayezid"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 156,
+      "questionText": "İstanbul'u 1453'te fetheden Osmanlı padişahı hangisidir?",
+      "answers": ["Osman Bey", "Kanuni Sultan Süleyman", "Fatih Sultan Mehmed", "Yavuz Sultan Selim"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 157,
+      "questionText": "İslam'ın Altın Çağı neyle bilinir?",
+      "answers": ["Askeri fetihler", "Bilim, tıp, matematik ve felsefedeki ilerlemeler", "Camilerin inşası", "Ticaret yollarının genişlemesi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 158,
+      "questionText": "'Cebirin Babası' olarak bilinen Müslüman âlim kimdir?",
+      "answers": ["İbn-i Sina", "Harezmi", "Razi", "İbn Rüşd"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 159,
+      "questionText": "'Tıp Kanunu' adlı eseri yazan Müslüman âlim kimdir?",
+      "answers": ["Harezmi", "Razi", "İbn-i Sina", "İbn Haldun"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 160,
+      "questionText": "Tarih felsefesinin başyapıtı sayılan 'Mukaddime'yi kim yazmıştır?",
+      "answers": ["İbn-i Sina", "Gazzali", "İbn Haldun", "Taberî"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 161,
+      "questionText": "Akabe Biatları nedir?",
+      "answers": ["Ticaret antlaşmaları", "Hicretten önce Medinelilerin Peygamber'e yaptığı bağlılık sözleri", "Kureyş ile barış antlaşmaları", "Askeri ittifaklar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 162,
+      "questionText": "İslam'daki ilk kadın şehit kimdir?",
+      "answers": ["Hatice", "Fatıma", "Sümeyye binti Hayyat", "Esma bint Ebu Bekir"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 163,
+      "questionText": "İslam'ın altı iman şartı nelerdir?",
+      "answers": ["Kelime-i şehadet, namaz, zekat, oruç, hac, cihat", "Allah'a, meleklerine, kitaplarına, peygamberlerine, ahiret gününe, kadere iman", "Namaz, oruç, zekat, hac, iman, sabır", "Tevhid, risalet, ahiret, namaz, oruç, zekat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 164,
+      "questionText": "İslam'da ihsan nedir?",
+      "answers": ["Sadaka vermek", "Allah'ı görüyormuşçasına ibadet etmek", "Hacca gitmek", "Kur'an okumak"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 165,
+      "questionText": "Güneş tutulması namazına ne ad verilir?",
+      "answers": ["İstiska namazı", "Küsuf namazı", "Havf namazı", "Duha namazı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 166,
+      "questionText": "Yağmur duası (namazı) hangisidir?",
+      "answers": ["Küsuf namazı", "Husuf namazı", "İstiska namazı", "Hacet namazı"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 167,
+      "questionText": "5 vakit namazda Fatiha suresi kaç kez okunur?",
+      "answers": ["5 defa", "3 defa", "7 defa", "Her rekatta bir kez (toplam 17)"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 168,
+      "questionText": "Sehiv secdesi nedir?",
+      "answers": ["Namazdaki esas secde", "Namazda yanılma durumunda yapılan secde", "Şükür secdesi", "Kur'an tilaveti secdesi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 169,
+      "questionText": "Kadir Gecesi (Leyletü'l-Kadr) nedir?",
+      "answers": ["Ramazan'ın ilk gecesi", "Ramazan'ın son on gününde bulunan, bin aydan hayırlı gece", "Bayram gecesi", "Hac gecesi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 170,
+      "questionText": "Kadir Gecesi hangi surede anlatılır?",
+      "answers": ["Bakara", "Kadir", "Fecr", "Bürûc"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 171,
+      "questionText": "Mülk (egemenlik) suresi olarak bilinen sure hangisidir?",
+      "answers": ["Mülk", "Vakıa", "Rahman", "Hadid"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 172,
+      "questionText": "'Rahmân' (Esirgeyen) ismiyle başlayan sure hangisidir?",
+      "answers": ["54. sure", "55. sure (Rahmân)", "56. sure", "57. sure"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 173,
+      "questionText": "Surelerin çoğunun başındaki 'Bismillahirrahmanirrahim' nedir?",
+      "answers": ["Korunma duası", "Rahmân ve Rahîm olan Allah'ın adıyla", "Oruç ayeti", "Ezan duası"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 174,
+      "questionText": "Kur'an'da adı sure başlığı olarak geçen hayvan hangileridir?",
+      "answers": ["Fil", "Bakara", "Neml (Karınca)", "Hepsi"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 175,
+      "questionText": "Kur'an ilimlerinde 'Esbab-ı Nüzul' nedir?",
+      "answers": ["Kıraat ilmi", "Ayetlerin iniş sebepleri", "Nesh (hüküm değişikliği)", "Kur'an grameri"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 176,
+      "questionText": "Kur'an ilimlerinde 'Nesh' ne demektir?",
+      "answers": ["Kur'an'ı kopyalamak", "Sonra gelen bir hükümle önceki hükmün kaldırılması", "Tecvid kuralları", "Kur'an'ın tercümesi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 177,
+      "questionText": "Kur'an'da adı en çok geçen peygamber hangisidir?",
+      "answers": ["İbrahim", "Muhammed (s.a.v.)", "Musa", "İsa"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 178,
+      "questionText": "Hz. Muhammed'in (s.a.v.) ilk eşinin adı nedir?",
+      "answers": ["Aişe", "Hafsa", "Hatice", "Zeynep"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 179,
+      "questionText": "Kelime-i şehadet nedir?",
+      "answers": ["Sübhanallah", "Eşhedü en la ilahe illallah ve eşhedü enne Muhammeden abduhu ve resuluhu", "Allahü ekber", "Bismillahirrahmanirrahim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 180,
+      "questionText": "Tevvekkül ne demektir?",
+      "answers": ["Tövbe", "Allah'a güvenip dayanma", "Şükretme", "Sabır"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 181,
+      "questionText": "Medine'deki Peygamber Mescidi hangisidir?",
+      "answers": ["Mescid-i Haram", "Mescid-i Aksa", "Mescid-i Nebevî", "Mescid-i Kubâ"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 182,
+      "questionText": "İsra ve Miraç nedir?",
+      "answers": ["Medine'ye hicret", "Hz. Muhammed'in (s.a.v.) Mescid-i Aksa'ya götürülmesi ve göklere yükseltilmesi", "Mekke'nin fethi", "İlk vahiy"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 183,
+      "questionText": "Hicri takvim hangi olayla başlar?",
+      "answers": ["Hz. Muhammed'in doğumu", "İlk vahiy", "Hicret (Medine'ye göç)", "Mekke'nin fethi"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 184,
+      "questionText": "Peygamber'in kendisini koruyan fakat Müslüman olmayan amcası kimdir?",
+      "answers": ["Hamza", "Ebu Leheb", "Ebu Talib", "Abbas"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 185,
+      "questionText": "İslam yönetiminde 'Şura' nedir?",
+      "answers": ["Askeri strateji", "Karar almada danışma", "Vergi toplama", "Yargı kararı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 186,
+      "questionText": "Bir hadise göre 'Sizin en hayırlınız...'",
+      "answers": ["...namazı en iyi kılandır", "...en çok oruç tutandır", "...Kur'an'ı öğrenen ve öğretendir", "...en çok sadaka verendir"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 187,
+      "questionText": "'Din nasihattir' hadisi neye işaret eder?",
+      "answers": ["Sadece namaz kılmaya", "Allah'a, kitabına, peygamberine, Müslüman yöneticilere ve tüm Müslümanlara samimiyetle bağlılık", "Sadaka vermeye", "Oruç tutmaya"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 188,
+      "questionText": "Bir hadise göre 'yedi büyük günah' hangileridir?",
+      "answers": ["Yalan, hırsızlık, aldatma, adam öldürme, kıskançlık, gıybet, dedikodu", "Şirk, sihir, haksız yere cana kıymak, faiz, yetim malı yemek, savaştan kaçmak, iffetli kadına zina iftirası", "Kibir, açgözlülük, şehvet, haset, tembellik, öfke, oburluk", "Kumar, içki, yalan, hırsızlık, adam öldürme, zina, gıybet"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 189,
+      "questionText": "Hadis-i Ahad nedir?",
+      "answers": ["Bir veya birkaç ravi zinciriyle rivayet edilen hadis", "Uydurma hadis", "Rüya ile ilgili hadis", "Sadece kadınların rivayet ettiği hadis"],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 190,
+      "questionText": "Sünen-i Ebu Davud'u kim derlemiştir?",
+      "answers": ["İmam Buhari", "Ebu Davud es-Sicistani", "İmam Tirmizi", "İmam Nesei"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 191,
+      "questionText": "Cibril Hadisi'nde tarif edilen 'İhsan' ne anlama gelir?",
+      "answers": ["Fakirlere sadaka vermek", "Altı iman şartına inanmak", "Allah'ı görüyormuşçasına ibadet etmek", "Hacca gitmek"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 192,
+      "questionText": "Hz. Muhammed'e (s.a.v.) gelen ilk vahiy nedir?",
+      "answers": ["Fatiha suresi", "Alak suresinin ilk ayetleri (Oku)", "İhlas suresi", "Ayetü'l-Kürsi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 193,
+      "questionText": "İlk vahiy nerede gelmiştir?",
+      "answers": ["Kabe'de", "Mescid-i Nebevî'de", "Hira Mağarası'nda", "Arafat Dağı'nda"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 194,
+      "questionText": "Hz. Muhammed (s.a.v.) ilk vahyi aldığında kaç yaşındaydı?",
+      "answers": ["25", "30", "40", "45"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 195,
+      "questionText": "Kureyş'in Hz. Muhammed'e (s.a.v.) karşı çıkmasının temel nedeni neydi?",
+      "answers": ["Fakir olması", "Tevhid mesajının onların putperestliğini ve sosyal statülerini tehdit etmesi", "Siyasi güç istemesi", "Başka bir kabileden olması"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 196,
+      "questionText": "İslam'da zikir nedir?",
+      "answers": ["Oruç", "Allah'ı çeşitli ibarelerle anmak", "Bir sadaka türü", "Hac ritüeli"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 197,
+      "questionText": "'Sübhanallah' ne anlama gelir?",
+      "answers": ["Allah büyüktür", "Allah'ı noksan sıfatlardan tenzih ederim", "Allah'tan başka ilah yoktur", "Allah dilerse"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 198,
+      "questionText": "'Elhamdülillah' ne anlama gelir?",
+      "answers": ["Allah büyüktür", "Sübhanallah", "Hamd Allah'a mahsustur", "Maşallah"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 199,
+      "questionText": "'Allahü ekber' ne anlama gelir?",
+      "answers": ["Allah büyüktür", "Sübhanallah", "Elhamdülillah", "Bismillah"],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 200,
+      "questionText": "'İnşallah' ne anlama gelir?",
+      "answers": ["Allah büyüktür", "Allah dilerse", "Şükür Allah'a", "Allah'a sığınırım"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 201,
+      "questionText": "Ramazan'dan sonra kutlanan bayram hangisidir?",
+      "answers": ["Kurban Bayramı", "Ramazan Bayramı", "Gadir Hum Bayramı", "Mevlid"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 202,
+      "questionText": "Hac sırasında kutlanan bayram hangisidir?",
+      "answers": ["Ramazan Bayramı", "Kurban Bayramı", "Gadir Hum Bayramı", "Mevlid"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 203,
+      "questionText": "Kurban Bayramı'nda yapılan kesime ne ad verilir?",
+      "answers": ["Sadaka", "Zekat", "Kurban / Udhiyye", "Hums"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 204,
+      "questionText": "Bayram namazı kaç rekâttır?",
+      "answers": ["2", "3", "4", "6"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 205,
+      "questionText": "Namaza başlarken okunan açılış duasına ne denir?",
+      "answers": ["Teşehhüd", "İftitah duası", "Kunut", "Tesbih"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 206,
+      "questionText": "Namazda teşehhüdde ne okunur?",
+      "answers": ["Sübhanallah", "Ettehiyyatü lillahi...", "Elhamdülillahi Rabbil Âlemin", "Rabbena atina fid-dünya hasene"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 207,
+      "questionText": "Müslümanların ilk mağlup olduğu savaş hangisidir?",
+      "answers": ["Bedir", "Uhud", "Hendek", "Hayber"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 208,
+      "questionText": "Uhud Savaşı'nda Peygamber'in amcası Hz. Hamza'yı kim öldürdü?",
+      "answers": ["Ebu Cehil", "Ebu Süfyan", "Vahşi bin Harb", "Halid bin Velid"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 209,
+      "questionText": "Veda Hutbesi nedir?",
+      "answers": ["Medine'deki ilk hutbe", "Hz. Muhammed'in (s.a.v.) Veda Haccı sırasında yaptığı son büyük konuşma", "Bedir Savaşı'nda verilen hutbe", "Ebu Bekir'in ilk hutbesi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 210,
+      "questionText": "Veda Hutbesi'ndeki temel mesaj neydi?",
+      "answers": ["Savaşa hazırlanın", "Bütün insanlar ırk, renk ayrımı olmaksızın eşittir; Kur'an ve Sünnet'e sımsıkı sarılın", "Daha çok cami inşa edin", "İslam imparatorluğunu genişletin"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 211,
+      "questionText": "Hangi sahabi 'Faruk' (hakkı batıldan ayıran) lakabıyla bilinir?",
+      "answers": ["Ebu Bekir", "Ömer bin Hattab", "Ali bin Ebi Talib", "Osman bin Affan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 212,
+      "questionText": "Hangi sahabi 'Zinnureyn' (iki nur sahibi) olarak bilinir?",
+      "answers": ["Ebu Bekir", "Ömer", "Osman bin Affan", "Ali"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 213,
+      "questionText": "Hz. Muhammed'in (s.a.v.) kızı ve Hz. Ali'nin eşi kimdir?",
+      "answers": ["Zeynep", "Rukiyye", "Ümmü Gülsüm", "Fatıma"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 214,
+      "questionText": "İslam'da 'Sünnet' nedir?",
+      "answers": ["Kur'an", "Hz. Muhammed'in (s.a.v.) söz, fiil ve takrirleri", "Beş şart", "Altı iman esası"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 215,
+      "questionText": "İslam'da 'Bid'at' ne anlama gelir?",
+      "answers": ["Hayırlı iş", "Peygamber'in yapmadığı ve sonradan dine eklenen şey", "Bir namaz türü", "Bir sadaka çeşidi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 216,
+      "questionText": "Firavun'un boğulması kıssası hangi surelerde anlatılır?",
+      "answers": ["Bakara", "Yunus", "Taha", "Hepsinde"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 217,
+      "questionText": "İslam'da helal ne anlama gelir?",
+      "answers": ["Haram", "Helal (izinli)", "Mekruh", "Mübah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 218,
+      "questionText": "İslam'da haram ne anlama gelir?",
+      "answers": ["Helal", "Haram (yasak)", "Mekruh", "Vacip"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 219,
+      "questionText": "İslam fıkhında 'mekruh' ne demektir?",
+      "answers": ["Vacip", "Haram", "Yapılması hoş görülmeyen fakat günah olmayan", "Müstehap"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 220,
+      "questionText": "'Farz' ne demektir?",
+      "answers": ["İsteğe bağlı", "Tavsiye edilen", "Zorunlu (yapılması emredilen)", "Hoş görülmeyen"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 221,
+      "questionText": "Sünni İslam'da kaç büyük fıkıh mezhebi vardır?",
+      "answers": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 222,
+      "questionText": "Aşağıdakilerden hangisi Sünni fıkıh mezhebi DEĞİLDİR?",
+      "answers": ["Hanefi", "Caferi", "Şafii", "Hanbeli"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 223,
+      "questionText": "Hanefi mezhebini kim kurmuştur?",
+      "answers": ["İmam Malik", "İmam Şafii", "İmam-ı Azam Ebu Hanife", "İmam Ahmed bin Hanbel"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 224,
+      "questionText": "İslam'da 'Fıkıh' nedir?",
+      "answers": ["Kelam", "İslam hukuku (dini hükümleri anlama)", "Tasavvuf", "İslam tarihi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 225,
+      "questionText": "'Tefsir' nedir?",
+      "answers": ["İslam hukuku", "Kur'an'ı yorumlama / açıklama", "Hadis ilmi", "Tasavvuf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 226,
+      "questionText": "Hangi şehir 'Peygamber Şehri' olarak bilinir?",
+      "answers": ["Mekke", "Medine", "Kudüs", "Şam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 227,
+      "questionText": "İslam'daki üç kutsal mescit hangileridir?",
+      "answers": ["Mescid-i Haram, Mescid-i Nebevî, Mescid-i Aksa", "Mescid-i Kubâ, Mescid-i Haram, Mescid-i Nebevî", "Mescid-i Haram, Sultanahmet Camii, Ezher", "Mescid-i Nebevî, Mescid-i Aksa, Mescid-i Kubâ"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 228,
+      "questionText": "Sadaka-i Cariye nedir?",
+      "answers": ["Tek seferlik sadaka", "Ölen kişinin ardından sevabı devam eden sadaka", "Zorunlu sadaka (zekat)", "Sadece Ramazan'da verilen sadaka"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 229,
+      "questionText": "Mescid-i Haram'da kılınan namazın diğer camilere göre sevabı kaç kat fazladır?",
+      "answers": ["10 kat", "1000 kat", "100.000 kat", "500 kat"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 230,
+      "questionText": "Zemzem suyu nedir?",
+      "answers": ["Nil suyu", "Mekke'de Kabe yakınındaki kutsal kuyudan çıkan su", "Medine'de toplanan yağmur suyu", "Lut Gölü suyu"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 231,
+      "questionText": "İslam geleneğine göre Zemzem kuyusunu hangi peygamberin eşi bulmuştur?",
+      "answers": ["Sare", "Hacer", "Meryem", "Hatice"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 232,
+      "questionText": "İslam'da 'Tevbe' nedir?",
+      "answers": ["Şükür", "Sabır", "Tövbe (Allah'a yönelip günahlardan vazgeçme)", "Tevvekkül"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 233,
+      "questionText": "İslam'da 'Sabır' nedir?",
+      "answers": ["Şükür", "Sabır ve sebat", "Sadaka", "Oruç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 234,
+      "questionText": "İslam'da 'Şükür' nedir?",
+      "answers": ["Sabır", "Allah'a karşı minnet ve teşekkür", "Oruç", "Namaz"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 235,
+      "questionText": "'Takva' nedir?",
+      "answers": ["Hac", "Allah'a karşı gelmekten sakınma ve duyarlılık", "Sadaka", "Oruç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 236,
+      "questionText": "Hacerü'l-Esved (Siyah Taş) nedir?",
+      "answers": ["Müzedeki bir göktaşı", "Kabe'nin köşesine yerleştirilmiş kutsal taş", "Sina Dağı'ndan bir taş", "Mescid-i Aksa'da bir taş"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 237,
+      "questionText": "'Tavaf' ne demektir?",
+      "answers": ["Arafat'ta vakfe", "Kabe'yi yedi kez dolaşmak", "Safa ile Merve arasında yürümek", "Şeytan taşlamak"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 238,
+      "questionText": "Hac'da 'Cemerât taşlama' nedir?",
+      "answers": ["Kabe'yi tavaf", "Şeytan sembolü taşlama", "Arafat'ta vakfe", "Sa'y yapmak"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 239,
+      "questionText": "Kur'an'ın son inen suresi (çoğunluğa göre) hangisidir?",
+      "answers": ["Fatiha", "Nasr", "Maide", "Tevbe"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 240,
+      "questionText": "Hangi sure 'Fil Suresi' olarak bilinir?",
+      "answers": ["Fil", "Bakara", "Nahl", "Ankebut"],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 241,
+      "questionText": "Fil Suresi'nin önemi nedir?",
+      "answers": ["Yiyecek kurallarını anlatır", "Ebrehe'nin filli ordusunun Mekke'ye saldırısını anlatır", "Miras hukukunu anlatır", "Kıyamet günüyle ilgilidir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 242,
+      "questionText": "'Güzel sözün güzel bir ağaca benzetildiği' ayet hangi surededir?",
+      "answers": ["İbrahim (14:24-25)", "Bakara", "Nisa", "Enfal"],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 243,
+      "questionText": "Ayetü'l-Kürsi (Kürsi ayeti) ne hakkındadır?",
+      "answers": ["Musa kıssası", "Allah'ın sıfatları ve yüceliği", "Kıyamet günü", "İnsanın yaratılışı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 244,
+      "questionText": "Hangi sure 'Örümcek' olarak bilinir?",
+      "answers": ["Neml", "Nahl", "Ankebut", "Fil"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 245,
+      "questionText": "Optik ve karanlık kutu (camera obscura) çalışmalarıyla tanınan Müslüman bilgin kimdir?",
+      "answers": ["Harezmi", "İbnü'l-Heysem", "Biruni", "Razi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 246,
+      "questionText": "Beytü'l-Hikme (Hikmet Evi) nedir?",
+      "answers": ["Mekke'de bir cami", "Abbasiler döneminde Bağdat'ta kütüphane ve akademi merkezi", "Şam'da bir pazar", "Kurtuba'da bir okul"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 247,
+      "questionText": "Hadis ilminde 'Harem imamı' olarak bilinen âlim kimdir?",
+      "answers": ["İmam-ı Azam", "İmam Malik", "İmam Şafii", "İmam Buhari"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 248,
+      "questionText": "İslam hukukunda 'Vakıf' nedir?",
+      "answers": ["Bir oruç türü", "Dini veya hayır amaçlı mülk bağışı (vakfetme)", "Nikah akdi", "Ticaret anlaşması"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 249,
+      "questionText": "İslam'da 'Riba' nedir?",
+      "answers": ["Sadaka", "Faiz (haram kılınmıştır)", "Bir namaz türü", "Ticaret"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 250,
+      "questionText": "'Ümmet' İslam'da neyi ifade eder?",
+      "answers": ["Peygamber ailesi", "Küresel Müslüman topluluğu", "Hacılar", "İslam âlimleri"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 251,
+      "questionText": "Hangi peygamber 'Kelimullah' (Allah ile konuşan) olarak bilinir?",
+      "answers": ["İbrahim", "Adem", "Musa", "Muhammed (s.a.v.)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 252,
+      "questionText": "Hz. Süleyman Allah'tan ne istemiştir?",
+      "answers": ["Zenginlik", "Kendisinden sonra hiç kimseye nasip olmayacak bir hükümranlık", "Uzun ömür", "Çok çocuk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 253,
+      "questionText": "Hz. İsa bebekken hangi mucizeyi göstermiştir?",
+      "answers": ["Su üzerinde yürümek", "Beşikte konuşmak", "Körleri iyileştirmek", "Sütten su yapmak"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 254,
+      "questionText": "Gökten indirilen sofra (maide) mucizesi hangi peygambere aittir?",
+      "answers": ["Musa", "İbrahim", "İsa", "Muhammed (s.a.v.)"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 255,
+      "questionText": "Kur'an'da Hristiyanlar ve Yahudiler için kullanılan terim nedir?",
+      "answers": ["Müşrikler", "Ehl-i Kitap", "Münafıklar", "Kâfirler"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 256,
+      "questionText": "'La ilahe illallah' ne anlama gelir?",
+      "answers": ["Allah en büyüktür", "Allah'tan başka ilah yoktur", "Hamd Allah'a mahsustur", "Bismillah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 257,
+      "questionText": "Hz. Muhammed'in (s.a.v.) torunlarının isimleri nelerdir?",
+      "answers": ["Ebu Bekir ve Ömer", "Hasan ve Hüseyin", "Hamza ve Abbas", "Zeyd ve Abdullah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 258,
+      "questionText": "Hz. Hüseyin (r.a.) Kerbela'da ne acı olayla karşılaşmıştır?",
+      "answers": ["Sürgün edildi", "Ailesiyle birlikte şehit edildi", "Büyük bir savaş kazandı", "Halife oldu"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 259,
+      "questionText": "Kerbela Savaşı miladi olarak hangi yılda gerçekleşti?",
+      "answers": ["661 M", "670 M", "680 M", "690 M"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 260,
+      "questionText": "Bazı âlimlere göre beşinci Raşit Halife kimdir?",
+      "answers": ["Yezid", "Muaviye II", "Ömer bin Abdülaziz", "Abdülmelik bin Mervan"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 261,
+      "questionText": "Aşure Günü'nün (Muharrem'in 10'u) önemi nedir?",
+      "answers": ["Peygamber'in doğumu", "Musa'nın Firavun'dan kurtulduğu gün", "Bayram günü", "Ramazan'ın başlangıcı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 262,
+      "questionText": "İslam fıkhında 'Kıyas' nedir?",
+      "answers": ["İcma", "Analojik akıl yürütme", "Re'y", "Sünnet"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 263,
+      "questionText": "İslam fıkhında 'İcma' nedir?",
+      "answers": ["Kıyas", "Re'y", "Âlimlerin görüş birliği", "Sünnet"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 264,
+      "questionText": "Makasıd-ı Şeriat nedir?",
+      "answers": ["İslam'ın beş şartı", "İslam hukukunun amaçları / hedefleri", "İmanın altı şartı", "Namaz kuralları"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 265,
+      "questionText": "Şeriat'ın korumayı hedeflediği beş şey nedir?",
+      "answers": ["Mal, toprak, aile, onur, bilgi", "Din, can, akıl, nesil, mal", "Namaz, oruç, zekat, hac, iman", "Kur'an, sünnet, icma, kıyas, örf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 266,
+      "questionText": "İslam'da 'Emanet' nedir?",
+      "answers": ["Sabır", "Güven ve sorumluluk", "Namaz", "Oruç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 267,
+      "questionText": "İslam'daki 'Tevhid' inancı nedir?",
+      "answers": ["Peygamberlik", "Allah'ın birliği", "Ahiret günü", "Zekat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 268,
+      "questionText": "İslam'da 'Şirk' nedir?",
+      "answers": ["Beş vakit namaz", "Allah'a ortak koşmak", "Zekat vermek", "Oruç tutmak"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 269,
+      "questionText": "İslam'da 'Nifak' (münafıklık) nedir?",
+      "answers": ["Samimi ibadet", "İçten inanmamışken dıştan inanmış görünmek", "Sadaka vermek", "Hacca gitmek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 270,
+      "questionText": "Münker ve Nekir melekleri neyle bilinir?",
+      "answers": ["İyi ve kötü amelleri yazmakla", "Kabirde ölüyü sorgulamakla", "Cehennemi beklemekle", "Arşı taşımakla"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 271,
+      "questionText": "İsrafil meleği neyle bilinir?",
+      "answers": ["Vahiy getirmek", "Kıyamet günü sura üflemek", "Ruhları almak", "Yağmur yağdırmak"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 272,
+      "questionText": "Mikail meleğinin görevi nedir?",
+      "answers": ["Vahiy", "Rızık ve doğa olayları", "Ölüm", "Amelleri kaydetmek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 273,
+      "questionText": "İslam eskatolojisinde 'Berzah' nedir?",
+      "answers": ["Cennet", "Ölümle diriliş arasındaki engel / ara âlem", "Cehennem", "Kıyamet günü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 274,
+      "questionText": "İslam inancında 'Sırat' nedir?",
+      "answers": ["Cennette bir nehir", "Cehennem üzerine kurulmuş, herkesin geçeceği köprü", "Cennetin kapısı", "Kıyamet günü bir dağ"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 275,
+      "questionText": "Kıyamet günü 'Mizan' nedir?",
+      "answers": ["Amel defteri", "Amellerin tartıldığı terazi", "Bir ceza türü", "Bir mükafat"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 276,
+      "questionText": "Kıyametin büyük alametleri nelerdir?",
+      "answers": ["Depremler ve seller", "Deccal'in çıkışı, Hz. İsa'nın inişi, Ye'cüc ve Me'cüc", "Güneş tutulması", "Büyük veba"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 277,
+      "questionText": "İslam eskatolojisinde 'Deccal' nedir?",
+      "answers": ["Bir melek", "Deccal / Yalancı Mesih", "Bir peygamber", "Bir kral"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 278,
+      "questionText": "'Muvatta' hadis kitabını kim derlemiştir?",
+      "answers": ["İmam Buhari", "İmam Müslim", "İmam Malik", "İmam Ahmed"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 279,
+      "questionText": "İmam Ahmed'in Müsned'i nedir?",
+      "answers": ["Bir tefsir", "Ravilere göre düzenlenmiş büyük hadis koleksiyonu", "Bir fıkıh kitabı", "Bir tecvid kitabı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 280,
+      "questionText": "Bir hadise göre ölümden sonra sevabı devam eden üç şey nedir?",
+      "answers": ["Namaz, oruç, hac", "Arkasından dua eden hayırlı evlat, sadaka-i cariye, faydalı ilim", "Mal, mülk, ticaret", "Kur'an okumak, zikir, namaz"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 281,
+      "questionText": "Cibril Hadisi'nin anlamı nedir?",
+      "answers": ["Meleklerle ilgili hadis", "Cibril'in İslam, iman ve ihsanı sorduğu hadis", "Miraç hadisi", "Oruçla ilgili hadis"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 282,
+      "questionText": "'Tâbiîn' terimi kime denir?",
+      "answers": ["Sahabiler", "Sahabeleri gören ama Peygamber'i görmeyen nesil", "Kur'an katipleri", "Modern âlimler"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 283,
+      "questionText": "Sahabe (çoğul) ne demektir?",
+      "answers": ["Âlim", "Hz. Muhammed'in (s.a.v.) ashabı / arkadaşları", "Hadis ravileri", "Kur'an hafızı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 284,
+      "questionText": "Ebu Hureyre kimdir?",
+      "answers": ["Bir asker", "En çok hadis rivayet eden sahabi", "Vahiy katibi", "Halife"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 285,
+      "questionText": "Ebu Hureyre'nin rivayet ettiği hadis sayısı yaklaşık nedir?",
+      "answers": ["500 civarı", "1.500 civarı", "5.374 civarı", "10.000 civarı"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 286,
+      "questionText": "Kur'an ile Hadis-i Kutsi arasındaki fark nedir?",
+      "answers": ["Hiçbir fark yok", "Kur'an Allah'ın lafzıyla; Hadis-i Kutsi, Allah'ın anlamını Peygamber'in kendi sözleriyle aktarmasıdır", "Hadis-i Kutsi daha sahihtir", "Kur'an sadece namazda okunur"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 287,
+      "questionText": "Arılar ve baldan bahseden sure hangisidir?",
+      "answers": ["Nahl (Arı)", "Neml (Karınca)", "Ankebut (Örümcek)", "Fil (Fil)"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 288,
+      "questionText": "Demir ve faydalarından bahseden sure hangisidir?",
+      "answers": ["Bakara", "Hadid (Demir)", "Nisa", "Maide"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 289,
+      "questionText": "Hangi sure 'Nur' (Işık) olarak bilinir?",
+      "answers": ["İsra", "Nur", "Furkan", "Yasin"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 290,
+      "questionText": "Hangi sure 'Furkan' (Hak ile batılı ayıran) olarak bilinir?",
+      "answers": ["Furkan", "Nur", "Hac", "Müminun"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 291,
+      "questionText": "'Furkan' ne anlama gelir?",
+      "answers": ["Işık", "Hak ile batılı ayıran kriter", "Rahmet", "Açılış"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 292,
+      "questionText": "Bahçe sahipleri kıssası hangi surededir?",
+      "answers": ["Kehf", "Kalem (Nun)", "Bakara", "Rahman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 293,
+      "questionText": "Kur'an'da bir kadının adını taşıyan tek sure hangisidir?",
+      "answers": ["Nisa", "Meryem", "Mücadele", "Talâk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 294,
+      "questionText": "Rüya tabiri ile bilinen peygamber hangisidir?",
+      "answers": ["Davud", "Süleyman", "Yusuf", "İbrahim"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 295,
+      "questionText": "Hz. Yusuf, kralın yedi semiz ve yedi cılız sığır rüyasını nasıl yorumlamıştır?",
+      "answers": ["Savaş ve barış", "Yedi yıl bolluk, ardından yedi yıl kıtlık", "Zenginlik ve fakirlik", "Doğum ve ölüm"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 296,
+      "questionText": "İshak ve İsmail'in babası olan peygamber hangisidir?",
+      "answers": ["Adem", "Nuh", "İbrahim", "Yakub"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 297,
+      "questionText": "Hz. Nuh kaç yıl tebliğde bulunmuştur?",
+      "answers": ["100 yıl", "500 yıl", "950 yıl", "200 yıl"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 298,
+      "questionText": "Denizi yaran (yarıp geçen) peygamber hangisidir?",
+      "answers": ["Nuh", "İbrahim", "Musa", "Süleyman"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 299,
+      "questionText": "Hz. İsa'ya hangi kitap indirilmiştir?",
+      "answers": ["Tevrat", "Zebur", "İncil", "Kur'an"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 300,
+      "questionText": "Hz. Davud'un oğlu olan peygamber hangisidir?",
+      "answers": ["Musa", "Süleyman", "Yunus", "Eyyüb"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 301,
+      "questionText": "Hz. Davud'un mucizesi neydi?",
+      "answers": ["Uçabilmesi", "Demiri yumuşatması ve dağların onunla birlikte tesbih etmesi", "Su üstünde yürümesi", "Görünmez olması"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 302,
+      "questionText": "Hem peygamber hem de hükümdar (kral) olan peygamber hangileridir?",
+      "answers": ["Muhammed (s.a.v.)", "Davud", "İbrahim", "Hem Davud hem Süleyman"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 303,
+      "questionText": "Ölü bir kuşu canlandırma mucizesi hangi peygambere aittir?",
+      "answers": ["Musa", "İsa", "İbrahim", "Hem İsa hem İbrahim"],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 304,
+      "questionText": "Hz. Muhammed'in (s.a.v.) kabilesi hangisidir?",
+      "answers": ["Kureyş'in Haşimoğulları", "Beni Temim", "Evs", "Hazrec"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 305,
+      "questionText": "Hz. Muhammed'in (s.a.v.) babasının adı nedir?",
+      "answers": ["Ebu Talib", "Abdullah", "Abdülmuttalib", "Hamza"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 306,
+      "questionText": "Hz. Muhammed'in (s.a.v.) annesinin adı nedir?",
+      "answers": ["Hatice", "Amine", "Halime", "Fatıma"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 307,
+      "questionText": "Hz. Muhammed (s.a.v.) annesinin vefatından sonra kimin yanında büyüdü?",
+      "answers": ["Ebu Bekir", "Amcası Ebu Talib", "Önce dedesi Abdülmuttalib, sonra amcası Ebu Talib", "Varaka bin Nevfel"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 308,
+      "questionText": "Halime-i Sa'diyye kimdir?",
+      "answers": ["Peygamber'in annesi", "Peygamber'in süt annesi", "Peygamber'in eşi", "Peygamber'in kızı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 309,
+      "questionText": "Peygamberlik öncesi Hz. Muhammed (s.a.v.) hangi meslekle bilinirdi?",
+      "answers": ["Çiftçilik", "Tüccarlık", "Demircilik", "Çobanlık ve tüccarlık"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 310,
+      "questionText": "Peygamberlik öncesi Hz. Muhammed'e (s.a.v.) karakterinden dolayı verilen unvan nedir?",
+      "answers": ["Muhtar", "El-Emin (Güvenilir)", "Faruk", "Sıddık"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 311,
+      "questionText": "Hz. Musa ile Hz. Harun'un akrabalığı nedir?",
+      "answers": ["Baba-oğul", "Kardeşler", "Kuzenler", "Öğretmen-öğrenci"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 312,
+      "questionText": "İslam geleneğine göre marangozluk yapan peygamber hangisidir?",
+      "answers": ["Adem", "Nuh", "İdris", "Zekeriyya"],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 313,
+      "questionText": "Hz. Yahya kimdir?",
+      "answers": ["İbrahim'in oğlu", "Zekeriyya'nın oğlu", "Davud'un oğlu", "Süleyman'ın oğlu"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 314,
+      "questionText": "Kur'an'da Hz. Zekeriyya bir oğul (Yahya) müjdesini nasıl almıştır?",
+      "answers": ["Rüya ile", "Mihrabında namaz kılarken melekler aracılığıyla", "Başka bir peygamberle", "Eşi aracılığıyla"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 315,
+      "questionText": "Allah Hz. İbrahim'i oğlu İsmail ile hangi imtihana tabi tutmuştur?",
+      "answers": ["Çölde bırakmak", "Onu kurban etmek", "Yolculuğa göndermek", "Hem A hem B"],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 316,
+      "questionText": "Hz. İbrahim oğlunu kurban edeceği sırada yerine ne gönderilmiştir?",
+      "answers": ["Bir deve", "Bir koç", "Bir keçi", "Bir inek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 317,
+      "questionText": "İsra olayı nedir?",
+      "answers": ["Medine'ye hicret", "Mekke'den Mescid-i Aksa'ya gece yolculuğu", "Mekke'nin fethi", "İlk vahiy"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 318,
+      "questionText": "Miraç nedir?",
+      "answers": ["Hicret", "Peygamber'in gök katlarına yükselişi", "Bir namaz türü", "Bir savaş"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 319,
+      "questionText": "Miraç'ta hangi ibadet farz kılındı?",
+      "answers": ["Oruç", "Hac", "Beş vakit namaz", "Zekat"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 320,
+      "questionText": "Başlangıçta kaç vakit namaz farz kılınmış, daha sonra beşe indirilmiştir?",
+      "answers": ["10", "25", "50", "100"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 321,
+      "questionText": "Namazların indirilmesi sırasında Hz. Muhammed'e namaz sayısını azaltmasını tavsiye eden peygamber hangisidir?",
+      "answers": ["İbrahim", "İsa", "Musa", "Adem"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 322,
+      "questionText": "'Bereket' ne anlama gelir?",
+      "answers": ["Ceza", "İlâhî lütuf ve bolluk / artış", "Hikmet", "Temizlik"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 323,
+      "questionText": "'Dua' nedir?",
+      "answers": ["Bir oruç türü", "Allah'a yalvarma / kişisel yakarış", "Kur'an'ın bir bölümü", "Hac ritüeli"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 324,
+      "questionText": "Şaban ayının 15. gecesinin (Berat Gecesi) önemi nedir?",
+      "answers": ["Bayramdır", "Bazı hadislere göre mağfiret ve rahmet gecesidir", "Ramazan'ın başlangıcıdır", "Arefe günüdür"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 325,
+      "questionText": "İslam ilimlerinde 'Siyer' nedir?",
+      "answers": ["Hadis ilmi", "Hz. Muhammed'in (s.a.v.) hayatı / biyografisi", "Kur'an tefsiri", "İslam hukuku"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 326,
+      "questionText": "İlk büyük siyer (Peygamber biyografisi) kitabını yazan kimdir?",
+      "answers": ["İbn Hişam", "İbn İshak", "Taberî", "İbn Kesir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 327,
+      "questionText": "İslam'da 'Akide' nedir?",
+      "answers": ["İslam hukuku", "İslam inanç esasları", "İslam tarihi", "İslam sanatı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 328,
+      "questionText": "Tasavvuf nedir?",
+      "answers": ["İslam hukuku", "İçsel arınmaya odaklanan İslam mistisizmi", "İslam teolojisi", "Politik İslam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 329,
+      "questionText": "'İhyâ-u Ulûmiddin' (Din Bilimlerini Canlandırma) adlı eseri kim yazmıştır?",
+      "answers": ["İbn Rüşd", "Gazzali", "İbn Sina", "İbn Teymiyye"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 330,
+      "questionText": "Hutbe nedir?",
+      "answers": ["Bir oruç türü", "Özellikle Cuma namazı öncesi okunan vaaz / hitabe", "Bir sadaka türü", "Evlenme teklifi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 331,
+      "questionText": "İslam'da 'Nikah' nedir?",
+      "answers": ["Boşanma", "Evlilik akdi", "Sadaka", "Miras"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 332,
+      "questionText": "İslam nikahında 'Mehir' nedir?",
+      "answers": ["Düğün", "Damadın geline vermesi gereken bir miktar mal / hediye", "Bir namaz türü", "Nikah belgesi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 333,
+      "questionText": "Velime (düğün yemeği) nedir?",
+      "answers": ["Nikah akdi", "Evlilik ziyafeti", "Boşanma", "Bir namaz"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 334,
+      "questionText": "Muhakkak zorlukla beraber bir kolaylık vardır' ayeti hangi surededir?",
+      "answers": ["Bakara", "İnşirah", "Fatiha", "Nas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 335,
+      "questionText": "Nur (ışık) ayeti hangi surededir?",
+      "answers": ["Bakara", "Nur (24:35)", "İsra", "Mülk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 336,
+      "questionText": "'Cennet' İslam'da neyi ifade eder?",
+      "answers": ["Cehennem", "Cennet", "Kabir", "Dünya hayatı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 337,
+      "questionText": "'Cehennem' neyi ifade eder?",
+      "answers": ["Cennet", "Cehennem", "Kabir", "Araf"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 338,
+      "questionText": "Hadise göre cennetin kaç kapısı vardır?",
+      "answers": ["4", "7", "8", "12"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 339,
+      "questionText": "Oruç tutanların cennete gireceği kapının adı nedir?",
+      "answers": ["Babüssalât", "Reyyân Kapısı", "Babülcihad", "Babüssadaka"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 340,
+      "questionText": "'Kader' (Kaza ve Kader) nedir?",
+      "answers": ["Özgür irade", "Allah'ın her şeyi önceden takdir etmesi ve yaratması", "Bir namaz türü", "Bir hadis sınıfı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 341,
+      "questionText": "Levh-i Mahfuz'daki yazılmış kader ile icra edilen kader arasındaki fark nedir?",
+      "answers": ["Fark yok", "Levh-i Mahfuz'daki yazılı; icra edilen Allah'ın dilemesiyle zaman içinde gerçekleşendir", "Levh-i Mahfuz sadece peygamberler için, icra edilen herkes için", "Levh-i Mahfuz Kur'an, icra edilen hadis"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 342,
+      "questionText": "Hangi sure güneşe yeminle başlar?",
+      "answers": ["Fecr", "Şems", "Leyl", "Duha"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 343,
+      "questionText": "Hangi sure 'kuşluk vakti'ne yeminle başlar?",
+      "answers": ["Fecr", "Şems", "Duha", "Leyl"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 344,
+      "questionText": "Hangi sure 'Asra yemin olsun ki, insan mutlaka ziyandadır' diye başlar?",
+      "answers": ["Asr", "Duha", "Fecr", "Leyl"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 345,
+      "questionText": "Asr suresi neyi öğütler?",
+      "answers": ["Miras kuralları", "İman, salih amel, hakkı tavsiye ve sabrı tavsiye", "Musa kıssası", "Namaz kuralları"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 346,
+      "questionText": "Mekke'nin fethinden önce Medine döneminde Müslümanlar hangi savaşları yaptı?",
+      "answers": ["Bedir, Uhud, Hendek", "Ayn Calut", "Yermük", "Kadisiye"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 347,
+      "questionText": "Bedir Savaşı'nın sonucu ne olmuştur?",
+      "answers": ["Müslümanlar yenildi", "Sayıca az olmalarına rağmen Müslümanlar galip geldi", "Berabere", "Geri çekilme"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 348,
+      "questionText": "Bedir Savaşı'na kaç Müslüman katılmıştır?",
+      "answers": ["Yaklaşık 100", "Yaklaşık 313", "Yaklaşık 700", "Yaklaşık 1000"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 349,
+      "questionText": "'Muhammed' isminin anlamı nedir?",
+      "answers": ["Güvenilir", "Övülmüş / Hamd edilen", "Lider", "Peygamber"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 350,
+      "questionText": "'Ahmed' isminin anlamı nedir (Peygamber'in diğer adı)?",
+      "answers": ["Lider", "En çok övülen", "Dürüst", "Cömert"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 351,
+      "questionText": "Siyer-i Nebi nedir?",
+      "answers": ["Kur'an tefsiri", "Hz. Muhammed'in (s.a.v.) biyografisi", "Hadis koleksiyonu", "İslam hukuku"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 352,
+      "questionText": "Hangi sure Ebu Leheb'i uyarır?",
+      "answers": ["Fatiha", "Tebbet (Leheb)", "Kafirun", "Nasr"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 353,
+      "questionText": "İslam'da 'Tefekkür' ne demektir?",
+      "answers": ["Oruç", "Derin düşünme / tefekkür", "Sadaka", "Tilavet"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 354,
+      "questionText": "Güzel ahlak (Hüsn-ü hulk) İslam'a göre ne ifade eder?",
+      "answers": ["Zenginlik", "Kıyamet günü terazide en ağır gelen şeylerden biri", "Bir namaz türü", "Fiziksel güç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 355,
+      "questionText": "Bir hadise göre 'Müslüman, dilinden ve elinden...'",
+      "answers": ["...diğerlerinin faydalandığı kimsedir", "...diğer Müslümanların güvende olduğu kimsedir", "...ilim saçandır", "...dua edendir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 356,
+      "questionText": "'İşleri kolaylaştırın, zorlaştırmayın' hadisi neyi öğretir?",
+      "answers": ["Tüm zorluklardan kaçınmayı", "Dinde kolaylaştırma ve yumuşaklık prensibini", "Asla oruç tutmamayı", "Zorunlu ibadetleri terk etmeyi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 357,
+      "questionText": "Mescid-i Aksa'nın İslam'daki önemi nedir?",
+      "answers": ["Peygamber'in doğum yeri", "İlk kıble ve İsra'nın hedefi", "En büyük cami", "Peygamber tarafından inşa edilmiştir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 358,
+      "questionText": "Hangi sure 'Rum' (Romalılar) olarak adlandırılmıştır?",
+      "answers": ["Kasas", "Rum", "Lokman", "Secde"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 359,
+      "questionText": "Rum Suresi'nde Romalılar hakkında ne tahmini yapılmıştır?",
+      "answers": ["Sonsuza kadar yıkılacakları", "Birkaç yıl içinde Persleri yenecekleri", "İslam'ı kabul edecekleri", "Büyük bir tapınak inşa edecekleri"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 360,
+      "questionText": "Anne-baba ile evlat ilişkisinde hikmetli öğütler içeren sure hangisidir?",
+      "answers": ["İbrahim", "Lokman", "Nuh", "Hud"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 361,
+      "questionText": "Muavvizeteyn (koruyucu sureler) hangileridir?",
+      "answers": ["Fatiha ve Bakara", "İhlas, Felak ve Nas", "Yasin ve Rahman", "Mülk ve Secde"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 362,
+      "questionText": "İslam'da 'Rukye' nedir?",
+      "answers": ["Bir sadaka türü", "Kur'an ve dua ile tedavi / korunma", "Nikah akdi", "Hac ritüeli"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 363,
+      "questionText": "İslam'da 'Adalet' anlayışı nedir?",
+      "answers": ["İsteğe bağlıdır", "Kur'an'da emredilen temel bir değerdir", "Sadece mahkemeler için geçerlidir", "Sadece yöneticiler içindir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 364,
+      "questionText": "Kendine karşı bile adaleti emreden sure hangisidir?",
+      "answers": ["Bakara", "Nisa (4:135)", "Maide", "Enfal"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 365,
+      "questionText": "Kur'an'ın 'masum bir cana kıyma' konusundaki görüşü nedir?",
+      "answers": ["Küçük günahtır", "Bütün insanlığı öldürmüş gibidir (Maide 5:32)", "Kolayca affedilir", "Bahsi geçmez"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 366,
+      "questionText": "Kur'an tefsiri konusundaki derin bilgisiyle bilinen sahabi kimdir?",
+      "answers": ["Ebu Hureyre", "Abdullah bin Abbas", "Enes bin Malik", "Bilal"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 367,
+      "questionText": "Abdullah bin Abbas'a verilen unvan nedir?",
+      "answers": ["Allah'ın Kılıcı", "Ümmetin Bilgini (Hibrü'l-Ümme)", "Allah'ın Aslanı", "İslam'ın Kalkanı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 368,
+      "questionText": "Hz. Aişe (r.a.) âlimler nezdinde neyle bilinir?",
+      "answers": ["Müminlerin Annesi ve önemli bir hadis kaynağı", "Askeri lider", "Vahiy katibi", "Hakim"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 369,
+      "questionText": "İslam yönetiminde 'Hisbe' nedir?",
+      "answers": ["Vergi toplama", "Pazar denetimi ve kamu ahlakının gözetilmesi", "Askeri liderlik", "Yargı süreci"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 370,
+      "questionText": "İslam hukukunda 'Cizye' nedir?",
+      "answers": ["Bir zekat türü", "Müslüman yönetim altındaki gayrimüslimlerin korunma karşılığında ödediği vergi", "Toprak vergisi", "Ticaret vergisi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 371,
+      "questionText": "'İslam' kelimesinin sözlük anlamı nedir?",
+      "answers": ["Barış", "Allah'ın iradesine teslimiyet", "Namaz", "Topluluk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 372,
+      "questionText": "'Müslüman' kelimesinin anlamı nedir?",
+      "answers": ["Muhammed'in takipçisi", "Allah'a teslim olan", "Barışsever", "Bilgili kişi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 373,
+      "questionText": "'Selam' ve önemi nedir?",
+      "answers": ["Bir dua", "Selamlaşma (Esselamü aleyküm)", "Bir oruç", "Bir sadaka"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 374,
+      "questionText": "Hadise göre selamı yaymak neye vesile olur?",
+      "answers": ["Zenginliğe", "Müslümanlar arasında sevgiye ve cennete girmeye", "İlme", "Güce"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 375,
+      "questionText": "İstiğfar nedir?",
+      "answers": ["Şükür", "Allah'tan bağışlanma dilemek", "Bir oruç türü", "Hac ritüeli"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 376,
+      "questionText": "Peygamber (s.a.v.) günde kaç kez istiğfar ederdi?",
+      "answers": ["10 kez", "50 kez", "70 veya daha fazla", "100 kez"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 377,
+      "questionText": "Peygamber'e salavat (salli-barik) getirmek nedir?",
+      "answers": ["Bir zekat türü", "Peygamber'e rahmet ve selam okumak", "Hac ritüeli", "Oruç kuralı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 378,
+      "questionText": "Kur'an'a göre 'Ulü'l-Azm' peygamberler kimlerdir?",
+      "answers": ["Adem, İdris, Nuh, Hud, Salih", "Nuh, İbrahim, Musa, İsa, Muhammed (s.a.v.)", "Adı geçen 25 peygamber", "Davud, Süleyman, Eyyüb, Yunus, İlyas"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 379,
+      "questionText": "'Ulü'l-Azm' ne anlama gelir?",
+      "answers": ["Zengin peygamberler", "Azim ve kararlılık sahibi peygamberler", "İlk peygamberler", "Son peygamberler"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 380,
+      "questionText": "Kur'an'da 'Hikmet' nedir?",
+      "answers": ["Sadece Kur'an'a işaret eder", "Derin anlayış, genellikle Sünnet veya isabetli kararla ilişkilendirilir", "Bir namaz türü", "Tarihi olay"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 381,
+      "questionText": "Halife ne demektir?",
+      "answers": ["Kral", "Halife / Vekil", "Yargıç", "Âlim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 382,
+      "questionText": "Cenaze namazı nedir?",
+      "answers": ["Cuma namazı", "Ölen kişi için kılınan namaz", "Bayram namazı", "Teheccüt namazı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 383,
+      "questionText": "Cenaze namazında kaç tekbir alınır?",
+      "answers": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 384,
+      "questionText": "Cenazeye katılmanın İslam'daki hükmü nedir?",
+      "answers": ["Haram", "Farz-ı Kifaye (toplumsal görev)", "Sadece sünnet", "Haram"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 385,
+      "questionText": "Bir hadise göre, Müslümanın Müslüman üzerindeki hakları arasında hasta ziyareti de vardır. Diğer haklar nelerdir?",
+      "answers": ["Borç vermek ve işinde yardım", "Selamı almak, cenazeye katılmak, daveti kabul etmek, aksırana 'Yerhamükellah' demek", "Hediye vermek ve yemek paylaşmak", "Kur'an öğretmek ve borç ödemek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 386,
+      "questionText": "İslam'da 'Şefaat' kavramı nedir?",
+      "answers": ["Yağmur duası", "Kıyamet günü Allah'ın izniyle Peygamber veya salih kişilerin şefaat etmesi", "Bir sadaka türü", "Hukuki hüküm"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 387,
+      "questionText": "Kıyamet günü 'Makam-ı Mahmud' (övülmüş makam) hangi peygambere verilecektir?",
+      "answers": ["İbrahim", "Musa", "İsa", "Muhammed (s.a.v.)"],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 388,
+      "questionText": "Peygamber'in 'Havz-ı Kevser' (Havuz) nedir?",
+      "answers": ["Cennette bir nehir", "Kıyamet günü müminlerin içeceği bir havuz", "Medine'de bir göl", "Mekke'de bir kuyu"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 389,
+      "questionText": "Kevser Suresi'nde bahsedilen cennet nehri hangisidir?",
+      "answers": ["Selsebil", "Kevser", "Tasnim", "Zemzem"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 390,
+      "questionText": "Kur'an'da zikredilen cennet nehirlerinin isimleri nelerdir?",
+      "answers": ["Su, süt, şarap (bal) ve bal nehirleri", "Altın ve gümüş nehirleri", "Yağ ve parfüm nehirleri", "Nur ve ateş nehirleri"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 391,
+      "questionText": "Yıldızların döküldüğü, denizlerin kaynaştığı kıyamet sahneleri hangi surede anlatılır?",
+      "answers": ["Mülk", "Tekvir", "Bürûc", "Kevser"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 392,
+      "questionText": "Hangi sure 'Gök yarıldığı zaman' diye başlar?",
+      "answers": ["Tekvir", "İnfitâr", "İnşikak", "Karia"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 393,
+      "questionText": "İslam eskatolojisinde 'Sûr' (Borazan) nedir?",
+      "answers": ["Cennette bir müzik aleti", "İsrafil'in kıyameti başlatmak için üfleyeceği boru", "Ezan", "Savaş borusu"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 394,
+      "questionText": "Sûr kaç kez üflenecektir?",
+      "answers": ["Bir", "İki", "Üç", "Yedi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 395,
+      "questionText": "Birinci sûr üflemesinde ne olur?",
+      "answers": ["Hiçbir şey", "Tüm yaratılış ölür / yok olur", "İnsanlar dirilir", "Cennet açılır"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 396,
+      "questionText": "İkinci sûr üflemesinde ne olur?",
+      "answers": ["Tüm yaratılış ölür", "Hepsi dirilip hesap için toplanır", "Cennet yaratılır", "Hiçbir şey"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 397,
+      "questionText": "Kıyamet Günü (Yevmü'l-Kıyame) nedir?",
+      "answers": ["Cuma", "Hesap ve diriliş günü", "Bir bayram", "Yaratılışın ilk günü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 398,
+      "questionText": "Kur'an'a göre ilk diriltilecek kişi kimdir?",
+      "answers": ["Adem", "İbrahim", "Muhammed (s.a.v.)", "Musa"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 399,
+      "questionText": "İslam'da 'Ruh' hakkındaki görüş nedir?",
+      "answers": ["Tamamen anlaşılmıştır", "Gerçek mahiyetini yalnızca Allah bilir (İsra 17:85)", "Nurdan yapılmıştır", "Yoktur"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 400,
+      "questionText": "'Ve sana ruhtan soruyorlar...' ayeti hangi surededir?",
+      "answers": ["Bakara", "İsra (17:85)", "Meryem", "Taha"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 401,
+      "questionText": "İslam'da 'İsm' (günah) nedir?",
+      "answers": ["Hayırlı iş", "Günah", "Namaz", "Oruç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 402,
+      "questionText": "İslam'da 'Kebair' nedir?",
+      "answers": ["Küçük günahlar", "Büyük günahlar", "Hayırlı işler", "Sadaka"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 403,
+      "questionText": "Bir hadise göre en büyük günah hangisidir?",
+      "answers": ["Hırsızlık", "Allah'a ortak koşmak (şirk)", "Yalan", "Gıybet"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 404,
+      "questionText": "Gıybet nedir?",
+      "answers": ["Birini övmek", "Bir kimsenin hoşlanmayacağı şeyi arkasından söylemek", "Birine yalan iftira", "Birini görmezden gelmek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 405,
+      "questionText": "Bühtan (iftira) nedir?",
+      "answers": ["Doğru dedikodu", "Bir kimseye yalan bir şey isnat etmek", "Aşırı övmek", "Doğru eleştiri"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 406,
+      "questionText": "Kur'an gıybeti neye benzetir?",
+      "answers": ["Hırsızlık", "Ölü kardeşinin etini yemek (49:12)", "Adam öldürmek", "Yalan"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 407,
+      "questionText": "Hased (kıskançlık) ve hükmü nedir?",
+      "answers": ["Teşvik edilir", "Hem Kur'an hem hadiste yasaklanmıştır", "Azı serbesttir", "İslam'da geçmez"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 408,
+      "questionText": "Bir hadise göre 'Hasetten sakının, çünkü haset...'",
+      "answers": ["...kalbi güçlendirir", "...ateşin odunu yediği gibi iyilikleri yer", "...zekâ belirtisidir", "...mal getirir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 409,
+      "questionText": "Ezan nedir?",
+      "answers": ["Bir namaz türü", "Namaza çağrı", "Bir dua", "Bir kıraat tarzı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 410,
+      "questionText": "Kâmet nedir?",
+      "answers": ["İlk ezan", "Namazdan hemen önce okunan ikinci çağrı", "Namaz sonrası dua", "Bir zikir türü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 411,
+      "questionText": "Ezan ile kâmet arasında yapılan dua hakkında ne söylenmiştir?",
+      "answers": ["Dua kabul olmaz", "Dua kabul olur ve reddedilmez", "Sessiz kalınır", "Sadece Kur'an okunur"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 412,
+      "questionText": "İslam fıkhında 'İctihad' nedir?",
+      "answers": ["Körü körüne taklit", "Yetkili bir âlimin bağımsız hüküm çıkarması", "Hadis ezberlemek", "Kur'an okumak"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 413,
+      "questionText": "Taklid nedir?",
+      "answers": ["Bağımsız akıl yürütme", "Delilini bilmeden yetkili bir âlimin görüşünü takip etme", "Tüm görüşleri reddetme", "Bir namaz türü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 414,
+      "questionText": "Fetva nedir?",
+      "answers": ["Devlet emri", "Bir âlimin bağlayıcı olmayan dini hükmü", "Parlamento kanunu", "Mahkeme kararı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 415,
+      "questionText": "Müftü kimdir?",
+      "answers": ["Hakim", "Fetva vermeye yetkili âlim", "İmam", "Kur'an hafızı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 416,
+      "questionText": "Müftü ile kadı arasındaki fark nedir?",
+      "answers": ["Fark yok", "Müftü bağlayıcı olmayan görüş bildirir; kadı bağlayıcı yargı kararı verir", "Müftü daha kıdemlidir", "Kadı fetva verir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 417,
+      "questionText": "İnsanın çamurdan yaratılışından bahseden sure hangileridir?",
+      "answers": ["Birçok sure (Hicr 15:26 gibi)", "Sadece Bakara", "Sadece Nisa", "Kur'an'da geçmez"],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 418,
+      "questionText": "Vakıa Suresi'nin bir hadise göre önemi nedir?",
+      "answers": ["Nazardan korur", "Fakirlikten korur", "Evlilikle ilgilidir", "Oruçla ilgilidir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 419,
+      "questionText": "Yatmadan önce okunması tavsiye edilen sure hangisidir?",
+      "answers": ["Bakara", "Mülk", "Fatiha", "Nasr"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 420,
+      "questionText": "Bir hadise göre Bakara suresinin son iki ayetini gece okumak ne için yeterlidir?",
+      "answers": ["Cenneti kazanmaya", "Gece boyunca korunmaya", "Fazla sevaba", "Teheccüt yerine geçer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 421,
+      "questionText": "Mizab-ı Rahmet (Rahmet oluğu) nedir?",
+      "answers": ["Medine'de bir kuyu", "Kabe'nin üzerindeki altın oluk", "Cennette bir çeşme", "Mekke'de bir nehir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 422,
+      "questionText": "Kabe'deki 'Hatim' (Hicr-i İsmail) nedir?",
+      "answers": ["Bir pazar yeri", "İbrahim tarafından inşa edilen orijinal Kabe'nin bir parçası olan yarım daire duvar", "Mezarlık", "Kütüphane"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 423,
+      "questionText": "Kabe'de 'Mültezem' nedir?",
+      "answers": ["Kapı", "Hacerü'l-Esved ile Kabe kapısı arasındaki dua edilen bölge", "Çatı", "Kabe'nin içi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 424,
+      "questionText": "Makam-ı İbrahim nedir?",
+      "answers": ["Bir cami", "Kabe yakınında İbrahim'in ayak izi bulunan taş", "Bir dağ", "Bir kuyu"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 425,
+      "questionText": "Arapçada 'Hareke' nedir?",
+      "answers": ["Harfler", "Hareke (üstün, esre, ötre)", "Noktalama", "Rakamlar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 426,
+      "questionText": "Tecvidde 'Vakf' nedir?",
+      "answers": ["Bir harf türü", "Kur'an okurken durma / duraklama kuralları", "Hareke", "Grammer kuralı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 427,
+      "questionText": "Tecvidde 'İdğam' nedir?",
+      "answers": ["Uzatma", "Harfleri birbirine katma / idğam", "Gizleme", "Açıklama"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 428,
+      "questionText": "Tecvidde 'Med' nedir?",
+      "answers": ["Durma", "Ses uzatma", "İdğam", "Genizden okuma"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 429,
+      "questionText": "Tecvidde 'Ğunne' nedir?",
+      "answers": ["Uzatma", "Genizden gelen ses (nûn ve mim)", "Sessiz harf", "Vurgu"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 430,
+      "questionText": "Arap harflerine noktaları kim eklemiştir?",
+      "answers": ["Hz. Muhammed (s.a.v.)", "Ebu'l-Esved ed-Dü'eli / Haccac dönemi", "Ebu Bekir", "Ömer"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 431,
+      "questionText": "Kadisiye Savaşı (636 M) nedir?",
+      "answers": ["Romalılara karşı savaş", "Müslümanların Sasani (Pers) İmparatorluğu'nu yendiği belirleyici savaş", "Deniz savaşı", "Mekke kuşatması"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 432,
+      "questionText": "Kadisiye Savaşı'nda Müslüman ordusunu kim yönetti?",
+      "answers": ["Halid bin Velid", "Sa'd bin Ebi Vakkas", "Amr bin As", "Ebu Ubeyde"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 433,
+      "questionText": "Ebu Ubeyde bin Cerrah kimdir?",
+      "answers": ["Emevi halifesi", "'Ümmetin Emîni' (Güvenilir Kişi) olarak bilinen sahabi", "Hadis âlimi", "Şair"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 434,
+      "questionText": "Kur'an bağlamında 'Eşmât' nedir?",
+      "answers": ["Sure isimleri", "Kur'an'ın çeşitli kıraat (okuyuş) vecihleri", "Arapça gramer kuralları", "Ayet türleri"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 435,
+      "questionText": "Kur'an'ın tanınmış kıraat sayısı kaçtır?",
+      "answers": ["3", "7", "10", "14"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 436,
+      "questionText": "Kur'an'ı ezberleyen ilk hafız kimdir?",
+      "answers": ["Ebu Bekir", "Osman", "Hz. Muhammed (s.a.v.)", "Zeyd bin Sabit"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 437,
+      "questionText": "Kur'an ilimlerinde 'Tenzil' ve 'Te'vil' nedir?",
+      "answers": ["Fark yok", "Tenzil lafzî/sözlük anlam, te'vil ise derin yorum / tevil", "Her ikisi de çeviri", "Tenzil nesh anlamına gelir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Kur'an"
+    },
+    {
+      "id": 438,
+      "questionText": "Geleneğe göre Kur'an'ı en çok ezberleyen sahabi kimdir?",
+      "answers": ["Ebu Bekir", "Abdullah bin Mes'ud", "Übey bin Ka'b", "Birçok sahabi tamamen ezberlemiştir"],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 439,
+      "questionText": "Tilavet secdesi nedir?",
+      "answers": ["Şükür secdesi", "Belirli ayetleri okurken veya dinlerken yapılan secde", "Sehiv secdesi", "Kıyamda durma"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 440,
+      "questionText": "Kur'an'da kaç yerde tilavet secdesi vardır?",
+      "answers": ["10", "14 veya 15 (mezheplere göre)", "20", "7"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 441,
+      "questionText": "Kur'an'da 'Tedebbür' nedir?",
+      "answers": ["Ezberleme", "Ayetler üzerinde derin düşünme ve anlama", "Hızlı okuma", "Tercüme"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 442,
+      "questionText": "Kur'an'da çocukken hikmet verilen peygamber olarak bahsedilen kimdir?",
+      "answers": ["Musa", "İsa", "Yahya", "Yusuf"],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 443,
+      "questionText": "Hangi peygamberin kavmi altın buzağıya tapmıştır?",
+      "answers": ["İbrahim'in kavmi", "Musa'nın kavmi (İsrailoğulları)", "Nuh'un kavmi", "Hud'un kavmi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 444,
+      "questionText": "İsrailoğulları için altın buzağıyı kim yapmıştır?",
+      "answers": ["Firavun", "Samiri", "Karun", "Haman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 445,
+      "questionText": "Kur'an'da 'Karun' kimdir?",
+      "answers": ["Bir peygamber", "Musa'nın kavminden zenginliğiyle böbürlenen bir kişi", "Bir kral", "Bir rahip"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 446,
+      "questionText": "Kur'an'a göre Karun'un sonu ne olmuştur?",
+      "answers": ["Tövbe etti", "Yer onu ve evini yere batırdı", "Peygamber oldu", "Affedildi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 447,
+      "questionText": "Kur'an'da adı geçen 'Lokman' kimdir?",
+      "answers": ["Bir peygamber", "Oğluna öğütler veren bilge kişi", "Bir kral", "Bir melek"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 448,
+      "questionText": "Lokman'ın oğluna ilk öğüdü neydi?",
+      "answers": ["Cömert ol", "Allah'a şirk koşma (Allah'a ortak koşmaktan sakın)", "Beş vakit namaz kıl", "Sadaka ver"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 449,
+      "questionText": "Cuma namazının hükmü nedir?",
+      "answers": ["Sünnet", "Erkek Müslümanlara farz-ı ayn", "Müstehap", "Sadece Ramazan'da vacip"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 450,
+      "questionText": "Cuma namazının farzı kaç rekâttır?",
+      "answers": ["4", "3", "2", "1"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 451,
+      "questionText": "Cuma gününde duanın kabul olduğu özel bir vakit var mıdır?",
+      "answers": ["Yoktur", "Duânın kabul edildiği bir saat vardır", "Oruç tutmak farzdır", "Fazladan namaz farzdır"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 452,
+      "questionText": "Bir hadise göre 'günlerin efendisi' hangi gündür?",
+      "answers": ["Pazartesi", "Perşembe", "Cuma", "Cumartesi"],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 453,
+      "questionText": "Cuma günü okunması tavsiye edilen sure hangisidir?",
+      "answers": ["Bakara", "Kehf", "Yasin", "Rahman"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 454,
+      "questionText": "İ'tikaf nedir ve genellikle ne zaman yapılır?",
+      "answers": ["Şevval ayında oruç", "Genellikle Ramazan'ın son on gününde mescitte ibadetle inzivaya çekilmek", "Bayram namazı", "Mekke ziyareti"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 455,
+      "questionText": "Fıtır sadakası (Zekât-ı fıtır) nedir?",
+      "answers": ["Yıllık servet zekatı", "Ramazan Bayramı namazından önce verilen vacip sadaka", "Hac sadakası", "İsteğe bağlı sadaka"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 456,
+      "questionText": "Fıtır sadakasının miktarı nedir?",
+      "answers": ["Malın %2,5'i", "Kişi başı bir sa' (yaklaşık 2.5-3 kg) temel gıda", "Sabit bir meblağ", "Ürünün %10'u"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 457,
+      "questionText": "Ayn Calut Savaşı'nın (1260 M) önemi nedir?",
+      "answers": ["İlk haçlı zaferi", "Memlükler Moğolları yenerek batıya ilerlemelerini durdurdu", "Osmanlı fethi", "Bağdat'ın düşüşü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 458,
+      "questionText": "Ayn Calut Savaşı'nda Müslüman ordusunu kim yönetti?",
+      "answers": ["Selahaddin", "Kutuz ve Baybars", "Nureddin Zengi", "Fatih Sultan Mehmed"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 459,
+      "questionText": "İslam'da 'Velâyet' kavramı nedir?",
+      "answers": ["Boşanma", "Otorite, velilik ve Allah'a yakınlık", "Bir namaz türü", "Finansal terim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 460,
+      "questionText": "Hac'da telbiyenin önemi nedir?",
+      "answers": ["Yağmur duasıdır", "Tekrarlanan 'Lebbeyk Allahümme lebbeyk' ilahisi", "Savaş narası", "Veda selamı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 461,
+      "questionText": "'Lebbeyk Allahümme lebbeyk' ne anlama gelir?",
+      "answers": ["Allah büyüktür", "Buyur Allah'ım, buyur", "Sübhanallah", "Estağfirullah"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 462,
+      "questionText": "Hac bağlamında 'Müzdelife' nedir?",
+      "answers": ["Mekke'de bir dağ", "Arafat'tan sonra hacıların gece geçirdiği açık alan", "Kabe", "Bir pazar"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 463,
+      "questionText": "Teşrik günleri hangileridir?",
+      "answers": ["Ramazan günleri", "Zilhicce'nin 11, 12 ve 13. günleri", "Muharrem'in ilk 10 günü", "Ramazan'ın son 10 günü"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 464,
+      "questionText": "Şef' ve Vitir namazı nedir?",
+      "answers": ["İki secde türü", "Yatsıdan sonra kılınan çift ve tek rakamlı gece namazı", "Sabah namazı", "Cuma namazı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 465,
+      "questionText": "Esma-i Hüsna neyi ifade eder?",
+      "answers": ["Beş şart", "Allah'ın 99 güzel ismi", "Peygamberlerin isimleri", "Meleklerin isimleri"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 466,
+      "questionText": "Bir hadise göre Allah'ın kaç ismi vardır?",
+      "answers": ["33", "66", "99", "1000"],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 467,
+      "questionText": "Er-Rahmân (Allah'ın isimlerinden) ne anlama gelir?",
+      "answers": ["Melik", "Rahmân / çok merhametli", "Alîm", "Rezzâk"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 468,
+      "questionText": "El-Hakîm (Allah'ın isimlerinden) ne anlama gelir?",
+      "answers": ["Yaratan", "Hakîm (hikmet sahibi)", "Azîz", "Gafûr"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 469,
+      "questionText": "El-Vedûd (Allah'ın isimlerinden) ne anlama gelir?",
+      "answers": ["Rezzak", "Vedûd (çok seven)", "Hâfız", "Hâdî"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İbadet"
+    },
+    {
+      "id": 470,
+      "questionText": "Berat Gecesi'nin (Şaban'ın 15'i) önemi nedir?",
+      "answers": ["Bayram gecesi", "Bazı rivayetlere göre mağfiret gecesi", "Kadir gecesi", "İsra gecesi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 471,
+      "questionText": "Hüccetü'l-İslam (İslam'ın delili) unvanıyla bilinen âlim kimdir?",
+      "answers": ["İbn Teymiyye", "Gazzali", "İbn Rüşd", "Nevevî"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 472,
+      "questionText": "İslam'da 'ilim talep etmek' için kullanılan terim nedir?",
+      "answers": ["Talab-ı ilim", "Zikir", "Davet", "Tövbe"],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 473,
+      "questionText": "Bir hadise göre 'İlim talep etmek ... üzerine farzdır'",
+      "answers": ["Sadece âlimlere", "Her Müslüman'a", "Sadece erkeklere", "Sadece yetişkinlere"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 474,
+      "questionText": "Davet nedir?",
+      "answers": ["Hicret", "İslam'a çağrı / İslam'ı anlatmak", "Hac", "Oruç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 475,
+      "questionText": "Kur'an, milletlerin ve kabilelerin çeşitliliği hakkında ne der?",
+      "answers": ["Bir cezadır", "Birbirinizi tanıyasınız diyedir (Hucurât 49:13)", "Yok edilmelidir", "Bahsi geçmez"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 476,
+      "questionText": "'Dinde zorlama yoktur' ayeti hangi surededir?",
+      "answers": ["Bakara 2:256", "Al-i İmran 3:19", "Nisa 4:1", "Maide 5:3"],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 477,
+      "questionText": "Namaz bağlamında 'İmam' nedir?",
+      "answers": ["Politikacı", "Cemaate namaz kıldıran kişi", "Kur'an öğretmeni", "Hakim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "İbadet"
+    },
+    {
+      "id": 478,
+      "questionText": "Namazda 'Sütre' nedir?",
+      "answers": ["Bir giyim türü", "Namaz kılanın önüne koyduğu engel", "Seccade", "Bir kıraat tarzı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 479,
+      "questionText": "Namazda 'Huşû' nedir?",
+      "answers": ["Hızlı olmak", "Namazda tevazu, odaklanma ve kalp huzuru", "Yüksek ses", "Ezber"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "İbadet"
+    },
+    {
+      "id": 480,
+      "questionText": "Bir hadise göre cennetin anahtarı nedir?",
+      "answers": ["Mal", "La ilahe illallah (kelime-i şehadet)", "Şöhret", "Güç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 481,
+      "questionText": "Peygamber (s.a.v.) gülümsemek hakkında ne buyurmuştur?",
+      "answers": ["Yanlıştır", "Sadakadır", "Sadece çocuklar içindir", "Zaman kaybıdır"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 482,
+      "questionText": "İslam'ın temizlik görüşü nedir?",
+      "answers": ["Önemsiz", "Temizlik imanın yarısıdır", "Sadece namazdan önce", "İsteğe bağlı"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 483,
+      "questionText": "İslam'da 'Fıtrat' nedir?",
+      "answers": ["Bir namaz türü", "İnsanın Allah'a yönelik doğal yaratılışı / özü", "Bir sadaka", "Bir selam"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 484,
+      "questionText": "Fil sahipleri (Ebrehe'nin ordusu) kıssası hangi surededir?",
+      "answers": ["Kadir", "Fil", "Kureyş", "Kevser"],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Kur'an"
+    },
+    {
+      "id": 485,
+      "questionText": "Fil Suresi'nden sonra gelen ve Kureyş kabilesinden bahseden sure hangisidir?",
+      "answers": ["Kevser", "Maun", "Kureyş", "Tebbet"],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Kur'an"
+    },
+    {
+      "id": 486,
+      "questionText": "İslam teolojisinde 'İstivâ' nedir?",
+      "answers": ["Bir namaz duruşu", "Allah'ın Arş'a istivâ etmesi (tevhid inancıyla ilgili bir sıfat)", "Bir oruç türü", "Hukuki terim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 487,
+      "questionText": "'Tevesşül' (vesile) kavramı neyi ifade eder?",
+      "answers": ["Orucu bozmak", "Salih ameller veya şahıslar aracılığıyla Allah'a yakınlaşmayı istemek", "Bir hac türü", "Savaş stratejisi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 488,
+      "questionText": "Hudeybiye'de bir ağacın altında biat eden sahabi sayısı yaklaşık ne kadardı?",
+      "answers": ["Sadece 10", "Yaklaşık 1400 (Rıdvan Biatı)", "Sadece liderler", "Kimse biat etmedi"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 489,
+      "questionText": "Rıdvan Biatı nedir ve önemi nedir?",
+      "answers": ["Bir ticaret paktı", "Kur'an'da övülen (48:18) bir ağacın altında yapılan bağlılık yemini", "Evlilik töreni", "Savaş antlaşması"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 490,
+      "questionText": "Kur'an, Hz. İbrahim'in putları kırması hakkında ne der?",
+      "answers": ["Bunun için cezalandırıldı", "Onları aciz olduklarını göstermek için kırdı (Enbiya 21:57-67)", "Pişman oldu", "Bahsi geçmez"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 491,
+      "questionText": "Peygamberlikten önce çobanlık yapan peygamber hangisidir (birçok peygamber gibi)?",
+      "answers": ["Sadece Muhammed (s.a.v.)", "Musa", "Tüm peygamberler çobandı", "Hem A hem B vs."],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Peygamberler"
+    },
+    {
+      "id": 492,
+      "questionText": "Bir hadise göre Peygamber şairler hakkında ne demiştir?",
+      "answers": ["Tüm şiir haramdır", "Bazı şiirler hikmet içerir", "Şiir en iyi ibadettir", "Şiirden hiç bahsetmemiştir"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 493,
+      "questionText": "Hassan bin Sabit kimdir?",
+      "answers": ["Askeri komutan", "Peygamber'in şairi", "Vahiy katibi", "Hakim"],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 494,
+      "questionText": "İslam akaidinde 'Velâ ve Berâ' kavramı nedir?",
+      "answers": ["Evlilik ve boşanma", "Müminlere dostluk, küfre düşmanlık", "Ticaret düzenlemeleri", "Miras hukuku"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İbadet"
+    },
+    {
+      "id": 495,
+      "questionText": "Mushaf nedir?",
+      "answers": ["Bir hadis türü", "Kur'an'ın fiziksel kitap hali", "Seccade", "Cami"],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Kur'an"
+    },
+    {
+      "id": 496,
+      "questionText": "Haşr Suresi'nin (22-24. ayetler) önemi nedir?",
+      "answers": ["Orucu anlatır", "Allah'ın birçok güzel ismini içerir", "Musa kıssasını anlatır", "Hac hakkındadır"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Kur'an"
+    },
+    {
+      "id": 497,
+      "questionText": "İspanya'daki Elhamra Sarayı hangi hanedanla bilinir?",
+      "answers": ["Emeviler", "Abbasiler", "Gırnata (Nasriler)", "Osmanlılar"],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 498,
+      "questionText": "İspanya'daki son Müslüman krallık (Gırnata) hangi yıl düştü?",
+      "answers": ["1453", "1492", "1517", "1389"],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "İslam Tarihi"
+    },
+    {
+      "id": 499,
+      "questionText": "İslam'da 'Muhasebe' kavramı nedir?",
+      "answers": ["Muhasebe işlemi", "Kişinin kendini hesaba çekmesi / özeleştiri", "Bir ticaret terimi", "Yasal süreç"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İbadet"
+    },
+    {
+      "id": 500,
+      "questionText": "Ömer bin Hattab'ın 'Nefsinizi hesaba çekin...' sözü nasıl devam eder?",
+      "answers": ["...hesaba çekildikten sonra", "...siz hesaba çekilmeden önce (kıyamet günü)", "...başkaları hatırlattığında", "...sadece Ramazan'da"],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "İslam Tarihi"
+    }
+  ]
+}
