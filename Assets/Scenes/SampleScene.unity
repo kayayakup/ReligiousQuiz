@@ -531,7 +531,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1080, y: 2400}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -593,6 +593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MillionaireGame.UIManager
   mainCanvas: {fileID: 0}
+  _bgImg: {fileID: 0}
   languagePanel: {fileID: 0}
   btnTurkish: {fileID: 0}
   btnEnglish: {fileID: 0}
@@ -706,6 +707,8 @@ MonoBehaviour:
   - {fileID: -1630972867650556732, guid: f0716688568f74d43b672a9409ef13da, type: 3}
   - {fileID: -5759021531845455749, guid: 3146a51360850dc42ab1bfc9d9830310, type: 3}
   - {fileID: 3202532173582511055, guid: 25910665abda4c34ab945a48bdc9edc8, type: 3}
+  _slideshowInterval: 6
+  _audioPitch: 0.92
 --- !u!4 &991039141
 Transform:
   m_ObjectHideFlags: 0

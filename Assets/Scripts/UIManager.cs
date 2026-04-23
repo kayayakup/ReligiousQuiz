@@ -32,6 +32,7 @@ namespace MillionaireGame
         public TextMeshProUGUI categoryTitle;
         public TextMeshProUGUI categorySubtitle;
         public List<Button> categoryButtons = new List<Button>();
+        public Button btnSettings;          // persistent canvas-level settings gear
 
         // ── Game screen ──
         public GameObject gamePanel;
@@ -75,6 +76,12 @@ namespace MillionaireGame
         public TextMeshProUGUI resultTitle;
         public TextMeshProUGUI resultMessage;
         public Button resultMenuButton;
+
+        // ── Settings panel ──
+        public GameObject settingsPanel;
+        public TMP_Dropdown languageDropdown;
+        public Button settingsCloseButton;
+        public TextMeshProUGUI settingsTitle;
 
         // ── Colors ──
         private readonly Color32 _panelBg      = new Color32(15, 15, 60, 255); // Opaque
@@ -139,16 +146,26 @@ namespace MillionaireGame
             BuildAudiencePanel(canvasGO.transform);
             BuildPhonePanel(canvasGO.transform);
             BuildResultPanel(canvasGO.transform);
+            BuildSettingsPanel(canvasGO.transform);
 
-            // Hide all initially except language
-            languagePanel.SetActive(true);
+            // Persistent settings gear button (top-right corner, always on top)
+            btnSettings = CreateButton(canvasGO.transform, "BtnSettings", "⚙", Vector2.zero, new Vector2(90, 90), 44);
+            var btnSettingsRT = btnSettings.GetComponent<RectTransform>();
+            btnSettingsRT.anchorMin = new Vector2(1f, 1f);
+            btnSettingsRT.anchorMax = new Vector2(1f, 1f);
+            btnSettingsRT.pivot    = new Vector2(1f, 1f);
+            btnSettingsRT.anchoredPosition = new Vector2(-20f, -20f);
+            btnSettings.GetComponent<Image>().color = new Color32(30, 30, 100, 210);
+
+            // Hide all initially — GameManager controls which screen to show
+            languagePanel.SetActive(false);
             categoryPanel.SetActive(false);
             gamePanel.SetActive(false);
             audiencePanel.SetActive(false);
             phonePanel.SetActive(false);
             resultPanel.SetActive(false);
-            
-            ShowPanel(languagePanel);
+            settingsPanel.SetActive(false);
+            btnSettings.gameObject.SetActive(false); // hidden until language is chosen
         }
 
         public void UpdateBackground(Sprite bg)
@@ -413,6 +430,116 @@ namespace MillionaireGame
             resultMenuButton = CreateButton(resultPanel.transform, "ResultMenuBtn", "Main Menu", new Vector2(0, -220), new Vector2(400, 100), 36);
         }
 
+        private void BuildSettingsPanel(Transform parent)
+        {
+            settingsPanel = CreatePanel(parent, "SettingsPanel", Vector2.zero, new Vector2(800, 500));
+
+            settingsTitle = CreateTMP(settingsPanel.transform, "SettingsTitle", "Settings", 46, TextAlignmentOptions.Center, new Vector2(0, 180), new Vector2(700, 70));
+            settingsTitle.color = _accentGold;
+            settingsTitle.fontStyle = FontStyles.Bold;
+
+            // Language label
+            CreateTMP(settingsPanel.transform, "LangLabel", "Language / Dil", 32, TextAlignmentOptions.Center, new Vector2(0, 80), new Vector2(600, 50)).color = _white;
+
+            // TMP_Dropdown for language
+            var dropdownGO = new GameObject("LanguageDropdown", typeof(RectTransform));
+            var dropdownRT = dropdownGO.GetComponent<RectTransform>();
+            dropdownRT.SetParent(settingsPanel.transform, false);
+            dropdownRT.anchorMin = new Vector2(0.5f, 0.5f);
+            dropdownRT.anchorMax = new Vector2(0.5f, 0.5f);
+            dropdownRT.anchoredPosition = new Vector2(0, 0);
+            dropdownRT.sizeDelta = new Vector2(500, 80);
+
+            // Background image for dropdown
+            var dropBgImg = dropdownGO.AddComponent<Image>();
+            dropBgImg.color = _btnNormal;
+            dropBgImg.sprite = _roundedSprite;
+            dropBgImg.type = Image.Type.Sliced;
+
+            // Create dropdown component
+            languageDropdown = dropdownGO.AddComponent<TMP_Dropdown>();
+
+            // Caption text
+            var captionTMP = CreateTMP(dropdownGO.transform, "CaptionText", "", 32, TextAlignmentOptions.Center, Vector2.zero, new Vector2(460, 70));
+            captionTMP.color = _white;
+            languageDropdown.captionText = captionTMP;
+
+            // Template (dropdown list)
+            var templateGO = new GameObject("Template", typeof(RectTransform));
+            var templateRT = templateGO.GetComponent<RectTransform>();
+            templateRT.SetParent(dropdownGO.transform, false);
+            templateRT.anchorMin = new Vector2(0, 0);
+            templateRT.anchorMax = new Vector2(1, 0);
+            templateRT.pivot = new Vector2(0.5f, 1f);
+            templateRT.anchoredPosition = Vector2.zero;
+            templateRT.sizeDelta = new Vector2(0, 200);
+            var templateImg = templateGO.AddComponent<Image>();
+            templateImg.color = new Color32(20, 20, 70, 255);
+            templateGO.AddComponent<ScrollRect>();
+
+            // Viewport
+            var viewportGO = new GameObject("Viewport", typeof(RectTransform));
+            var viewportRT = viewportGO.GetComponent<RectTransform>();
+            viewportRT.SetParent(templateRT, false);
+            viewportRT.anchorMin = Vector2.zero;
+            viewportRT.anchorMax = Vector2.one;
+            viewportRT.sizeDelta = Vector2.zero;
+            var viewportImg = viewportGO.AddComponent<Image>();
+            viewportImg.color = Color.white;
+            viewportGO.AddComponent<Mask>().showMaskGraphic = false;
+
+            // Content
+            var contentGO = new GameObject("Content", typeof(RectTransform));
+            var contentRT = contentGO.GetComponent<RectTransform>();
+            contentRT.SetParent(viewportRT, false);
+            contentRT.anchorMin = new Vector2(0, 1);
+            contentRT.anchorMax = new Vector2(1, 1);
+            contentRT.pivot = new Vector2(0.5f, 1f);
+            contentRT.sizeDelta = new Vector2(0, 80);
+
+            // Item template
+            var itemGO = new GameObject("Item", typeof(RectTransform));
+            var itemRT = itemGO.GetComponent<RectTransform>();
+            itemRT.SetParent(contentRT, false);
+            itemRT.anchorMin = new Vector2(0, 0.5f);
+            itemRT.anchorMax = new Vector2(1, 0.5f);
+            itemRT.sizeDelta = new Vector2(0, 80);
+            var itemToggle = itemGO.AddComponent<Toggle>();
+            var itemBg = itemGO.AddComponent<Image>();
+            itemBg.color = new Color32(30, 30, 90, 255);
+
+            // Item label
+            var itemLabelTMP = CreateTMP(itemGO.transform, "ItemLabel", "", 30, TextAlignmentOptions.Center, Vector2.zero, new Vector2(460, 70));
+            itemLabelTMP.color = _white;
+            languageDropdown.itemText = itemLabelTMP;
+
+            // Wire scroll rect
+            var scrollRect = templateGO.GetComponent<ScrollRect>();
+            scrollRect.content = contentRT;
+            scrollRect.viewport = viewportRT;
+
+            // Wire template
+            languageDropdown.template = templateRT;
+            templateGO.SetActive(false);
+
+            // Add language options
+            languageDropdown.ClearOptions();
+            languageDropdown.AddOptions(new List<string> { "Türkçe", "English" });
+
+            // Close button
+            settingsCloseButton = CreateButton(settingsPanel.transform, "SettingsClose", "Close", new Vector2(0, -180), new Vector2(300, 80), 32);
+        }
+
+        public void ShowSettingsPanel() { ShowPanel(settingsPanel); }
+        public void HideSettingsPanel() { AnimateButtonPress(settingsCloseButton); HidePanel(settingsPanel); }
+
+        /// <summary>Show or hide the persistent settings gear button.</summary>
+        public void SetSettingsButtonVisible(bool visible)
+        {
+            if (btnSettings != null)
+                btnSettings.gameObject.SetActive(visible);
+        }
+
         // ══════════════════════════════════════════════
         //  UI UPDATE METHODS
         // ══════════════════════════════════════════════
@@ -431,6 +558,12 @@ namespace MillionaireGame
             audienceCloseButton.GetComponentInChildren<TextMeshProUGUI>().text = isTurk ? "Tamam" : "OK";
             phoneCloseButton.GetComponentInChildren<TextMeshProUGUI>().text = isTurk ? "Tamam" : "OK";
             resultMenuButton.GetComponentInChildren<TextMeshProUGUI>().text = isTurk ? "Ana Menü" : "Main Menu";
+
+            // Settings panel
+            if (settingsTitle != null)
+                settingsTitle.text = isTurk ? "Ayarlar" : "Settings";
+            if (settingsCloseButton != null)
+                settingsCloseButton.GetComponentInChildren<TextMeshProUGUI>().text = isTurk ? "Kapat" : "Close";
         }
 
         public void ShowLanguageScreen(bool show)

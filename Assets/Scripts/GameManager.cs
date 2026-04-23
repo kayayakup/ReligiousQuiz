@@ -41,13 +41,15 @@ namespace MillionaireGame
 
         [Header("Dynamic Backgrounds")]
         [SerializeField] private Sprite[] _backgroundSprites;
-        [SerializeField] private float _slideshowInterval = 6f;
+        [SerializeField] private float _slideshowInterval = 10f;
 
         [Header("Anti-Copyright Settings")]
         [SerializeField] [Range(0.5f, 1.5f)] private float _audioPitch = 0.92f;
 
         private AudioSource _audioSource;
         private Coroutine _slideshowCoroutine;
+
+        private const string PREF_LANGUAGE = "SelectedLanguage";
 
         // ── Game state ──
         private int _currentStep;            // 0‑based ladder step
@@ -79,21 +81,44 @@ namespace MillionaireGame
 
             // Wire up constant button listeners
             WireButtons();
-            
-            // Wire language buttons
-            _uiMgr.btnTurkish.onClick.AddListener(() => OnLanguageSelected("TR"));
-            _uiMgr.btnEnglish.onClick.AddListener(() => OnLanguageSelected("EN"));
 
-            _uiMgr.ShowLanguageScreen(true);
+            // Start background slideshow immediately (first image shown at once, then every 10s)
+            if (_backgroundSprites != null && _backgroundSprites.Length > 0)
+                _slideshowCoroutine = StartCoroutine(SlideshowRoutine());
+
+            // Check if language was previously selected
+            if (PlayerPrefs.HasKey(PREF_LANGUAGE))
+            {
+                // Returning user – skip language screen, go straight to categories
+                string savedLang = PlayerPrefs.GetString(PREF_LANGUAGE, "EN");
+                _uiMgr.SetSettingsButtonVisible(true);   // show gear immediately
+                ApplyLanguageAndShowCategories(savedLang);
+            }
+            else
+            {
+                // First launch – show language selection (gear hidden until language chosen)
+                _uiMgr.btnTurkish.onClick.AddListener(() => OnFirstLanguageSelected("TR"));
+                _uiMgr.btnEnglish.onClick.AddListener(() => OnFirstLanguageSelected("EN"));
+                _uiMgr.ShowLanguageScreen(true);
+            }
         }
 
-        private void OnLanguageSelected(string language)
+        /// <summary>Called only on first launch from language panel buttons.</summary>
+        private void OnFirstLanguageSelected(string language)
         {
             PlayClickSound();
+            PlayerPrefs.SetString(PREF_LANGUAGE, language);
+            PlayerPrefs.Save();
+            _uiMgr.SetSettingsButtonVisible(true);   // reveal gear after first-time selection
+            ApplyLanguageAndShowCategories(language);
+        }
+
+        /// <summary>Loads the question database, applies UI language, and shows category screen.</summary>
+        private void ApplyLanguageAndShowCategories(string language)
+        {
             _currentLanguage = language;
-            // The original JSON file 'questions' contains Turkish now, and 'questionsEN' contains English
             string fileName = (language == "TR") ? "questions" : "questionsEN";
-            
+
             _questionMgr.LoadDatabase(fileName);
 
             if (!_questionMgr.IsReady)
@@ -105,6 +130,9 @@ namespace MillionaireGame
             // Apply localized text to UI
             _uiMgr.ApplyLanguage(language);
 
+            // Sync dropdown to current language (0 = TR, 1 = EN)
+            _uiMgr.languageDropdown.SetValueWithoutNotify(language == "TR" ? 0 : 1);
+
             // Populate category buttons
             _uiMgr.PopulateCategoryButtons(
                 _questionMgr.AvailableCategories,
@@ -112,6 +140,19 @@ namespace MillionaireGame
             );
 
             _uiMgr.ShowCategoryScreen(true);
+        }
+
+        /// <summary>Called when language is changed via settings dropdown.</summary>
+        private void OnLanguageChangedFromSettings(int index)
+        {
+            string lang = index == 0 ? "TR" : "EN";
+            if (lang == _currentLanguage) return;
+
+            PlayerPrefs.SetString(PREF_LANGUAGE, lang);
+            PlayerPrefs.Save();
+
+            ApplyLanguageAndShowCategories(lang);
+            _uiMgr.HideSettingsPanel();
         }
 
         // ═══════════════════════════════════════════════
@@ -141,6 +182,11 @@ namespace MillionaireGame
 
             // Result → Main menu
             _uiMgr.resultMenuButton.onClick.AddListener(() => { PlayClickSound(); ReturnToMenu(); });
+
+            // Persistent settings gear button (canvas-level, always visible after language chosen)
+            _uiMgr.btnSettings.onClick.AddListener(() => { PlayClickSound(); _uiMgr.ShowSettingsPanel(); });
+            _uiMgr.settingsCloseButton.onClick.AddListener(() => { PlayClickSound(); _uiMgr.HideSettingsPanel(); });
+            _uiMgr.languageDropdown.onValueChanged.AddListener(OnLanguageChangedFromSettings);
         }
 
         // ═══════════════════════════════════════════════
@@ -167,11 +213,6 @@ namespace MillionaireGame
             _uiMgr.ShowCategoryScreen(false);
 
             PlayAudio(_audioGameStart);
-
-            // Start Slideshow
-            if (_slideshowCoroutine != null) StopCoroutine(_slideshowCoroutine);
-            if (_backgroundSprites != null && _backgroundSprites.Length > 0)
-                _slideshowCoroutine = StartCoroutine(SlideshowRoutine());
 
             // Start at step 0
             _currentStep = 0;
@@ -381,9 +422,10 @@ namespace MillionaireGame
             int index = 0;
             while (true)
             {
+                // Show the current slide immediately, then wait before switching
                 _uiMgr.UpdateBackground(_backgroundSprites[index]);
                 index = (index + 1) % _backgroundSprites.Length;
-                yield return new WaitForSeconds(_slideshowInterval);
+                yield return new WaitForSeconds(_slideshowInterval > 0f ? _slideshowInterval : 10f);
             }
         }
 
