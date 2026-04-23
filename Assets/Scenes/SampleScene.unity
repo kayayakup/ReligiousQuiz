@@ -602,6 +602,7 @@ MonoBehaviour:
   categoryTitle: {fileID: 0}
   categorySubtitle: {fileID: 0}
   categoryButtons: []
+  btnSettings: {fileID: 0}
   gamePanel: {fileID: 0}
   questionNumberText: {fileID: 0}
   questionText: {fileID: 0}
@@ -626,6 +627,7 @@ MonoBehaviour:
   lblFiftyFifty: {fileID: 0}
   lblAskAudience: {fileID: 0}
   lblPhoneFriend: {fileID: 0}
+  timerText: {fileID: 0}
   btnWalkAway: {fileID: 0}
   ladderArea: {fileID: 0}
   ladderLabels: []
@@ -654,6 +656,16 @@ MonoBehaviour:
   resultTitle: {fileID: 0}
   resultMessage: {fileID: 0}
   resultMenuButton: {fileID: 0}
+  settingsPanel: {fileID: 0}
+  languageDropdown: {fileID: 0}
+  settingsCloseButton: {fileID: 0}
+  settingsTitle: {fileID: 0}
+  musicVolumeSlider: {fileID: 0}
+  sfxVolumeSlider: {fileID: 0}
+  muteToggle: {fileID: 0}
+  musicLabel: {fileID: 0}
+  sfxLabel: {fileID: 0}
+  muteLabel: {fileID: 0}
 --- !u!1 &991039139
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,12 +695,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c6e7b8a597fb354b98a53d4ef32a88e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MillionaireGame.GameManager
-  _audioGameStart: {fileID: 0}
-  _audioNewQuestion: {fileID: 0}
-  _audioCorrect: {fileID: 0}
-  _audioWrong: {fileID: 0}
-  _audioWin: {fileID: 0}
-  _audioClick: {fileID: 0}
+  audioGameStart: {fileID: 8300000, guid: c1e3bd30bc7bc5a43bf061391e4e1026, type: 3}
+  audioNewQuestion: {fileID: 8300000, guid: 09bfc248b8d0cfa4aafa49db8f046218, type: 3}
+  audioCorrect: {fileID: 8300000, guid: 988ae40cb089eb849a1758e71e349f06, type: 3}
+  audioWrong: {fileID: 8300000, guid: 0120464f3785462438a2f0cc78e71096, type: 3}
+  audioWin: {fileID: 8300000, guid: 482d3a68823da82468172c3997aeb827, type: 3}
+  audioClick: {fileID: 8300000, guid: 325a68157bfe4a749b6ce7c64ed01e70, type: 3}
+  audioLifeline5050: {fileID: 8300000, guid: d733a67eb4c3d8e4599a99811133580e, type: 3}
+  audioLifelineAudience: {fileID: 8300000, guid: 23a9066fcd2c7544287b31e8d916084a, type: 3}
+  audioLifelinePhone: {fileID: 8300000, guid: f6a22bf63ca9df64b95d86ddc96e4494, type: 3}
+  audioBackground: {fileID: 8300000, guid: 7a58c8b5077656e46bdce56acbe6c425, type: 3}
   _particlesCorrect: {fileID: 0}
   _particlesWrong: {fileID: 0}
   _particlesNewQuestion: {fileID: 0}
@@ -709,6 +725,7 @@ MonoBehaviour:
   - {fileID: 3202532173582511055, guid: 25910665abda4c34ab945a48bdc9edc8, type: 3}
   _slideshowInterval: 6
   _audioPitch: 0.92
+  _settingsButtonSprite: {fileID: 5904627132653970092, guid: c05b2e497afdae849b10925601ed5514, type: 3}
 --- !u!4 &991039141
 Transform:
   m_ObjectHideFlags: 0

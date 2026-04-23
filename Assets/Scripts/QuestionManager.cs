@@ -39,6 +39,9 @@ namespace MillionaireGame
                     .OrderBy(c => c)
                     .ToList();
 
+                // Add "All" option at the beginning
+                AvailableCategories.Insert(0, "All");
+
                 Debug.Log($"[QuestionManager] Categories: {string.Join(", ", AvailableCategories)}");
             }
         }
@@ -56,9 +59,16 @@ namespace MillionaireGame
             if (_database == null) return false;
 
             // Filter by category (case‑insensitive)
-            _filteredPool = _database.questions
-                .Where(q => q.category.Equals(category, System.StringComparison.OrdinalIgnoreCase))
-                .ToList();
+            if (category.Equals("All", System.StringComparison.OrdinalIgnoreCase))
+            {
+                _filteredPool = new List<QuestionEntry>(_database.questions);
+            }
+            else
+            {
+                _filteredPool = _database.questions
+                    .Where(q => q.category.Equals(category, System.StringComparison.OrdinalIgnoreCase))
+                    .ToList();
+            }
 
             if (_filteredPool.Count == 0)
             {

@@ -27,12 +27,16 @@ namespace MillionaireGame
 
         // ── Audio & Effects (Assign in Inspector) ──
         [Header("Audio Clips")]
-        [SerializeField] private AudioClip _audioGameStart;
-        [SerializeField] private AudioClip _audioNewQuestion;
-        [SerializeField] private AudioClip _audioCorrect;
-        [SerializeField] private AudioClip _audioWrong;
-        [SerializeField] private AudioClip _audioWin;
-        [SerializeField] private AudioClip _audioClick;
+        public AudioClip audioGameStart;
+        public AudioClip audioNewQuestion;
+        public AudioClip audioCorrect;
+        public AudioClip audioWrong;
+        public AudioClip audioWin;
+        public AudioClip audioClick;
+        public AudioClip audioLifeline5050;
+        public AudioClip audioLifelineAudience;
+        public AudioClip audioLifelinePhone;
+        public AudioClip audioBackground;
 
         [Header("Particle Systems")]
         [SerializeField] private ParticleSystem _particlesCorrect;
@@ -46,10 +50,17 @@ namespace MillionaireGame
         [Header("Anti-Copyright Settings")]
         [SerializeField] [Range(0.5f, 1.5f)] private float _audioPitch = 0.92f;
 
+        [Header("UI Customization")]
+        [SerializeField] private Sprite _settingsButtonSprite;
+
         private AudioSource _audioSource;
+        private AudioSource _musicSource;
         private Coroutine _slideshowCoroutine;
 
         private const string PREF_LANGUAGE = "SelectedLanguage";
+        private const string PREF_MUSIC_VOL = "MusicVolume";
+        private const string PREF_SFX_VOL = "SFXVolume";
+        private const string PREF_MUTE = "MuteAll";
 
         // ── Game state ──
         private int _currentStep;            // 0‑based ladder step
@@ -57,6 +68,8 @@ namespace MillionaireGame
         private string _currentLanguage = "EN";
         private QuestionEntry _currentQuestion;
         private bool _waitingForAnswer;      // prevents double‑clicks
+        private float _timer;
+        private bool _timerActive;
 
         // ═══════════════════════════════════════════════
         //  UNITY LIFECYCLE
@@ -71,13 +84,21 @@ namespace MillionaireGame
 
             _audioSource = gameObject.AddComponent<AudioSource>();
             _audioSource.playOnAwake = false;
-            _audioSource.pitch = _audioPitch; // Apply anti-copyright pitch modification
+            _audioSource.pitch = _audioPitch;
+
+            _musicSource = gameObject.AddComponent<AudioSource>();
+            _musicSource.playOnAwake = false;
+            _musicSource.loop = true;
         }
 
         private void Start()
         {
             // Build the entire UI programmatically
             _uiMgr.BuildUI();
+
+            // Apply custom settings sprite if assigned
+            if (_settingsButtonSprite != null)
+                _uiMgr.SetSettingsButtonSprite(_settingsButtonSprite);
 
             // Wire up constant button listeners
             WireButtons();
@@ -101,6 +122,53 @@ namespace MillionaireGame
                 _uiMgr.btnEnglish.onClick.AddListener(() => OnFirstLanguageSelected("EN"));
                 _uiMgr.ShowLanguageScreen(true);
             }
+
+            // Initialize background music
+            if (audioBackground != null)
+            {
+                _musicSource.clip = audioBackground;
+                _musicSource.Play();
+            }
+
+            // Load and apply audio settings
+            LoadAudioSettings();
+        }
+
+        private void LoadAudioSettings()
+        {
+            float musicVol = PlayerPrefs.GetFloat(PREF_MUSIC_VOL, 0.7f);
+            float sfxVol = PlayerPrefs.GetFloat(PREF_SFX_VOL, 1f);
+            bool isMuted = PlayerPrefs.GetInt(PREF_MUTE, 0) == 1;
+
+            _uiMgr.musicVolumeSlider.SetValueWithoutNotify(musicVol);
+            _uiMgr.sfxVolumeSlider.SetValueWithoutNotify(sfxVol);
+            _uiMgr.muteToggle.SetIsOnWithoutNotify(isMuted);
+
+            ApplyAudioSettings(musicVol, sfxVol, isMuted);
+        }
+
+        private void ApplyAudioSettings(float musicVol, float sfxVol, bool muted)
+        {
+            _musicSource.volume = muted ? 0 : musicVol;
+            _audioSource.volume = muted ? 0 : sfxVol;
+        }
+
+        private void OnMusicVolumeChanged(float val)
+        {
+            PlayerPrefs.SetFloat(PREF_MUSIC_VOL, val);
+            ApplyAudioSettings(val, _uiMgr.sfxVolumeSlider.value, _uiMgr.muteToggle.isOn);
+        }
+
+        private void OnSFXVolumeChanged(float val)
+        {
+            PlayerPrefs.SetFloat(PREF_SFX_VOL, val);
+            ApplyAudioSettings(_uiMgr.musicVolumeSlider.value, val, _uiMgr.muteToggle.isOn);
+        }
+
+        private void OnMuteToggled(bool muted)
+        {
+            PlayerPrefs.SetInt(PREF_MUTE, muted ? 1 : 0);
+            ApplyAudioSettings(_uiMgr.musicVolumeSlider.value, _uiMgr.sfxVolumeSlider.value, muted);
         }
 
         /// <summary>Called only on first launch from language panel buttons.</summary>
@@ -140,6 +208,38 @@ namespace MillionaireGame
             );
 
             _uiMgr.ShowCategoryScreen(true);
+        }
+
+        private void Update()
+        {
+            if (_timerActive)
+            {
+                _timer -= Time.deltaTime;
+                _uiMgr.UpdateTimerUI(_timer, true);
+
+                if (_timer <= 0)
+                {
+                    OnTimeOut();
+                }
+            }
+        }
+
+        private void OnTimeOut()
+        {
+            _timerActive = false;
+            _uiMgr.UpdateTimerUI(0, false);
+            _uiMgr.DisableAnswerButtons();
+            _uiMgr.btnWalkAway.interactable = false;
+
+            PlayAudio(audioWrong);
+
+            bool isTurk = (_currentLanguage == "TR");
+            string title = isTurk ? "Süre Doldu!" : "Time's Up!";
+            string msg = isTurk ? "Soruyu cevaplamak için süreniz doldu." : "You ran out of time to answer the question.";
+            string guaranteed = MoneyLadder.GetGuaranteedPrize(_currentStep);
+            string dropMsg = isTurk ? "Şu seviyeye düştünüz:" : "You drop to the guaranteed level:";
+
+            _uiMgr.ShowResult(title, $"{msg}\n\n{dropMsg} {guaranteed}");
         }
 
         /// <summary>Called when language is changed via settings dropdown.</summary>
@@ -187,6 +287,10 @@ namespace MillionaireGame
             _uiMgr.btnSettings.onClick.AddListener(() => { PlayClickSound(); _uiMgr.ShowSettingsPanel(); });
             _uiMgr.settingsCloseButton.onClick.AddListener(() => { PlayClickSound(); _uiMgr.HideSettingsPanel(); });
             _uiMgr.languageDropdown.onValueChanged.AddListener(OnLanguageChangedFromSettings);
+
+            _uiMgr.musicVolumeSlider.onValueChanged.AddListener(OnMusicVolumeChanged);
+            _uiMgr.sfxVolumeSlider.onValueChanged.AddListener(OnSFXVolumeChanged);
+            _uiMgr.muteToggle.onValueChanged.AddListener(OnMuteToggled);
         }
 
         // ═══════════════════════════════════════════════
@@ -212,7 +316,7 @@ namespace MillionaireGame
             // Switch to game panel
             _uiMgr.ShowCategoryScreen(false);
 
-            PlayAudio(_audioGameStart);
+            PlayAudio(audioGameStart);
 
             // Start at step 0
             _currentStep = 0;
@@ -232,7 +336,7 @@ namespace MillionaireGame
                 return;
             }
 
-            PlayAudio(_audioNewQuestion);
+            PlayAudio(audioNewQuestion);
             SpawnParticles(_particlesNewQuestion);
 
             _uiMgr.ShowQuestion(_currentQuestion, _currentStep, _currentLanguage);
@@ -241,6 +345,19 @@ namespace MillionaireGame
             _uiMgr.btnWalkAway.interactable = true;
 
             _waitingForAnswer = true;
+
+            // Start timer if before second safe haven
+            if (_currentStep <= MoneyLadder.SafeHaven2)
+            {
+                _timer = 60f + (_currentStep * 10f); // 60s for first, increases by 10s each step
+                _timerActive = true;
+                _uiMgr.UpdateTimerUI(_timer, true);
+            }
+            else
+            {
+                _timerActive = false;
+                _uiMgr.UpdateTimerUI(0, false);
+            }
         }
 
         private void RefreshLifelineButtons()
@@ -260,6 +377,8 @@ namespace MillionaireGame
         {
             if (!_waitingForAnswer) return;
             _waitingForAnswer = false;
+            _timerActive = false;
+            _uiMgr.UpdateTimerUI(0, false);
 
             // Disable all buttons immediately
             _uiMgr.DisableAnswerButtons();
@@ -274,12 +393,12 @@ namespace MillionaireGame
             {
                 // Also show the correct one
                 _uiMgr.ShowCorrectAnswer(_currentQuestion.correctAnswerIndex);
-                PlayAudio(_audioWrong);
+                PlayAudio(audioWrong);
                 SpawnParticles(_particlesWrong);
             }
             else
             {
-                PlayAudio(_audioCorrect);
+                PlayAudio(audioCorrect);
                 SpawnParticles(_particlesCorrect);
             }
 
@@ -297,7 +416,7 @@ namespace MillionaireGame
 
                 if (_currentStep >= MoneyLadder.TotalSteps)
                 {
-                    PlayAudio(_audioWin);
+                    PlayAudio(audioWin);
                     bool isTurk = (_currentLanguage == "TR");
                     string congrat = isTurk ? "🎉 Tebrikler!" : "🎉 Congratulations!";
                     string text = isTurk ? $"Tüm 15 soruyu doğru cevapladınız!\n\n{MoneyLadder.PrizeLabels[MoneyLadder.TotalSteps - 1]} kazandınız!" : $"You answered all 15 questions correctly!\n\nYou won {MoneyLadder.PrizeLabels[MoneyLadder.TotalSteps - 1]}!";
@@ -340,6 +459,8 @@ namespace MillionaireGame
         {
             if (!_waitingForAnswer) return;
             _waitingForAnswer = false;
+            _timerActive = false;
+            _uiMgr.UpdateTimerUI(0, false);
 
             string prize = _currentStep > 0
                 ? MoneyLadder.PrizeLabels[_currentStep - 1]
@@ -372,6 +493,7 @@ namespace MillionaireGame
             List<int> keepIndices = _lifelineMgr.UseFiftyFifty(_currentQuestion);
             if (keepIndices != null)
             {
+                PlayAudio(audioLifeline5050);
                 _uiMgr.ApplyFiftyFifty(keepIndices);
             }
 
@@ -385,6 +507,7 @@ namespace MillionaireGame
             float[] results = _lifelineMgr.UseAskAudience(_currentQuestion);
             if (results != null)
             {
+                PlayAudio(audioLifelineAudience);
                 _uiMgr.ShowAudienceResults(results);
             }
 
@@ -398,6 +521,7 @@ namespace MillionaireGame
             string friendSays = _lifelineMgr.UsePhoneFriend(_currentQuestion);
             if (friendSays != null)
             {
+                PlayAudio(audioLifelinePhone);
                 _uiMgr.ShowPhoneFriend(friendSays);
             }
 
@@ -431,7 +555,7 @@ namespace MillionaireGame
 
         private void PlayClickSound()
         {
-            PlayAudio(_audioClick);
+            PlayAudio(audioClick);
         }
 
         private void PlayAudio(AudioClip clip)

@@ -49,6 +49,7 @@ namespace MillionaireGame
         public TextMeshProUGUI lblFiftyFifty;
         public TextMeshProUGUI lblAskAudience;
         public TextMeshProUGUI lblPhoneFriend;
+        public TextMeshProUGUI timerText;
 
         // Walk‑away
         public Button btnWalkAway;
@@ -82,6 +83,12 @@ namespace MillionaireGame
         public TMP_Dropdown languageDropdown;
         public Button settingsCloseButton;
         public TextMeshProUGUI settingsTitle;
+        public Slider musicVolumeSlider;
+        public Slider sfxVolumeSlider;
+        public Toggle muteToggle;
+        public TextMeshProUGUI musicLabel;
+        public TextMeshProUGUI sfxLabel;
+        public TextMeshProUGUI muteLabel;
 
         // ── Colors ──
         private readonly Color32 _panelBg      = new Color32(15, 15, 60, 255); // Opaque
@@ -148,13 +155,13 @@ namespace MillionaireGame
             BuildResultPanel(canvasGO.transform);
             BuildSettingsPanel(canvasGO.transform);
 
-            // Persistent settings gear button (top-right corner, always on top)
+            // Persistent settings gear button (bottom-left corner)
             btnSettings = CreateButton(canvasGO.transform, "BtnSettings", "⚙", Vector2.zero, new Vector2(90, 90), 44);
             var btnSettingsRT = btnSettings.GetComponent<RectTransform>();
-            btnSettingsRT.anchorMin = new Vector2(1f, 1f);
-            btnSettingsRT.anchorMax = new Vector2(1f, 1f);
-            btnSettingsRT.pivot    = new Vector2(1f, 1f);
-            btnSettingsRT.anchoredPosition = new Vector2(-20f, -20f);
+            btnSettingsRT.anchorMin = new Vector2(0f, 0f);
+            btnSettingsRT.anchorMax = new Vector2(0f, 0f);
+            btnSettingsRT.pivot    = new Vector2(0f, 0f);
+            btnSettingsRT.anchoredPosition = new Vector2(20f, 200f);
             btnSettings.GetComponent<Image>().color = new Color32(30, 30, 100, 210);
 
             // Hide all initially — GameManager controls which screen to show
@@ -257,9 +264,12 @@ namespace MillionaireGame
             for (int i = 0; i < categories.Count; i++)
             {
                 string cat = categories[i];
+                string displayCat = cat;
+                if (cat == "All") displayCat = (PlayerPrefs.GetString("SelectedLanguage", "EN") == "TR") ? "Hepsi" : "All";
+                
                 float yPos = startY - i * spacing;
 
-                var btn = CreateButton(categoryPanel.transform, $"CatBtn_{cat}", cat, new Vector2(0, yPos), new Vector2(700, 100), 34);
+                var btn = CreateButton(categoryPanel.transform, $"CatBtn_{cat}", displayCat, new Vector2(0, yPos), new Vector2(700, 100), 34);
                 btn.onClick.AddListener(() => {
                     AnimateButtonPress(btn);
                     onClick(cat);
@@ -322,6 +332,10 @@ namespace MillionaireGame
             }
 
             // ── Middle: Question Text ──
+            timerText = CreateTMP(gamePanel.transform, "TimerText", "60", 50, TextAlignmentOptions.Center, new Vector2(400, 40), new Vector2(200, 80));
+            timerText.color = _accentGold;
+            timerText.fontStyle = FontStyles.Bold;
+
             questionNumberText = CreateTMP(gamePanel.transform, "QuestionNumber", "Question 1 / 15", 34, TextAlignmentOptions.Center, new Vector2(0, 40), new Vector2(800, 50));
             questionNumberText.color = _accentGold;
 
@@ -432,14 +446,14 @@ namespace MillionaireGame
 
         private void BuildSettingsPanel(Transform parent)
         {
-            settingsPanel = CreatePanel(parent, "SettingsPanel", Vector2.zero, new Vector2(800, 500));
+            settingsPanel = CreatePanel(parent, "SettingsPanel", Vector2.zero, new Vector2(850, 950));
 
-            settingsTitle = CreateTMP(settingsPanel.transform, "SettingsTitle", "Settings", 46, TextAlignmentOptions.Center, new Vector2(0, 180), new Vector2(700, 70));
+            settingsTitle = CreateTMP(settingsPanel.transform, "SettingsTitle", "Settings", 46, TextAlignmentOptions.Center, new Vector2(0, 420), new Vector2(700, 70));
             settingsTitle.color = _accentGold;
             settingsTitle.fontStyle = FontStyles.Bold;
 
             // Language label
-            CreateTMP(settingsPanel.transform, "LangLabel", "Language / Dil", 32, TextAlignmentOptions.Center, new Vector2(0, 80), new Vector2(600, 50)).color = _white;
+            CreateTMP(settingsPanel.transform, "LangLabel", "Language / Dil", 32, TextAlignmentOptions.Center, new Vector2(0, 320), new Vector2(600, 50)).color = _white;
 
             // TMP_Dropdown for language
             var dropdownGO = new GameObject("LanguageDropdown", typeof(RectTransform));
@@ -447,7 +461,7 @@ namespace MillionaireGame
             dropdownRT.SetParent(settingsPanel.transform, false);
             dropdownRT.anchorMin = new Vector2(0.5f, 0.5f);
             dropdownRT.anchorMax = new Vector2(0.5f, 0.5f);
-            dropdownRT.anchoredPosition = new Vector2(0, 0);
+            dropdownRT.anchoredPosition = new Vector2(0, 240);
             dropdownRT.sizeDelta = new Vector2(500, 80);
 
             // Background image for dropdown
@@ -526,8 +540,109 @@ namespace MillionaireGame
             languageDropdown.ClearOptions();
             languageDropdown.AddOptions(new List<string> { "Türkçe", "English" });
 
+            // ── Audio Settings ──
+            float startY = 120f;
+            float spacingY = 140f;
+
+            // Music Volume
+            musicLabel = CreateTMP(settingsPanel.transform, "MusicLabel", "Music Volume", 28, TextAlignmentOptions.Left, new Vector2(-150, startY), new Vector2(300, 40));
+            musicVolumeSlider = CreateSlider(settingsPanel.transform, "MusicSlider", new Vector2(0, startY - 50), new Vector2(600, 40));
+
+            // SFX Volume
+            sfxLabel = CreateTMP(settingsPanel.transform, "SFXLabel", "SFX Volume", 28, TextAlignmentOptions.Left, new Vector2(-150, startY - spacingY), new Vector2(300, 40));
+            sfxVolumeSlider = CreateSlider(settingsPanel.transform, "SFXSlider", new Vector2(0, startY - spacingY - 50), new Vector2(600, 40));
+
+            // Mute Toggle
+            muteLabel = CreateTMP(settingsPanel.transform, "MuteLabel", "Mute All", 32, TextAlignmentOptions.Left, new Vector2(-80, startY - spacingY * 2 - 20), new Vector2(300, 50));
+            muteToggle = CreateToggle(settingsPanel.transform, "MuteToggle", new Vector2(150, startY - spacingY * 2 - 20), new Vector2(60, 60));
+
             // Close button
-            settingsCloseButton = CreateButton(settingsPanel.transform, "SettingsClose", "Close", new Vector2(0, -180), new Vector2(300, 80), 32);
+            settingsCloseButton = CreateButton(settingsPanel.transform, "SettingsClose", "Close", new Vector2(0, -400), new Vector2(300, 80), 32);
+        }
+
+        private Slider CreateSlider(Transform parent, string name, Vector2 pos, Vector2 size)
+        {
+            var sliderGO = new GameObject(name, typeof(RectTransform));
+            var sliderRT = sliderGO.GetComponent<RectTransform>();
+            sliderRT.SetParent(parent, false);
+            sliderRT.anchoredPosition = pos;
+            sliderRT.sizeDelta = size;
+
+            var bg = new GameObject("Background", typeof(RectTransform)).AddComponent<Image>();
+            bg.rectTransform.SetParent(sliderRT, false);
+            bg.rectTransform.anchorMin = new Vector2(0, 0.25f);
+            bg.rectTransform.anchorMax = new Vector2(1, 0.75f);
+            bg.rectTransform.sizeDelta = Vector2.zero;
+            bg.color = new Color32(40, 40, 100, 255);
+            bg.sprite = _roundedSprite;
+            bg.type = Image.Type.Sliced;
+
+            var fillArea = new GameObject("Fill Area", typeof(RectTransform)).GetComponent<RectTransform>();
+            fillArea.SetParent(sliderRT, false);
+            fillArea.anchorMin = new Vector2(0, 0.25f);
+            fillArea.anchorMax = new Vector2(1, 0.75f);
+            fillArea.sizeDelta = new Vector2(-20, 0);
+
+            var fill = new GameObject("Fill", typeof(RectTransform)).AddComponent<Image>();
+            fill.rectTransform.SetParent(fillArea, false);
+            fill.rectTransform.anchorMin = Vector2.zero;
+            fill.rectTransform.anchorMax = Vector2.one;
+            fill.rectTransform.sizeDelta = Vector2.zero;
+            fill.color = _accentGold;
+            fill.sprite = _roundedSprite;
+            fill.type = Image.Type.Sliced;
+
+            var handleArea = new GameObject("Handle Area", typeof(RectTransform)).GetComponent<RectTransform>();
+            handleArea.SetParent(sliderRT, false);
+            handleArea.anchorMin = Vector2.zero;
+            handleArea.anchorMax = Vector2.one;
+            handleArea.sizeDelta = new Vector2(-20, 0);
+
+            var handle = new GameObject("Handle", typeof(RectTransform)).AddComponent<Image>();
+            handle.rectTransform.SetParent(handleArea, false);
+            handle.rectTransform.sizeDelta = new Vector2(40, 40);
+            handle.color = Color.white;
+            handle.sprite = _roundedSprite;
+
+            var slider = sliderGO.AddComponent<Slider>();
+            slider.fillRect = fill.rectTransform;
+            slider.handleRect = handle.rectTransform;
+            slider.minValue = 0f;
+            slider.maxValue = 1f;
+            slider.value = 1f;
+
+            return slider;
+        }
+
+        private Toggle CreateToggle(Transform parent, string name, Vector2 pos, Vector2 size)
+        {
+            var toggleGO = new GameObject(name, typeof(RectTransform));
+            var toggleRT = toggleGO.GetComponent<RectTransform>();
+            toggleRT.SetParent(parent, false);
+            toggleRT.anchoredPosition = pos;
+            toggleRT.sizeDelta = size;
+
+            var bg = new GameObject("Background", typeof(RectTransform)).AddComponent<Image>();
+            bg.rectTransform.SetParent(toggleRT, false);
+            bg.rectTransform.anchorMin = Vector2.zero;
+            bg.rectTransform.anchorMax = Vector2.one;
+            bg.rectTransform.sizeDelta = Vector2.zero;
+            bg.color = _btnNormal;
+            bg.sprite = _roundedSprite;
+
+            var checkmark = new GameObject("Checkmark", typeof(RectTransform)).AddComponent<Image>();
+            checkmark.rectTransform.SetParent(bg.rectTransform, false);
+            checkmark.rectTransform.anchorMin = new Vector2(0.2f, 0.2f);
+            checkmark.rectTransform.anchorMax = new Vector2(0.8f, 0.8f);
+            checkmark.rectTransform.sizeDelta = Vector2.zero;
+            checkmark.color = _accentGold;
+            checkmark.sprite = _roundedSprite;
+
+            var toggle = toggleGO.AddComponent<Toggle>();
+            toggle.graphic = checkmark;
+            toggle.isOn = false;
+
+            return toggle;
         }
 
         public void ShowSettingsPanel() { ShowPanel(settingsPanel); }
@@ -538,6 +653,35 @@ namespace MillionaireGame
         {
             if (btnSettings != null)
                 btnSettings.gameObject.SetActive(visible);
+        }
+
+        public void SetSettingsButtonSprite(Sprite s)
+        {
+            if (btnSettings != null && s != null)
+            {
+                var img = btnSettings.GetComponent<Image>();
+                img.sprite = s;
+                btnSettings.GetComponentInChildren<TextMeshProUGUI>().text = ""; // clear gear icon text
+            }
+        }
+
+        public void UpdateTimerUI(float seconds, bool active)
+        {
+            timerText.gameObject.SetActive(active);
+            if (active)
+            {
+                timerText.text = Mathf.CeilToInt(seconds).ToString();
+                if (seconds <= 10f)
+                {
+                    timerText.color = Color.red;
+                    timerText.transform.localScale = Vector3.one * (1f + Mathf.PingPong(Time.time * 2, 0.2f));
+                }
+                else
+                {
+                    timerText.color = _accentGold;
+                    timerText.transform.localScale = Vector3.one;
+                }
+            }
         }
 
         // ══════════════════════════════════════════════
@@ -564,6 +708,10 @@ namespace MillionaireGame
                 settingsTitle.text = isTurk ? "Ayarlar" : "Settings";
             if (settingsCloseButton != null)
                 settingsCloseButton.GetComponentInChildren<TextMeshProUGUI>().text = isTurk ? "Kapat" : "Close";
+
+            if (musicLabel != null) musicLabel.text = isTurk ? "Müzik Ses Seviyesi" : "Music Volume";
+            if (sfxLabel != null) sfxLabel.text = isTurk ? "Efekt Ses Seviyesi" : "SFX Volume";
+            if (muteLabel != null) muteLabel.text = isTurk ? "Tümünü Sessize Al" : "Mute All";
         }
 
         public void ShowLanguageScreen(bool show)
