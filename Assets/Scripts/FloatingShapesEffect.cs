@@ -36,10 +36,9 @@ namespace MillionaireGame
 
         private RectTransform CreateShape(string name)
         {
-            GameObject go = new GameObject(name);
-            go.transform.SetParent(_parent, false);
-
-            var rt = go.AddComponent<RectTransform>();
+            GameObject go = new GameObject(name, typeof(RectTransform));
+            var rt = go.GetComponent<RectTransform>();
+            rt.SetParent(_parent, false);
             rt.anchorMin = new Vector2(0.5f, 0.5f);
             rt.anchorMax = new Vector2(0.5f, 0.5f);
 

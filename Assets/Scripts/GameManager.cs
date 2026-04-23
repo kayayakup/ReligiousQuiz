@@ -32,6 +32,7 @@ namespace MillionaireGame
         [SerializeField] private AudioClip _audioCorrect;
         [SerializeField] private AudioClip _audioWrong;
         [SerializeField] private AudioClip _audioWin;
+        [SerializeField] private AudioClip _audioClick;
 
         [Header("Particle Systems")]
         [SerializeField] private ParticleSystem _particlesCorrect;
@@ -40,8 +41,13 @@ namespace MillionaireGame
 
         [Header("Dynamic Backgrounds")]
         [SerializeField] private Sprite[] _backgroundSprites;
+        [SerializeField] private float _slideshowInterval = 6f;
+
+        [Header("Anti-Copyright Settings")]
+        [SerializeField] [Range(0.5f, 1.5f)] private float _audioPitch = 0.92f;
 
         private AudioSource _audioSource;
+        private Coroutine _slideshowCoroutine;
 
         // ── Game state ──
         private int _currentStep;            // 0‑based ladder step
@@ -63,6 +69,7 @@ namespace MillionaireGame
 
             _audioSource = gameObject.AddComponent<AudioSource>();
             _audioSource.playOnAwake = false;
+            _audioSource.pitch = _audioPitch; // Apply anti-copyright pitch modification
         }
 
         private void Start()
@@ -82,6 +89,7 @@ namespace MillionaireGame
 
         private void OnLanguageSelected(string language)
         {
+            PlayClickSound();
             _currentLanguage = language;
             // The original JSON file 'questions' contains Turkish now, and 'questionsEN' contains English
             string fileName = (language == "TR") ? "questions" : "questionsEN";
@@ -116,23 +124,23 @@ namespace MillionaireGame
             for (int i = 0; i < 4; i++)
             {
                 int idx = i; // capture for closure
-                _uiMgr.answerButtons[i].onClick.AddListener(() => OnAnswerClicked(idx));
+                _uiMgr.answerButtons[i].onClick.AddListener(() => { PlayClickSound(); OnAnswerClicked(idx); });
             }
 
             // Lifeline buttons
-            _uiMgr.btnFiftyFifty.onClick.AddListener(OnFiftyFifty);
-            _uiMgr.btnAskAudience.onClick.AddListener(OnAskAudience);
-            _uiMgr.btnPhoneFriend.onClick.AddListener(OnPhoneFriend);
+            _uiMgr.btnFiftyFifty.onClick.AddListener(() => { PlayClickSound(); OnFiftyFifty(); });
+            _uiMgr.btnAskAudience.onClick.AddListener(() => { PlayClickSound(); OnAskAudience(); });
+            _uiMgr.btnPhoneFriend.onClick.AddListener(() => { PlayClickSound(); OnPhoneFriend(); });
 
             // Audience / phone close buttons
-            _uiMgr.audienceCloseButton.onClick.AddListener(() => _uiMgr.HideAudiencePanel());
-            _uiMgr.phoneCloseButton.onClick.AddListener(() => _uiMgr.HidePhonePanel());
+            _uiMgr.audienceCloseButton.onClick.AddListener(() => { PlayClickSound(); _uiMgr.HideAudiencePanel(); });
+            _uiMgr.phoneCloseButton.onClick.AddListener(() => { PlayClickSound(); _uiMgr.HidePhonePanel(); });
 
             // Walk away
-            _uiMgr.btnWalkAway.onClick.AddListener(OnWalkAway);
+            _uiMgr.btnWalkAway.onClick.AddListener(() => { PlayClickSound(); OnWalkAway(); });
 
             // Result → Main menu
-            _uiMgr.resultMenuButton.onClick.AddListener(ReturnToMenu);
+            _uiMgr.resultMenuButton.onClick.AddListener(() => { PlayClickSound(); ReturnToMenu(); });
         }
 
         // ═══════════════════════════════════════════════
@@ -141,6 +149,7 @@ namespace MillionaireGame
 
         private void OnCategorySelected(string category)
         {
+            PlayClickSound();
             _currentCategory = category;
             Debug.Log($"[GameManager] Category selected: {category}");
 
@@ -159,6 +168,11 @@ namespace MillionaireGame
 
             PlayAudio(_audioGameStart);
 
+            // Start Slideshow
+            if (_slideshowCoroutine != null) StopCoroutine(_slideshowCoroutine);
+            if (_backgroundSprites != null && _backgroundSprites.Length > 0)
+                _slideshowCoroutine = StartCoroutine(SlideshowRoutine());
+
             // Start at step 0
             _currentStep = 0;
             ShowCurrentQuestion();
@@ -175,12 +189,6 @@ namespace MillionaireGame
             {
                 Debug.LogError("[GameManager] No question available for step " + _currentStep);
                 return;
-            }
-
-            if (_backgroundSprites != null && _backgroundSprites.Length > 0)
-            {
-                Sprite randomBg = _backgroundSprites[Random.Range(0, _backgroundSprites.Length)];
-                _uiMgr.UpdateBackground(randomBg);
             }
 
             PlayAudio(_audioNewQuestion);
@@ -367,6 +375,22 @@ namespace MillionaireGame
         // ═══════════════════════════════════════════════
         //  AUDIO & PARTICLES
         // ═══════════════════════════════════════════════
+
+        private IEnumerator SlideshowRoutine()
+        {
+            int index = 0;
+            while (true)
+            {
+                _uiMgr.UpdateBackground(_backgroundSprites[index]);
+                index = (index + 1) % _backgroundSprites.Length;
+                yield return new WaitForSeconds(_slideshowInterval);
+            }
+        }
+
+        private void PlayClickSound()
+        {
+            PlayAudio(_audioClick);
+        }
 
         private void PlayAudio(AudioClip clip)
         {

@@ -374,7 +374,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1000, y: 1000.0001}
+  m_AnchoredPosition: {x: 1000, y: 1000}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &904164609
@@ -687,10 +687,25 @@ MonoBehaviour:
   _audioCorrect: {fileID: 0}
   _audioWrong: {fileID: 0}
   _audioWin: {fileID: 0}
+  _audioClick: {fileID: 0}
   _particlesCorrect: {fileID: 0}
   _particlesWrong: {fileID: 0}
   _particlesNewQuestion: {fileID: 0}
-  _backgroundSprites: []
+  _backgroundSprites:
+  - {fileID: -9047424443484645767, guid: 26127e14eb1ca5c48ac4cf0a1b076e0f, type: 3}
+  - {fileID: -9047424443484645767, guid: 760a5f9c51412094098571e2e98f70bf, type: 3}
+  - {fileID: -6859248025391284338, guid: 54b1eebd7fe8efb45864cf394c333f58, type: 3}
+  - {fileID: 3937906742433804904, guid: 08eb2ad8a27381e4b95f6f809202e1df, type: 3}
+  - {fileID: -1193431590190313871, guid: a8b11e422cd9e644eb4eaa538ae4587e, type: 3}
+  - {fileID: -5112735883687780851, guid: d50c774d9f4488444b560b79badf179b, type: 3}
+  - {fileID: -7035099482295933066, guid: 7414085a9e6747c4f86ac4e8c8f8c232, type: 3}
+  - {fileID: -8508419163364099191, guid: 4b8edebfdea4a444888a3d9b0f6a8866, type: 3}
+  - {fileID: 7211992080854321411, guid: c22298df443b91b4e979b612e5224283, type: 3}
+  - {fileID: -2398763440084470259, guid: cbe7a50461ff69b4a88dd42f8aaa4833, type: 3}
+  - {fileID: -403058573272754957, guid: 6bbdc8027c69aab4c9f3d4d8cb70bb32, type: 3}
+  - {fileID: -1630972867650556732, guid: f0716688568f74d43b672a9409ef13da, type: 3}
+  - {fileID: -5759021531845455749, guid: 3146a51360850dc42ab1bfc9d9830310, type: 3}
+  - {fileID: 3202532173582511055, guid: 25910665abda4c34ab945a48bdc9edc8, type: 3}
 --- !u!4 &991039141
 Transform:
   m_ObjectHideFlags: 0

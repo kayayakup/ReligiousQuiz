@@ -18,7 +18,7 @@ namespace MillionaireGame
         //  PUBLIC REFERENCES
         // ══════════════════════════════════════════════
         public Canvas mainCanvas;
-        private Image _bgImg;
+        public Image _bgImg;
         private Sprite _roundedSprite;
 
         // ── Language selection screen ──
@@ -77,7 +77,6 @@ namespace MillionaireGame
         public Button resultMenuButton;
 
         // ── Colors ──
-        private readonly Color32 _bgDark       = new Color32(5, 5, 20, 255);
         private readonly Color32 _panelBg      = new Color32(15, 15, 60, 255); // Opaque
         private readonly Color32 _accentGold   = new Color32(255, 200, 50, 255);
         private readonly Color32 _btnNormal    = new Color32(25, 45, 100, 255);
@@ -109,9 +108,15 @@ namespace MillionaireGame
 
             canvasGO.AddComponent<GraphicRaycaster>();
 
-            // Background image on canvas
-            _bgImg = canvasGO.AddComponent<Image>();
-            _bgImg.color = _bgDark;
+            // Background image as a proper child to fill the screen
+            var bgGO = new GameObject("BackgroundSprite", typeof(RectTransform));
+            var bgRT = bgGO.GetComponent<RectTransform>();
+            bgRT.SetParent(canvasGO.transform, false);
+            bgRT.anchorMin = Vector2.zero;
+            bgRT.anchorMax = Vector2.one;
+            bgRT.sizeDelta = Vector2.zero;
+            bgGO.transform.SetAsFirstSibling();
+            _bgImg = bgGO.AddComponent<Image>();
 
             // Add dynamic floating shapes background effect
             canvasGO.AddComponent<FloatingShapesEffect>();
@@ -151,8 +156,8 @@ namespace MillionaireGame
             if (bg != null && _bgImg != null)
             {
                 _bgImg.sprite = bg;
-                // Fade effect
-                Tween.Color(_bgImg, new Color(1f, 1f, 1f, 0f), new Color(1f, 1f, 1f, 75f / 255f), 1f);
+                // Fade effect to make sprite fully visible (Color.white)
+                Tween.Color(_bgImg, new Color(1f, 1f, 1f, 0f), Color.white, 1.5f);
             }
         }
 
@@ -189,7 +194,11 @@ namespace MillionaireGame
         private void AnimateButtonPress(Button btn)
         {
             var rt = btn.GetComponent<RectTransform>();
-            Tween.Scale(rt, Vector3.one * 0.9f, 0.1f).OnComplete(rt, target => Tween.Scale(target, Vector3.one, 0.1f));
+            // Explicitly stop previous scale tweens and reset scale to ensure a clean start
+            Tween.StopAll(rt);
+            rt.localScale = Vector3.one;
+            // Use Yoyo with 2 cycles (trip and back) to guarantee it returns to its original scale
+            Tween.Scale(rt, Vector3.one * 0.9f, 0.1f, cycles: 2, cycleMode: CycleMode.Yoyo);
         }
 
         // ─────────────────────────────────────────────
@@ -248,7 +257,7 @@ namespace MillionaireGame
             gamePanel.GetComponent<Image>().color = new Color(0, 0, 0, 0); // transparent container
 
             // ── Top: Lifeline buttons ──
-            float lifeY = 820f;
+            float lifeY = 820f + 50f;  // 50 piksel yukarı taşındı (870f oldu)
             btnFiftyFifty = CreateButton(gamePanel.transform, "Btn5050", "50:50", new Vector2(-320, lifeY), new Vector2(280, 100), 36);
             lblFiftyFifty = btnFiftyFifty.GetComponentInChildren<TextMeshProUGUI>();
 
@@ -276,9 +285,9 @@ namespace MillionaireGame
                 int displayRow = steps - 1 - i;
                 float yPos = 265f - displayRow * 42f;
 
-                var rowGO = new GameObject($"LadderRow_{i}");
-                rowGO.transform.SetParent(ladderArea.transform, false);
-                var rowRT = rowGO.AddComponent<RectTransform>();
+                var rowGO = new GameObject($"LadderRow_{i}", typeof(RectTransform));
+                var rowRT = rowGO.GetComponent<RectTransform>();
+                rowRT.SetParent(ladderArea.transform, false);
                 rowRT.anchoredPosition = new Vector2(0, yPos);
                 rowRT.sizeDelta = new Vector2(800, 40);
                 _ladderRowRTs[i] = rowRT;
@@ -343,27 +352,27 @@ namespace MillionaireGame
 
                 audienceLetterLabels[i] = CreateTMP(audiencePanel.transform, $"AudLetter_{i}", letters[i], 36, TextAlignmentOptions.Center, new Vector2(xPos, -240), new Vector2(100, 50));
                 
-                var sliderGO = new GameObject($"AudSlider_{i}");
-                sliderGO.transform.SetParent(audiencePanel.transform, false);
-                var sliderRT = sliderGO.AddComponent<RectTransform>();
+                var sliderGO = new GameObject($"AudSlider_{i}", typeof(RectTransform));
+                var sliderRT = sliderGO.GetComponent<RectTransform>();
+                sliderRT.SetParent(audiencePanel.transform, false);
                 sliderRT.anchoredPosition = new Vector2(xPos, 0);
                 sliderRT.sizeDelta = new Vector2(100, 380);
 
-                var bgGO = new GameObject("Background");
-                bgGO.transform.SetParent(sliderGO.transform, false);
-                var bgRT = bgGO.AddComponent<RectTransform>();
+                var bgGO = new GameObject("Background", typeof(RectTransform));
+                var bgRT = bgGO.GetComponent<RectTransform>();
+                bgRT.SetParent(sliderGO.transform, false);
                 bgRT.anchorMin = Vector2.zero; bgRT.anchorMax = Vector2.one;
                 bgRT.sizeDelta = Vector2.zero; bgGO.AddComponent<Image>().color = new Color32(40, 40, 80, 255);
 
-                var fillAreaGO = new GameObject("FillArea");
-                fillAreaGO.transform.SetParent(sliderGO.transform, false);
-                var fillAreaRT = fillAreaGO.AddComponent<RectTransform>();
+                var fillAreaGO = new GameObject("FillArea", typeof(RectTransform));
+                var fillAreaRT = fillAreaGO.GetComponent<RectTransform>();
+                fillAreaRT.SetParent(sliderGO.transform, false);
                 fillAreaRT.anchorMin = Vector2.zero; fillAreaRT.anchorMax = Vector2.one;
                 fillAreaRT.sizeDelta = Vector2.zero; 
 
-                var fillGO = new GameObject("Fill");
-                fillGO.transform.SetParent(fillAreaGO.transform, false);
-                var fillRT = fillGO.AddComponent<RectTransform>();
+                var fillGO = new GameObject("Fill", typeof(RectTransform));
+                var fillRT = fillGO.GetComponent<RectTransform>();
+                fillRT.SetParent(fillAreaGO.transform, false);
                 fillRT.anchorMin = Vector2.zero; fillRT.anchorMax = Vector2.one;
                 fillRT.sizeDelta = Vector2.zero; fillGO.AddComponent<Image>().color = _accentGold;
 
@@ -486,13 +495,20 @@ namespace MillionaireGame
             var targetColor = correct ? _btnCorrect : _btnWrong;
             Tween.Color(answerBackgrounds[index], (Color)targetColor, 0.3f);
             
+            // Ensure the button is at its base scale/position before starting the final highlight animation
+            var trans = answerButtons[index].transform;
+            Tween.StopAll(trans);
+            trans.localScale = Vector3.one;
+
             if (correct)
             {
-                Tween.Scale(answerButtons[index].transform, Vector3.one * 1.05f, 0.2f, cycles: 4, cycleMode: CycleMode.Yoyo);
+                // Pulsate 2 times (4 trips: out, in, out, in) to return to 1.0 scale
+                Tween.Scale(trans, Vector3.one * 1.05f, 0.2f, cycles: 4, cycleMode: CycleMode.Yoyo);
             }
             else
             {
-                Tween.LocalPositionX(answerButtons[index].transform, endValue: 15f, duration: 0.05f, cycles: 6, cycleMode: CycleMode.Yoyo);
+                // Shake 3 times (6 trips) to return to original position
+                Tween.LocalPositionX(trans, endValue: 15f, duration: 0.05f, cycles: 6, cycleMode: CycleMode.Yoyo);
             }
         }
 
@@ -610,9 +626,9 @@ namespace MillionaireGame
         // ══════════════════════════════════════════════
         private GameObject CreatePanel(Transform parent, string name, Vector2 anchoredPos, Vector2 size)
         {
-            var go = new GameObject(name);
-            go.transform.SetParent(parent, false);
-            var rt = go.AddComponent<RectTransform>();
+            var go = new GameObject(name, typeof(RectTransform));
+            var rt = go.GetComponent<RectTransform>();
+            rt.SetParent(parent, false);
             rt.anchorMin = new Vector2(0.5f, 0.5f);
             rt.anchorMax = new Vector2(0.5f, 0.5f);
             rt.anchoredPosition = anchoredPos;
@@ -631,9 +647,9 @@ namespace MillionaireGame
 
         private TextMeshProUGUI CreateTMP(Transform parent, string name, string text, float fontSize, TextAlignmentOptions alignment, Vector2 anchoredPos, Vector2 size)
         {
-            var go = new GameObject(name);
-            go.transform.SetParent(parent, false);
-            var rt = go.AddComponent<RectTransform>();
+            var go = new GameObject(name, typeof(RectTransform));
+            var rt = go.GetComponent<RectTransform>();
+            rt.SetParent(parent, false);
             rt.anchorMin = new Vector2(0.5f, 0.5f);
             rt.anchorMax = new Vector2(0.5f, 0.5f);
             rt.anchoredPosition = anchoredPos;
@@ -651,9 +667,9 @@ namespace MillionaireGame
 
         private Button CreateButton(Transform parent, string name, string label, Vector2 anchoredPos, Vector2 size, float fontSize = 28)
         {
-            var go = new GameObject(name);
-            go.transform.SetParent(parent, false);
-            var rt = go.AddComponent<RectTransform>();
+            var go = new GameObject(name, typeof(RectTransform));
+            var rt = go.GetComponent<RectTransform>();
+            rt.SetParent(parent, false);
             rt.anchorMin = new Vector2(0.5f, 0.5f);
             rt.anchorMax = new Vector2(0.5f, 0.5f);
             rt.anchoredPosition = anchoredPos;
