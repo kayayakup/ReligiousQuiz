@@ -29,4 +29,23 @@ namespace MillionaireGame
     {
         public List<QuestionEntry> questions;
     }
+
+    // ─────────────────────────────────────────────
+    // Reminders
+    // ─────────────────────────────────────────────
+    [Serializable]
+    public class ReminderEntry
+    {
+        public int id;
+        public string text;
+        public string source;
+    }
+
+    [Serializable]
+    public class ReminderDatabase
+    {
+        public string language;
+        public int version;
+        public List<ReminderEntry> items;
+    }
 }

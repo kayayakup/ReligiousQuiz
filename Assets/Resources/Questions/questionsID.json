@@ -1,0 +1,6504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Berapa kali sehari umat Islam diwajibkan melaksanakan shalat (Salat)?",
+      "answers": [
+        "3",
+        "5",
+        "7",
+        "4"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 2,
+      "questionText": "Apa rukun Islam yang pertama?",
+      "answers": [
+        "Salat",
+        "Syahadat (Deklarasi Iman)",
+        "Zakat",
+        "Puasa (Saum)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 3,
+      "questionText": "Pada bulan apakah umat Islam berpuasa dari fajar hingga matahari terbenam?",
+      "answers": [
+        "Syakban",
+        "Rajab",
+        "Ramadan",
+        "Muharram"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 4,
+      "questionText": "Ke arah manakah umat Islam menghadap saat shalat?",
+      "answers": [
+        "Yerusalem",
+        "Madinah",
+        "Mekah (Ka'bah)",
+        "Damaskus"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 5,
+      "questionText": "Apa nama sedekah wajib dalam Islam?",
+      "answers": [
+        "Sedekah",
+        "Zakat",
+        "Khums",
+        "Wakaf"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 6,
+      "questionText": "Shalat manakah yang dilaksanakan saat fajar?",
+      "answers": [
+        "Zuhur",
+        "Asar",
+        "Subuh",
+        "Isya"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 7,
+      "questionText": "Apa nama ziarah haji ke Mekah?",
+      "answers": [
+        "Umrah",
+        "Haji",
+        "Jihad",
+        "Hijrah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 8,
+      "questionText": "Berapa rakaat shalat Subuh?",
+      "answers": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 9,
+      "questionText": "Apa nama shalat malam dalam Islam?",
+      "answers": [
+        "Tahajud",
+        "Witir",
+        "Duha",
+        "Isyraq"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 10,
+      "questionText": "Apa istilah Arab untuk wudu sebelum shalat?",
+      "answers": [
+        "Mandi",
+        "Tayamum",
+        "Wudu",
+        "Istinja"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 11,
+      "questionText": "Ada berapa rukun Islam?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 12,
+      "questionText": "Shalat wajib manakah yang paling panjang rakaatnya setiap hari?",
+      "answers": [
+        "Subuh",
+        "Zuhur",
+        "Magrib",
+        "Isya"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 13,
+      "questionText": "Apa nama shalat Jumat berjemaah?",
+      "answers": [
+        "Shalat Id",
+        "Jumat",
+        "Tarawih",
+        "Jenazah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 14,
+      "questionText": "Berapa persentase minimal harta yang dikeluarkan untuk zakat?",
+      "answers": [
+        "5%",
+        "10%",
+        "2,5%",
+        "1%"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 15,
+      "questionText": "Apa nama wudu yang dilakukan dengan debu bersih ketika air tidak tersedia?",
+      "answers": [
+        "Wudu",
+        "Mandi",
+        "Tayamum",
+        "Masah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 16,
+      "questionText": "Berapa rakaat shalat Isya?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 17,
+      "questionText": "Apa nama shalat khusus yang dilakukan pada malam-malam Ramadan?",
+      "answers": [
+        "Tahajud",
+        "Tarawih",
+        "Witir",
+        "Istikharah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 18,
+      "questionText": "Apa yang membatalkan puasa di bulan Ramadan?",
+      "answers": [
+        "Tidur",
+        "Sengaja makan atau minum",
+        "Bernapas dalam-dalam",
+        "Berjalan jauh"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 19,
+      "questionText": "Pada bulan Hijriah apakah ibadah haji dilaksanakan?",
+      "answers": [
+        "Muharram",
+        "Rajab",
+        "Syawal",
+        "Zulhijah"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 20,
+      "questionText": "Apa nama shalat tobat?",
+      "answers": [
+        "Salat al-Taubah",
+        "Salat al-Duha",
+        "Salat al-Kusuf",
+        "Salat al-Istisqa"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 21,
+      "questionText": "Apa itu iktikaf?",
+      "answers": [
+        "Jenis puasa",
+        "Mengasingkan diri di masjid untuk beribadah",
+        "Ritual haji",
+        "Jenis sedekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 22,
+      "questionText": "Apa itu fidyah dalam konteks puasa?",
+      "answers": [
+        "Doa",
+        "Tebusan untuk puasa yang ditinggalkan",
+        "Jenis sedekah",
+        "Ritual haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 23,
+      "questionText": "Berapa nisab emas dalam perhitungan zakat?",
+      "answers": [
+        "50 gram",
+        "85 gram",
+        "100 gram",
+        "200 gram"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 24,
+      "questionText": "Manakah di bawah ini yang BUKAN termasuk syarat wajib haji?",
+      "answers": [
+        "Beragama Islam",
+        "Berakal sehat",
+        "Menghafal seluruh Al-Qur'an",
+        "Mampu secara fisik dan finansial"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 25,
+      "questionText": "Apa nama shalat untuk memohon petunjuk kepada Allah?",
+      "answers": [
+        "Salat al-Istikharah",
+        "Salat al-Jenazah",
+        "Salat al-Id",
+        "Salat al-Kusuf"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 26,
+      "questionText": "Saat haji, apa nama berlari-lari kecil antara Bukit Safa dan Marwah?",
+      "answers": [
+        "Tawaf",
+        "Sa'i",
+        "Wukuf",
+        "Rami"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 27,
+      "questionText": "Apa nama shalat untuk jenazah?",
+      "answers": [
+        "Salat al-Id",
+        "Salat al-Jenazah",
+        "Salat al-Istikharah",
+        "Salat al-Hajah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 28,
+      "questionText": "Berapa hari puasa yang dianjurkan di bulan Syawal setelah Ramadan?",
+      "answers": [
+        "3",
+        "6",
+        "10",
+        "15"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 29,
+      "questionText": "Apa istilah untuk keadaan ihram (suci dan berniat) saat haji atau umrah?",
+      "answers": [
+        "Talbiyah",
+        "Ihram",
+        "Tawaf",
+        "Miqat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 30,
+      "questionText": "Menurut fikih Islam, ada berapa golongan orang yang berhak menerima zakat?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 31,
+      "questionText": "Berapa nisab perak dalam perhitungan zakat?",
+      "answers": [
+        "200 gram",
+        "595 gram",
+        "400 gram",
+        "1000 gram"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 32,
+      "questionText": "Apa perbedaan antara Haji Ifrad dan Haji Tamattu'?",
+      "answers": [
+        "Ifrad mencakup umrah, Tamattu' tidak",
+        "Tamattu' mencakup umrah sebelum haji, Ifrad hanya haji",
+        "Tidak ada perbedaan",
+        "Ifrad khusus untuk wanita"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 33,
+      "questionText": "Bagaimana hukum shalat Witir dalam mazhab Hanafi?",
+      "answers": [
+        "Sunah muakkadah",
+        "Wajib",
+        "Mustahab",
+        "Fardu"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 34,
+      "questionText": "Pada hari apakah jamaah haji wukuf di Arafah?",
+      "answers": [
+        "8 Zulhijah",
+        "9 Zulhijah",
+        "10 Zulhijah",
+        "12 Zulhijah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 35,
+      "questionText": "Apa kafarat bagi orang yang sengaja membatalkan puasa Ramadan tanpa uzur syar'i?",
+      "answers": [
+        "Qada saja",
+        "Puasa 60 hari berturut-turut atau memberi makan 60 orang miskin",
+        "Membayar zakat",
+        "Melaksanakan haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 36,
+      "questionText": "Apa surah pertama dalam Al-Qur'an?",
+      "answers": [
+        "Al-Baqarah",
+        "Al-Fatihah",
+        "Al-Ikhlas",
+        "An-Nas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 37,
+      "questionText": "Berapa jumlah surah dalam Al-Qur'an?",
+      "answers": [
+        "100",
+        "114",
+        "120",
+        "99"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 38,
+      "questionText": "Surah terpanjang dalam Al-Qur'an adalah?",
+      "answers": [
+        "Ali Imran",
+        "An-Nisa",
+        "Al-Baqarah",
+        "Al-Maidah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 39,
+      "questionText": "Surah apa yang dikenal sebagai \"Jantung Al-Qur'an\"?",
+      "answers": [
+        "Ar-Rahman",
+        "Yasin",
+        "Al-Mulk",
+        "Al-Kahf"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 40,
+      "questionText": "Dalam bahasa apakah Al-Qur'an pertama kali diturunkan?",
+      "answers": [
+        "Persia",
+        "Ibrani",
+        "Arab",
+        "Aramaik"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 41,
+      "questionText": "Apa arti harfiah dari \"Al-Qur'an\"?",
+      "answers": [
+        "Cahaya",
+        "Bacaan",
+        "Kitab",
+        "Petunjuk"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 42,
+      "questionText": "Surah manakah yang menceritakan kisah Ashabul Kahfi (Penghuni Gua)?",
+      "answers": [
+        "Al-Kahf",
+        "Al-Anfal",
+        "At-Taubah",
+        "Maryam"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 43,
+      "questionText": "Berapa ayat dalam Surah Al-Fatihah?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 44,
+      "questionText": "Surah apakah yang setara dengan sepertiga Al-Qur'an dalam pahala?",
+      "answers": [
+        "Al-Fatihah",
+        "Al-Falaq",
+        "Al-Ikhlas",
+        "Al-Kausar"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 45,
+      "questionText": "Apa surah terpendek dalam Al-Qur'an?",
+      "answers": [
+        "Al-Ikhlas",
+        "Al-Kausar",
+        "Al-Asr",
+        "An-Nas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 46,
+      "questionText": "Dalam kurun waktu berapa tahun Al-Qur'an diturunkan?",
+      "answers": [
+        "10 tahun",
+        "15 tahun",
+        "23 tahun",
+        "30 tahun"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 47,
+      "questionText": "Malaikat apakah yang dipercaya menurunkan Al-Qur'an kepada Nabi Muhammad SAW?",
+      "answers": [
+        "Mikail",
+        "Israfil",
+        "Jibril",
+        "Izrail"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 48,
+      "questionText": "Surah apakah yang dimulai dengan \"Alif Lam Mim\"?",
+      "answers": [
+        "Al-Fatihah",
+        "Al-Baqarah",
+        "An-Nas",
+        "Al-Ikhlas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 49,
+      "questionText": "Di manakah Ayat Kursi (Ayat Singgasana) berada?",
+      "answers": [
+        "Surah Ali Imran",
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 50,
+      "questionText": "Surah apakah yang dinamai menurut nama seorang wanita?",
+      "answers": [
+        "Al-Baqarah",
+        "Maryam",
+        "An-Nisa",
+        "Al-Ahzab"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 51,
+      "questionText": "Surah terakhir dalam Al-Qur'an adalah?",
+      "answers": [
+        "Al-Falaq",
+        "Al-Ikhlas",
+        "An-Nas",
+        "Al-Kafirun"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 52,
+      "questionText": "Surah manakah yang berisi ayat \"Tidak ada paksaan dalam agama\"?",
+      "answers": [
+        "Al-Baqarah",
+        "Ali Imran",
+        "An-Nisa",
+        "Al-Maidah"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 53,
+      "questionText": "Berapa juz Al-Qur'an terbagi?",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 54,
+      "questionText": "Surah manakah yang menceritakan kisah Nabi Yusuf secara terperinci?",
+      "answers": [
+        "Yusuf",
+        "Ibrahim",
+        "Lukman",
+        "Hud"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 55,
+      "questionText": "Apa nama surah yang menyebutkan Zulkarnain?",
+      "answers": [
+        "Al-Anbiya",
+        "Al-Kahf",
+        "Al-Isra",
+        "Al-Hajj"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 56,
+      "questionText": "Surah apakah yang dianjurkan dibaca setiap hari Jumat?",
+      "answers": [
+        "Yasin",
+        "Al-Kahf",
+        "Ar-Rahman",
+        "Al-Mulk"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 57,
+      "questionText": "Dalam Surah Al-Ikhlas, sifat Allah manakah yang ditekankan?",
+      "answers": [
+        "Kasih Sayang-Nya",
+        "Ke-Esaan-Nya (Tauhid)",
+        "Kekuasaan-Nya",
+        "Pengetahuan-Nya"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 58,
+      "questionText": "Surah manakah yang berisi ayat yang dikenal sebagai \"Ayat Singgasana\" (Ayat Kursi)?",
+      "answers": [
+        "Al-Baqarah (2:255)",
+        "Ali Imran (3:18)",
+        "An-Nisa (4:87)",
+        "Al-Hasyr (59:22)"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 59,
+      "questionText": "Berapa perkiraan jumlah ayat dalam Al-Qur'an?",
+      "answers": [
+        "5.000",
+        "6.236",
+        "7.000",
+        "8.500"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 60,
+      "questionText": "Khalifah manakah yang memerintahkan pengumpulan Al-Qur'an dalam satu mushaf?",
+      "answers": [
+        "Umar bin Khattab",
+        "Abu Bakar as-Siddiq",
+        "Utsman bin Affan",
+        "Ali bin Abi Thalib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 61,
+      "questionText": "Khalifah manakah yang membakukan teks Al-Qur'an dan mendistribusikan salinan resmi?",
+      "answers": [
+        "Abu Bakar",
+        "Umar",
+        "Utsman",
+        "Ali"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 62,
+      "questionText": "Apa itu surah \"Makkiyyah\"?",
+      "answers": [
+        "Surah yang diturunkan di Madinah",
+        "Surah yang diturunkan di Mekah sebelum hijrah",
+        "Surah tentang Mekah",
+        "Surah dengan lebih dari 100 ayat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 63,
+      "questionText": "Surah manakah yang tidak dimulai dengan \"Bismillah\"?",
+      "answers": [
+        "Al-Fatihah",
+        "Al-Baqarah",
+        "At-Taubah",
+        "Al-Kausar"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 64,
+      "questionText": "Apa ilmu tentang aturan-aturan membaca Al-Qur'an?",
+      "answers": [
+        "Tafsir",
+        "Tajwid",
+        "Fikih",
+        "Ushul hadis"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 65,
+      "questionText": "Surah manakah yang menyebutkan \"Bismillah\" dua kali?",
+      "answers": [
+        "Al-Fatihah",
+        "An-Naml",
+        "Al-Baqarah",
+        "Al-Anfal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 66,
+      "questionText": "Ada berapa surah dalam Al-Qur'an yang dimulai dengan \"Huruf Muqatta'ah\" (huruf terpotong)?",
+      "answers": [
+        "19",
+        "25",
+        "29",
+        "33"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 67,
+      "questionText": "Apa ilmu tentang menafsirkan Al-Qur'an?",
+      "answers": [
+        "Hadis",
+        "Tajwid",
+        "Tafsir",
+        "Fikih"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 68,
+      "questionText": "Ayat manakah dalam Al-Qur'an yang dianggap sebagai ayat utang (ayat terpanjang)?",
+      "answers": [
+        "Al-Baqarah 2:255",
+        "Al-Baqarah 2:282",
+        "Ali Imran 3:7",
+        "An-Nisa 4:11"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 69,
+      "questionText": "Sahabat nabi yang dikenal sebagai \"Katib al-Wahyi\" (Juru Tulis Wahyu) adalah?",
+      "answers": [
+        "Abu Bakar",
+        "Umar",
+        "Zaid bin Tsabit",
+        "Mu'adz bin Jabal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 70,
+      "questionText": "Apa yang dimaksud dengan \"tujuh Ahruf\" dalam konteks Al-Qur'an?",
+      "answers": [
+        "Tujuh terjemahan",
+        "Tujuh mode/dialek bacaan",
+        "Tujuh bab",
+        "Tujuh nabi yang disebut"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 71,
+      "questionText": "Siapakah nabi pertama dalam Islam?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Nuh (Noah)",
+        "Adam",
+        "Muhammad (SAW)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 72,
+      "questionText": "Siapakah nabi terakhir dalam Islam?",
+      "answers": [
+        "Isa (Yesus)",
+        "Musa (Musa)",
+        "Muhammad (SAW)",
+        "Ibrahim (Abraham)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 73,
+      "questionText": "Nabi manakah yang ditelan oleh ikan paus?",
+      "answers": [
+        "Musa (Musa)",
+        "Yunus (Yunus)",
+        "Ayyub (Ayub)",
+        "Idris (Enoch)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 74,
+      "questionText": "Nabi manakah yang membangun bahtera (kapal)?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Sulaiman (Salomo)",
+        "Nuh (Noah)",
+        "Dawud (Daud)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 75,
+      "questionText": "Nabi manakah yang diberi kitab Zabur?",
+      "answers": [
+        "Musa (Musa)",
+        "Isa (Yesus)",
+        "Dawud (Daud)",
+        "Ibrahim (Abraham)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 76,
+      "questionText": "Nabi manakah yang dilemparkan ke dalam api tetapi diselamatkan oleh Allah?",
+      "answers": [
+        "Musa (Musa)",
+        "Ibrahim (Abraham)",
+        "Ismail (Ismail)",
+        "Yaqub (Yakub)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 77,
+      "questionText": "Nabi manakah yang dikenal sebagai \"Khalilullah\" (Kekasih Allah)?",
+      "answers": [
+        "Musa (Musa)",
+        "Muhammad (SAW)",
+        "Ibrahim (Abraham)",
+        "Nuh (Noah)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 78,
+      "questionText": "Nabi manakah yang diberi kitab Taurat?",
+      "answers": [
+        "Dawud (Daud)",
+        "Musa (Musa)",
+        "Isa (Yesus)",
+        "Harun (Harun)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 79,
+      "questionText": "Nabi manakah yang dapat berbicara dengan binatang dan memerintah jin?",
+      "answers": [
+        "Dawud (Daud)",
+        "Sulaiman (Salomo)",
+        "Idris (Enoch)",
+        "Zulkifli"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 80,
+      "questionText": "Siapakah saudara Nabi Musa (Musa)?",
+      "answers": [
+        "Ismail (Ismail)",
+        "Harun (Harun)",
+        "Ishaq (Ishak)",
+        "Yusuf (Yusuf)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 81,
+      "questionText": "Nabi manakah yang dijual sebagai budak oleh saudara-saudaranya?",
+      "answers": [
+        "Musa (Musa)",
+        "Yusuf (Yusuf)",
+        "Ismail (Ismail)",
+        "Ayyub (Ayub)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 82,
+      "questionText": "Nabi manakah yang disebut sebagai \"Ruhullah\" (Ruh Allah)?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Muhammad (SAW)",
+        "Isa (Yesus)",
+        "Adam"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 83,
+      "questionText": "Berapa jumlah nabi yang disebutkan namanya dalam Al-Qur'an?",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 84,
+      "questionText": "Nabi manakah yang dikenal sebagai \"Safiyyullah\" (Yang Dipilih Allah)?",
+      "answers": [
+        "Nuh (Noah)",
+        "Adam",
+        "Ibrahim (Abraham)",
+        "Muhammad (SAW)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 85,
+      "questionText": "Nabi manakah yang terkenal dengan kesabarannya yang luar biasa?",
+      "answers": [
+        "Yusuf (Yusuf)",
+        "Ayyub (Ayub)",
+        "Yunus (Yunus)",
+        "Syuaib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 86,
+      "questionText": "Nabi manakah yang diangkat ke langit dalam keadaan hidup menurut keyakinan Islam?",
+      "answers": [
+        "Musa (Musa)",
+        "Idris (Enoch)",
+        "Ilyas (Elia)",
+        "Isa (Yesus)"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 87,
+      "questionText": "Dua nabi manakah yang membangun Ka'bah?",
+      "answers": [
+        "Adam dan Nuh",
+        "Ibrahim dan Ismail",
+        "Musa dan Harun",
+        "Muhammad dan Ibrahim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 88,
+      "questionText": "Nabi manakah yang diutus kepada kaum 'Ad?",
+      "answers": [
+        "Saleh",
+        "Hud",
+        "Syuaib",
+        "Luth (Lot)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 89,
+      "questionText": "Nabi manakah yang diutus kepada kaum Tsamud?",
+      "answers": [
+        "Hud",
+        "Saleh",
+        "Syuaib",
+        "Nuh (Noah)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 90,
+      "questionText": "Nabi manakah yang kaumnya dihancurkan karena perbuatan amoral (kota Sodom)?",
+      "answers": [
+        "Syuaib",
+        "Hud",
+        "Luth (Lot)",
+        "Saleh"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 91,
+      "questionText": "Mukjizat apa yang diberikan kepada Nabi Musa?",
+      "answers": [
+        "Menyembuhkan orang sakit",
+        "Tongkat berubah menjadi ular",
+        "Berbicara dengan burung",
+        "Membelah bulan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 92,
+      "questionText": "Nabi manakah yang memiliki 12 putra yang menjadi suku-suku Bani Israel?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Ishaq (Ishak)",
+        "Yaqub (Yakub)",
+        "Yusuf (Yusuf)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 93,
+      "questionText": "Nabi manakah yang dikenal membuat baju besi (rantai)?",
+      "answers": [
+        "Sulaiman (Salomo)",
+        "Dawud (Daud)",
+        "Zulkifli",
+        "Idris (Enoch)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 94,
+      "questionText": "Apa mukjizat Nabi Saleh untuk kaum Tsamud?",
+      "answers": [
+        "Banjir bandang",
+        "Unta betina dari batu",
+        "Api dari langit",
+        "Burung yang berbicara"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 95,
+      "questionText": "Nabi manakah yang diutus kepada penduduk Madyan?",
+      "answers": [
+        "Luth (Lot)",
+        "Hud",
+        "Syuaib",
+        "Saleh"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 96,
+      "questionText": "Gelar apa yang diberikan kepada Nabi Muhammad SAW?",
+      "answers": [
+        "Khalilullah",
+        "Kalimatullah",
+        "Habibullah (Kekasih Allah)",
+        "Ruhullah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 97,
+      "questionText": "Nabi manakah yang dipercaya lahir tanpa ayah dalam Islam?",
+      "answers": [
+        "Adam",
+        "Isa (Yesus)",
+        "Idris (Enoch)",
+        "Yahya (Yohanes)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 98,
+      "questionText": "Nabi manakah yang ayah, kakek, dan buyutnya adalah para nabi?",
+      "answers": [
+        "Muhammad (SAW)",
+        "Yusuf (Yusuf)",
+        "Isa (Yesus)",
+        "Musa (Musa)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 99,
+      "questionText": "Nabi manakah yang diberi \"Shuhuf\" (Lembaran-lembaran wahyu)?",
+      "answers": [
+        "Nuh (Noah)",
+        "Musa (Musa)",
+        "Ibrahim (Abraham)",
+        "Dawud (Daud)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 100,
+      "questionText": "Dalam Perjalanan Malam (Isra dan Mikraj), nabi manakah yang ditemui Muhammad SAW di langit pertama?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Musa (Musa)",
+        "Adam",
+        "Isa (Yesus)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 101,
+      "questionText": "Nabi manakah yang digambarkan dalam Al-Qur'an sebagai \"Dzun-Nun\" (sahabat ikan)?",
+      "answers": [
+        "Ayyub (Ayub)",
+        "Yunus (Yunus)",
+        "Dawud (Daud)",
+        "Ilyas (Elia)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 102,
+      "questionText": "Menurut tradisi Islam, di berapa langit Nabi Muhammad SAW bertemu para nabi selama Mikraj?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 103,
+      "questionText": "Nabi manakah yang meminta Allah untuk menunjukkan kepadanya bagaimana Dia menghidupkan orang mati (melibatkan burung)?",
+      "answers": [
+        "Musa (Musa)",
+        "Ibrahim (Abraham)",
+        "Isa (Yesus)",
+        "Sulaiman (Salomo)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 104,
+      "questionText": "Kisah nabi manakah yang disebut sebagai \"Ahsan al-Qasas\" (kisah terbaik) dalam Al-Qur'an?",
+      "answers": [
+        "Musa (Musa)",
+        "Ibrahim (Abraham)",
+        "Yusuf (Yusuf)",
+        "Nuh (Noah)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 105,
+      "questionText": "Siapakah nama istri Nabi Ibrahim yang merupakan ibu dari Ismail?",
+      "answers": [
+        "Sarah",
+        "Hajar (Hagar)",
+        "Maryam",
+        "Asiyah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 106,
+      "questionText": "Nabi manakah yang hidup paling lama menurut tradisi Islam?",
+      "answers": [
+        "Adam",
+        "Nuh (Noah)",
+        "Idris (Enoch)",
+        "Ibrahim (Abraham)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 107,
+      "questionText": "Apa itu Hadis?",
+      "answers": [
+        "Ayat Al-Qur'an",
+        "Perkataan atau perbuatan Nabi Muhammad SAW",
+        "Jenis shalat",
+        "Bab dari Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 108,
+      "questionText": "Siapa yang menyusun kitab hadis paling otentik (Sahih)?",
+      "answers": [
+        "Imam Muslim",
+        "Imam Bukhari",
+        "Imam Abu Dawud",
+        "Imam Tirmidzi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 109,
+      "questionText": "Apa nama dua kitab hadis paling otentik yang disebut bersama?",
+      "answers": [
+        "Al-Muwatha' dan Musnad",
+        "Sahihain (Sahih Bukhari dan Sahih Muslim)",
+        "Sunan an-Nasa'i dan Sunan Ibnu Majah",
+        "Jami' dan Mushannaf"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 110,
+      "questionText": "Apa arti \"Sahih\" dalam klasifikasi Hadis?",
+      "answers": [
+        "Lemah",
+        "Palsu",
+        "Autentik / Shahih",
+        "Hasan"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 111,
+      "questionText": "Apa nama rantai periwayat dalam suatu Hadis?",
+      "answers": [
+        "Matan",
+        "Sanad",
+        "Rawi",
+        "Riwayah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 112,
+      "questionText": "Apa nama teks/konten dari suatu Hadis?",
+      "answers": [
+        "Sanad",
+        "Isnad",
+        "Matan",
+        "Rawi"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 113,
+      "questionText": "Apa itu \"Hadis Qudsi\"?",
+      "answers": [
+        "Hadis tentang shalat",
+        "Hadis yang berisi firman Allah dengan redaksi Nabi",
+        "Hadis tentang puasa",
+        "Hadis palsu"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 114,
+      "questionText": "Menurut hadis terkenal, amal perbuatan dinilai berdasarkan apa?",
+      "answers": [
+        "Hasilnya",
+        "Niatnya",
+        "Ucapannya",
+        "Saksi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 115,
+      "questionText": "Berapa jumlah hadis dalam Sahih Bukhari (tanpa pengulangan, perkiraan)?",
+      "answers": [
+        "Sekitar 2.600",
+        "Sekitar 4.000",
+        "Sekitar 7.000",
+        "Sekitar 10.000"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 116,
+      "questionText": "Klasifikasi apa yang diberikan kepada hadis yang memiliki perawi lemah dalam sanadnya?",
+      "answers": [
+        "Sahih",
+        "Hasan",
+        "Da'if (Lemah)",
+        "Maudu'"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 117,
+      "questionText": "Apa itu \"Hadis Maudu'\"?",
+      "answers": [
+        "Hadis shahih",
+        "Hadis hasan",
+        "Hadis palsu / buatan",
+        "Hadis lemah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 118,
+      "questionText": "Manakah dari berikut ini yang BUKAN termasuk \"Kutub as-Sittah\" (Enam Kitab Hadis)?",
+      "answers": [
+        "Sahih Bukhari",
+        "Al-Muwatha' Imam Malik",
+        "Sunan Abu Dawud",
+        "Sahih Muslim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 119,
+      "questionText": "Lengkapi hadis ini: \"Tidak sempurna iman seseorang di antara kalian sehingga ia mencintai untuk saudaranya...\"",
+      "answers": [
+        "...apa yang ia cintai untuk dirinya sendiri",
+        "...lebih dari yang ia cintai untuk dirinya",
+        "...amal terbaik",
+        "...surga"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 120,
+      "questionText": "Apa arti \"Mutawatir\" dalam klasifikasi Hadis?",
+      "answers": [
+        "Diriwayatkan oleh satu orang",
+        "Diriwayatkan melalui banyak rantai independen sehingga pemalsuan mustahil",
+        "Riwayat yang lemah",
+        "Hadis tentang mukjizat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 121,
+      "questionText": "Apa yang terkenal dari \"40 Hadis Imam Nawawi\"?",
+      "answers": [
+        "Hadis terpanjang",
+        "Kumpulan ajaran Islam yang ringkas namun mendasar",
+        "Hanya tentang shalat",
+        "Disusun oleh Bukhari"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 122,
+      "questionText": "Menurut hadis, tiga amal apakah yang paling dicintai Allah?",
+      "answers": [
+        "Haji, Umrah, Jihad",
+        "Shalat tepat waktu, berbakti kepada orang tua, jihad di jalan Allah",
+        "Puasa, sedekah, haji",
+        "Membaca Al-Qur'an, Dzikir, Sedekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 123,
+      "questionText": "Apa itu \"Ilmu ar-Rijal\" dalam ilmu hadis?",
+      "answers": [
+        "Studi tentang perawi (pria)",
+        "Studi tentang matan hadis",
+        "Studi tentang tata bahasa Arab",
+        "Studi tentang hukum Islam"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 124,
+      "questionText": "Apa itu \"Hadis Mursal\"?",
+      "answers": [
+        "Hadis dengan sanad bersambung",
+        "Hadis yang diriwayatkan oleh tabi'in langsung dari Nabi, melompati sahabat",
+        "Hadis palsu",
+        "Hadis dengan banyak sanad"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 125,
+      "questionText": "Menurut hadis, apa doa terbaik di hari Arafah?",
+      "answers": [
+        "Subhanallah",
+        "Alhamdulillah",
+        "La ilaha illallah wahdahu la syarikalah...",
+        "Astaghfirullah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 126,
+      "questionText": "Apa itu \"Hadis Hasan\"?",
+      "answers": [
+        "Palsu",
+        "Shahih",
+        "Hasan (baik, dapat diterima namun sedikit di bawah shahih)",
+        "Lemah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 127,
+      "questionText": "Siapakah khalifah pertama dalam Islam setelah Nabi Muhammad SAW?",
+      "answers": [
+        "Umar bin Khattab",
+        "Ali bin Abi Thalib",
+        "Abu Bakar as-Siddiq",
+        "Utsman bin Affan"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 128,
+      "questionText": "Pada tahun berapakah Hijrah (migrasi dari Mekah ke Madinah) terjadi?",
+      "answers": [
+        "610 M",
+        "622 M",
+        "630 M",
+        "632 M"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 129,
+      "questionText": "Apa pertempuran besar pertama dalam sejarah Islam?",
+      "answers": [
+        "Perang Uhud",
+        "Perang Badar",
+        "Perang Khandaq",
+        "Perang Khaibar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 130,
+      "questionText": "Siapakah wanita pertama yang masuk Islam?",
+      "answers": [
+        "Aisyah RA",
+        "Fatimah RA",
+        "Khadijah RA",
+        "Sumayyah RA"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 131,
+      "questionText": "Apa nama masjid pertama yang dibangun dalam Islam?",
+      "answers": [
+        "Masjid al-Aqsha",
+        "Masjid Quba",
+        "Masjid Nabawi",
+        "Masjid al-Haram"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 132,
+      "questionText": "Siapakah muazin (azan) pertama dalam Islam?",
+      "answers": [
+        "Abdullah bin Mas'ud",
+        "Bilal bin Rabah",
+        "Ammar bin Yasir",
+        "Salman al-Farisi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 133,
+      "questionText": "Pada tahun berapakah Mekah ditaklukkan oleh umat Islam?",
+      "answers": [
+        "624 M",
+        "625 M",
+        "628 M",
+        "630 M"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 134,
+      "questionText": "Apa itu Perjanjian Hudaibiyah?",
+      "answers": [
+        "Deklarasi perang",
+        "Perjanjian damai antara Muslim dan Quraisy",
+        "Kesepakatan dagang",
+        "Dokumen pendirian negara Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 135,
+      "questionText": "Siapakah khalifah kedua dalam Islam?",
+      "answers": [
+        "Abu Bakar",
+        "Umar bin Khattab",
+        "Utsman bin Affan",
+        "Ali bin Abi Thalib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 136,
+      "questionText": "Apa yang terkenal dari \"Tahun Gajah\"?",
+      "answers": [
+        "Tahun umat Islam menaklukkan Mekah",
+        "Tahun kelahiran Nabi Muhammad SAW",
+        "Tahun Al-Qur'an disempurnakan",
+        "Tahun Hijrah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 137,
+      "questionText": "Siapa yang dikenal sebagai \"Pedang Allah\"?",
+      "answers": [
+        "Ali bin Abi Thalib",
+        "Umar bin Khattab",
+        "Khalid bin Walid",
+        "Saad bin Abi Waqqas"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 138,
+      "questionText": "Ke manakah umat Islam pertama kali hijrah untuk menghindari penganiayaan?",
+      "answers": [
+        "Madinah",
+        "Habasyah (Ethiopia)",
+        "Mesir",
+        "Syam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 139,
+      "questionText": "Apa nama konstitusi yang ditetapkan di Madinah?",
+      "answers": [
+        "Perjanjian Hudaibiyah",
+        "Piagam Madinah (Konstitusi Madinah)",
+        "Deklarasi Mekah",
+        "Perjanjian Aqabah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 140,
+      "questionText": "Siapakah anak pertama yang masuk Islam?",
+      "answers": [
+        "Umar",
+        "Zaid bin Haritsah",
+        "Ali bin Abi Thalib",
+        "Abdullah bin Abbas"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 141,
+      "questionText": "Apa yang terkenal dari Perang Khandaq?",
+      "answers": [
+        "Peperangan laut",
+        "Menggali parit untuk mempertahankan Madinah",
+        "Pertempuran di celah gunung",
+        "Pengepungan Mekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 142,
+      "questionText": "Siapa yang mengusulkan penggalian parit pada Perang Khandaq?",
+      "answers": [
+        "Abu Bakar",
+        "Umar",
+        "Salman al-Farisi",
+        "Khalid bin Walid"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 143,
+      "questionText": "Pada tahun berapakah Nabi Muhammad SAW wafat?",
+      "answers": [
+        "630 M",
+        "632 M",
+        "634 M",
+        "636 M"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 144,
+      "questionText": "Dinasti Islam manakah yang membangun Dome of the Rock di Yerusalem?",
+      "answers": [
+        "Abbasiyah",
+        "Utsmaniyah",
+        "Umayah",
+        "Fatimiyah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 145,
+      "questionText": "Siapakah khalifah Umayah pertama?",
+      "answers": [
+        "Abdul Malik bin Marwan",
+        "Muawiyah bin Abu Sufyan",
+        "Yazid bin Muawiyah",
+        "Marwan bin al-Hakam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 146,
+      "questionText": "Khalifah manakah yang memperkenalkan kalender Hijriah?",
+      "answers": [
+        "Abu Bakar",
+        "Umar bin Khattab",
+        "Utsman",
+        "Ali"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 147,
+      "questionText": "Apa itu Perang Riddah?",
+      "answers": [
+        "Perang antara Muslim dan Romawi",
+        "Perang melawan kemurtadan setelah wafatnya Nabi",
+        "Perang antara Umayah dan Abbasiyah",
+        "Perang Salib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 148,
+      "questionText": "Siapa yang memimpin pasukan Muslim dalam Pertempuran Yarmuk melawan Bizantium?",
+      "answers": [
+        "Umar bin Khattab",
+        "Khalid bin Walid",
+        "Abu Bakar",
+        "Amr bin Ash"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 149,
+      "questionText": "Jenderal Muslim manakah yang menaklukkan Mesir?",
+      "answers": [
+        "Khalid bin Walid",
+        "Saad bin Abi Waqqas",
+        "Amr bin Ash",
+        "Thariq bin Ziyad"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 150,
+      "questionText": "Siapa yang membuka jalan ke Spanyol (Al-Andalus) bagi umat Islam?",
+      "answers": [
+        "Khalid bin Walid",
+        "Thariq bin Ziyad",
+        "Musa bin Nushair",
+        "Shalahuddin al-Ayyubi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 151,
+      "questionText": "Apa ibu kota Kekhalifahan Abbasiyah?",
+      "answers": [
+        "Damaskus",
+        "Bagdad",
+        "Kairo",
+        "Kordoba"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 152,
+      "questionText": "Siapakah Shalahuddin al-Ayyubi dan apa yang terkenal darinya?",
+      "answers": [
+        "Penyair Umayah",
+        "Pendiri Kesultanan Utsmaniyah",
+        "Pemimpin Muslim yang merebut kembali Yerusalem dari tentara Salib",
+        "Penemu aljabar"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 153,
+      "questionText": "Pertempuran manakah pada tahun 1258 M yang menandai jatuhnya Kekhalifahan Abbasiyah?",
+      "answers": [
+        "Pertempuran Ain Jalut",
+        "Pengepungan Bagdad",
+        "Pertempuran Hattin",
+        "Pertempuran Manzikert"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 154,
+      "questionText": "Kekaisaran manakah yang mengakhiri Kekhalifahan Abbasiyah dengan menjarah Bagdad?",
+      "answers": [
+        "Tentara Salib",
+        "Mongol",
+        "Utsmaniyah",
+        "Safawi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 155,
+      "questionText": "Siapa pendiri Kesultanan Utsmaniyah?",
+      "answers": [
+        "Sulaiman al-Qanuni",
+        "Muhammad II",
+        "Utsman I",
+        "Bayezid I"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 156,
+      "questionText": "Sultan Utsmaniyah manakah yang menaklukkan Konstantinopel pada tahun 1453?",
+      "answers": [
+        "Utsman I",
+        "Sulaiman al-Qanuni",
+        "Muhammad al-Fatih (Muhammad II)",
+        "Selim I"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 157,
+      "questionText": "Apa yang terkenal dari \"Zaman Keemasan Islam\"?",
+      "answers": [
+        "Penaklukan militer",
+        "Kemajuan dalam ilmu pengetahuan, kedokteran, matematika, dan filsafat",
+        "Pembangunan masjid",
+        "Ekspansi rute perdagangan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 158,
+      "questionText": "Siapa yang dikenal sebagai \"Bapak Aljabar\"?",
+      "answers": [
+        "Ibnu Sina",
+        "Al-Khawarizmi",
+        "Ar-Razi",
+        "Ibnu Rusyd"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 159,
+      "questionText": "Ilmuwan Muslim manakah yang menulis \"Al-Qanun fi ath-Thibb\" (The Canon of Medicine)?",
+      "answers": [
+        "Al-Khawarizmi",
+        "Ar-Razi",
+        "Ibnu Sina (Avicenna)",
+        "Ibnu Khaldun"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 160,
+      "questionText": "Siapa yang menulis \"Muqaddimah\", yang dianggap sebagai mahakarya historiografi?",
+      "answers": [
+        "Ibnu Sina",
+        "Al-Ghazali",
+        "Ibnu Khaldun",
+        "Ath-Thabari"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 161,
+      "questionText": "Apa itu \"Ba'iat Aqabah\"?",
+      "answers": [
+        "Perjanjian dagang",
+        "Janji setia dari penduduk Madinah kepada Nabi sebelum hijrah",
+        "Perjanjian damai dengan Quraisy",
+        "Aliansi militer"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 162,
+      "questionText": "Siapakah martir (wanita) pertama dalam Islam?",
+      "answers": [
+        "Khadijah",
+        "Fatimah",
+        "Sumayyah binti Khayyat",
+        "Asma binti Abu Bakar"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 163,
+      "questionText": "Apa saja enam rukun iman dalam Islam?",
+      "answers": [
+        "Syahadat, Shalat, Zakat, Puasa, Haji, Jihad",
+        "Iman kepada Allah, Malaikat, Kitab-kitab, Rasul-rasul, Hari Kiamat, dan Qadar (takdir)",
+        "Shalat, Puasa, Zakat, Haji, Iman, Sabar",
+        "Tauhid, Risalah, Akhirat, Shalat, Puasa, Zakat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 164,
+      "questionText": "Apa itu Ihsan dalam Islam?",
+      "answers": [
+        "Memberi sedekah",
+        "Beribadah kepada Allah seolah-olah engkau melihat-Nya",
+        "Melaksanakan haji",
+        "Membaca Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 165,
+      "questionText": "Apa nama shalat yang dilakukan saat gerhana matahari?",
+      "answers": [
+        "Shalat Istisqa",
+        "Shalat Kusuf",
+        "Shalat Khauf",
+        "Shalat Dhuha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 166,
+      "questionText": "Shalat apa yang dilakukan untuk memohon hujan?",
+      "answers": [
+        "Shalat Kusuf",
+        "Shalat Khusuf",
+        "Shalat Istisqa",
+        "Shalat Hajat"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 167,
+      "questionText": "Berapa kali Surah Al-Fatihah dibaca dalam shalat yang berjumlah 5 rakaat?",
+      "answers": [
+        "5 kali",
+        "3 kali",
+        "7 kali",
+        "6 kali"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 168,
+      "questionText": "Apa itu \"Sujud Sahwi\"?",
+      "answers": [
+        "Sujud utama dalam shalat",
+        "Sujud karena lupa dalam shalat",
+        "Sujud syukur",
+        "Sujud saat membaca Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 169,
+      "questionText": "Apakah yang dimaksud dengan Lailatul Qadr (Malam Kemuliaan)?",
+      "answers": [
+        "Malam pertama Ramadhan",
+        "Malam di sepuluh hari terakhir Ramadhan yang lebih baik dari seribu bulan",
+        "Malam Idul Fitri",
+        "Malam sebelum haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 170,
+      "questionText": "Di surah manakah Lailatul Qadr dijelaskan?",
+      "answers": [
+        "Al-Baqarah",
+        "Al-Qadr",
+        "Al-Fajr",
+        "Al-Buruj"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 171,
+      "questionText": "Surah apakah yang dikenal sebagai \"Al-Mulk\" (Kekuasaan)?",
+      "answers": [
+        "Al-Mulk",
+        "Al-Waqi'ah",
+        "Ar-Rahman",
+        "Al-Hadid"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 172,
+      "questionText": "Surah apakah yang dimulai dengan \"Ar-Rahman\" (Yang Maha Pengasih)?",
+      "answers": [
+        "Surah 54",
+        "Surah 55",
+        "Surah 56",
+        "Surah 57"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 173,
+      "questionText": "Apa itu \"Basmalah\" yang mengawali kebanyakan surah?",
+      "answers": [
+        "Doa perlindungan",
+        "\"Dengan nama Allah Yang Maha Pengasih, Maha Penyayang\"",
+        "Ayat tentang puasa",
+        "Seruan shalat (azan)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 174,
+      "questionText": "Hewan manakah yang namanya menjadi judul surah dalam Al-Qur'an?",
+      "answers": [
+        "Al-Fil (Gajah)",
+        "Al-Baqarah (Sapi)",
+        "An-Naml (Semut)",
+        "Semua yang disebut"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 175,
+      "questionText": "Apa itu \"Asbabun Nuzul\" dalam studi Al-Qur'an?",
+      "answers": [
+        "Ilmu tajwid",
+        "Sebab-sebab / peristiwa turunnya ayat",
+        "Penghapusan (nasakh) ayat",
+        "Tata bahasa Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 176,
+      "questionText": "Apa arti \"Nasakh\" dalam ilmu Al-Qur'an?",
+      "answers": [
+        "Menyalin Al-Qur'an",
+        "Penghapusan suatu hukum dengan hukum lain yang datang kemudian",
+        "Aturan bacaan",
+        "Terjemahan Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 177,
+      "questionText": "Nabi manakah yang paling banyak disebut dalam Al-Qur'an?",
+      "answers": [
+        "Ibrahim",
+        "Muhammad SAW",
+        "Musa",
+        "Isa"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 178,
+      "questionText": "Siapakah nama istri pertama Nabi Muhammad SAW?",
+      "answers": [
+        "Aisyah",
+        "Hafsah",
+        "Khadijah",
+        "Zainab"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 179,
+      "questionText": "Apakah syahadat (deklarasi iman) dalam Islam?",
+      "answers": [
+        "Subhanallah",
+        "La ilaha illallah Muhammadur Rasulullah",
+        "Allahu Akbar",
+        "Bismillahirrahmanirrahim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 180,
+      "questionText": "Apa arti \"Tawakal\"?",
+      "answers": [
+        "Taubat",
+        "Berserah diri dan percaya kepada Allah",
+        "Syukur",
+        "Sabar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 181,
+      "questionText": "Apa nama masjid Nabawi di Madinah?",
+      "answers": [
+        "Masjidil Haram",
+        "Masjid al-Aqsha",
+        "Masjid Nabawi",
+        "Masjid Quba"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 182,
+      "questionText": "Apakah \"Isra dan Mikraj\" itu?",
+      "answers": [
+        "Hijrah ke Madinah",
+        "Perjalanan malam dan naiknya Nabi Muhammad SAW ke langit",
+        "Penaklukan Mekah",
+        "Wahyu pertama"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 183,
+      "questionText": "Peristiwa apakah yang menjadi awal mula kalender Hijriah?",
+      "answers": [
+        "Kelahiran Nabi Muhammad",
+        "Wahyu pertama",
+        "Hijrah ke Madinah",
+        "Penaklukan Mekah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 184,
+      "questionText": "Siapakah paman Nabi yang melindunginya tetapi tidak masuk Islam?",
+      "answers": [
+        "Hamzah",
+        "Abu Lahab",
+        "Abu Thalib",
+        "Abbas"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 185,
+      "questionText": "Apa itu \"Syura\" dalam pemerintahan Islam?",
+      "answers": [
+        "Strategi militer",
+        "Musyawarah dalam pengambilan keputusan",
+        "Pemungutan pajak",
+        "Putusan pengadilan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 186,
+      "questionText": "Menurut hadis, \"Sebaik-baik kalian adalah orang yang...\"",
+      "answers": [
+        "...paling banyak shalatnya",
+        "...paling banyak puasanya",
+        "...belajar Al-Qur'an dan mengajarkannya",
+        "...paling banyak sedekahnya"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 187,
+      "questionText": "Apa yang dimaksud dengan hadis \"Agama itu nasihat\"?",
+      "answers": [
+        "Hanya shalat",
+        "Nasihat tulus kepada Allah, Kitab-Nya, Rasul-Nya, pemimpin Muslim, dan kaum Muslimin umumnya",
+        "Memberi sedekah",
+        "Berpuasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 188,
+      "questionText": "Menurut sebuah hadis, apa saja \"tujuh dosa besar yang membinasakan\"?",
+      "answers": [
+        "Bohong, curang, mencuri, membunuh, dengki, menggunjing, bergosip",
+        "Syirik, sihir, membunuh jiwa yang diharamkan, memakan riba, memakan harta anak yatim, lari dari medan perang, menuduh wanita mukminah berzina",
+        "Sombong, tamak, iri, marah, malas, murka, rakus",
+        "Berjudi, minum khamr, bohong, mencuri, membunuh, zina, menggunjing"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 189,
+      "questionText": "Apa itu \"Hadis Ahad\"?",
+      "answers": [
+        "Hadis yang diriwayatkan oleh satu atau sedikit rantai perawi",
+        "Hadis palsu",
+        "Hadis tentang mimpi",
+        "Hadis yang diriwayatkan hanya oleh wanita"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 190,
+      "questionText": "Siapa yang menyusun Sunan Abu Dawud?",
+      "answers": [
+        "Imam Bukhari",
+        "Abu Dawud as-Sijistani",
+        "Imam Tirmidzi",
+        "Imam an-Nasa'i"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 191,
+      "questionText": "Apa makna \"Ihsan\" sebagaimana dijelaskan dalam Hadis Jibril?",
+      "answers": [
+        "Memberi sedekah kepada fakir miskin",
+        "Beriman kepada enam rukun iman",
+        "Beribadah kepada Allah seolah-olah engkau melihat-Nya",
+        "Melaksanakan haji"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 192,
+      "questionText": "Apakah wahyu pertama yang diterima oleh Nabi Muhammad SAW?",
+      "answers": [
+        "Surah Al-Fatihah",
+        "Ayat-ayat pertama Surah Al-Alaq (Iqra'/Bacalah)",
+        "Surah Al-Ikhlas",
+        "Ayat Kursi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 193,
+      "questionText": "Di manakah wahyu pertama diterima?",
+      "answers": [
+        "Di Ka'bah",
+        "Di Masjid Nabawi",
+        "Di Gua Hira",
+        "Di Padang Arafah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 194,
+      "questionText": "Berapa usia Nabi Muhammad SAW ketika menerima wahyu pertama?",
+      "answers": [
+        "25 tahun",
+        "30 tahun",
+        "40 tahun",
+        "45 tahun"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 195,
+      "questionText": "Apa alasan utama Quraisy menentang Nabi Muhammad SAW?",
+      "answers": [
+        "Beliau miskin",
+        "Seruan tauhidnya mengancam status dan tradisi kemusyrikan mereka",
+        "Beliau menginginkan kekuasaan politik",
+        "Beliau berasal dari suku lain"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 196,
+      "questionText": "Apa itu \"Dzikir\" dalam Islam?",
+      "answers": [
+        "Puasa",
+        "Mengingat Allah melalui kalimat dan doa",
+        "Jenis sedekah",
+        "Ritual haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 197,
+      "questionText": "Apa arti \"Subhanallah\"?",
+      "answers": [
+        "Allah Maha Besar",
+        "Maha Suci Allah",
+        "Tiada tuhan selain Allah",
+        "Insya Allah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 198,
+      "questionText": "Apa arti \"Alhamdulillah\"?",
+      "answers": [
+        "Allah Maha Besar",
+        "Maha Suci Allah",
+        "Segala puji bagi Allah",
+        "Insya Allah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 199,
+      "questionText": "Apa arti \"Allahu Akbar\"?",
+      "answers": [
+        "Allah Maha Besar",
+        "Maha Suci Allah",
+        "Segala puji bagi Allah",
+        "Dengan nama Allah"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 200,
+      "questionText": "Apa arti \"Insya Allah\"?",
+      "answers": [
+        "Allah Maha Besar",
+        "Jika Allah menghendaki",
+        "Syukur kepada Allah",
+        "Aku berlindung kepada Allah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 201,
+      "questionText": "Apa nama hari raya yang dirayakan setelah Ramadan?",
+      "answers": [
+        "Idul Adha",
+        "Idul Fitri",
+        "Idul Ghadir",
+        "Maulid Nabi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 202,
+      "questionText": "Apa nama hari raya yang dirayakan saat haji?",
+      "answers": [
+        "Idul Fitri",
+        "Idul Adha",
+        "Idul Ghadir",
+        "Maulid Nabi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 203,
+      "questionText": "Apa nama kurban yang dilakukan saat Idul Adha?",
+      "answers": [
+        "Sedekah",
+        "Zakat",
+        "Qurban / Udhiyyah",
+        "Khums"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 204,
+      "questionText": "Berapa rakaat shalat Id?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 205,
+      "questionText": "Apa nama doa pembuka (iftitah) di awal shalat?",
+      "answers": [
+        "Tasyahud",
+        "Doa Iftitah",
+        "Qunut",
+        "Tasbih"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 206,
+      "questionText": "Apa yang diucapkan dalam Tasyahud saat shalat?",
+      "answers": [
+        "Subhanallah",
+        "At-tahiyyatu lillahi...",
+        "Alhamdulillahi Rabbil 'alamin",
+        "Rabbana atina fid-dunya hasanah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 207,
+      "questionText": "Pertempuran apakah yang pertama kali mengalami kekalahan awal bagi umat Islam?",
+      "answers": [
+        "Badar",
+        "Uhud",
+        "Khandaq",
+        "Khaibar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 208,
+      "questionText": "Siapa yang membunuh Hamzah RA (paman Nabi) dalam Perang Uhud?",
+      "answers": [
+        "Abu Jahal",
+        "Abu Sufyan",
+        "Wahsyibnu Harb",
+        "Khalid bin Walid"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 209,
+      "questionText": "Apa itu \"Khutbah Wada\" (Khotbah Perpisahan)?",
+      "answers": [
+        "Khotbah pertama di Madinah",
+        "Khotbah terakhir Nabi Muhammad SAW saat haji",
+        "Khotbah yang disampaikan dalam Perang Badar",
+        "Khotbah pertama Abu Bakar sebagai khalifah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 210,
+      "questionText": "Apa pesan kunci dalam Khutbah Wada?",
+      "answers": [
+        "Persiapan perang",
+        "Semua manusia setara, tidak ada kelebihan arab atas non-arab kecuali takwa; berpegang teguh pada Al-Qur'an dan Sunnah",
+        "Bangun lebih banyak masjid",
+        "Perluas kekaisaran Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 211,
+      "questionText": "Sahabat manakah yang dikenal dengan julukan \"Al-Faruq\" (pembeda antara benar dan salah)?",
+      "answers": [
+        "Abu Bakar",
+        "Umar bin Khattab",
+        "Ali bin Abi Thalib",
+        "Utsman bin Affan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 212,
+      "questionText": "Sahabat manakah yang dikenal dengan julukan \"Dzun Nurain\" (pemilik dua cahaya)?",
+      "answers": [
+        "Abu Bakar",
+        "Umar",
+        "Utsman bin Affan",
+        "Ali"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 213,
+      "questionText": "Siapakah putri Nabi Muhammad SAW sekaligus istri Ali bin Abi Thalib?",
+      "answers": [
+        "Zainab",
+        "Ruqayyah",
+        "Ummu Kultsum",
+        "Fatimah"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 214,
+      "questionText": "Apa itu \"Sunnah\" dalam Islam?",
+      "answers": [
+        "Al-Qur'an",
+        "Perkataan, perbuatan, dan ketetapan Nabi Muhammad SAW",
+        "Lima rukun Islam",
+        "Enam rukun iman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 215,
+      "questionText": "Apa arti \"Bid'ah\" dalam Islam?",
+      "answers": [
+        "Perbuatan baik",
+        "Inovasi dalam urusan agama yang tidak dicontohkan Nabi",
+        "Jenis shalat",
+        "Perbuatan amal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 216,
+      "questionText": "Surah manakah yang menceritakan tentang tenggelamnya Firaun?",
+      "answers": [
+        "Al-Baqarah",
+        "Yunus",
+        "Thaha",
+        "Semuanya menyebutkan"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 217,
+      "questionText": "Apa istilah Islam untuk halal (diperbolehkan)?",
+      "answers": [
+        "Haram",
+        "Halal",
+        "Makruh",
+        "Mubah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 218,
+      "questionText": "Apa istilah Islam untuk haram (dilarang)?",
+      "answers": [
+        "Halal",
+        "Haram",
+        "Makruh",
+        "Wajib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 219,
+      "questionText": "Apa arti \"Makruh\" dalam fikih Islam?",
+      "answers": [
+        "Wajib",
+        "Haram",
+        "Makruh (tidak disukai tetapi tidak berdosa)",
+        "Mustahab"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 220,
+      "questionText": "Apa arti \"Fardu\"?",
+      "answers": [
+        "Sunnah",
+        "Mustahab",
+        "Wajib",
+        "Makruh"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 221,
+      "questionText": "Ada berapa mazhab fikih utama dalam Islam Sunni?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 222,
+      "questionText": "Manakah dari berikut ini yang BUKAN mazhab Sunni?",
+      "answers": [
+        "Hanafi",
+        "Ja'fari",
+        "Syafi'i",
+        "Hanbali"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 223,
+      "questionText": "Siapa pendiri mazhab Hanafi?",
+      "answers": [
+        "Imam Malik",
+        "Imam Syafi'i",
+        "Imam Abu Hanifah",
+        "Imam Ahmad bin Hanbal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 224,
+      "questionText": "Apa itu \"Fikih\" dalam Islam?",
+      "answers": [
+        "Teologi Islam",
+        "Fikih Islam (pemahaman hukum agama)",
+        "Mistisisme Islam",
+        "Sejarah Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 225,
+      "questionText": "Apa itu \"Tafsir\"?",
+      "answers": [
+        "Hukum Islam",
+        "Penafsiran Al-Qur'an",
+        "Ilmu hadis",
+        "Mistisisme Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 226,
+      "questionText": "Kota manakah yang dikenal sebagai \"Kota Nabi\"?",
+      "answers": [
+        "Mekah",
+        "Madinah",
+        "Yerusalem",
+        "Damaskus"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 227,
+      "questionText": "Apa tiga masjid terpenting dalam Islam?",
+      "answers": [
+        "Masjidil Haram, Masjid Nabawi, Masjid al-Aqsha",
+        "Masjid Quba, Masjidil Haram, Masjid Nabawi",
+        "Masjidil Haram, Masjid Biru, Al-Azhar",
+        "Masjid Nabawi, Masjid al-Aqsha, Masjid Quba"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 228,
+      "questionText": "Apa itu \"Sedekah Jariyah\" (sedekah yang terus mengalir)?",
+      "answers": [
+        "Sedekah satu kali",
+        "Sedekah yang manfaatnya terus berlangsung setelah pemberi meninggal",
+        "Sedekah wajib",
+        "Sedekah yang hanya diberikan di bulan Ramadhan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 229,
+      "questionText": "Berapa kali lipat pahala shalat di Masjidil Haram dibandingkan masjid lain?",
+      "answers": [
+        "10 kali",
+        "1.000 kali",
+        "100.000 kali",
+        "500 kali"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 230,
+      "questionText": "Apa itu air Zamzam?",
+      "answers": [
+        "Air dari Sungai Nil",
+        "Air suci dari sumur di Mekah dekat Ka'bah",
+        "Air hujan yang terkumpul di Madinah",
+        "Air dari Laut Mati"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 231,
+      "questionText": "Menurut tradisi Islam, istri nabi manakah yang menemukan sumur Zamzam?",
+      "answers": [
+        "Sarah",
+        "Hajar",
+        "Maryam",
+        "Khadijah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 232,
+      "questionText": "Apa itu \"Taubat\" dalam Islam?",
+      "answers": [
+        "Syukur",
+        "Sabar",
+        "Taubat (bertobat)",
+        "Tawakal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 233,
+      "questionText": "Apa itu \"Sabar\" dalam Islam?",
+      "answers": [
+        "Syukur",
+        "Kesabaran dan ketekunan",
+        "Sedekah",
+        "Puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 234,
+      "questionText": "Apa itu \"Syukur\" dalam Islam?",
+      "answers": [
+        "Sabar",
+        "Bersyukur kepada Allah",
+        "Puasa",
+        "Shalat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 235,
+      "questionText": "Apa itu \"Takwa\"?",
+      "answers": [
+        "Haji",
+        "Rasa takut dan sadar kepada Allah",
+        "Sedekah",
+        "Puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 236,
+      "questionText": "Apa itu \"Hajar Aswad\" (Batu Hitam)?",
+      "answers": [
+        "Meteorit di museum",
+        "Batu suci yang tertanam di sudut Ka'bah",
+        "Batu dari Gunung Sinai",
+        "Batu di Masjid al-Aqsha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 237,
+      "questionText": "Apa arti \"Tawaf\"?",
+      "answers": [
+        "Wukuf di Arafah",
+        "Mengelilingi Ka'bah tujuh kali",
+        "Berjalan antara Safa dan Marwah",
+        "Melempar jumrah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 238,
+      "questionText": "Apa itu \"Rami al-Jamarat\" dalam haji?",
+      "answers": [
+        "Tawaf mengelilingi Ka'bah",
+        "Melempar jumrah (lambang penolakan setan)",
+        "Wukuf di Arafah",
+        "Sa'i antara Safa dan Marwah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 239,
+      "questionText": "Surah terakhir yang diturunkan dalam Al-Qur'an (menurut mayoritas ulama)?",
+      "answers": [
+        "Al-Fatihah",
+        "An-Nasr",
+        "Al-Maidah",
+        "At-Taubah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 240,
+      "questionText": "Surah apakah yang disebut \"Surah Al-Fil\" (Gajah)?",
+      "answers": [
+        "Al-Fil",
+        "Al-Baqarah",
+        "An-Nahl",
+        "Al-Ankabut"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 241,
+      "questionText": "Apa makna Surah Al-Fil?",
+      "answers": [
+        "Membahas hukum makanan",
+        "Menceritakan kisah tentara bergajah yang menyerang Mekah",
+        "Membahas warisan",
+        "Tentang hari kiamat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 242,
+      "questionText": "Surah manakah yang berisi perumpamaan tentang kalimat yang baik seperti pohon yang baik?",
+      "answers": [
+        "Ibrahim (14:24-25)",
+        "Al-Baqarah",
+        "An-Nisa",
+        "Al-Anfal"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 243,
+      "questionText": "Tentang apakah Ayat Kursi?",
+      "answers": [
+        "Kisah Musa",
+        "Kebesaran dan sifat-sifat Allah",
+        "Hari Kiamat",
+        "Penciptaan manusia"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 244,
+      "questionText": "Surah apakah yang dikenal sebagai \"Al-Ankabut\" (Laba-laba)?",
+      "answers": [
+        "An-Naml",
+        "An-Nahl",
+        "Al-Ankabut",
+        "Al-Fil"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 245,
+      "questionText": "Ilmuwan astronomi Muslim manakah yang dikenal dengan karyanya di bidang optik dan kamera obscura?",
+      "answers": [
+        "Al-Khawarizmi",
+        "Ibnul Haitsam",
+        "Al-Biruni",
+        "Ar-Razi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 246,
+      "questionText": "Apa itu \"Baitul Hikmah\" (House of Wisdom)?",
+      "answers": [
+        "Masjid di Mekah",
+        "Perpustakaan dan pusat akademik di Bagdad pada era Abbasiyah",
+        "Pasar di Damaskus",
+        "Sekolah di Kordoba"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 247,
+      "questionText": "Siapa yang dikenal sebagai \"Imam al-Haramain\" dan ahli hadis?",
+      "answers": [
+        "Imam Abu Hanifah",
+        "Imam Malik",
+        "Imam Syafi'i",
+        "Imam Bukhari"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 248,
+      "questionText": "Apa itu \"Wakaf\" dalam hukum Islam?",
+      "answers": [
+        "Jenis puasa",
+        "Penahanan harta benda untuk tujuan keagamaan atau amal",
+        "Akad nikah",
+        "Perjanjian dagang"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 249,
+      "questionText": "Apa itu \"Riba\" dalam Islam?",
+      "answers": [
+        "Sedekah",
+        "Bunga / riba (diharamkan dalam Islam)",
+        "Jenis shalat",
+        "Perdagangan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 250,
+      "questionText": "Apa yang dimaksud dengan \"Umat\" dalam Islam?",
+      "answers": [
+        "Keluarga Nabi",
+        "Komunitas Muslim global",
+        "Para jamaah haji",
+        "Para ulama Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 251,
+      "questionText": "Nabi manakah yang dikenal sebagai \"Kalimullah\" (Yang berbicara dengan Allah)?",
+      "answers": [
+        "Ibrahim",
+        "Adam",
+        "Musa",
+        "Muhammad SAW"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 252,
+      "questionText": "Apa yang diminta Nabi Sulaiman kepada Allah?",
+      "answers": [
+        "Harta",
+        "Kerajaan yang tidak dimiliki oleh seorang pun setelahnya",
+        "Umur panjang",
+        "Banyak keturunan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 253,
+      "questionText": "Mukjizat apa yang dilakukan Nabi Isa sebagai bayi?",
+      "answers": [
+        "Berjalan di atas air",
+        "Berbicara dari buaian",
+        "Menyembuhkan orang buta",
+        "Mengubah air menjadi susu"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 254,
+      "questionText": "Nabi manakah yang dikaitkan dengan mukjizat diturunkannya hidangan dari langit?",
+      "answers": [
+        "Musa",
+        "Ibrahim",
+        "Isa",
+        "Muhammad SAW"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 255,
+      "questionText": "Apa istilah Al-Qur'an untuk orang Kristen dan Yahudi?",
+      "answers": [
+        "Musyrikun",
+        "Ahlul Kitab (Ahli Kitab)",
+        "Munafikun",
+        "Kafirun"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 256,
+      "questionText": "Apa arti \"La ilaha illallah\"?",
+      "answers": [
+        "Allah Maha Besar",
+        "Tiada Tuhan selain Allah",
+        "Segala puji bagi Allah",
+        "Dengan nama Allah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 257,
+      "questionText": "Siapakah nama kedua cucu Nabi Muhammad SAW?",
+      "answers": [
+        "Abu Bakar dan Umar",
+        "Hasan dan Husain",
+        "Hamzah dan Abbas",
+        "Zaid dan Abdullah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 258,
+      "questionText": "Peristiwa tragis apa yang menimpa Husain RA di Karbala?",
+      "answers": [
+        "Dia diasingkan",
+        "Beliau syahid bersama keluarganya",
+        "Beliau memenangkan pertempuran besar",
+        "Beliau menjadi khalifah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 259,
+      "questionText": "Pada tahun berapa (M) Pertempuran Karbala terjadi?",
+      "answers": [
+        "661 M",
+        "670 M",
+        "680 M",
+        "690 M"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 260,
+      "questionText": "Siapakah khalifah kelima yang mendapat petunjuk (Khulafaur Rasyidin) menurut sebagian ulama?",
+      "answers": [
+        "Yazid",
+        "Muawiyah II",
+        "Umar bin Abdul Aziz",
+        "Abdul Malik bin Marwan"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 261,
+      "questionText": "Apa pentingnya hari Asyura (10 Muharram)?",
+      "answers": [
+        "Hari kelahiran Nabi",
+        "Hari diselamatkannya Musa dari Firaun",
+        "Hari raya Idul Adha",
+        "Awal Ramadhan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 262,
+      "questionText": "Apa itu \"Qiyas\" dalam fikih Islam?",
+      "answers": [
+        "Ijma",
+        "Analogi",
+        "Pendapat pribadi",
+        "Tradisi kenabian"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 263,
+      "questionText": "Apa itu \"Ijma\" dalam fikih Islam?",
+      "answers": [
+        "Analogi",
+        "Pendapat pribadi",
+        "Konsensus ulama",
+        "Tradisi kenabian"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 264,
+      "questionText": "Apa itu \"Maqasid asy-Syari'ah\"?",
+      "answers": [
+        "Lima rukun Islam",
+        "Tujuan-tujuan hukum Islam",
+        "Rukun iman",
+        "Aturan shalat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 265,
+      "questionText": "Apa lima hal yang menjadi tujuan Syari'ah untuk dilindungi?",
+      "answers": [
+        "Harta, tanah, keluarga, kehormatan, ilmu",
+        "Agama, jiwa, akal, keturunan, harta",
+        "Shalat, puasa, zakat, haji, iman",
+        "Al-Qur'an, Sunnah, Ijma, Qiyas, adat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 266,
+      "questionText": "Apa itu \"Amanah\" dalam Islam?",
+      "answers": [
+        "Sabar",
+        "Kepercayaan dan tanggung jawab",
+        "Shalat",
+        "Puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 267,
+      "questionText": "Apa konsep \"Tauhid\" dalam Islam?",
+      "answers": [
+        "Kenabian",
+        "Ke-Esaan Allah",
+        "Hari Kiamat",
+        "Sedekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 268,
+      "questionText": "Apa itu \"Syirik\" dalam Islam?",
+      "answers": [
+        "Shalat lima waktu",
+        "Menyekutukan Allah",
+        "Bersedekah",
+        "Berpuasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 269,
+      "questionText": "Apa itu \"Nifaq\" (kemunafikan) dalam Islam?",
+      "answers": [
+        "Ibadah yang ikhlas",
+        "Menampakkan keimanan di luar tetapi menyembunyikan kekufuran di dalam",
+        "Bersedekah",
+        "Melaksanakan haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 270,
+      "questionText": "Malaikat Munkar dan Nakir terkenal karena tugas apa?",
+      "answers": [
+        "Mencatat amal baik dan buruk",
+        "Menanyai mayat di dalam kubur",
+        "Menjaga neraka",
+        "Memikul Arsy Allah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 271,
+      "questionText": "Malaikat Israfil terkenal karena tugas apa?",
+      "answers": [
+        "Menyampaikan wahyu",
+        "Menupu sangkakala pada hari kiamat",
+        "Mencabut nyawa",
+        "Menurunkan hujan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 272,
+      "questionText": "Malaikat Mikail bertanggung jawab atas apa?",
+      "answers": [
+        "Wahyu",
+        "Rezeki (makanan, hujan, dll.)",
+        "Kematian",
+        "Mencatat amal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 273,
+      "questionText": "Apa itu \"Barzakh\" dalam eskatologi Islam?",
+      "answers": [
+        "Surga",
+        "Alam antara kematian dan kebangkitan",
+        "Neraka",
+        "Hari Kiamat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 274,
+      "questionText": "Apa itu \"Ash-Shirath\" dalam keyakinan Islam?",
+      "answers": [
+        "Sungai di surga",
+        "Jembatan di atas neraka yang harus dilintasi semua orang",
+        "Pintu surga",
+        "Gunung pada hari kiamat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 275,
+      "questionText": "Apa itu \"Mizan\" dalam konteks hari kiamat?",
+      "answers": [
+        "Kitab catatan amal",
+        "Neraca (timbangan) untuk menimbang amal",
+        "Jenis siksa",
+        "Pahala"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 276,
+      "questionText": "Apa saja tanda-tanda besar hari kiamat?",
+      "answers": [
+        "Gempa bumi dan banjir",
+        "Munculnya Dajjal, turunnya Isa, dan Ya'juj Ma'juj",
+        "Gerhana matahari",
+        "Wabah besar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 277,
+      "questionText": "Apa itu \"Ad-Dajjal\" dalam eskatologi Islam?",
+      "answers": [
+        "Malaikat",
+        "Al-Masih ad-Dajjal (Anti-Kristus / Mesias palsu)",
+        "Nabi",
+        "Raja"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 278,
+      "questionText": "Siapa yang menyusun kitab \"Al-Muwatha'\"?",
+      "answers": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Malik",
+        "Imam Ahmad"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 279,
+      "questionText": "Apa itu \"Musnad Imam Ahmad\"?",
+      "answers": [
+        "Kitab tafsir",
+        "Kumpulan hadis besar yang disusun berdasarkan nama sahabat periwayat",
+        "Kitab fikih",
+        "Kitab tajwid"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 280,
+      "questionText": "Menurut hadis, apa tiga hal yang pahalanya terus mengalir setelah mati?",
+      "answers": [
+        "Shalat, puasa, haji",
+        "Anak saleh yang mendoakan, sedekah jariyah, dan ilmu yang bermanfaat",
+        "Harta, properti, dan bisnis",
+        "Tilawah Al-Qur'an, dzikir, dan shalat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 281,
+      "questionText": "Apa yang dimaksud dengan \"Hadis Jibril\"?",
+      "answers": [
+        "Hadis tentang malaikat",
+        "Hadis di mana Jibril bertanya tentang Islam, Iman, dan Ihsan",
+        "Hadis tentang Isra dan Mikraj",
+        "Hadis tentang puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 282,
+      "questionText": "Apa yang dimaksud dengan \"Tabi'in\"?",
+      "answers": [
+        "Para sahabat Nabi",
+        "Generasi yang bertemu dengan sahabat tetapi tidak bertemu Nabi",
+        "Penulis wahyu",
+        "Ulama modern"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 283,
+      "questionText": "Apa arti \"Sahabi\" (jamak: Sahabah)?",
+      "answers": [
+        "Seorang ulama",
+        "Sahabat Nabi Muhammad SAW",
+        "Perawi hadis",
+        "Penghafal Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 284,
+      "questionText": "Siapakah Abu Hurairah RA?",
+      "answers": [
+        "Jenderal militer",
+        "Sahabat yang terkenal meriwayatkan hadis paling banyak",
+        "Juru tulis wahyu",
+        "Khalifah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 285,
+      "questionText": "Berapa jumlah hadis yang diriwayatkan oleh Abu Hurairah RA?",
+      "answers": [
+        "Sekitar 500",
+        "Sekitar 1.500",
+        "Sekitar 5.374",
+        "Sekitar 10.000"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 286,
+      "questionText": "Apa perbedaan antara Al-Qur'an dan Hadis Qudsi?",
+      "answers": [
+        "Tidak ada perbedaan",
+        "Al-Qur'an firman Allah yang mutlak, Hadis Qudsi maknanya dari Allah tetapi redaksi dari Nabi",
+        "Hadis Qudsi lebih autentik",
+        "Al-Qur'an hanya untuk shalat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 287,
+      "questionText": "Surah manakah yang menyebutkan lebah dan produknya (madu)?",
+      "answers": [
+        "An-Nahl (Lebah)",
+        "An-Naml (Semut)",
+        "Al-Ankabut (Laba-laba)",
+        "Al-Fil (Gajah)"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 288,
+      "questionText": "Surah manakah yang menyebutkan besi dan manfaatnya?",
+      "answers": [
+        "Al-Baqarah",
+        "Al-Hadid (Besi)",
+        "An-Nisa",
+        "Al-Maidah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 289,
+      "questionText": "Surah apakah yang disebut \"An-Nur\" (Cahaya)?",
+      "answers": [
+        "Al-Isra",
+        "An-Nur",
+        "Al-Furqan",
+        "Yasin"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 290,
+      "questionText": "Surah apakah yang disebut \"Al-Furqan\" (Pembeda)?",
+      "answers": [
+        "Al-Furqan",
+        "An-Nur",
+        "Al-Hajj",
+        "Al-Mu'minun"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 291,
+      "questionText": "Apa arti \"Al-Furqan\"?",
+      "answers": [
+        "Cahaya",
+        "Pembeda (antara yang benar dan yang salah)",
+        "Rahmat",
+        "Pembukaan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 292,
+      "questionText": "Surah manakah yang menceritakan kisah \"Ashabul Jannah\" (Penghuni Kebun)?",
+      "answers": [
+        "Al-Kahf",
+        "Al-Qalam (Pena)",
+        "Al-Baqarah",
+        "Ar-Rahman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 293,
+      "questionText": "Surah apa satu-satunya yang dinamai menurut nama seorang wanita dalam Al-Qur'an?",
+      "answers": [
+        "An-Nisa (Para Wanita)",
+        "Maryam (Maryam)",
+        "Al-Mujadilah",
+        "Ath-Thalaq"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 294,
+      "questionText": "Nabi manakah yang terkenal karena menafsirkan mimpi?",
+      "answers": [
+        "Dawud",
+        "Sulaiman",
+        "Yusuf",
+        "Ibrahim"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 295,
+      "questionText": "Apa yang ditafsirkan Nabi Yusuf dari mimpi raja tentang 7 sapi gemuk dan 7 sapi kurus?",
+      "answers": [
+        "Perang dan damai",
+        "7 tahun kemakmuran diikuti 7 tahun paceklik",
+        "Kekayaan dan kemiskinan",
+        "Kelahiran dan kematian"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 296,
+      "questionText": "Nabi manakah yang menjadi ayah dari Ishaq dan Ismail?",
+      "answers": [
+        "Adam",
+        "Nuh",
+        "Ibrahim",
+        "Yakub"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 297,
+      "questionText": "Berapa lama Nabi Nuh berdakwah?",
+      "answers": [
+        "100 tahun",
+        "500 tahun",
+        "950 tahun",
+        "200 tahun"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 298,
+      "questionText": "Nabi manakah yang dikaitkan dengan peristiwa terbelahnya laut?",
+      "answers": [
+        "Nuh",
+        "Ibrahim",
+        "Musa",
+        "Sulaiman"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 299,
+      "questionText": "Kitab apakah yang diturunkan kepada Nabi Isa?",
+      "answers": [
+        "Taurat",
+        "Zabur",
+        "Injil",
+        "Al-Qur'an"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 300,
+      "questionText": "Nabi manakah yang merupakan putra Nabi Dawud?",
+      "answers": [
+        "Musa",
+        "Sulaiman",
+        "Yunus",
+        "Ayyub"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 301,
+      "questionText": "Apa mukjizat Nabi Dawud?",
+      "answers": [
+        "Beliau bisa terbang",
+        "Beliau bisa melunakkan besi dan gunung-ganang bertasbih bersamanya",
+        "Beliau bisa berjalan di atas air",
+        "Beliau bisa menjadi tidak terlihat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 302,
+      "questionText": "Nabi manakah yang sekaligus menjadi nabi dan raja?",
+      "answers": [
+        "Muhammad SAW",
+        "Dawud",
+        "Ibrahim",
+        "Dawud dan Sulaiman"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 303,
+      "questionText": "Nabi manakah yang dikaitkan dengan mukjizat menghidupkan burung yang sudah mati?",
+      "answers": [
+        "Musa",
+        "Isa",
+        "Ibrahim",
+        "Isa dan Ibrahim"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 304,
+      "questionText": "Dari suku manakah Nabi Muhammad SAW?",
+      "answers": [
+        "Bani Hasyim dari Quraisy",
+        "Bani Tamim",
+        "Bani Aus",
+        "Bani Khazraj"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 305,
+      "questionText": "Siapakah nama ayah Nabi Muhammad SAW?",
+      "answers": [
+        "Abu Thalib",
+        "Abdullah",
+        "Abdul Muththalib",
+        "Hamzah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 306,
+      "questionText": "Siapakah nama ibu Nabi Muhammad SAW?",
+      "answers": [
+        "Khadijah",
+        "Aminah",
+        "Halimah",
+        "Fatimah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 307,
+      "questionText": "Siapa yang mengasuh Nabi Muhammad SAW setelah ibunya wafat?",
+      "answers": [
+        "Abu Bakar",
+        "Pamannya Abu Thalib",
+        "Kakeknya Abdul Muththalib, kemudian pamannya Abu Thalib",
+        "Waraqah bin Naufal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 308,
+      "questionText": "Siapakah Halimah as-Sa'diyah?",
+      "answers": [
+        "Ibu Nabi",
+        "Ibu susu Nabi",
+        "Istri Nabi",
+        "Putri Nabi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 309,
+      "questionText": "Pekerjaan apa yang terkenal dari Nabi Muhammad SAW sebelum kenabian?",
+      "answers": [
+        "Bertani",
+        "Berdagang",
+        "Pandai besi",
+        "Menggembala domba, kemudian berdagang"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 310,
+      "questionText": "Gelar apa yang diberikan kepada Nabi Muhammad SAW sebelum kenabian karena akhlaknya?",
+      "answers": [
+        "Al-Mukhtar",
+        "Al-Amin (Yang Terpercaya)",
+        "Al-Faruq",
+        "As-Siddiq"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 311,
+      "questionText": "Apa hubungan antara Nabi Musa dan Nabi Harun?",
+      "answers": [
+        "Ayah dan anak",
+        "Saudara",
+        "Sepupu",
+        "Guru dan murid"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 312,
+      "questionText": "Nabi manakah yang juga seorang tukang kayu menurut tradisi Islam?",
+      "answers": [
+        "Adam",
+        "Nuh",
+        "Idris",
+        "Zakariyya"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 313,
+      "questionText": "Siapakah Nabi Yahya?",
+      "answers": [
+        "Putra Ibrahim",
+        "Putra Zakariyya",
+        "Putra Dawud",
+        "Putra Sulaiman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 314,
+      "questionText": "Dalam Al-Qur'an, bagaimana Nabi Zakariyya menerima kabar gembira tentang putranya (Yahya)?",
+      "answers": [
+        "Melalui mimpi",
+        "Melalui malaikat ketika beliau sedang shalat di mihrab",
+        "Melalui nabi lain",
+        "Melalui istrinya"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 315,
+      "questionText": "Ujian apa yang Allah berikan kepada Nabi Ibrahim mengenai putranya Ismail?",
+      "answers": [
+        "Meninggalkannya di padang pasir",
+        "Menyembelihnya",
+        "Mengirimnya dalam perjalanan",
+        "Keduanya (A dan B)"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 316,
+      "questionText": "Apa yang menjadi pengganti Ismail ketika Ibrahim hendak menyembelihnya?",
+      "answers": [
+        "Seekor unta",
+        "Seekor domba",
+        "Seekor kambing",
+        "Seekor sapi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 317,
+      "questionText": "Apa itu \"Isra\" dalam sejarah Islam?",
+      "answers": [
+        "Hijrah ke Madinah",
+        "Perjalanan malam dari Mekah ke Masjid al-Aqsha",
+        "Penaklukan Mekah",
+        "Wahyu pertama"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 318,
+      "questionText": "Apa itu \"Mikraj\"?",
+      "answers": [
+        "Hijrah",
+        "Naiknya Nabi Muhammad ke langit",
+        "Jenis shalat",
+        "Pertempuran"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 319,
+      "questionText": "Apa yang difardhukan (diwajibkan) saat Mikraj?",
+      "answers": [
+        "Puasa",
+        "Haji",
+        "Shalat lima waktu",
+        "Zakat"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 320,
+      "questionText": "Berapa jumlah shalat yang difardhukan pertama kali sebelum dikurangi menjadi lima?",
+      "answers": [
+        "10",
+        "25",
+        "50",
+        "100"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 321,
+      "questionText": "Nabi manakah yang menasihati Muhammad SAW untuk meminta keringanan jumlah shalat?",
+      "answers": [
+        "Ibrahim",
+        "Isa",
+        "Musa",
+        "Adam"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 322,
+      "questionText": "Apa arti \"Berkah\"?",
+      "answers": [
+        "Siksa",
+        "Keberkahan dan pertolongan Allah",
+        "Kebijaksanaan",
+        "Kesucian"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 323,
+      "questionText": "Apa itu \"Doa\"?",
+      "answers": [
+        "Jenis puasa",
+        "Permohonan kepada Allah",
+        "Bab Al-Qur'an",
+        "Ritual haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 324,
+      "questionText": "Apa pentingnya malam 15 Sya'ban?",
+      "answers": [
+        "Hari raya",
+        "Malam ampunan dan rahmat menurut sebagian hadis",
+        "Malam dimulainya Ramadhan",
+        "Hari Arafah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 325,
+      "questionText": "Apa itu \"Sirah\" dalam studi Islam?",
+      "answers": [
+        "Ilmu hadis",
+        "Biografi Nabi Muhammad SAW",
+        "Tafsir Al-Qur'an",
+        "Hukum Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 326,
+      "questionText": "Siapa yang menulis Sirah (biografi) pertama Nabi?",
+      "answers": [
+        "Ibnu Hisyam",
+        "Ibnu Ishaq",
+        "Ath-Thabari",
+        "Ibnu Katsir"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 327,
+      "questionText": "Apa itu \"Akidah\" dalam Islam?",
+      "answers": [
+        "Hukum Islam",
+        "Sistem keyakinan Islam",
+        "Sejarah Islam",
+        "Seni Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 328,
+      "questionText": "Apa itu \"Tasawuf\" (Sufisme)?",
+      "answers": [
+        "Hukum Islam",
+        "Mistisisme Islam yang fokus pada pembersihan batin",
+        "Teologi Islam",
+        "Islam politik"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 329,
+      "questionText": "Siapa yang menulis \"Ihya Ulumiddin\" (Menghidupkan Ilmu-Ilmu Agama)?",
+      "answers": [
+        "Ibnu Rusyd",
+        "Al-Ghazali",
+        "Ibnu Sina",
+        "Ibnu Taimiyah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 330,
+      "questionText": "Apa itu \"Khutbah\"?",
+      "answers": [
+        "Jenis puasa",
+        "Ceramah, terutama yang disampaikan sebelum shalat Jumat",
+        "Jenis sedekah",
+        "Lamaran pernikahan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 331,
+      "questionText": "Apa itu \"Nikah\" dalam Islam?",
+      "answers": [
+        "Cerai",
+        "Akad pernikahan",
+        "Sedekah",
+        "Warisan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 332,
+      "questionText": "Apa itu \"Mahar\" dalam pernikahan Islam?",
+      "answers": [
+        "Pesta pernikahan",
+        "Hadiah wajib dari mempelai pria kepada mempelai wanita",
+        "Jenis shalat",
+        "Sertifikat pernikahan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 333,
+      "questionText": "Apa itu \"Walimah\"?",
+      "answers": [
+        "Akad nikah",
+        "Pesta pernikahan (resepsi)",
+        "Perceraian",
+        "Doa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 334,
+      "questionText": "Ayat Al-Qur'an \"Sesungguhnya bersama kesulitan ada kemudahan\" terdapat dalam surah?",
+      "answers": [
+        "Al-Baqarah",
+        "Asy-Syarh (Alam Nasyrah)",
+        "Al-Fatihah",
+        "An-Nas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 335,
+      "questionText": "Surah manakah yang berisi Ayat Nur (perumpamaan cahaya)?",
+      "answers": [
+        "Al-Baqarah",
+        "An-Nur (24:35)",
+        "Al-Isra",
+        "Al-Mulk"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 336,
+      "questionText": "Apa yang dimaksud dengan \"Jannah\" dalam Islam?",
+      "answers": [
+        "Neraka",
+        "Surga",
+        "Kubur",
+        "Kehidupan dunia"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 337,
+      "questionText": "Apa yang dimaksud dengan \"Jahannam\"?",
+      "answers": [
+        "Surga",
+        "Neraka",
+        "Kubur",
+        "Alam barzakh"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 338,
+      "questionText": "Berapa pintu surga menurut hadis?",
+      "answers": [
+        "4",
+        "7",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 339,
+      "questionText": "Apa nama pintu surga bagi mereka yang berpuasa?",
+      "answers": [
+        "Bab ash-Shalah",
+        "Bab ar-Rayyan",
+        "Bab al-Jihad",
+        "Bab as-Sadaqah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 340,
+      "questionText": "Apa itu \"Qadar\" (Takdir)?",
+      "answers": [
+        "Kebebasan berkehendak",
+        "Ketetapan dan kehendak Allah atas segala sesuatu",
+        "Jenis shalat",
+        "Klasifikasi hadis"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 341,
+      "questionText": "Apa perbedaan antara \"Qadar Kitabi\" dan \"Qadar Fa'ali\"?",
+      "answers": [
+        "Tidak ada perbedaan",
+        "Kitabi: apa yang telah ditetapkan di Lauh Mahfuzh, Fa'ali: apa yang terjadi di dunia dengan kehendak Allah",
+        "Kitabi khusus untuk nabi, Fa'ali untuk semua",
+        "Kitabi adalah Al-Qur'an, Fa'ali adalah hadis"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 342,
+      "questionText": "Surah manakah yang dimulai dengan sumpah demi matahari?",
+      "answers": [
+        "Al-Fajr",
+        "Asy-Syams",
+        "Al-Lail",
+        "Adh-Dhuha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 343,
+      "questionText": "Surah manakah yang dimulai dengan sumpah demi waktu dhuha?",
+      "answers": [
+        "Al-Fajr",
+        "Asy-Syams",
+        "Adh-Dhuha",
+        "Al-Lail"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 344,
+      "questionText": "Surah manakah yang dimulai dengan \"Demi masa, sesungguhnya manusia benar-benar dalam kerugian\"?",
+      "answers": [
+        "Al-Asr",
+        "Adh-Dhuha",
+        "Al-Fajr",
+        "Al-Lail"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 345,
+      "questionText": "Apa pelajaran dari Surah Al-Asr?",
+      "answers": [
+        "Hukum waris",
+        "Pentingnya iman, amal saleh, saling menasihati dalam kebenaran dan kesabaran",
+        "Kisah Musa",
+        "Aturan shalat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 346,
+      "questionText": "Peperangan manakah yang terjadi antara umat Islam awal di Madinah sebelum penaklukan Mekah?",
+      "answers": [
+        "Badar, Uhud, dan Khandaq",
+        "Ain Jalut",
+        "Yarmuk",
+        "Qadisiyyah"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 347,
+      "questionText": "Apa hasil dari Perang Badar?",
+      "answers": [
+        "Kekalahan umat Islam",
+        "Kemenangan umat Islam meskipun jumlah mereka lebih sedikit",
+        "Hasil imbang",
+        "Mundurnya pasukan Muslim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 348,
+      "questionText": "Berapa jumlah pasukan Muslim dalam Perang Badar?",
+      "answers": [
+        "Sekitar 100",
+        "Sekitar 313",
+        "Sekitar 700",
+        "Sekitar 1000"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 349,
+      "questionText": "Apa arti nama \"Muhammad\"?",
+      "answers": [
+        "Yang Terpercaya",
+        "Yang Terpuji",
+        "Pemimpin",
+        "Nabi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 350,
+      "questionText": "Apa arti nama \"Ahmad\" (nama lain Nabi)?",
+      "answers": [
+        "Pemimpin",
+        "Paling Terpuji",
+        "Yang Jujur",
+        "Yang Dermawan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 351,
+      "questionText": "Apa itu \"Sirah Nabawiyah\"?",
+      "answers": [
+        "Tafsir Al-Qur'an",
+        "Biografi Nabi Muhammad SAW",
+        "Kumpulan hadis",
+        "Fikih Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 352,
+      "questionText": "Surah apakah yang mengecam (mengutuk) Abu Lahab?",
+      "answers": [
+        "Al-Fatihah",
+        "Al-Masad (Al-Lahab)",
+        "Al-Kafirun",
+        "An-Nasr"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 353,
+      "questionText": "Apa arti \"Tafakkur\" dalam Islam?",
+      "answers": [
+        "Puasa",
+        "Perenungan mendalam",
+        "Sedekah",
+        "Tilawah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 354,
+      "questionText": "Apa itu \"Husnul Khuluq\" (akhlak mulia) menurut Islam?",
+      "answers": [
+        "Harta",
+        "Salah satu amal terberat di timbangan (mizan) pada hari kiamat",
+        "Jenis shalat",
+        "Kekuatan fisik"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 355,
+      "questionText": "Menurut hadis, \"Orang Muslim adalah orang yang dari lisan dan tangannya...\"",
+      "answers": [
+        "...orang lain mendapatkan manfaat",
+        "...orang lain selamat",
+        "...keluar ilmu",
+        "...keluar shalat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 356,
+      "questionText": "Apa pelajaran dari hadis \"Permudahlah dan jangan persulit\"?",
+      "answers": [
+        "Hindari semua kesulitan",
+        "Prinsip kemudahan dan kelembutan dalam agama",
+        "Jangan pernah berpuasa",
+        "Tinggalkan kewajiban yang sulit"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 357,
+      "questionText": "Apa pentingnya Masjid al-Aqsha dalam Islam?",
+      "answers": [
+        "Tempat kelahiran Nabi",
+        "Kiblat pertama dan tujuan Isra",
+        "Masjid terbesar",
+        "Dibangun oleh Nabi Muhammad SAW"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 358,
+      "questionText": "Surah apakah yang bernama \"Ar-Rum\" (Bangsa Romawi)?",
+      "answers": [
+        "Al-Qasas",
+        "Ar-Rum",
+        "Luqman",
+        "As-Sajdah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 359,
+      "questionText": "Prediksi apa tentang bangsa Romawi yang disebutkan dalam Surah Ar-Rum?",
+      "answers": [
+        "Mereka akan jatuh selamanya",
+        "Mereka akan mengalahkan Persia dalam beberapa tahun",
+        "Mereka akan masuk Islam",
+        "Mereka akan membangun kuil besar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 360,
+      "questionText": "Surah manakah yang berisi nasihat Lukman kepada putranya?",
+      "answers": [
+        "Surah Ibrahim",
+        "Surah Lukman",
+        "Surah Nuh",
+        "Surah Hud"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 361,
+      "questionText": "Apa itu \"Al-Mu'awwidzat\" (surah-surah pelindung)?",
+      "answers": [
+        "Al-Fatihah dan Al-Baqarah",
+        "Al-Ikhlas, Al-Falaq, dan An-Nas",
+        "Yasin dan Ar-Rahman",
+        "Al-Mulk dan As-Sajdah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 362,
+      "questionText": "Apa itu \"Ruqyah\" dalam Islam?",
+      "answers": [
+        "Jenis sedekah",
+        "Membacakan ayat-ayat Al-Qur'an dan doa untuk kesembuhan dan perlindungan",
+        "Akad nikah",
+        "Ritual haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 363,
+      "questionText": "Apa pandangan Islam tentang \"Adl\" (Keadilan)?",
+      "answers": [
+        "Sunnah",
+        "Nilai inti dan perintah dalam Al-Qur'an",
+        "Hanya berlaku di pengadilan",
+        "Hanya untuk pemimpin"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 364,
+      "questionText": "Surah manakah yang memerintahkan keadilan bahkan terhadap diri sendiri?",
+      "answers": [
+        "Al-Baqarah",
+        "An-Nisa (4:135)",
+        "Al-Maidah",
+        "Al-Anfal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 365,
+      "questionText": "Apa pandangan Al-Qur'an tentang \"membunuh satu jiwa yang tidak bersalah\"?",
+      "answers": [
+        "Dosa kecil",
+        "Seolah-olah ia membunuh seluruh umat manusia (5:32)",
+        "Mudah diampuni",
+        "Tidak disebutkan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 366,
+      "questionText": "Sahabat manakah yang dikenal dengan pengetahuannya tentang tafsir Al-Qur'an?",
+      "answers": [
+        "Abu Hurairah",
+        "Abdullah bin Abbas",
+        "Anas bin Malik",
+        "Bilal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 367,
+      "questionText": "Gelar apa yang diberikan kepada Abdullah bin Abbas?",
+      "answers": [
+        "Pedang Allah",
+        "Habrul Ummah (Ulama umat)",
+        "Singa Allah",
+        "Perisai Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 368,
+      "questionText": "Aisyah RA dikenal sebagai apa di kalangan ulama?",
+      "answers": [
+        "Ummul Mukminin dan sumber utama hadis",
+        "Pemimpin militer",
+        "Juru tulis wahyu",
+        "Hakim"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 369,
+      "questionText": "Apa itu \"Hisbah\" dalam pemerintahan Islam?",
+      "answers": [
+        "Pemungutan pajak",
+        "Pengaturan pasar dan penegakan moral publik",
+        "Kepemimpinan militer",
+        "Proses peradilan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 370,
+      "questionText": "Apa itu \"Jizyah\" dalam hukum Islam?",
+      "answers": [
+        "Jenis zakat",
+        "Pajak yang dibayar oleh warga non-Muslim di bawah kekuasaan Muslim sebagai imbalan atas perlindungan",
+        "Pajak tanah",
+        "Pajak perdagangan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 371,
+      "questionText": "Apa arti harfiah dari kata \"Islam\"?",
+      "answers": [
+        "Damai",
+        "Berserah diri kepada kehendak Allah",
+        "Shalat",
+        "Komunitas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 372,
+      "questionText": "Apa arti kata \"Muslim\"?",
+      "answers": [
+        "Pengikut Muhammad",
+        "Orang yang berserah diri (kepada Allah)",
+        "Orang yang damai",
+        "Orang berilmu"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 373,
+      "questionText": "Apa itu \"Salam\" dan apa signifikansinya?",
+      "answers": [
+        "Shalat",
+        "Ucapan salam damai (Assalamu'alaikum)",
+        "Puasa",
+        "Sedekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 374,
+      "questionText": "Menurut hadis, menyebarkan salam (ucapan damai) membawa apa?",
+      "answers": [
+        "Harta",
+        "Cinta kasih di antara umat Islam dan masuk surga",
+        "Ilmu",
+        "Kekuasaan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 375,
+      "questionText": "Apa itu \"Istigfar\"?",
+      "answers": [
+        "Syukur",
+        "Memohon ampun kepada Allah",
+        "Jenis puasa",
+        "Ritual haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 376,
+      "questionText": "Berapa kali Nabi SAW beristigfar setiap hari?",
+      "answers": [
+        "10 kali",
+        "50 kali",
+        "70 kali atau lebih",
+        "100 kali"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 377,
+      "questionText": "Apa itu \"Shalawat\" kepada Nabi?",
+      "answers": [
+        "Jenis zakat",
+        "Membaca shalawat dan salam kepada Nabi Muhammad SAW",
+        "Ritual haji",
+        "Aturan puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 378,
+      "questionText": "Siapa para nabi \"Ulul Azmi\" menurut Al-Qur'an?",
+      "answers": [
+        "Adam, Idris, Nuh, Hud, Saleh",
+        "Nuh, Ibrahim, Musa, Isa, Muhammad SAW",
+        "Semua 25 nabi yang disebutkan",
+        "Dawud, Sulaiman, Ayyub, Yunus, Ilyas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 379,
+      "questionText": "Apa arti \"Ulul Azmi\"?",
+      "answers": [
+        "Nabi-nabi yang kaya",
+        "Nabi-nabi yang memiliki keteguhan hati dan tekad kuat",
+        "Nabi-nabi pertama",
+        "Nabi-nabi terakhir"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 380,
+      "questionText": "Apa itu \"Hikmah\" dalam Al-Qur'an?",
+      "answers": [
+        "Hanya merujuk pada Al-Qur'an",
+        "Pemahaman mendalam, sering dikaitkan dengan Sunnah atau pertimbangan yang benar",
+        "Jenis shalat",
+        "Peristiwa sejarah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 381,
+      "questionText": "Apa arti \"Khalifah\"?",
+      "answers": [
+        "Raja",
+        "Pengganti / wakil",
+        "Hakim",
+        "Ulama"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 382,
+      "questionText": "Apa itu \"Shalat Jenazah\"?",
+      "answers": [
+        "Shalat Jumat",
+        "Shalat untuk jenazah (mayat)",
+        "Shalat Id",
+        "Shalat Tahajud"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 383,
+      "questionText": "Berapa kali takbir dalam shalat jenazah?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 384,
+      "questionText": "Apa hukum menghadiri jenazah dalam Islam?",
+      "answers": [
+        "Haram",
+        "Fardu kifayah",
+        "Sunnah saja",
+        "Makruh"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 385,
+      "questionText": "Menurut hadis, menjenguk orang sakit adalah hak seorang Muslim terhadap Muslim lainnya. Hak-hak apa lagi yang disebutkan?",
+      "answers": [
+        "Meminjamkan uang dan membantu pekerjaan",
+        "Menjawab salam, mengiringi jenazah, memenuhi undangan, dan mendoakan orang bersin (mengucapkan Yarhamukallah)",
+        "Memberi hadiah dan berbagi makanan",
+        "Mengajarkan Al-Qur'an dan melunasi utang"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadis"
+    },
+    {
+      "id": 386,
+      "questionText": "Apa konsep \"Syafa'at\" (Perantaraan) dalam Islam?",
+      "answers": [
+        "Doa memohon hujan",
+        "Memohon syafaat dari Nabi atau orang saleh pada hari kiamat dengan izin Allah",
+        "Jenis sedekah",
+        "Keputusan hukum"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 387,
+      "questionText": "Nabi manakah yang akan diberi \"Maqam Mahmud\" (Kedudukan Terpuji) pada hari kiamat?",
+      "answers": [
+        "Ibrahim",
+        "Musa",
+        "Isa",
+        "Muhammad SAW"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 388,
+      "questionText": "Apa itu \"Al-Haudh\" (Telaga) Nabi?",
+      "answers": [
+        "Sungai di surga",
+        "Telaga tempat orang beriman akan minum pada hari kiamat",
+        "Danau di Madinah",
+        "Sumur di Mekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadis"
+    },
+    {
+      "id": 389,
+      "questionText": "Apa nama sungai di surga yang disebut dalam Surah Al-Kausar?",
+      "answers": [
+        "Salsabil",
+        "Al-Kausar",
+        "Tasnim",
+        "Zamzam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 390,
+      "questionText": "Apa nama-nama sungai di surga yang disebut dalam Al-Qur'an?",
+      "answers": [
+        "Sungai air, susu, khamr (minuman lezat), dan madu",
+        "Sungai emas dan perak",
+        "Sungai minyak dan minyak wangi",
+        "Sungai cahaya dan api"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 391,
+      "questionText": "Surah apakah yang menggambarkan peristiwa hari kiamat dengan bintang-bintang berjatuhan dan lautan meluap?",
+      "answers": [
+        "Al-Mulk",
+        "At-Takwir",
+        "Al-Buruj",
+        "Al-Kausar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 392,
+      "questionText": "Surah apakah yang dimulai dengan \"Apabila langit terbelah\"?",
+      "answers": [
+        "At-Takwir",
+        "Al-Infithar",
+        "Al-Insyiqaq",
+        "Al-Qari'ah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 393,
+      "questionText": "Apa itu \"Ash-Shur\" (Sangkakala) dalam eskatologi Islam?",
+      "answers": [
+        "Alat musik di surga",
+        "Terompet yang ditiup Israfil untuk menandai hari kiamat",
+        "Seruan azan",
+        "Tanduk perang"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 394,
+      "questionText": "Berapa kali sangkakala ditiup?",
+      "answers": [
+        "Sekali",
+        "Dua kali",
+        "Tiga kali",
+        "Tujuh kali"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 395,
+      "questionText": "Apa yang terjadi pada tiupan pertama sangkakala?",
+      "answers": [
+        "Tidak ada",
+        "Semua makhluk mati / hancur",
+        "Manusia dibangkitkan",
+        "Surga terbuka"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 396,
+      "questionText": "Apa yang terjadi pada tiupan kedua sangkakala?",
+      "answers": [
+        "Semua makhluk mati",
+        "Semua dibangkitkan untuk dihisab",
+        "Surga diciptakan",
+        "Tidak ada"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 397,
+      "questionText": "Apa itu \"Yaumul Qiyamah\"?",
+      "answers": [
+        "Hari Jumat",
+        "Hari Kiamat / Kebangkitan",
+        "Hari raya",
+        "Hari pertama penciptaan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 398,
+      "questionText": "Siapa yang pertama kali dibangkitkan menurut Al-Qur'an?",
+      "answers": [
+        "Adam",
+        "Ibrahim",
+        "Muhammad SAW",
+        "Musa"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 399,
+      "questionText": "Apa posisi Islam tentang \"Ar-Ruh\" (Roh)?",
+      "answers": [
+        "Sepenuhnya dipahami",
+        "Hakikatnya hanya diketahui oleh Allah (17:85)",
+        "Diciptakan dari cahaya",
+        "Tidak ada"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 400,
+      "questionText": "Surah manakah yang berisi ayat \"Dan mereka bertanya kepadamu tentang roh...\"?",
+      "answers": [
+        "Al-Baqarah",
+        "Al-Isra (17:85)",
+        "Maryam",
+        "Thaha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 401,
+      "questionText": "Apa itu \"Ithm\" dalam Islam?",
+      "answers": [
+        "Amal baik",
+        "Dosa",
+        "Shalat",
+        "Puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 402,
+      "questionText": "Apa itu \"Kaba'ir\" dalam Islam?",
+      "answers": [
+        "Dosa kecil",
+        "Dosa besar",
+        "Amal baik",
+        "Sedekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 403,
+      "questionText": "Menurut hadis, dosa apakah yang paling besar?",
+      "answers": [
+        "Mencuri",
+        "Menyekutukan Allah (Syirik)",
+        "Berbohong",
+        "Menggunjing"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 404,
+      "questionText": "Apa itu \"Ghibah\" (menggunjing)?",
+      "answers": [
+        "Memuji seseorang",
+        "Menyebutkan sesuatu tentang seseorang yang tidak disukainya",
+        "Berbohong tentang seseorang",
+        "Mengabaikan seseorang"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 405,
+      "questionText": "Apa itu \"Buhtan\" (fitnah)?",
+      "answers": [
+        "Gosip yang benar",
+        "Mengatakan sesuatu yang salah tentang seseorang",
+        "Pujian berlebihan",
+        "Kritik yang jujur"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 406,
+      "questionText": "Al-Qur'an mengibaratkan ghibah (menggunjing) dengan apa?",
+      "answers": [
+        "Mencuri",
+        "Memakan daging saudaranya yang sudah mati (49:12)",
+        "Membunuh",
+        "Berbohong"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 407,
+      "questionText": "Apa itu \"Hasad\" (Dengki) dan hukumnya?",
+      "answers": [
+        "Dianjurkan",
+        "Diharamkan dan diperingatkan dalam Al-Qur'an dan Hadis",
+        "Diperbolehkan dalam batas tertentu",
+        "Tidak disebutkan dalam Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 408,
+      "questionText": "Menurut hadis, \"Waspadalah terhadap hasad (dengki), karena hasad...\"",
+      "answers": [
+        "...menguatkan hati",
+        "...memakan amal kebaikan sebagaimana api memakan kayu",
+        "...tanda kecerdasan",
+        "...mendatangkan harta"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 409,
+      "questionText": "Apa itu \"Adzan\"?",
+      "answers": [
+        "Jenis shalat",
+        "Seruan shalat",
+        "Doa",
+        "Gaya membaca Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 410,
+      "questionText": "Apa itu \"Iqamah\"?",
+      "answers": [
+        "Seruan pertama shalat",
+        "Seruan kedua yang dikumandangkan tepat sebelum shalat dimulai",
+        "Doa setelah shalat",
+        "Jenis dzikir"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 411,
+      "questionText": "Apa hukum doa antara adzan dan iqamah?",
+      "answers": [
+        "Doa tidak diterima saat itu",
+        "Doa saat itu mustajab (dikabulkan) dan tidak ditolak",
+        "Harus diam",
+        "Hanya membaca Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 412,
+      "questionText": "Apa itu \"Ijtihad\" dalam fikih Islam?",
+      "answers": [
+        "Taqlid buta",
+        "Penalaran independen oleh seorang ulama yang mumpuni",
+        "Menghafal hadis",
+        "Membaca Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 413,
+      "questionText": "Apa itu \"Taq lid\"?",
+      "answers": [
+        "Penalaran independen",
+        "Mengikuti pendapat seorang ulama tanpa mengetahui dalilnya",
+        "Menolak semua pendapat",
+        "Jenis shalat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 414,
+      "questionText": "Apa itu \"Fatwa\"?",
+      "answers": [
+        "Perintah pemerintah",
+        "Keputusan hukum agama tidak mengikat yang dikeluarkan oleh seorang ulama",
+        "Undang-undang parlemen",
+        "Putusan pengadilan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 415,
+      "questionText": "Siapa itu \"Mufti\"?",
+      "answers": [
+        "Hakim",
+        "Ulama yang berwenang mengeluarkan fatwa",
+        "Imam shalat",
+        "Pembaca Al-Qur'an"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 416,
+      "questionText": "Apa perbedaan antara Mufti dan Qadhi (hakim)?",
+      "answers": [
+        "Tidak ada perbedaan",
+        "Mufti mengeluarkan pendapat tidak mengikat, Qadhi mengeluarkan keputusan mengikat",
+        "Mufti lebih senior",
+        "Qadhi yang mengeluarkan fatwa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 417,
+      "questionText": "Surah manakah yang menyebutkan penciptaan manusia dari tanah liat?",
+      "answers": [
+        "Beberapa surah seperti Al-Hijr (15:26)",
+        "Hanya Al-Baqarah",
+        "Hanya An-Nisa",
+        "Tidak disebutkan dalam Al-Qur'an"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 418,
+      "questionText": "Apa pentingnya Surah Al-Waqi'ah menurut hadis?",
+      "answers": [
+        "Melindungi dari 'ain (mata jahat)",
+        "Melindungi dari kemiskinan",
+        "Tentang pernikahan",
+        "Tentang puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 419,
+      "questionText": "Surah apakah yang dianjurkan dibaca sebelum tidur?",
+      "answers": [
+        "Al-Baqarah",
+        "Al-Mulk",
+        "Al-Fatihah",
+        "An-Nasr"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 420,
+      "questionText": "Menurut hadis, membaca dua ayat terakhir Surah Al-Baqarah pada malam hari akan cukup untuk apa?",
+      "answers": [
+        "Meraih surga",
+        "Perlindungan sepanjang malam",
+        "Pahala tambahan",
+        "Menggantikan shalat Tahajud"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 421,
+      "questionText": "Apa itu \"Mizab ar-Rahmah\" (Talang Rahmat)?",
+      "answers": [
+        "Sumur di Madinah",
+        "Talang (mizab) emas di atas Ka'bah",
+        "Air mancur di surga",
+        "Sungai di Mekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 422,
+      "questionText": "Apa itu \"Hatim\" (Hijir Ismail) di dekat Ka'bah?",
+      "answers": [
+        "Pasar",
+        "Dinding setengah lingkaran yang merupakan bagian dari Ka'bah asli yang dibangun oleh Ibrahim",
+        "Pemakaman",
+        "Perpustakaan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 423,
+      "questionText": "Apa itu \"Multazam\" di Ka'bah?",
+      "answers": [
+        "Pintu",
+        "Area antara Hajar Aswad dan pintu Ka'bah yang mustajab untuk berdoa",
+        "Atap",
+        "Bagian dalam Ka'bah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 424,
+      "questionText": "Apa itu \"Maqam Ibrahim\" (Makan Ibrahim)?",
+      "answers": [
+        "Masjid",
+        "Batu bekas pijakan kaki Ibrahim dekat Ka'bah",
+        "Gunung",
+        "Sumur"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 425,
+      "questionText": "Apa itu \"Harakat\" dalam bahasa Arab?",
+      "answers": [
+        "Huruf",
+        "Tanda baca (fat-hah, kasrah, dham-mah)",
+        "Tanda baca (titik koma, dll.)",
+        "Angka"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 426,
+      "questionText": "Apa itu \"Waqaf\" dalam tajwid?",
+      "answers": [
+        "Jenis huruf",
+        "Aturan berhenti dalam membaca Al-Qur'an",
+        "Harakat",
+        "Aturan nahwu"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 427,
+      "questionText": "Apa itu \"Idgham\" dalam tajwid?",
+      "answers": [
+        "Mad (pemanjangan)",
+        "Menggabungkan / memasukkan huruf ke huruf lain",
+        "Menyembunyikan huruf",
+        "Pengucapan yang jelas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 428,
+      "questionText": "Apa itu \"Mad\" dalam tajwid?",
+      "answers": [
+        "Berhenti",
+        "Memanjangkan bacaan",
+        "Menggabungkan huruf",
+        "Sengau (ghunnah)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 429,
+      "questionText": "Apa itu \"Ghunnah\" dalam tajwid?",
+      "answers": [
+        "Pemanjangan",
+        "Suara sengau yang keluar dari hidung pada huruf nun dan mim",
+        "Huruf mati",
+        "Tebal (tafkhim)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 430,
+      "questionText": "Siapa yang menambahkan titik pada huruf Arab dalam Al-Qur'an?",
+      "answers": [
+        "Nabi Muhammad SAW",
+        "Abu al-Aswad ad-Du'ali / pada masa al-Hajjaj",
+        "Abu Bakar",
+        "Umar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 431,
+      "questionText": "Apa itu Perang Qadisiyyah (636 M)?",
+      "answers": [
+        "Peperangan melawan Romawi",
+        "Pertempuran yang menentukan di mana umat Islam mengalahkan Kekaisaran Sassaniyah (Persia)",
+        "Peperangan laut",
+        "Pengepungan Mekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 432,
+      "questionText": "Siapa yang memimpin pasukan Muslim dalam Perang Qadisiyyah?",
+      "answers": [
+        "Khalid bin Walid",
+        "Saad bin Abi Waqqas",
+        "Amr bin Ash",
+        "Abu Ubaidah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 433,
+      "questionText": "Siapakah Abu Ubaidah bin al-Jarrah?",
+      "answers": [
+        "Khalifah Umayyah",
+        "Sahabat terpercaya yang dijuluki \"Aminul Ummah\" (Orang kepercayaan umat)",
+        "Ulama hadis",
+        "Penyair"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 434,
+      "questionText": "Apa itu \"Al-Asymat\" dalam konteks Al-Qur'an?",
+      "answers": [
+        "Nama-nama surah",
+        "Qira'at (bacaan) Al-Qur'an yang sahih dan beragam",
+        "Aturan tata bahasa Arab",
+        "Jenis-jenis ayat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 435,
+      "questionText": "Ada berapa qira'at (bacaan) Al-Qur'an yang diakui?",
+      "answers": [
+        "3",
+        "7",
+        "10",
+        "14"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 436,
+      "questionText": "Siapakah penghafal Al-Qur'an (Hafiz) pertama?",
+      "answers": [
+        "Abu Bakar",
+        "Utsman",
+        "Nabi Muhammad SAW",
+        "Zaid bin Tsabit"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 437,
+      "questionText": "Apa perbedaan antara \"Tanzil\" dan \"Ta'wil\" dalam studi Al-Qur'an?",
+      "answers": [
+        "Tidak ada perbedaan",
+        "Tanzil adalah makna literal / yang diturunkan; Ta'wil adalah interpretasi yang lebih dalam",
+        "Keduanya berarti terjemahan",
+        "Tanzil adalah nasakh (penghapusan)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 438,
+      "questionText": "Sahabat manakah yang paling banyak menghafal Al-Qur'an menurut tradisi?",
+      "answers": [
+        "Abu Bakar",
+        "Abdullah bin Mas'ud",
+        "Ubay bin Ka'ab",
+        "Beberapa sahabat menghafal semuanya"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 439,
+      "questionText": "Apa itu \"Sujud Tilawah\"?",
+      "answers": [
+        "Sujud syukur",
+        "Sujud yang dilakukan pada saat membaca atau mendengar ayat-ayat tertentu dalam Al-Qur'an",
+        "Sujud sahwi",
+        "Berdiri"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 440,
+      "questionText": "Ada berapa tempat sujud tilawah dalam Al-Qur'an?",
+      "answers": [
+        "10",
+        "14 atau 15 (perbedaan di kalangan ulama)",
+        "20",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 441,
+      "questionText": "Apa itu \"Tadabbur\" Al-Qur'an?",
+      "answers": [
+        "Menghafal",
+        "Merenungkan makna secara mendalam",
+        "Membaca cepat",
+        "Terjemahan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 442,
+      "questionText": "Nabi manakah yang disebut dalam Al-Qur'an sebagai diberi hikmah ketika masih kanak-kanak?",
+      "answers": [
+        "Musa",
+        "Isa",
+        "Yahya",
+        "Yusuf"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 443,
+      "questionText": "Kaum nabi manakah yang menyembah patung anak sapi (golden calf)?",
+      "answers": [
+        "Kaum Ibrahim",
+        "Kaum Musa (Bani Israil)",
+        "Kaum Nuh",
+        "Kaum Hud"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 444,
+      "questionText": "Siapa yang membuat patung anak sapi untuk Bani Israil?",
+      "answers": [
+        "Firaun",
+        "As-Samiri",
+        "Qarun",
+        "Haman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 445,
+      "questionText": "Siapakah \"Qarun\" (Korah) dalam Al-Qur'an?",
+      "answers": [
+        "Seorang nabi",
+        "Orang kaya dari kaum Musa yang sombong dengan kekayaannya",
+        "Raja",
+        "Pendeta"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 446,
+      "questionText": "Apa yang terjadi pada Qarun menurut Al-Qur'an?",
+      "answers": [
+        "Dia bertobat",
+        "Bumi menelannya dan rumahnya",
+        "Dia menjadi nabi",
+        "Dia diampuni"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 447,
+      "questionText": "Siapakah \"Lukman\" yang disebut dalam Al-Qur'an?",
+      "answers": [
+        "Nabi",
+        "Seorang bijak yang menasihati putranya",
+        "Raja",
+        "Malaikat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 448,
+      "questionText": "Apa nasihat pertama Lukman kepada putranya?",
+      "answers": [
+        "Bersedekahlah",
+        "Jangan menyekutukan Allah (syirik)",
+        "Shalatlah lima waktu",
+        "Bayarlah zakat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 449,
+      "questionText": "Apa hukum shalat Jumat?",
+      "answers": [
+        "Sunnah",
+        "Fardu ain (wajib) bagi laki-laki Muslim yang dewasa",
+        "Mustahab",
+        "Wajib hanya di Ramadan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 450,
+      "questionText": "Berapa rakaat shalat Jumat yang fardu?",
+      "answers": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 451,
+      "questionText": "Apa keistimewaan saat mustajab pada hari Jumat?",
+      "answers": [
+        "Tidak ada yang istimewa",
+        "Ada satu saat di mana doa tidak ditolak",
+        "Puasa wajib",
+        "Shalat sunnah wajib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 452,
+      "questionText": "Menurut hadis, hari apakah yang merupakan \"penghulu segala hari\"?",
+      "answers": [
+        "Senin",
+        "Kamis",
+        "Jumat",
+        "Sabtu"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 453,
+      "questionText": "Surah apakah yang dianjurkan dibaca pada hari Jumat?",
+      "answers": [
+        "Surah Al-Baqarah",
+        "Surah Al-Kahf",
+        "Surah Yasin",
+        "Surah Ar-Rahman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 454,
+      "questionText": "Apa itu \"I'tikaf\" dan kapan biasanya dilakukan?",
+      "answers": [
+        "Puasa di bulan Syawal",
+        "Mengasingkan diri di masjid untuk beribadah, biasanya pada sepuluh hari terakhir Ramadhan",
+        "Shalat Idul Fitri",
+        "Ziarah ke Mekah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 455,
+      "questionText": "Apa itu \"Zakat Fitrah\"?",
+      "answers": [
+        "Zakat harta tahunan",
+        "Sedekah wajib yang dibayarkan sebelum shalat Idul Fitri",
+        "Sedekah untuk haji",
+        "Sedekah sunnah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 456,
+      "questionText": "Berapa besar Zakat Fitrah?",
+      "answers": [
+        "2,5% dari harta",
+        "Satu sha' (sekitar 2,5-3 kg) makanan pokok per orang",
+        "Jumlah uang tetap",
+        "10% dari hasil panen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 457,
+      "questionText": "Apa pentingnya Perang Ain Jalut (1260 M)?",
+      "answers": [
+        "Kemenangan perang salib pertama",
+        "Kekalahan Mongol oleh Mamluk, menghentikan laju ekspansi mereka ke barat",
+        "Penaklukan Ottoman",
+        "Jatuhnya Bagdad"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 458,
+      "questionText": "Siapa yang memimpin pasukan Muslim dalam Perang Ain Jalut?",
+      "answers": [
+        "Shalahuddin al-Ayyubi",
+        "Qutuz dan Baibars",
+        "Nuruddin Zanki",
+        "Muhammad al-Fatih"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 459,
+      "questionText": "Apa konsep \"Wilayah\" dalam Islam?",
+      "answers": [
+        "Cerai",
+        "Kekuasaan, perwalian, dan kedekatan kepada Allah",
+        "Jenis shalat",
+        "Istilah finansial"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 460,
+      "questionText": "Apa pentingnya \"Talbiyah\" selama haji?",
+      "answers": [
+        "Doa minta hujan",
+        "Seruan berulang \"Labbaik Allahumma Labbaik\" yang menyatakan pemenuhan panggilan Allah",
+        "Yel-yel perang",
+        "Ucapan perpisahan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 461,
+      "questionText": "Apa arti \"Labbaik Allahumma Labbaik\"?",
+      "answers": [
+        "Allah Maha Besar",
+        "Aku datang memenuhi panggilan-Mu, ya Allah, aku datang memenuhi panggilan-Mu",
+        "Maha Suci Allah",
+        "Aku mohon ampun"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 462,
+      "questionText": "Apa itu \"Muzdalifah\" dalam konteks haji?",
+      "answers": [
+        "Gunung di Mekah",
+        "Area terbuka tempat jamaah haji bermalam setelah meninggalkan Arafah",
+        "Ka'bah",
+        "Pasar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 463,
+      "questionText": "Apa itu \"Hari Tasyrik\"?",
+      "answers": [
+        "Hari-hari Ramadhan",
+        "11, 12, dan 13 Zulhijah",
+        "Sepuluh hari pertama Zulhijah",
+        "Sepuluh hari terakhir Ramadhan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 464,
+      "questionText": "Apa itu shalat \"Syaf' dan Witir\"?",
+      "answers": [
+        "Dua jenis sujud",
+        "Shalat malam yang jumlah rakaatnya genap dan ganjil setelah Isya",
+        "Shalat subuh",
+        "Shalat Jumat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 465,
+      "questionText": "Apa yang dimaksud dengan \"Al-Asma' al-Husna\"?",
+      "answers": [
+        "Lima rukun Islam",
+        "99 Nama Allah yang Indah",
+        "Nama-nama nabi",
+        "Nama-nama malaikat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 466,
+      "questionText": "Berapa jumlah nama Allah menurut hadis?",
+      "answers": [
+        "33",
+        "66",
+        "99",
+        "1000"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 467,
+      "questionText": "Apa arti \"Ar-Rahman\" (salah satu nama Allah)?",
+      "answers": [
+        "Raja",
+        "Maha Pengasih / Maha Pemurah",
+        "Maha Mengetahui",
+        "Maha Pemberi Rezeki"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 468,
+      "questionText": "Apa arti \"Al-Hakim\" (salah satu nama Allah)?",
+      "answers": [
+        "Maha Pencipta",
+        "Maha Bijaksana",
+        "Maha Perkasa",
+        "Maha Pengampun"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 469,
+      "questionText": "Apa arti \"Al-Wadud\" (salah satu nama Allah)?",
+      "answers": [
+        "Maha Pemberi Rezeki",
+        "Maha Mengasihi (penuh kasih sayang)",
+        "Maha Memelihara",
+        "Maha Pemberi Petunjuk"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Ibadah"
+    },
+    {
+      "id": 470,
+      "questionText": "Apa pentingnya \"Lailatul Bara'ah\"?",
+      "answers": [
+        "Malam Idul Fitri",
+        "Malam 15 Sya'ban, malam ampunan menurut sebagian riwayat",
+        "Lailatul Qadr",
+        "Malam Isra"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 471,
+      "questionText": "Ilmuwan Islam terkenal manakah yang dijuluki \"Hujjatul Islam\" (Bukti Islam)?",
+      "answers": [
+        "Ibnu Taimiyah",
+        "Al-Ghazali",
+        "Ibnu Rusyd",
+        "Imam Nawawi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 472,
+      "questionText": "Apa istilah Islam untuk \"menuntut ilmu\"?",
+      "answers": [
+        "Thalabul 'Ilmi",
+        "Dzikir",
+        "Dakwah",
+        "Taubat"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 473,
+      "questionText": "Menurut hadis, \"Menuntut ilmu itu wajib atas...\"",
+      "answers": [
+        "...setiap Muslim",
+        "...setiap Muslim",
+        "...laki-laki saja",
+        "...dewasa saja"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 474,
+      "questionText": "Apa itu \"Dakwah\"?",
+      "answers": [
+        "Hijrah",
+        "Mengajak orang lain kepada Islam / menyebarkan ilmu Islam",
+        "Haji",
+        "Puasa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 475,
+      "questionText": "Apa firman Allah dalam Al-Qur'an tentang keragaman bangsa dan suku?",
+      "answers": [
+        "Itu adalah azab",
+        "Supaya kamu saling mengenal (49:13)",
+        "Harus dihilangkan",
+        "Tidak disebutkan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 476,
+      "questionText": "Ayat Al-Qur'an manakah yang menyatakan \"Tidak ada paksaan dalam agama\"?",
+      "answers": [
+        "Al-Baqarah 2:256",
+        "Ali Imran 3:19",
+        "An-Nisa 4:1",
+        "Al-Maidah 5:3"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 477,
+      "questionText": "Apa itu \"Imam\" dalam konteks shalat?",
+      "answers": [
+        "Politisi",
+        "Orang yang memimpin shalat berjamaah",
+        "Guru Al-Qur'an",
+        "Hakim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Ibadah"
+    },
+    {
+      "id": 478,
+      "questionText": "Apa itu \"Sutrah\" dalam konteks shalat?",
+      "answers": [
+        "Jenis pakaian",
+        "Benda yang diletakkan di depan orang yang shalat sebagai pembatas",
+        "Sajadah",
+        "Gaya bacaan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 479,
+      "questionText": "Apa itu \"Khusyuk\" dalam shalat?",
+      "answers": [
+        "Cepat",
+        "Rendah hati, fokus, dan khusyuk dalam shalat",
+        "Keras",
+        "Hafalan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Ibadah"
+    },
+    {
+      "id": 480,
+      "questionText": "Menurut hadis, apa kunci surga?",
+      "answers": [
+        "Harta",
+        "La ilaha illallah (Syahadat)",
+        "Ketenaran",
+        "Kekuasaan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadis"
+    },
+    {
+      "id": 481,
+      "questionText": "Apa yang dikatakan Nabi Muhammad SAW tentang senyuman?",
+      "answers": [
+        "Itu salah",
+        "Itu sedekah",
+        "Hanya untuk anak-anak",
+        "Itu membuang-buang waktu"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 482,
+      "questionText": "Apa pandangan Islam tentang kebersihan?",
+      "answers": [
+        "Tidak penting",
+        "Kebersihan sebagian dari iman",
+        "Hanya sebelum shalat",
+        "Sunnah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadis"
+    },
+    {
+      "id": 483,
+      "questionText": "Apa itu \"Fitrah\" dalam Islam?",
+      "answers": [
+        "Jenis shalat",
+        "Kecenderungan alami / sifat bawaan manusia yang cenderung kepada Tuhan",
+        "Sedekah",
+        "Ucapan salam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 484,
+      "questionText": "Surah manakah yang menceritakan kisah pasukan bergajah (tentara Abrahah)?",
+      "answers": [
+        "Al-Qadr",
+        "Al-Fil",
+        "Quraisy",
+        "Al-Kausar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 485,
+      "questionText": "Surah apakah yang mengikuti Al-Fil dan menyebutkan suku Quraisy?",
+      "answers": [
+        "Al-Kausar",
+        "Al-Ma'un",
+        "Quraisy",
+        "Al-Masad"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 486,
+      "questionText": "Apa itu \"Al-Istiwa'\" dalam teologi Islam?",
+      "answers": [
+        "Posisi shalat",
+        "Sifat Allah yang bersemayam di atas 'Arsy (masalah akidah)",
+        "Jenis puasa",
+        "Istilah hukum"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 487,
+      "questionText": "Apa yang dimaksud dengan \"Tawassul\"?",
+      "answers": [
+        "Berbuka puasa",
+        "Mendekatkan diri kepada Allah melalui amal saleh atau orang saleh",
+        "Jenis haji",
+        "Strategi perang"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 488,
+      "questionText": "Sahabat manakah yang membaiat di bawah pohon di Hudaibiyah?",
+      "answers": [
+        "Hanya 10 sahabat",
+        "Sekitar 1.400 sahabat (Baiat Ridwan)",
+        "Hanya para pemimpin",
+        "Tidak ada yang membaiat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 489,
+      "questionText": "Apa itu \"Baiat Ridwan\" dan mengapa penting?",
+      "answers": [
+        "Perjanjian dagang",
+        "Janji setia di bawah pohon yang dipuji dalam Al-Qur'an (48:18)",
+        "Upacara pernikahan",
+        "Perjanjian perang"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 490,
+      "questionText": "Apa firman Allah dalam Al-Qur'an tentang pemecahan berhala oleh Ibrahim?",
+      "answers": [
+        "Dia dihukum karenanya",
+        "Dia menghancurkannya untuk membuktikan ketidakberdayaan mereka (21:57-67)",
+        "Dia menyesalinya",
+        "Tidak disebutkan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 491,
+      "questionText": "Nabi manakah yang menjadi penggembala sebelum kenabian (sebagaimana banyak nabi lainnya)?",
+      "answers": [
+        "Hanya Muhammad SAW",
+        "Musa",
+        "Semua nabi adalah penggembala",
+        "Baik A dan B dan lainnya"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Nabi-Nabi"
+    },
+    {
+      "id": 492,
+      "questionText": "Apa yang dikatakan Nabi SAW tentang para penyair?",
+      "answers": [
+        "Semua syair haram",
+        "Beberapa syair mengandung hikmah",
+        "Syair adalah sebaik-baik amal",
+        "Beliau tidak pernah menyebut syair"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadis"
+    },
+    {
+      "id": 493,
+      "questionText": "Siapakah Hasan bin Tsabit?",
+      "answers": [
+        "Komandan militer",
+        "Penyair Nabi SAW",
+        "Juru tulis wahyu",
+        "Hakim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 494,
+      "questionText": "Apa konsep \"Al-Wala' wal Bara'\" dalam akidah Islam?",
+      "answers": [
+        "Nikah dan cerai",
+        "Loyalitas kepada kaum mukminin dan berlepas diri dari kekufuran",
+        "Peraturan perdagangan",
+        "Hukum waris"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Ibadah"
+    },
+    {
+      "id": 495,
+      "questionText": "Apa itu \"Mushaf\"?",
+      "answers": [
+        "Jenis hadis",
+        "Salinan fisik (kitab) Al-Qur'an",
+        "Sajadah",
+        "Masjid"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 496,
+      "questionText": "Apa pentingnya Surah Al-Hasyr (ayat 22-24)?",
+      "answers": [
+        "Membahas puasa",
+        "Berisi banyak Nama-nama Allah yang Indah",
+        "Menceritakan kisah Musa",
+        "Tentang haji"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Al-Qur'an"
+    },
+    {
+      "id": 497,
+      "questionText": "Dinasti manakah yang membangun istana Alhambra di Spanyol?",
+      "answers": [
+        "Umayyah",
+        "Abbasiyah",
+        "Dinasti Nasrid (Granada)",
+        "Utsmaniyah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 498,
+      "questionText": "Tahun berapakah kerajaan Islam terakhir (Granada) jatuh di Spanyol?",
+      "answers": [
+        "1453",
+        "1492",
+        "1517",
+        "1389"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Sejarah Islam"
+    },
+    {
+      "id": 499,
+      "questionText": "Apa konsep \"Muhasabah\" dalam Islam?",
+      "answers": [
+        "Transaksi akuntansi",
+        "Introspeksi diri dan evaluasi diri atas perbuatan",
+        "Istilah perdagangan",
+        "Proses hukum"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Ibadah"
+    },
+    {
+      "id": 500,
+      "questionText": "Menurut Umar bin Khattab, \"Hisablah (evaluasi) diri kalian...\"",
+      "answers": [
+        "...setelah kalian dihisab",
+        "...sebelum kalian dihisab (pada hari kiamat)",
+        "...ketika orang lain mengingatkan kalian",
+        "...hanya di bulan Ramadhan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Sejarah Islam"
+    }
+  ]
+}

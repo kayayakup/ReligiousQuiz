@@ -1,0 +1,6504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "كم مرة في اليوم يجب على المسلمين أداء الصلاة؟",
+      "answers": [
+        "3",
+        "5",
+        "7",
+        "4"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 2,
+      "questionText": "ما هو الركن الأول من الإسلام؟",
+      "answers": [
+        "الصلاة",
+        "الشهادة (النطق بالعقيدة)",
+        "الزكاة",
+        "الصوم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 3,
+      "questionText": "في أي شهر يصوم المسلمون من الفجر حتى غروب الشمس؟",
+      "answers": [
+        "شعبان",
+        "رجب",
+        "رمضان",
+        "محرم"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 4,
+      "questionText": "ما هي القبلة التي يتجه إليها المسلمون أثناء الصلاة؟",
+      "answers": [
+        "القدس",
+        "المدينة المنورة",
+        "مكة (الكعبة)",
+        "دمشق"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 5,
+      "questionText": "ما اسم الصدقة المفروضة في الإسلام؟",
+      "answers": [
+        "صدقة التطوع",
+        "الزكاة",
+        "الخُمس",
+        "الوقف"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 6,
+      "questionText": "أي صلاة تؤدى عند الفجر؟",
+      "answers": [
+        "الظهر",
+        "العصر",
+        "الفجر",
+        "العشاء"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 7,
+      "questionText": "ما اسم الحج إلى مكة؟",
+      "answers": [
+        "عمرة",
+        "حج",
+        "جهاد",
+        "هجرة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 8,
+      "questionText": "كم عدد ركعات صلاة الفجر؟",
+      "answers": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 9,
+      "questionText": "ما اسم صلاة الليل في الإسلام؟",
+      "answers": [
+        "تهجد",
+        "وتر",
+        "ضحى",
+        "إشراق"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 10,
+      "questionText": "ما هو المصطلح العربي للوضوء قبل الصلاة؟",
+      "answers": [
+        "غسل",
+        "تيمم",
+        "وضوء",
+        "استنجاء"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 11,
+      "questionText": "كم عدد أركان الإسلام؟",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 12,
+      "questionText": "أي صلاة هي أطول صلاة مفروضة من حيث عدد الركعات؟",
+      "answers": [
+        "الفجر",
+        "الظهر",
+        "المغرب",
+        "العشاء"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 13,
+      "questionText": "ما اسم صلاة الجمعة؟",
+      "answers": [
+        "صلاة العيد",
+        "الجمعة",
+        "التراويح",
+        "الجنازة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 14,
+      "questionText": "ما هي النسبة المئوية الدنيا للزكاة؟",
+      "answers": [
+        "5%",
+        "10%",
+        "2.5%",
+        "1%"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 15,
+      "questionText": "ما هو نوع الوضوء الذي يتم بالتراب النظيف عند عدم وجود الماء؟",
+      "answers": [
+        "وضوء",
+        "غسل",
+        "تيمم",
+        "مسح"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 16,
+      "questionText": "كم عدد ركعات صلاة العشاء؟",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 17,
+      "questionText": "ما اسم الصلاة الخاصة التي تقام في ليالي رمضان؟",
+      "answers": [
+        "تهجد",
+        "تراويح",
+        "وتر",
+        "استخارة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 18,
+      "questionText": "ما الذي يفطر الصائم في رمضان؟",
+      "answers": [
+        "النوم",
+        "الأكل أو الشرب عمداً",
+        "التنفس بعمق",
+        "المشي لمسافات طويلة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 19,
+      "questionText": "في أي شهر هجري يؤدي الحج؟",
+      "answers": [
+        "محرم",
+        "رجب",
+        "شوال",
+        "ذو الحجة"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 20,
+      "questionText": "ما اسم صلاة التوبة؟",
+      "answers": [
+        "صلاة التوبة",
+        "صلاة الضحى",
+        "صلاة الخسوف",
+        "صلاة الاستسقاء"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 21,
+      "questionText": "ما هو الاعتكاف؟",
+      "answers": [
+        "نوع من الصيام",
+        "الخلوة في المسجد للعبادة",
+        "طقس من طقوس الحج",
+        "نوع من الصدقة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 22,
+      "questionText": "ما هو الفدية في سياق الصيام؟",
+      "answers": [
+        "دعاء",
+        "تعويض عن الأيام التي أفطرها",
+        "نوع من الصدقة",
+        "طقس من طقوس الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 23,
+      "questionText": "ما هو نصاب الذهب في حساب الزكاة؟",
+      "answers": [
+        "50 جراماً",
+        "85 جراماً",
+        "100 جرام",
+        "200 جرام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 24,
+      "questionText": "أي مما يلي ليس من شروط وجوب الحج؟",
+      "answers": [
+        "أن يكون مسلماً",
+        "أن يكون عاقلًا",
+        "حفظ القرآن كاملاً",
+        "الاستطاعة البدنية والمالية"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 25,
+      "questionText": "ما اسم الصلاة لطلب الهداية من الله؟",
+      "answers": [
+        "صلاة الاستخارة",
+        "صلاة الجنازة",
+        "صلاة العيد",
+        "صلاة الخسوف"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 26,
+      "questionText": "أثناء الحج، ما اسم السعي بين الصفا والمروة؟",
+      "answers": [
+        "طواف",
+        "سعي",
+        "وقوف",
+        "رمي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 27,
+      "questionText": "ما اسم صلاة الميت؟",
+      "answers": [
+        "صلاة العيد",
+        "صلاة الجنازة",
+        "صلاة الاستخارة",
+        "صلاة الحاجة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 28,
+      "questionText": "كم يوماً يُستحب صيامها في شهر شوال بعد رمضان؟",
+      "answers": [
+        "3",
+        "6",
+        "10",
+        "15"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 29,
+      "questionText": "ما هو مصطلح حالة الإحرام أثناء الحج أو العمرة؟",
+      "answers": [
+        "تلبيَة",
+        "إحرام",
+        "طواف",
+        "ميقات"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 30,
+      "questionText": "وفقاً للفقه الإسلامي، كم عدد أصناف المستحقين للزكاة؟",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 31,
+      "questionText": "ما هو نصاب الفضة في حساب الزكاة؟",
+      "answers": [
+        "200 جرام",
+        "595 جراماً",
+        "400 جرام",
+        "1000 جرام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 32,
+      "questionText": "ما الفرق بين حج الإفراد وحج التمتع؟",
+      "answers": [
+        "الإفراد يشمل العمرة، والتمتع لا يشمل",
+        "التمتع يشمل العمرة قبل الحج، والإفراد هو الحج فقط",
+        "لا فرق بينهما",
+        "الإفراد خاص بالنساء فقط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 33,
+      "questionText": "ما هو حكم صلاة الوتر في المذهب الحنفي؟",
+      "answers": [
+        "سنة مؤكدة",
+        "واجب",
+        "مستحب",
+        "فرض"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 34,
+      "questionText": "في أي يوم يقف الحجاج بعرفة خلال الحج؟",
+      "answers": [
+        "8 ذو الحجة",
+        "9 ذو الحجة",
+        "10 ذو الحجة",
+        "12 ذو الحجة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 35,
+      "questionText": "ما هي كفارة الإفطار المتعمد في رمضان بدون عذر شرعي؟",
+      "answers": [
+        "القضاء فقط",
+        "صيام 60 يوماً متتابعة أو إطعام 60 مسكيناً",
+        "إخراج الزكاة",
+        "أداء الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 36,
+      "questionText": "ما هي أول سورة في القرآن؟",
+      "answers": [
+        "البقرة",
+        "الفاتحة",
+        "الإخلاص",
+        "الناس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 37,
+      "questionText": "كم عدد سور القرآن؟",
+      "answers": [
+        "100",
+        "114",
+        "120",
+        "99"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 38,
+      "questionText": "ما هي أطول سورة في القرآن؟",
+      "answers": [
+        "آل عمران",
+        "النساء",
+        "البقرة",
+        "المائدة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 39,
+      "questionText": "ما هي السورة التي تُعرف بـ (قلب القرآن)؟",
+      "answers": [
+        "الرحمن",
+        "يس",
+        "الملك",
+        "الكهف"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 40,
+      "questionText": "بأي لغة أُنزل القرآن؟",
+      "answers": [
+        "الفارسية",
+        "العبرية",
+        "العربية",
+        "الآرامية"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 41,
+      "questionText": "ماذا يعني لفظ (القرآن) لغة؟",
+      "answers": [
+        "النور",
+        "القراءة أو التلاوة",
+        "الكتاب",
+        "الهدى"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 42,
+      "questionText": "أي سورة وردت فيها قصة أصحاب الكهف؟",
+      "answers": [
+        "الكهف",
+        "الأنفال",
+        "التوبة",
+        "مريم"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 43,
+      "questionText": "كم عدد آيات سورة الفاتحة؟",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 44,
+      "questionText": "أي سورة تعدل ثلث القرآن في الأجر؟",
+      "answers": [
+        "الفاتحة",
+        "الفلق",
+        "الإخلاص",
+        "الكوثر"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 45,
+      "questionText": "ما هي أقصر سورة في القرآن؟",
+      "answers": [
+        "الإخلاص",
+        "الكوثر",
+        "العصر",
+        "الناس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 46,
+      "questionText": "على كم سنة نزل القرآن؟",
+      "answers": [
+        "10 سنوات",
+        "15 سنة",
+        "23 سنة",
+        "30 سنة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 47,
+      "questionText": "أي ملك يُعتقد أنه نزل بالقرآن على النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "ميكائيل",
+        "إسرافيل",
+        "جبريل",
+        "عزرائيل"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 48,
+      "questionText": "أي سورة تبدأ بـ (الم)؟",
+      "answers": [
+        "الفاتحة",
+        "البقرة",
+        "الناس",
+        "الإخلاص"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 49,
+      "questionText": "أين توجد آية الكرسي؟",
+      "answers": [
+        "سورة آل عمران",
+        "سورة البقرة",
+        "سورة النساء",
+        "سورة المائدة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 50,
+      "questionText": "أي سورة سميت على اسم امرأة؟",
+      "answers": [
+        "البقرة",
+        "مريم",
+        "النساء",
+        "الأحزاب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 51,
+      "questionText": "ما هي آخر سورة في القرآن؟",
+      "answers": [
+        "الفلق",
+        "الإخلاص",
+        "الناس",
+        "الكافرون"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 52,
+      "questionText": "أي سورة وردت فيها الآية (لا إكراه في الدين)؟",
+      "answers": [
+        "البقرة",
+        "آل عمران",
+        "النساء",
+        "المائدة"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 53,
+      "questionText": "إلى كم جزءاً ينقسم القرآن؟",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 54,
+      "questionText": "أي سورة وردت فيها قصة يوسف عليه السلام بتفصيل؟",
+      "answers": [
+        "يوسف",
+        "إبراهيم",
+        "لقمان",
+        "هود"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 55,
+      "questionText": "ما اسم السورة التي ذكر فيها ذو القرنين؟",
+      "answers": [
+        "الأنبياء",
+        "الكهف",
+        "الإسراء",
+        "الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 56,
+      "questionText": "أي سورة يُستحب قراءتها كل يوم جمعة؟",
+      "answers": [
+        "يس",
+        "الكهف",
+        "الرحمن",
+        "الملك"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 57,
+      "questionText": "في سورة الإخلاص، أي صفة من صفات الله تم التأكيد عليها؟",
+      "answers": [
+        "رحمته",
+        "وحدانيته (التوحيد)",
+        "قوته",
+        "علمه"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 58,
+      "questionText": "أي سورة وردت فيها آية الكرسي (أعظم آية)؟",
+      "answers": [
+        "البقرة (2:255)",
+        "آل عمران (3:18)",
+        "النساء (4:87)",
+        "الحشر (59:22)"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 59,
+      "questionText": "ما هو العدد التقريبي لآيات القرآن؟",
+      "answers": [
+        "5,000",
+        "6,236",
+        "7,000",
+        "8,500"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 60,
+      "questionText": "أي خليفة أمر بجمع القرآن في مصحف واحد؟",
+      "answers": [
+        "عمر بن الخطاب",
+        "أبو بكر الصديق",
+        "عثمان بن عفان",
+        "علي بن أبي طالب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 61,
+      "questionText": "أي خليفة وحد نص القرآن ووزع نسخاً رسمية؟",
+      "answers": [
+        "أبو بكر",
+        "عمر",
+        "عثمان",
+        "علي"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 62,
+      "questionText": "ما هي (السورة المكية)؟",
+      "answers": [
+        "سورة نزلت في المدينة",
+        "سورة نزلت في مكة قبل الهجرة",
+        "سورة تتحدث عن مكة",
+        "سورة عدد آياتها أكثر من مائة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 63,
+      "questionText": "أي سورة لا تبدأ بـ (بسم الله)؟",
+      "answers": [
+        "الفاتحة",
+        "البقرة",
+        "التوبة",
+        "الكوثر"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 64,
+      "questionText": "ما هو علم أحكام تلاوة القرآن؟",
+      "answers": [
+        "التفسير",
+        "التجويد",
+        "الفقه",
+        "أصول الحديث"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 65,
+      "questionText": "أي سورة ورد فيها لفظ الجلالة (بسم الله) مرتين؟",
+      "answers": [
+        "الفاتحة",
+        "النمل",
+        "البقرة",
+        "الأنفال"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 66,
+      "questionText": "كم عدد السور التي تبدأ بـ (الحروف المقطعة)؟",
+      "answers": [
+        "19",
+        "25",
+        "29",
+        "33"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 67,
+      "questionText": "ما هو علم تفسير القرآن؟",
+      "answers": [
+        "الحديث",
+        "التجويد",
+        "التفسير",
+        "الفقه"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 68,
+      "questionText": "أي آية في القرآن تُعرف بآية المُداينة (أطول آية)؟",
+      "answers": [
+        "البقرة 2:255",
+        "البقرة 2:282",
+        "آل عمران 3:7",
+        "النساء 4:11"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 69,
+      "questionText": "من هو الصحابي الذي عُرف بـ (كاتب الوحي)؟",
+      "answers": [
+        "أبو بكر",
+        "عمر",
+        "زيد بن ثابت",
+        "معاذ بن جبل"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 70,
+      "questionText": "ما هي (الأحرف السبعة) في سياق القرآن؟",
+      "answers": [
+        "سبعة ترجمات",
+        "سبعة أنماط / لهجات للقراءة",
+        "سبعة أبواب",
+        "ذكر سبعة أنبياء"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 71,
+      "questionText": "من هو أول نبي في الإسلام؟",
+      "answers": [
+        "إبراهيم",
+        "نوح",
+        "آدم",
+        "محمد (صلى الله عليه وسلم)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 72,
+      "questionText": "من هو آخر نبي في الإسلام؟",
+      "answers": [
+        "عيسى",
+        "موسى",
+        "محمد (صلى الله عليه وسلم)",
+        "إبراهيم"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 73,
+      "questionText": "أي نبي ابتلعه الحوت؟",
+      "answers": [
+        "موسى",
+        "يونس",
+        "أيوب",
+        "إدريس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 74,
+      "questionText": "أي نبي بنى السفينة؟",
+      "answers": [
+        "إبراهيم",
+        "سليمان",
+        "نوح",
+        "داود"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 75,
+      "questionText": "أي نبي أوتي الزبور؟",
+      "answers": [
+        "موسى",
+        "عيسى",
+        "داود",
+        "إبراهيم"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 76,
+      "questionText": "أي نبي ألقي في النار فنجاه الله؟",
+      "answers": [
+        "موسى",
+        "إبراهيم",
+        "إسماعيل",
+        "يعقوب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 77,
+      "questionText": "من هو النبي الملقب بـ (خليل الله)؟",
+      "answers": [
+        "موسى",
+        "محمد (صلى الله عليه وسلم)",
+        "إبراهيم",
+        "نوح"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 78,
+      "questionText": "أي نبي أوتي التوراة؟",
+      "answers": [
+        "داود",
+        "موسى",
+        "عيسى",
+        "هارون"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 79,
+      "questionText": "أي نبي كان يتحدث إلى الحيوانات ويسخر الجن؟",
+      "answers": [
+        "داود",
+        "سليمان",
+        "إدريس",
+        "ذو الكفل"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 80,
+      "questionText": "من هو أخو موسى عليه السلام؟",
+      "answers": [
+        "إسماعيل",
+        "هارون",
+        "إسحاق",
+        "يوسف"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 81,
+      "questionText": "أي نبي بيع عبداً من قبل إخوته؟",
+      "answers": [
+        "موسى",
+        "يوسف",
+        "إسماعيل",
+        "أيوب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 82,
+      "questionText": "أي نبي يُشار إليه بـ (روح الله)؟",
+      "answers": [
+        "إبراهيم",
+        "محمد (صلى الله عليه وسلم)",
+        "عيسى",
+        "آدم"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 83,
+      "questionText": "كم عدد الأنبياء المذكورين بأسمائهم في القرآن؟",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 84,
+      "questionText": "من هو النبي الملقب بـ (صفِي الله)؟",
+      "answers": [
+        "نوح",
+        "آدم",
+        "إبراهيم",
+        "محمد (صلى الله عليه وسلم)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 85,
+      "questionText": "أي نبي عُرف بالصبر العظيم؟",
+      "answers": [
+        "يوسف",
+        "أيوب",
+        "يونس",
+        "شعيب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 86,
+      "questionText": "أي نبي رفع إلى السماء حياً حسب المعتقد الإسلامي؟",
+      "answers": [
+        "موسى",
+        "إدريس",
+        "إلياس",
+        "عيسى"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 87,
+      "questionText": "أي نبيين بنيا الكعبة؟",
+      "answers": [
+        "آدم ونوح",
+        "إبراهيم وإسماعيل",
+        "موسى وهارون",
+        "محمد وإبراهيم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 88,
+      "questionText": "أي نبي أرسل إلى قوم عاد؟",
+      "answers": [
+        "صالح",
+        "هود",
+        "شعيب",
+        "لوط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 89,
+      "questionText": "أي نبي أرسل إلى قوم ثمود؟",
+      "answers": [
+        "هود",
+        "صالح",
+        "شعيب",
+        "نوح"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 90,
+      "questionText": "أي نبي دمرت قومه بسبب ممارساتهم الفاسدة (مدينة سدوم)؟",
+      "answers": [
+        "شعيب",
+        "هود",
+        "لوط",
+        "صالح"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 91,
+      "questionText": "ما هي المعجزة التي أعطاها الله لموسى عليه السلام؟",
+      "answers": [
+        "شفاء المرضى",
+        "تحول العصا إلى ثعبان",
+        "التحدث مع الطيور",
+        "شقق القمر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 92,
+      "questionText": "أي نبي كان له اثنا عشر ولداً أصبحوا أسباط بني إسرائيل؟",
+      "answers": [
+        "إبراهيم",
+        "إسحاق",
+        "يعقوب",
+        "يوسف"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 93,
+      "questionText": "أي نبي اشتهر بصناعة الدروع (المغافر)؟",
+      "answers": [
+        "سليمان",
+        "داود",
+        "ذو الكفل",
+        "إدريس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 94,
+      "questionText": "ما هي معجزة النبي صالح لقوم ثمود؟",
+      "answers": [
+        "الطوفان",
+        "الناقة من الصخر",
+        "النار من السماء",
+        "طائر ناطق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 95,
+      "questionText": "أي نبي أرسل إلى قوم مدين؟",
+      "answers": [
+        "لوط",
+        "هود",
+        "شعيب",
+        "صالح"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 96,
+      "questionText": "ما هو اللقب الذي يطلق على النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "خليل الله",
+        "كلمة الله",
+        "حبيب الله",
+        "روح الله"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 97,
+      "questionText": "أي نبي وُلد بدون أب حسب المعتقد الإسلامي؟",
+      "answers": [
+        "آدم",
+        "عيسى",
+        "إدريس",
+        "يحيى"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 98,
+      "questionText": "أي نبي كان أبوه وجده وجد أبيه كلهم أنبياء؟",
+      "answers": [
+        "محمد (صلى الله عليه وسلم)",
+        "يوسف",
+        "عيسى",
+        "موسى"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 99,
+      "questionText": "أي نبي أوتي (الصحف)؟",
+      "answers": [
+        "نوح",
+        "موسى",
+        "إبراهيم",
+        "داود"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 100,
+      "questionText": "في رحلة الإسراء والمعراج، أي نبي التقى به محمد (صلى الله عليه وسلم) في السماء الدنيا؟",
+      "answers": [
+        "إبراهيم",
+        "موسى",
+        "آدم",
+        "عيسى"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 101,
+      "questionText": "أي نبي وصف في القرآن بـ (ذي النون) صاحب الحوت؟",
+      "answers": [
+        "أيوب",
+        "يونس",
+        "داود",
+        "إلياس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 102,
+      "questionText": "وفقاً للتقاليد الإسلامية، كم سماءً صعد إليها النبي محمد (صلى الله عليه وسلم) أثناء المعراج؟",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 103,
+      "questionText": "أي نبي سأل الله أن يُريه كيف يحيي الموتى (وكان ذلك بالطيور)؟",
+      "answers": [
+        "موسى",
+        "إبراهيم",
+        "عيسى",
+        "سليمان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 104,
+      "questionText": "قصة أي نبي سُميت بـ (أحسن القصص) في القرآن؟",
+      "answers": [
+        "موسى",
+        "إبراهيم",
+        "يوسف",
+        "نوح"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 105,
+      "questionText": "ما اسم زوجة إبراهيم عليه السلام التي كانت أم إسماعيل؟",
+      "answers": [
+        "سارة",
+        "هاجر",
+        "مريم",
+        "آسية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 106,
+      "questionText": "أي نبي عاش أطول فترة حسب الروايات الإسلامية؟",
+      "answers": [
+        "آدم",
+        "نوح",
+        "إدريس",
+        "إبراهيم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 107,
+      "questionText": "ما هو الحديث؟",
+      "answers": [
+        "آية من القرآن",
+        "قول أو فعل أو تقرير للنبي محمد (صلى الله عليه وسلم)",
+        "نوع من الصلاة",
+        "سورة من القرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 108,
+      "questionText": "من جمع أصح كتاب للحديث (الصحيح)؟",
+      "answers": [
+        "الإمام مسلم",
+        "الإمام البخاري",
+        "الإمام أبو داود",
+        "الإمام الترمذي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 109,
+      "questionText": "ماذا يُطلق على أصح كتابين للحديث مجتمعين؟",
+      "answers": [
+        "الموطأ والمسند",
+        "الصحيحان (صحيح البخاري وصحيح مسلم)",
+        "سنن النسائي وسنن ابن ماجه",
+        "الجامع والمصنف"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 110,
+      "questionText": "ماذا يعني (صحيح) في تصنيف الحديث؟",
+      "answers": [
+        "ضعيف",
+        "مصنوع",
+        "صحيح / معتبر",
+        "حسن"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 111,
+      "questionText": "ما هو سند الحديث؟",
+      "answers": [
+        "المتن",
+        "الإسناد",
+        "الراوي",
+        "الرواية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 112,
+      "questionText": "ما هو متن الحديث؟",
+      "answers": [
+        "الإسناد",
+        "السند",
+        "المتن",
+        "الراوي"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 113,
+      "questionText": "ما هو (الحديث القدسي)؟",
+      "answers": [
+        "حديث عن الصلاة",
+        "حديث يرويه النبي عن الله بألفاظه ومعانيه",
+        "حديث عن الصيام",
+        "حديث موضوع"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 114,
+      "questionText": "في حديث مشهور، ما الذي تُحكم به الأعمال؟",
+      "answers": [
+        "النتائج",
+        "النيات",
+        "الألفاظ",
+        "الشهود"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 115,
+      "questionText": "كم عدد أحاديث صحيح البخاري تقريباً (بدون المكرر)؟",
+      "answers": [
+        "حوالي 2,600",
+        "حوالي 4,000",
+        "حوالي 7,000",
+        "حوالي 10,000"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 116,
+      "questionText": "ما هو تصنيف الحديث الذي فيه راوٍ ضعيف في سنده؟",
+      "answers": [
+        "صحيح",
+        "حسن",
+        "ضعيف",
+        "موضوع"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 117,
+      "questionText": "ما هو (الحديث الموضوع)؟",
+      "answers": [
+        "حديث صحيح",
+        "حديث حسن",
+        "حديث مكذوب / مختلق",
+        "حديث ضعيف"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 118,
+      "questionText": "أي من الكتب التالية ليس من (الكتب الستة) في الحديث؟",
+      "answers": [
+        "صحيح البخاري",
+        "موطأ مالك",
+        "سنن أبي داود",
+        "صحيح مسلم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 119,
+      "questionText": "أكمل الحديث: (لا يؤمن أحدكم حتى يحب لأخيه...)",
+      "answers": [
+        "...ما يحبه لنفسه",
+        "...أكثر مما يحبه لنفسه",
+        "...أفضل الأعمال",
+        "...الجنة"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 120,
+      "questionText": "ماذا يعني (متواتر) في تصنيف الحديث؟",
+      "answers": [
+        "رواه شخص واحد",
+        "رواه عدد كبير من الطرق المستقلة يستحيل معها التواطؤ على الكذب",
+        "رواية ضعيفة",
+        "حديث عن المعجزات"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 121,
+      "questionText": "بماذا تشتهر (الأربعون النووية)؟",
+      "answers": [
+        "بأنها أطول الأحاديث",
+        "بأنها مجموعة موجزة من التعاليم الإسلامية الأساسية",
+        "بأنها عن الصلاة فقط",
+        "بأن البخاري هو من جمعها"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 122,
+      "questionText": "وفقاً للحديث، ما هي الأعمال الثلاثة الأكثر حباً إلى الله؟",
+      "answers": [
+        "الحج والعمرة والجهاد",
+        "الصلاة على وقتها، بر الوالدين، الجهاد في سبيل الله",
+        "الصيام، الصدقة، الحج",
+        "تلاوة القرآن، الذكر، الصدقة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 123,
+      "questionText": "ما هو (علم الرجال) في علوم الحديث؟",
+      "answers": [
+        "دراسة الرواة (الرجال)",
+        "دراسة متن الحديث",
+        "دراسة قواعد اللغة العربية",
+        "دراسة الفقه الإسلامي"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "الحديث"
+    },
+    {
+      "id": 124,
+      "questionText": "ما هو (الحديث المرسل)؟",
+      "answers": [
+        "حديث متصل السند",
+        "حديث يرويه التابعي عن النبي مباشرة مسقطاً الصحابي",
+        "حديث موضوع",
+        "حديث له عدة أسانيد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "الحديث"
+    },
+    {
+      "id": 125,
+      "questionText": "وفقاً للحديث، ما هو أفضل الدعاء يوم عرفة؟",
+      "answers": [
+        "سبحان الله",
+        "الحمد لله",
+        "لا إله إلا الله وحده لا شريك له...",
+        "أستغفر الله"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 126,
+      "questionText": "ما هو (الحديث الحسن)؟",
+      "answers": [
+        "موضوع",
+        "صحيح",
+        "حسن (مقبول لكن بدرجة أقل من الصحيح)",
+        "ضعيف"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 127,
+      "questionText": "من هو أول الخلفاء الراشدين بعد النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "عمر بن الخطاب",
+        "علي بن أبي طالب",
+        "أبو بكر الصديق",
+        "عثمان بن عفان"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 128,
+      "questionText": "في أي عام ميلادي وقعت الهجرة (من مكة إلى المدينة)؟",
+      "answers": [
+        "610 م",
+        "622 م",
+        "630 م",
+        "632 م"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 129,
+      "questionText": "ما هي أول معركة كبرى في التاريخ الإسلامي؟",
+      "answers": [
+        "غزوة أحد",
+        "غزوة بدر",
+        "غزوة الخندق",
+        "غزوة خيبر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 130,
+      "questionText": "من هي أول امرأة أسلمت؟",
+      "answers": [
+        "عائشة رضي الله عنها",
+        "فاطمة رضي الله عنها",
+        "خديجة رضي الله عنها",
+        "سمية رضي الله عنها"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 131,
+      "questionText": "ما اسم أول مسجد بني في الإسلام؟",
+      "answers": [
+        "المسجد الأقصى",
+        "مسجد قباء",
+        "المسجد النبوي",
+        "المسجد الحرام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 132,
+      "questionText": "من هو أول مؤذن في الإسلام؟",
+      "answers": [
+        "عبد الله بن مسعود",
+        "بلال بن رباح",
+        "عمار بن ياسر",
+        "سلمان الفارسي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 133,
+      "questionText": "في أي عام تم فتح مكة على يد المسلمين؟",
+      "answers": [
+        "624 م",
+        "625 م",
+        "628 م",
+        "630 م"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 134,
+      "questionText": "ما هو صلح الحديبية؟",
+      "answers": [
+        "إعلان حرب",
+        "معاهدة سلام بين المسلمين وقريش",
+        "اتفاقية تجارية",
+        "وثيقة تأسيس الدولة الإسلامية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 135,
+      "questionText": "من هو ثاني الخلفاء الراشدين؟",
+      "answers": [
+        "أبو بكر",
+        "عمر بن الخطاب",
+        "عثمان بن عفان",
+        "علي بن أبي طالب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 136,
+      "questionText": "بماذا يشتهر (عام الفيل)؟",
+      "answers": [
+        "عام فتح مكة",
+        "العام الذي ولد فيه النبي محمد (صلى الله عليه وسلم)",
+        "العام الذي اكتمل فيه القرآن",
+        "عام الهجرة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 137,
+      "questionText": "من عُرف بـ (سيف الله)؟",
+      "answers": [
+        "علي بن أبي طالب",
+        "عمر بن الخطاب",
+        "خالد بن الوليد",
+        "سعد بن أبي وقاص"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 138,
+      "questionText": "إلى أين هاجر المسلمون أول مرة هرباً من الاضطهاد؟",
+      "answers": [
+        "المدينة المنورة",
+        "الحبشة (إثيوبيا)",
+        "مصر",
+        "الشام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 139,
+      "questionText": "ما هو اسم الدستور الذي وُضع في المدينة المنورة؟",
+      "answers": [
+        "صلح الحديبية",
+        "صحيفة المدينة (دستور المدينة)",
+        "إعلان مكة",
+        "بيعة العقبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 140,
+      "questionText": "من هو أول طفل أسلم؟",
+      "answers": [
+        "عمر",
+        "زيد بن حارثة",
+        "علي بن أبي طالب",
+        "عبد الله بن عباس"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 141,
+      "questionText": "بماذا عُرفت غزوة الخندق؟",
+      "answers": [
+        "حرب بحرية",
+        "حفر خندق حول المدينة للدفاع عنها",
+        "معركة وقعت في ممر جبلي",
+        "حصار مكة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 142,
+      "questionText": "من الذي اقترح حفر الخندق في غزوة الخندق؟",
+      "answers": [
+        "أبو بكر",
+        "عمر",
+        "سلمان الفارسي",
+        "خالد بن الوليد"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 143,
+      "questionText": "في أي عام توفي النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "630 م",
+        "632 م",
+        "634 م",
+        "636 م"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 144,
+      "questionText": "أي سلالة إسلامية بنت قبة الصخرة في القدس؟",
+      "answers": [
+        "العباسية",
+        "العثمانية",
+        "الأموية",
+        "الفاطمية"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 145,
+      "questionText": "من هو أول الخلفاء الأمويين؟",
+      "answers": [
+        "عبد الملك بن مروان",
+        "معاوية بن أبي سفيان",
+        "يزيد بن معاوية",
+        "مروان بن الحكم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 146,
+      "questionText": "أي خليفة أدخل التقويم الهجري؟",
+      "answers": [
+        "أبو بكر",
+        "عمر بن الخطاب",
+        "عثمان",
+        "علي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 147,
+      "questionText": "ما هي حروب الردة؟",
+      "answers": [
+        "حروب بين المسلمين والروم",
+        "حروب ضد المرتدين بعد وفاة النبي",
+        "حروب بين الأمويين والعباسيين",
+        "الحروب الصليبية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 148,
+      "questionText": "من قاد القوات المسلمة في معركة اليرموك ضد البيزنطيين؟",
+      "answers": [
+        "عمر بن الخطاب",
+        "خالد بن الوليد",
+        "أبو بكر",
+        "عمرو بن العاص"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 149,
+      "questionText": "من هو القائد المسلم الذي فتح مصر؟",
+      "answers": [
+        "خالد بن الوليد",
+        "سعد بن أبي وقاص",
+        "عمرو بن العاص",
+        "طارق بن زياد"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 150,
+      "questionText": "من الذي فتح الطريق إلى الأندلس (إسبانيا) أمام المسلمين؟",
+      "answers": [
+        "خالد بن الوليد",
+        "طارق بن زياد",
+        "موسى بن نصير",
+        "صلاح الدين الأيوبي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 151,
+      "questionText": "ما هي عاصمة الخلافة العباسية؟",
+      "answers": [
+        "دمشق",
+        "بغداد",
+        "القاهرة",
+        "قرطبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 152,
+      "questionText": "من هو صلاح الدين الأيوبي وبماذا اشتهر؟",
+      "answers": [
+        "شاعر أموي",
+        "مؤسس الدولة العثمانية",
+        "القائد المسلم الذي استعاد القدس من الصليبيين",
+        "مخترع الجبر"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 153,
+      "questionText": "أي معركة عام 1258 م كانت نهاية الخلافة العباسية؟",
+      "answers": [
+        "معركة عين جالوت",
+        "حصار بغداد",
+        "معركة حطين",
+        "معركة ملاذكرد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 154,
+      "questionText": "أي إمبراطورية أنهت الخلافة العباسية بتدمير بغداد؟",
+      "answers": [
+        "الصليبيون",
+        "المغول",
+        "العثمانيون",
+        "الصفويون"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 155,
+      "questionText": "من أسس الدولة العثمانية؟",
+      "answers": [
+        "سليمان القانوني",
+        "محمد الثاني",
+        "عثمان الأول",
+        "بايزيد الأول"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 156,
+      "questionText": "أي سلطان عثماني فتح القسطنطينية عام 1453؟",
+      "answers": [
+        "عثمان الأول",
+        "سليمان القانوني",
+        "محمد الفاتح",
+        "سليم الأول"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 157,
+      "questionText": "بماذا تميز (العصر الذهبي للإسلام)؟",
+      "answers": [
+        "الفتوحات العسكرية",
+        "التقدم في العلوم والطب والرياضيات والفلسفة",
+        "بناء المساجد",
+        "توسع الطرق التجارية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 158,
+      "questionText": "من يُعرف بـ (أبو الجبر)؟",
+      "answers": [
+        "ابن سينا",
+        "الخوارزمي",
+        "الرازي",
+        "ابن رشد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 159,
+      "questionText": "من هو العالم المسلم الذي ألف (القانون في الطب)؟",
+      "answers": [
+        "الخوارزمي",
+        "الرازي",
+        "ابن سينا (أفيسينا)",
+        "ابن خلدون"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 160,
+      "questionText": "من ألف (المقدمة) التي تعتبر تحفة في التأريخ؟",
+      "answers": [
+        "ابن سينا",
+        "الغزالي",
+        "ابن خلدون",
+        "الطبري"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 161,
+      "questionText": "ما هي (بيعتا العقبة)؟",
+      "answers": [
+        "اتفاقيات تجارية",
+        "بيعتان بايع فيهما أهل المدينة النبي قبل الهجرة",
+        "اتفاقيات سلام مع قريش",
+        "تحالفات عسكرية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 162,
+      "questionText": "أول شهيدة في الإسلام (امرأة)؟",
+      "answers": [
+        "خديجة",
+        "فاطمة",
+        "سمية بنت خياط",
+        "أسماء بنت أبي بكر"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 163,
+      "questionText": "ما هي أركان الإيمان الستة في الإسلام؟",
+      "answers": [
+        "الشهادة، الصلاة، الزكاة، الصوم، الحج، الجهاد",
+        "الإيمان بالله، وملائكته، وكتبه، ورسله، واليوم الآخر، والقدر خيره وشره",
+        "الصلاة، والصوم، والصدقة، والحج، والإيمان، والصبر",
+        "التوحيد، والرسالة، والآخرة، والصلاة، والصوم، والزكاة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 164,
+      "questionText": "ما هو الإحسان في الإسلام؟",
+      "answers": [
+        "إعطاء الصدقة",
+        "أن تعبد الله كأنك تراه",
+        "أداء الحج",
+        "تلاوة القرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 165,
+      "questionText": "ما اسم الصلاة التي تصلى عند كسوف الشمس؟",
+      "answers": [
+        "صلاة الاستسقاء",
+        "صلاة الكسوف",
+        "صلاة الخوف",
+        "صلاة الضحى"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 166,
+      "questionText": "ما هي صلاة الاستسقاء؟",
+      "answers": [
+        "صلاة الكسوف",
+        "صلاة الخسوف",
+        "صلاة الاستسقاء",
+        "صلاة الحاجة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 167,
+      "questionText": "كم مرة تُقرأ سورة الفاتحة في صلاة خمس ركعات؟",
+      "answers": [
+        "5 مرات",
+        "3 مرات",
+        "7 مرات",
+        "6 مرات"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 168,
+      "questionText": "ما هو (سجود السهو)؟",
+      "answers": [
+        "سجود الصلاة الأساسي",
+        "سجود يُسجد للسهو في الصلاة",
+        "سجود الشكر",
+        "سجود أثناء تلاوة القرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 169,
+      "questionText": "ما هي ليلة القدر؟",
+      "answers": [
+        "أول ليلة من رمضان",
+        "ليلة في العشر الأواخر من رمضان خير من ألف شهر",
+        "ليلة العيد",
+        "الليلة التي تسبق الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 170,
+      "questionText": "في أي سورة ورد ذكر ليلة القدر؟",
+      "answers": [
+        "البقرة",
+        "القدر",
+        "الفجر",
+        "البروج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 171,
+      "questionText": "أي سورة تُعرف بـ (الملك)؟",
+      "answers": [
+        "الملك",
+        "الواقعة",
+        "الرحمن",
+        "الحديد"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 172,
+      "questionText": "أي سورة تبدأ بـ (الرحمن)؟",
+      "answers": [
+        "سورة 54",
+        "سورة 55",
+        "سورة 56",
+        "سورة 57"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 173,
+      "questionText": "ما هي (البسملة) التي تبدأ بها معظم السور؟",
+      "answers": [
+        "دعاء للحماية",
+        "بسم الله الرحمن الرحيم",
+        "آية عن الصيام",
+        "الأذان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 174,
+      "questionText": "أي حيوان ورد اسمه كعنوان لسورة في القرآن؟",
+      "answers": [
+        "الفيل",
+        "البقرة",
+        "النمل",
+        "كل ما ذكر"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 175,
+      "questionText": "ما هي (أسباب النزول) في الدراسات القرآنية؟",
+      "answers": [
+        "علم التجويد",
+        "مناسبات / أسباب النزول",
+        "نسخ الآيات",
+        "قواعد اللغة العربية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 176,
+      "questionText": "ما معنى (النسخ) في علوم القرآن؟",
+      "answers": [
+        "نسخ القرآن",
+        "إبطال حكم لاحق لحكم سابق",
+        "قواعد التلاوة",
+        "ترجمة القرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 177,
+      "questionText": "أي نبي ورد ذكره أكثر من غيره في القرآن؟",
+      "answers": [
+        "إبراهيم",
+        "محمد (صلى الله عليه وسلم)",
+        "موسى",
+        "عيسى"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 178,
+      "questionText": "ما اسم أول زوجات النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "عائشة",
+        "حفصة",
+        "خديجة",
+        "زينب"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 179,
+      "questionText": "ما هي الشهادة في الإسلام؟",
+      "answers": [
+        "سبحان الله",
+        "لا إله إلا الله محمد رسول الله",
+        "الله أكبر",
+        "بسم الله الرحمن الرحيم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 180,
+      "questionText": "ما معنى (التوكل)؟",
+      "answers": [
+        "التوبة",
+        "الاعتماد والثقة على الله",
+        "الشكر",
+        "الصبر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 181,
+      "questionText": "ما اسم مسجد النبي في المدينة المنورة؟",
+      "answers": [
+        "المسجد الحرام",
+        "المسجد الأقصى",
+        "المسجد النبوي",
+        "مسجد قباء"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 182,
+      "questionText": "ما هي (الإسراء والمعراج)؟",
+      "answers": [
+        "الهجرة إلى المدينة",
+        "رحلة الإسراء والمعراج للنبي محمد (صلى الله عليه وسلم)",
+        "فتح مكة",
+        "الوحي الأول"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 183,
+      "questionText": "من أي حدث يبدأ التقويم الهجري؟",
+      "answers": [
+        "مولد النبي محمد",
+        "الوحي الأول",
+        "الهجرة إلى المدينة",
+        "فتح مكة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 184,
+      "questionText": "من هو عم النبي الذي حماه لكنه لم يسلم؟",
+      "answers": [
+        "حمزة",
+        "أبو لهب",
+        "أبو طالب",
+        "العباس"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 185,
+      "questionText": "ما هي (الشورى) في نظام الحكم الإسلامي؟",
+      "answers": [
+        "استراتيجية عسكرية",
+        "التشاور في اتخاذ القرارات",
+        "جباية الضرائب",
+        "الحكم القضائي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 186,
+      "questionText": "وفقاً للحديث: (خيركم من...)",
+      "answers": [
+        "...أكثركم صلاة",
+        "...أكثركم صياماً",
+        "...تعلم القرآن وعلمه",
+        "...أكثركم صدقة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 187,
+      "questionText": "إلى ماذا يشير حديث (الدين النصيحة)؟",
+      "answers": [
+        "الصلاة فقط",
+        "النصح لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم",
+        "إعطاء الصدقة",
+        "الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 188,
+      "questionText": "وفقاً للحديث، ما هي (السبع الموبقات)؟",
+      "answers": [
+        "الكذب، الغش، السرقة، القتل، الحسد، الغيبة، النميمة",
+        "الشرك، السحر، قتل النفس التي حرم الله، أكل الربا، أكل مال اليتيم، التولي يوم الزحف، قذف المحصنات المؤمنات الغافلات",
+        "الكبر، الطمع، الحسد، الغضب، الكسل، الشهوة، الشراهة",
+        "القمار، شرب الخمر، الكذب، السرقة، القتل، الزنا، الغيبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 189,
+      "questionText": "ما هو (حديث الآحاد)؟",
+      "answers": [
+        "حديث يرويه راو أو عدة رواة بدرجة أقل من التواتر",
+        "حديث موضوع",
+        "حديث عن الأحلام",
+        "حديث رواه النساء فقط"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "الحديث"
+    },
+    {
+      "id": 190,
+      "questionText": "من جمع (سنن أبي داود)؟",
+      "answers": [
+        "الإمام البخاري",
+        "أبو داود السجستاني",
+        "الإمام الترمذي",
+        "الإمام النسائي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 191,
+      "questionText": "ما معنى الإحسان كما ورد في حديث جبريل؟",
+      "answers": [
+        "إعطاء الصدقة للفقراء",
+        "الإيمان بالأركان الستة",
+        "أن تعبد الله كأنك تراه",
+        "الحج"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 192,
+      "questionText": "ما هو أول ما نزل من القرآن على النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "سورة الفاتحة",
+        "أول آيات سورة العلق (اقرأ)",
+        "سورة الإخلاص",
+        "آية الكرسي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 193,
+      "questionText": "أين نزل الوحي الأول؟",
+      "answers": [
+        "في الكعبة",
+        "في المسجد النبوي",
+        "في غار حراء",
+        "في عرفة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 194,
+      "questionText": "كم كان عمر النبي محمد (صلى الله عليه وسلم) عندما نزل عليه الوحي الأول؟",
+      "answers": [
+        "25 سنة",
+        "30 سنة",
+        "40 سنة",
+        "45 سنة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 195,
+      "questionText": "ما هو السبب الرئيسي لمعارضة قريش للنبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "لأنه كان فقيراً",
+        "لأن رسالته بالتوحيد هددت مكانتهم وتقاليدهم الشركية",
+        "لأنه أراد السلطة السياسية",
+        "لأنه من قبيلة أخرى"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 196,
+      "questionText": "ما هو (الذكر) في الإسلام؟",
+      "answers": [
+        "الصيام",
+        "ذكر الله بألفاظ وأدعية",
+        "نوع من الصدقة",
+        "طقس من طقوس الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 197,
+      "questionText": "ما معنى (سبحان الله)؟",
+      "answers": [
+        "الله أكبر",
+        "تنزيه الله (سبحان الله)",
+        "لا إله إلا الله",
+        "إن شاء الله"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 198,
+      "questionText": "ما معنى (الحمد لله)؟",
+      "answers": [
+        "الله أكبر",
+        "سبحان الله",
+        "جميع الحمد لله",
+        "إن شاء الله"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 199,
+      "questionText": "ما معنى (الله أكبر)؟",
+      "answers": [
+        "الله أكبر",
+        "سبحان الله",
+        "جميع الحمد لله",
+        "بسم الله"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 200,
+      "questionText": "ما معنى (إن شاء الله)؟",
+      "answers": [
+        "الله أكبر",
+        "إذا شاء الله (إن شاء الله)",
+        "الشكر لله",
+        "أعوذ بالله"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 201,
+      "questionText": "ما اسم العيد الذي يأتي بعد رمضان؟",
+      "answers": [
+        "عيد الأضحى",
+        "عيد الفطر",
+        "عيد الغدير",
+        "عيد المولد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 202,
+      "questionText": "ما اسم العيد الذي يأتي في موسم الحج؟",
+      "answers": [
+        "عيد الفطر",
+        "عيد الأضحى",
+        "عيد الغدير",
+        "عيد المولد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 203,
+      "questionText": "ما اسم الأضحية التي تتم في عيد الأضحى؟",
+      "answers": [
+        "صدقة",
+        "زكاة",
+        "أضحية / أضحية",
+        "خمس"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 204,
+      "questionText": "كم عدد ركعات صلاة العيد؟",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 205,
+      "questionText": "ما هو دعاء الاستفتاح في أول الصلاة؟",
+      "answers": [
+        "التشهد",
+        "دعاء الاستفتاح",
+        "القنوت",
+        "التسبيح"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 206,
+      "questionText": "ماذا يقال في التشهد أثناء الصلاة؟",
+      "answers": [
+        "سبحان الله",
+        "التحيات لله...",
+        "الحمد لله رب العالمين",
+        "ربنا آتنا في الدنيا حسنة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 207,
+      "questionText": "ما هي أول معركة خسر فيها المسلمون في البداية؟",
+      "answers": [
+        "بدر",
+        "أحد",
+        "الخندق",
+        "خيبر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 208,
+      "questionText": "من قتل حمزة (رضي الله عنه) عم النبي في غزوة أحد؟",
+      "answers": [
+        "أبو جهل",
+        "أبو سفيان",
+        "وحشي بن حرب",
+        "خالد بن الوليد"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 209,
+      "questionText": "ما هي (خطبة الوداع)؟",
+      "answers": [
+        "أول خطبة في المدينة",
+        "أخر خطبة رئيسية للنبي محمد (صلى الله عليه وسلم) أثناء حجه",
+        "خطبة ألقيت في غزوة بدر",
+        "أول خطبة لأبي بكر كخليفة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 210,
+      "questionText": "ما هي الرسالة الأساسية في خطبة الوداع؟",
+      "answers": [
+        "الاستعداد للحرب",
+        "الناس سواسية لا فضل لعربي على أعجمي إلا بالتقوى، تمسكوا بالقرآن والسنة",
+        "بناء المزيد من المساجد",
+        "توسيع الإمبراطورية الإسلامية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 211,
+      "questionText": "من هو الصحابي الملقب بـ (الفاروق)؟",
+      "answers": [
+        "أبو بكر",
+        "عمر بن الخطاب",
+        "علي بن أبي طالب",
+        "عثمان بن عفان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 212,
+      "questionText": "من هو الصحابي الملقب بـ (ذي النورين)؟",
+      "answers": [
+        "أبو بكر",
+        "عمر",
+        "عثمان بن عفان",
+        "علي"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 213,
+      "questionText": "من هي بنت النبي محمد (صلى الله عليه وسلم) وزوجة علي بن أبي طالب؟",
+      "answers": [
+        "زينب",
+        "رقية",
+        "أم كلثوم",
+        "فاطمة"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 214,
+      "questionText": "ما هي (السنة) في الإسلام؟",
+      "answers": [
+        "القرآن",
+        "أقوال وأفعال وتقريرات النبي محمد (صلى الله عليه وسلم)",
+        "الأركان الخمسة",
+        "أركان الإيمان الستة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 215,
+      "questionText": "ما معنى (البدعة) في الإسلام؟",
+      "answers": [
+        "عمل صالح",
+        "اختراع في الدين لم يفعله النبي",
+        "نوع من الصلاة",
+        "عمل خيري"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 216,
+      "questionText": "أي سورة وردت فيها قصة غرق فرعون؟",
+      "answers": [
+        "البقرة",
+        "يونس",
+        "طه",
+        "كل هذه السور ورد فيها"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 217,
+      "questionText": "ما هو المصطلح الإسلامي للحلال والجائز؟",
+      "answers": [
+        "حرام",
+        "حلال",
+        "مكروه",
+        "مباح"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 218,
+      "questionText": "ما هو المصطلح الإسلامي للمحظور والحرام؟",
+      "answers": [
+        "حلال",
+        "حرام",
+        "مكروه",
+        "واجب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 219,
+      "questionText": "ما معنى (المكروه) في الفقه الإسلامي؟",
+      "answers": [
+        "فرض",
+        "حرام",
+        "مكروه (غير محبب لكن ليس إثم)",
+        "مستحب"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 220,
+      "questionText": "ما معنى (الفرض)؟",
+      "answers": [
+        "اختياري",
+        "مستحب",
+        "إلزامي / فرض",
+        "مكروه"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 221,
+      "questionText": "كم عدد المذاهب الفقهية الرئيسية في السُنّة؟",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 222,
+      "questionText": "أي من التالي ليس مذهباً سنياً؟",
+      "answers": [
+        "حنفي",
+        "جعفري",
+        "شافعي",
+        "حنبلي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 223,
+      "questionText": "من هو مؤسس المذهب الحنفي؟",
+      "answers": [
+        "الإمام مالك",
+        "الإمام الشافعي",
+        "الإمام أبو حنيفة",
+        "الإمام أحمد بن حنبل"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 224,
+      "questionText": "ما هو (الفقه) في الإسلام؟",
+      "answers": [
+        "علم الكلام الإسلامي",
+        "الفقه الإسلامي (فهم الأحكام الدينية)",
+        "التصوف الإسلامي",
+        "التاريخ الإسلامي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 225,
+      "questionText": "ما هو (التفسير)؟",
+      "answers": [
+        "القانون الإسلامي",
+        "تفسير وشرح القرآن",
+        "علوم الحديث",
+        "التصوف الإسلامي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 226,
+      "questionText": "أي مدينة تُعرف بـ (مدينة النبي)؟",
+      "answers": [
+        "مكة",
+        "المدينة المنورة",
+        "القدس",
+        "دمشق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 227,
+      "questionText": "ما هي المساجد الثلاثة الأقدس في الإسلام؟",
+      "answers": [
+        "المسجد الحرام، المسجد النبوي، المسجد الأقصى",
+        "مسجد قباء، المسجد الحرام، المسجد النبوي",
+        "المسجد الحرام، الجامع الأزرق، الأزهر",
+        "المسجد النبوي، المسجد الأقصى، مسجد قباء"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 228,
+      "questionText": "ما هي (الصدقة الجارية)؟",
+      "answers": [
+        "صدقة لمرة واحدة",
+        "صدقة يستمر أجرها بعد موت المتصدق",
+        "صدقة مفروضة",
+        "صدقة تقدم في رمضان فقط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 229,
+      "questionText": "كم مضاعفة أجر الصلاة في المسجد الحرام مقارنة بغيره؟",
+      "answers": [
+        "10 أضعاف",
+        "1,000 ضعف",
+        "100,000 ضعف",
+        "500 ضعف"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 230,
+      "questionText": "ما هو ماء زمزم؟",
+      "answers": [
+        "ماء من نهر النيل",
+        "ماء مقدس من بئر في مكة قرب الكعبة",
+        "ماء مطر تجمع في المدينة",
+        "ماء من البحر الميت"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 231,
+      "questionText": "وفقاً للتقاليد الإسلامية، زوجة أي نبي اكتشفت بئر زمزم؟",
+      "answers": [
+        "سارة",
+        "هاجر",
+        "مريم",
+        "خديجة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 232,
+      "questionText": "ما هي (التوبة) في الإسلام؟",
+      "answers": [
+        "الشكر",
+        "الصبر",
+        "التوبة",
+        "التوكل على الله"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 233,
+      "questionText": "ما هو (الصبر) في الإسلام؟",
+      "answers": [
+        "الشكر",
+        "الصبر والثبات",
+        "الصدقة",
+        "الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 234,
+      "questionText": "ما هو (الشكر) في الإسلام؟",
+      "answers": [
+        "الصبر",
+        "الحمد والشكر لله",
+        "الصيام",
+        "الصلاة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 235,
+      "questionText": "ما هو (التقوى)؟",
+      "answers": [
+        "الحج",
+        "خشية الله والورع",
+        "الصدقة",
+        "الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 236,
+      "questionText": "ما هو (الحجر الأسود)؟",
+      "answers": [
+        "نيزك في متحف",
+        "حجر مقدس مثبت في ركن الكعبة",
+        "حجر من جبل سيناء",
+        "حجر في المسجد الأقصى"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 237,
+      "questionText": "ما معنى (الطواف)؟",
+      "answers": [
+        "الوقوف بعرفة",
+        "الدوران حول الكعبة سبعة أشواط",
+        "السعي بين الصفا والمروة",
+        "رمي الجمرات"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 238,
+      "questionText": "ما هو (رمي الجمرات) في الحج؟",
+      "answers": [
+        "الطواف حول الكعبة",
+        "رمي جمرات العقبة (رمي الشياطين)",
+        "الوقوف بعرفة",
+        "السعي بين الصفا والمروة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 239,
+      "questionText": "ما هي آخر سورة نزلت في القرآن (وفقاً لمعظم العلماء)؟",
+      "answers": [
+        "الفاتحة",
+        "النصر",
+        "المائدة",
+        "التوبة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 240,
+      "questionText": "ما هي السورة التي تسمى (سورة الفيل)؟",
+      "answers": [
+        "الفيل",
+        "البقرة",
+        "النحل",
+        "العنكبوت"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 241,
+      "questionText": "ما هي أهمية سورة الفيل؟",
+      "answers": [
+        "تتحدث عن أحكام الطعام",
+        "تحكي قصة جيش الفيل الذي هاجم مكة",
+        "تتحدث عن المواريث",
+        "عن يوم القيامة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 242,
+      "questionText": "أي سورة ورد فيها تشبيه الكلمة الطيبة بالشجرة الطيبة؟",
+      "answers": [
+        "إبراهيم (14:24-25)",
+        "البقرة",
+        "النساء",
+        "الأنفال"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 243,
+      "questionText": "عن ماذا تتحدث آية الكرسي؟",
+      "answers": [
+        "قصة موسى",
+        "صفات الله وعظمته",
+        "يوم القيامة",
+        "خلق الإنسان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 244,
+      "questionText": "ما هي السورة التي تسمى (العنكبوت)؟",
+      "answers": [
+        "النمل",
+        "النحل",
+        "العنكبوت",
+        "الفيل"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 245,
+      "questionText": "أي عالم فلك مسلم اشتهر بعمله في البصريات والقمرة؟",
+      "answers": [
+        "الخوارزمي",
+        "ابن الهيثم",
+        "البيروني",
+        "الرازي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 246,
+      "questionText": "ما هو (بيت الحكمة)؟",
+      "answers": [
+        "مسجد في مكة",
+        "مكتبة ومركز أكاديمي في بغداد في العصر العباسي",
+        "سوق في دمشق",
+        "مدرسة في قرطبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 247,
+      "questionText": "من يُعرف بـ (إمام الحرمين) وعالم الحديث؟",
+      "answers": [
+        "الإمام أبو حنيفة",
+        "الإمام مالك",
+        "الإمام الشافعي",
+        "الإمام البخاري"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 248,
+      "questionText": "ما هو (الوقف) في الشريعة الإسلامية؟",
+      "answers": [
+        "نوع من الصيام",
+        "حبس مال أو عقار لأغراض دينية أو خيرية",
+        "عقد زواج",
+        "اتفاق تجاري"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 249,
+      "questionText": "ما هو (الربا) في الإسلام؟",
+      "answers": [
+        "الصدقة",
+        "الفائدة / الربا (المحرم في الإسلام)",
+        "نوع من الصلاة",
+        "التجارة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 250,
+      "questionText": "ما المقصود بـ (الأمة) في الإسلام؟",
+      "answers": [
+        "أسرة النبي",
+        "المجتمع المسلم العالمي",
+        "حجاج بيت الله",
+        "علماء الإسلام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 251,
+      "questionText": "من هو النبي الملقب بـ (كليم الله)؟",
+      "answers": [
+        "إبراهيم",
+        "آدم",
+        "موسى",
+        "محمد (صلى الله عليه وسلم)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 252,
+      "questionText": "ماذا طلب سليمان عليه السلام من الله؟",
+      "answers": [
+        "المال",
+        "ملكاً لا ينبغي لأحد من بعده",
+        "طول العمر",
+        "كثرة الأولاد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 253,
+      "questionText": "ما هي المعجزة التي قام بها عيسى عليه السلام وهو رضيع؟",
+      "answers": [
+        "المشي على الماء",
+        "التكلم في المهد",
+        "إبصار الأكمه",
+        "تحويل الماء إلى لبن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 254,
+      "questionText": "أي نبي ارتبطت به معجزة المائدة المنزلة من السماء؟",
+      "answers": [
+        "موسى",
+        "إبراهيم",
+        "عيسى",
+        "محمد (صلى الله عليه وسلم)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 255,
+      "questionText": "ما هي الكلمة التي يطلقها القرآن على المسيحيين واليهود؟",
+      "answers": [
+        "مشركون",
+        "أهل الكتاب",
+        "منافقون",
+        "كافرون"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 256,
+      "questionText": "ماذا تعني (لا إله إلا الله)؟",
+      "answers": [
+        "الله أكبر",
+        "لا معبود بحق إلا الله",
+        "الحمد لله",
+        "بسم الله"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 257,
+      "questionText": "ما اسم حفيدي النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "أبو بكر وعمر",
+        "الحسن والحسين",
+        "حمزة وعباس",
+        "زيد وعبد الله"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 258,
+      "questionText": "ما الحادثة المأساوية التي حدثت للحسين (رضي الله عنه) في كربلاء؟",
+      "answers": [
+        "تم نفيه",
+        "استشهد هو وأهل بيته",
+        "انتصر في معركة كبرى",
+        "أصبح خليفة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 259,
+      "questionText": "في أي عام ميلادي وقعت معركة كربلاء؟",
+      "answers": [
+        "661 م",
+        "670 م",
+        "680 م",
+        "690 م"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 260,
+      "questionText": "من هو الخليفة الخامس للراشدين عند بعض العلماء؟",
+      "answers": [
+        "يزيد",
+        "معاوية الثاني",
+        "عمر بن عبد العزيز",
+        "عبد الملك بن مروان"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 261,
+      "questionText": "ما أهمية يوم عاشوراء (10 محرم)؟",
+      "answers": [
+        "مولد النبي",
+        "اليوم الذي نجى الله فيه موسى من فرعون",
+        "يوم عيد",
+        "بداية رمضان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 262,
+      "questionText": "ما هو (القياس) في الفقه الإسلامي؟",
+      "answers": [
+        "الإجماع",
+        "الاستدلال بالقياس",
+        "الرأي الشخصي",
+        "السنة النبوية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 263,
+      "questionText": "ما هو (الإجماع) في الفقه الإسلامي؟",
+      "answers": [
+        "القياس",
+        "الرأي الشخصي",
+        "إجماع العلماء",
+        "السنة النبوية"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 264,
+      "questionText": "ما هي (مقاصد الشريعة)؟",
+      "answers": [
+        "أركان الإسلام الخمسة",
+        "أهداف الشريعة الإسلامية",
+        "أركان الإيمان",
+        "أحكام الصلاة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 265,
+      "questionText": "ما هي الأمور الخمسة التي تهدف الشريعة إلى حمايتها؟",
+      "answers": [
+        "المال، الأرض، الأسرة، العرض، العلم",
+        "الدين، النفس، العقل، النسل، المال",
+        "الصلاة، الصوم، الزكاة، الحج، الإيمان",
+        "القرآن، السنة، الإجماع، القياس، العرف"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 266,
+      "questionText": "ما هي (الأمانة) في الإسلام؟",
+      "answers": [
+        "الصبر",
+        "الثقة والمسؤولية",
+        "الصلاة",
+        "الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 267,
+      "questionText": "ما هو مفهوم (التوحيد) في الإسلام؟",
+      "answers": [
+        "النبوة",
+        "وحدانية الله",
+        "يوم القيامة",
+        "الصدقة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 268,
+      "questionText": "ما هو (الشرك) في الإسلام؟",
+      "answers": [
+        "الصلاة خمس مرات",
+        "إشراك إله مع الله (عبادة الأوثان)",
+        "الصدقة",
+        "الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 269,
+      "questionText": "ما هو (النفاق) في الإسلام؟",
+      "answers": [
+        "العبادة الخالصة",
+        "إظهار الإيمان وإبطان الكفر",
+        "الصدقة",
+        "الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 270,
+      "questionText": "بماذا يشتهر المَلَكان منكر ونكير؟",
+      "answers": [
+        "تسجيل الأعمال الصالحة والسيئة",
+        "سؤال الميت في القبر",
+        "حماية جهنم",
+        "حمل عرش الله"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 271,
+      "questionText": "بماذا يشتهر المَلَك إسرافيل؟",
+      "answers": [
+        "نزول الوحي",
+        "النفخ في الصور يوم القيامة",
+        "قبض الأرواح",
+        "إنزال المطر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 272,
+      "questionText": "ما هي مسؤولية المَلَك ميكائيل؟",
+      "answers": [
+        "الوحي",
+        "الأرزاق (الغذاء والمطر وغيرهما)",
+        "الموت",
+        "تسجيل الأعمال"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 273,
+      "questionText": "ما هو (البرزخ) في علم آخر الزمان الإسلامي؟",
+      "answers": [
+        "الجنة",
+        "الحاجز / العالم بين الموت والقيامة",
+        "جهنم",
+        "يوم القيامة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 274,
+      "questionText": "ما هو (الصراط) في المعتقد الإسلامي؟",
+      "answers": [
+        "نهر في الجنة",
+        "جسر على جهنم يجب على الجميع اجتيازه",
+        "باب الجنة",
+        "جبل يوم القيامة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 275,
+      "questionText": "ما هو (الميزان) في سياق يوم القيامة؟",
+      "answers": [
+        "كتاب الأعمال",
+        "الميزان الذي توزن به الأعمال",
+        "نوع من العذاب",
+        "جزاء"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 276,
+      "questionText": "ما هي علامات الساعة الكبرى؟",
+      "answers": [
+        "الزلازل والفيضانات",
+        "خروج الدجال، نزول عيسى (عليه السلام)، ويأجوج ومأجوج",
+        "كسوف الشمس",
+        "وباء عظيم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 277,
+      "questionText": "ما هو (الدجال) في علم آخر الزمان الإسلامي؟",
+      "answers": [
+        "ملك",
+        "المسيخ الدجال (المسيح الكذاب)",
+        "نبي",
+        "ملك"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 278,
+      "questionText": "من جمع (الموطأ) في الحديث؟",
+      "answers": [
+        "الإمام البخاري",
+        "الإمام مسلم",
+        "الإمام مالك",
+        "الإمام أحمد"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 279,
+      "questionText": "ما هو (مسند الإمام أحمد)؟",
+      "answers": [
+        "كتاب تفسير",
+        "مجموعة كبيرة من الأحاديث مرتبة حسب الصحابي الراوي",
+        "كتاب فقه",
+        "كتاب تجويد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 280,
+      "questionText": "وفقاً للحديث، ما هي الأمور الثلاثة التي يستمر أجرها بعد الموت؟",
+      "answers": [
+        "الصلاة، الصيام، الحج",
+        "ولد صالح يدعو له، صدقة جارية، وعلم ينتفع به",
+        "المال، العقار، والتجارة",
+        "تلاوة القرآن، الذكر، والصلاة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 281,
+      "questionText": "ما هو (حديث جبريل)؟",
+      "answers": [
+        "حديث عن الملائكة",
+        "الحديث الذي سأل فيه جبريل عن الإسلام والإيمان والإحسان",
+        "حديث عن الإسراء والمعراج",
+        "حديث عن الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 282,
+      "questionText": "ما المقصود بـ (التابعين)؟",
+      "answers": [
+        "صحابة النبي",
+        "الجيل الذي لقي الصحابة لكنه لم يُدرك النبي",
+        "كتاب الوحي",
+        "العلماء المعاصرون"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 283,
+      "questionText": "ما معنى (الصحابي)؟",
+      "answers": [
+        "عالم دين",
+        "صحابي النبي محمد (صلى الله عليه وسلم)",
+        "راوي حديث",
+        "حافظ للقرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 284,
+      "questionText": "من هو أبو هريرة (رضي الله عنه)؟",
+      "answers": [
+        "قائد عسكري",
+        "صحابي اشتهر برواية أكبر عدد من الأحاديث",
+        "كاتب الوحي",
+        "خليفة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 285,
+      "questionText": "كم عدد الأحاديث المروية عن أبي هريرة (رضي الله عنه) تقريباً؟",
+      "answers": [
+        "حوالي 500",
+        "حوالي 1,500",
+        "حوالي 5,374",
+        "حوالي 10,000"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "الحديث"
+    },
+    {
+      "id": 286,
+      "questionText": "ما الفرق بين (القرآن) و(الحديث القدسي)؟",
+      "answers": [
+        "لا فرق بينهما",
+        "القرآن كلام الله لفظاً ومعنى، والحديث القدسي معناه من الله وألفاظه من النبي",
+        "الحديث القدسي أصح",
+        "القرآن للصلاة فقط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 287,
+      "questionText": "أي سورة ورد فيها ذكر النحل وإنتاجها (العسل)؟",
+      "answers": [
+        "النحل",
+        "النمل",
+        "العنكبوت",
+        "الفيل"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 288,
+      "questionText": "أي سورة ورد فيها ذكر الحديد وفوائده؟",
+      "answers": [
+        "البقرة",
+        "الحديد",
+        "النساء",
+        "المائدة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 289,
+      "questionText": "أي سورة تسمى (النور)؟",
+      "answers": [
+        "الإسراء",
+        "النور",
+        "الفرقان",
+        "يس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 290,
+      "questionText": "أي سورة تسمى (الفرقان)؟",
+      "answers": [
+        "الفرقان",
+        "النور",
+        "الحج",
+        "المؤمنون"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 291,
+      "questionText": "ما معنى (الفرقان)؟",
+      "answers": [
+        "النور",
+        "الفرقان (الفاصل بين الحق والباطل)",
+        "الرحمة",
+        "الافتتاحية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 292,
+      "questionText": "أي سورة وردت فيها قصة (أصحاب الجنة)؟",
+      "answers": [
+        "الكهف",
+        "القلم",
+        "البقرة",
+        "الرحمن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 293,
+      "questionText": "ما هي السورة الوحيدة التي سميت باسم امرأة في القرآن؟",
+      "answers": [
+        "النساء",
+        "مريم",
+        "المجادلة",
+        "الطلاق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 294,
+      "questionText": "أي نبي اشتهر بتفسير الأحلام؟",
+      "answers": [
+        "داود",
+        "سليمان",
+        "يوسف",
+        "إبراهيم"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 295,
+      "questionText": "ماذا فسر يوسف عليه السلام من حلم الملك (سبع بقرات سمان وسبع عجاف)؟",
+      "answers": [
+        "حرباً وسلماً",
+        "سبع سنوات خصبة تتبعها سبع سنوات قحط",
+        "غنى وفقراً",
+        "ولادة وموتاً"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 296,
+      "questionText": "من هو النبي الذي كان أبا لإسحاق وإسماعيل عليهما السلام؟",
+      "answers": [
+        "آدم",
+        "نوح",
+        "إبراهيم",
+        "يعقوب"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 297,
+      "questionText": "كم سنة بقي نوح عليه السلام يدعو قومه؟",
+      "answers": [
+        "100 سنة",
+        "500 سنة",
+        "950 سنة",
+        "200 سنة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 298,
+      "questionText": "أي نبي ارتبط به شق البحر؟",
+      "answers": [
+        "نوح",
+        "إبراهيم",
+        "موسى",
+        "سليمان"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 299,
+      "questionText": "أي كتاب أنزل على عيسى عليه السلام؟",
+      "answers": [
+        "التوراة",
+        "الزبور",
+        "الإنجيل",
+        "القرآن"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 300,
+      "questionText": "من هو النبي الذي كان ابن داود عليه السلام؟",
+      "answers": [
+        "موسى",
+        "سليمان",
+        "يونس",
+        "أيوب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 301,
+      "questionText": "ما هي معجزة داود عليه السلام؟",
+      "answers": [
+        "كان يطير",
+        "كان يلين الحديد وتسبح معه الجبال",
+        "كان يمشي على الماء",
+        "كان يتوارى عن الأنظار"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 302,
+      "questionText": "أي نبي كان نبياً وملكاً؟",
+      "answers": [
+        "محمد (صلى الله عليه وسلم)",
+        "داود",
+        "إبراهيم",
+        "داود وسليمان معاً"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 303,
+      "questionText": "أي نبي ارتبطت به معجزة إحياء الطير الميت؟",
+      "answers": [
+        "موسى",
+        "عيسى",
+        "إبراهيم",
+        "كل من ب وج"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 304,
+      "questionText": "ما هو قبيلة النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "بنو هاشم من قريش",
+        "بنو تميم",
+        "بنو أوس",
+        "بنو خزرج"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 305,
+      "questionText": "ما اسم والد النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "أبو طالب",
+        "عبد الله",
+        "عبد المطلب",
+        "حمزة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 306,
+      "questionText": "ما اسم والدة النبي محمد (صلى الله عليه وسلم)؟",
+      "answers": [
+        "خديجة",
+        "آمنة",
+        "حليمة",
+        "فاطمة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 307,
+      "questionText": "من ربى النبي محمد (صلى الله عليه وسلم) بعد وفاة أمه؟",
+      "answers": [
+        "أبو بكر",
+        "عمه أبو طالب",
+        "جده عبد المطلب ثم عمه أبو طالب",
+        "ورقة بن نوفل"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 308,
+      "questionText": "من هي حليمة السعدية؟",
+      "answers": [
+        "والدة النبي",
+        "مرضعة النبي (حليمة السعدية)",
+        "زوجة النبي",
+        "ابنة النبي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 309,
+      "questionText": "بأي مهنة اشتهر النبي محمد (صلى الله عليه وسلم) قبل البعثة؟",
+      "answers": [
+        "الزراعة",
+        "التجارة",
+        "الحدادة",
+        "رعاية الغنم ثم التجارة"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 310,
+      "questionText": "ما هو اللقب الذي أُطلق على النبي محمد (صلى الله عليه وسلم) قبل البعثة لأخلاقه؟",
+      "answers": [
+        "المختار",
+        "الأمين",
+        "الفاروق",
+        "الصديق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 311,
+      "questionText": "ما هي صلة القرابة بين موسى وهارون عليهما السلام؟",
+      "answers": [
+        "أب وابن",
+        "أخوان",
+        "أبناء عم",
+        "معلم وتلميذ"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 312,
+      "questionText": "أي نبي كان نجاراً حسب الروايات الإسلامية؟",
+      "answers": [
+        "آدم",
+        "نوح",
+        "إدريس",
+        "زكريا"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 313,
+      "questionText": "من هو يحيى عليه السلام؟",
+      "answers": [
+        "ابن إبراهيم",
+        "ابن زكريا",
+        "ابن داود",
+        "ابن سليمان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 314,
+      "questionText": "كذا بشر زكريا عليه السلام بولده يحيى في القرآن؟",
+      "answers": [
+        "عن طريق حلم",
+        "بشارة الملائكة وهو قائم يصلي في المحراب",
+        "عن طريق نبي آخر",
+        "عن طريق زوجته"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 315,
+      "questionText": "بأي اختبار ابتلى الله إبراهيم عليه السلام في ابنه إسماعيل؟",
+      "answers": [
+        "تركه في الصحراء",
+        "ذبحه",
+        "إرساله في رحلة",
+        "كل من أ وب"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 316,
+      "questionText": "ماذا فدى الله إسماعيل حين هم إبراهيم بذبحه؟",
+      "answers": [
+        "بعير",
+        "كبش",
+        "تيس",
+        "بقرة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 317,
+      "questionText": "ما هو (الإسراء) في التاريخ الإسلامي؟",
+      "answers": [
+        "الهجرة إلى المدينة",
+        "رحلة الإسراء من مكة إلى المسجد الأقصى ليلاً",
+        "فتح مكة",
+        "الوحي الأول"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 318,
+      "questionText": "ما هو (المعراج)؟",
+      "answers": [
+        "الهجرة",
+        "الصعود إلى السماوات",
+        "نوع من الصلاة",
+        "غزوة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 319,
+      "questionText": "ما الذي فُرض في رحلة المعراج؟",
+      "answers": [
+        "الصيام",
+        "الحج",
+        "الصلوات الخمس",
+        "الزكاة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 320,
+      "questionText": "كم صلاة فرضت في البداية قبل أن تُخفف إلى خمس؟",
+      "answers": [
+        "10",
+        "25",
+        "50",
+        "100"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 321,
+      "questionText": "أي نبي نصح محمداً (صلى الله عليه وسلم) بأن يسأل تخفيف عدد الصلوات؟",
+      "answers": [
+        "إبراهيم",
+        "عيسى",
+        "موسى",
+        "آدم"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 322,
+      "questionText": "ما معنى (البركة)؟",
+      "answers": [
+        "العذاب",
+        "الفضل الإلهي والزيادة",
+        "الحكمة",
+        "الطهارة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 323,
+      "questionText": "ما هو (الدعاء)؟",
+      "answers": [
+        "نوع من الصيام",
+        "التضرع إلى الله (الدعاء الشخصي)",
+        "سورة من القرآن",
+        "طقس من طقوس الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 324,
+      "questionText": "ما أهمية ليلة النصف من شعبان؟",
+      "answers": [
+        "هي عيد",
+        "ليلة مغفرة ورحمة عند بعض الأحاديث",
+        "ليلة بداية رمضان",
+        "يوم عرفة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 325,
+      "questionText": "ما هي (السيرة) في الدراسات الإسلامية؟",
+      "answers": [
+        "علم الحديث",
+        "سيرة النبي محمد (صلى الله عليه وسلم)",
+        "تفسير القرآن",
+        "الفقه الإسلامي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 326,
+      "questionText": "من كتب أول سيرة رئيسية للنبي؟",
+      "answers": [
+        "ابن هشام",
+        "ابن إسحاق",
+        "الطبري",
+        "ابن كثير"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 327,
+      "questionText": "ما هي (العقيدة) في الإسلام؟",
+      "answers": [
+        "الفقه الإسلامي",
+        "العقيدة الإسلامية (نظام الإيمان)",
+        "التاريخ الإسلامي",
+        "الفن الإسلامي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 328,
+      "questionText": "ما هو (التصوف)؟",
+      "answers": [
+        "الفقه الإسلامي",
+        "التصوف الإسلامي (تزكية النفس)",
+        "علم الكلام الإسلامي",
+        "الإسلام السياسي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 329,
+      "questionText": "من ألف (إحياء علوم الدين)؟",
+      "answers": [
+        "ابن رشد",
+        "الغزالي",
+        "ابن سينا",
+        "ابن تيمية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 330,
+      "questionText": "ما هي (الخطبة)؟",
+      "answers": [
+        "نوع من الصيام",
+        "خطبة، خاصة التي تسبق صلاة الجمعة",
+        "نوع من الصدقة",
+        "طلب زواج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 331,
+      "questionText": "ما هو (النكاح) في الإسلام؟",
+      "answers": [
+        "الطلاق",
+        "عقد الزواج",
+        "الصدقة",
+        "الميراث"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 332,
+      "questionText": "ما هو (المهر) في الزواج الإسلامي؟",
+      "answers": [
+        "وليمة العرس",
+        "هبة إلزامية من الزوج إلى الزوجة",
+        "نوع من الصلاة",
+        "وثيقة الزواج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 333,
+      "questionText": "ما هو (الوليمة)؟",
+      "answers": [
+        "عقد الزواج",
+        "وليمة العرس",
+        "الطلاق",
+        "دعاء"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 334,
+      "questionText": "آية (إن مع العسر يسراً) في أي سورة؟",
+      "answers": [
+        "البقرة",
+        "الشرح (ألم نشرح)",
+        "الفاتحة",
+        "الناس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 335,
+      "questionText": "أي سورة وردت فيها آية النور؟",
+      "answers": [
+        "البقرة",
+        "النور (24:35)",
+        "الإسراء",
+        "الملك"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 336,
+      "questionText": "ما المقصود بـ (الجنة) في الإسلام؟",
+      "answers": [
+        "جهنم",
+        "الجنة (فردوس)",
+        "القبر",
+        "الحياة الدنيا"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 337,
+      "questionText": "ما المقصود بـ (جهنم)؟",
+      "answers": [
+        "الجنة",
+        "جهنم (النار)",
+        "القبر",
+        "البرزخ"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 338,
+      "questionText": "كم عدد أبواب الجنة في الحديث؟",
+      "answers": [
+        "4",
+        "7",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 339,
+      "questionText": "ما اسم باب الجنة المخصص للصائمين؟",
+      "answers": [
+        "باب الصلاة",
+        "باب الريان",
+        "باب الجهاد",
+        "باب الصدقة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 340,
+      "questionText": "ما هو (القدر)؟",
+      "answers": [
+        "الإرادة الحرة",
+        "تقدير الله ومشيئته لكل الأحداث",
+        "نوع من الصلاة",
+        "تصنيف الحديث"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 341,
+      "questionText": "ما الفرق بين (القدر المكتوب) و(القدر الفعال)؟",
+      "answers": [
+        "لا فرق",
+        "المكتوب: ما كتب في اللوح المحفوظ، الفعال: ما يظهر بمشيئة الله في الواقع",
+        "المكتوب خاص بالأنبياء، الفعال عام",
+        "المكتوب هو القرآن، والفعال هو الحديث"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 342,
+      "questionText": "أي سورة تبدأ بقسم الشمس؟",
+      "answers": [
+        "الفجر",
+        "الشمس",
+        "الليل",
+        "الضحى"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 343,
+      "questionText": "أي سورة تبدأ بقسم الضحى؟",
+      "answers": [
+        "الفجر",
+        "الشمس",
+        "الضحى",
+        "الليل"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 344,
+      "questionText": "أي سورة تبدأ بـ (والعصر إن الإنسان لفي خسر)؟",
+      "answers": [
+        "العصر",
+        "الضحى",
+        "الفجر",
+        "الليل"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 345,
+      "questionText": "ما هو الدرس المستفاد من سورة العصر؟",
+      "answers": [
+        "أحكام الميراث",
+        "أهمية الإيمان والعمل الصالح والتواصي بالحق والصبر",
+        "قصة موسى",
+        "أحكام الصلاة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 346,
+      "questionText": "أي غزوات وقعت بين المسلمين الأوائل في المدينة قبل فتح مكة؟",
+      "answers": [
+        "بدر وأحد والخندق",
+        "عين جالوت",
+        "اليرموك",
+        "القادسية"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 347,
+      "questionText": "ما نتيجة غزوة بدر؟",
+      "answers": [
+        "هزيمة المسلمين",
+        "نصر للمسلمين على الرغم من قلة عددهم",
+        "تعادل",
+        "انسحاب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 348,
+      "questionText": "كم عدد المسلمين في غزوة بدر؟",
+      "answers": [
+        "حوالي 100",
+        "حوالي 313",
+        "حوالي 700",
+        "حوالي 1000"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 349,
+      "questionText": "ما معنى اسم (محمد)؟",
+      "answers": [
+        "الأمين",
+        "المحمود (المعروف)",
+        "القائد",
+        "النبي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 350,
+      "questionText": "ما معنى اسم (أحمد) (من أسماء النبي)؟",
+      "answers": [
+        "القائد",
+        "أكثر حمداً",
+        "الصادق",
+        "الكريم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 351,
+      "questionText": "ما هي (السيرة النبوية)؟",
+      "answers": [
+        "تفسير القرآن",
+        "سيرة النبي محمد (صلى الله عليه وسلم)",
+        "مجموعة حديث",
+        "الفقه الإسلامي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 352,
+      "questionText": "أي سورة نددت بأبي لهب؟",
+      "answers": [
+        "الفاتحة",
+        "المسد (اللهب)",
+        "الكافرون",
+        "النصر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 353,
+      "questionText": "ما معنى (التفكر) في الإسلام؟",
+      "answers": [
+        "الصيام",
+        "التأمل العميق (التفكر)",
+        "الصدقة",
+        "التلاوة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 354,
+      "questionText": "ما هو (حسن الخلق) في الإسلام؟",
+      "answers": [
+        "المال",
+        "أثقل شيء في ميزان العبد يوم القيامة",
+        "نوع من الصلاة",
+        "القوة البدنية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 355,
+      "questionText": "وفقاً للحديث: (المسلم من سلم المسلمون من...)",
+      "answers": [
+        "...لسانه ويده",
+        "...يده ولسانه",
+        "...علمه",
+        "...صلاته"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 356,
+      "questionText": "ماذا يعلّمنا حديث (يسروا ولا تعسروا)؟",
+      "answers": [
+        "تجنب كل الصعوبات",
+        "مبدأ التيسير والرفق في الدين",
+        "لا تصوموا أبداً",
+        "اتركوا الواجبات الصعبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 357,
+      "questionText": "ما أهمية المسجد الأقصى في الإسلام؟",
+      "answers": [
+        "مكان مولد النبي",
+        "أول قبلة ومسرى الإسراء",
+        "أكبر مسجد",
+        "بني بأمر النبي محمد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 358,
+      "questionText": "أي سورة سميت (الروم)؟",
+      "answers": [
+        "القصص",
+        "الروم",
+        "لقمان",
+        "السجدة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 359,
+      "questionText": "ما هو التوقع الذي جاء في سورة الروم عن الروم؟",
+      "answers": [
+        "سيسقطون للأبد",
+        "سيغلبون الفرس في بضع سنين",
+        "سيعتنقون الإسلام",
+        "سيبنون معبداً كبيراً"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 360,
+      "questionText": "أي سورة تحوي وصايا لقمان لابنه؟",
+      "answers": [
+        "سورة إبراهيم",
+        "سورة لقمان",
+        "سورة نوح",
+        "سورة هود"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 361,
+      "questionText": "ما هي (المعوذات) (السور التي تقي من الشر)؟",
+      "answers": [
+        "الفاتحة والبقرة",
+        "الإخلاص والفلق والناس",
+        "يس والرحمن",
+        "الملك والسجدة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 362,
+      "questionText": "ما هي (الرقية) في الإسلام؟",
+      "answers": [
+        "نوع من الصدقة",
+        "قراءة القرآن والدعاء للعلاج والحماية",
+        "عقد الزواج",
+        "طقس من طقوس الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 363,
+      "questionText": "ما هو موقف الإسلام من (العدل)؟",
+      "answers": [
+        "اختياري",
+        "قيمة أساسية وأمر إلهي في القرآن",
+        "يطبق فقط في المحاكم",
+        "خاص بالحكام فقط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 364,
+      "questionText": "أي سورة أمرت بالعدل ولو على النفس؟",
+      "answers": [
+        "البقرة",
+        "النساء (4:135)",
+        "المائدة",
+        "الأنفال"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 365,
+      "questionText": "ماذا يقول القرآن عن (قتل النفس الواحدة بغير حق)؟",
+      "answers": [
+        "ذنب صغير",
+        "فكأنما قتل الناس جميعاً (5:32)",
+        "يُغفر بسهولة",
+        "لم يُذكر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 366,
+      "questionText": "من هو الصحابي المعروف بعلمه في تفسير القرآن؟",
+      "answers": [
+        "أبو هريرة",
+        "عبد الله بن عباس",
+        "أنس بن مالك",
+        "بلال"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 367,
+      "questionText": "ما اللقب الذي أطلق على عبد الله بن عباس (رضي الله عنه)؟",
+      "answers": [
+        "سيف الله",
+        "حَبْر الأمة (عالم الأمة)",
+        "أسد الله",
+        "ترس الإسلام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 368,
+      "questionText": "بمَ تشتهر عائشة (رضي الله عنها) بين العلماء؟",
+      "answers": [
+        "أم المؤمنين ومصدر كبير للحديث",
+        "قائدة عسكرية",
+        "كاتبة الوحي",
+        "قاضية"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 369,
+      "questionText": "ما هو (الحسبة) في النظام الإسلامي؟",
+      "answers": [
+        "جباية الضرائب",
+        "مراقبة الأسواق والأخلاق العامة",
+        "القيادة العسكرية",
+        "العملية القضائية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 370,
+      "questionText": "ما هو (الجزية) في الشريعة الإسلامية؟",
+      "answers": [
+        "نوع من الزكاة",
+        "ضريبة يدفعها غير المسلمين المواطنين تحت حكم المسلمين مقابل الحماية",
+        "ضريبة أرض",
+        "ضريبة تجارية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 371,
+      "questionText": "ما معنى كلمة (الإسلام) لغة؟",
+      "answers": [
+        "السلام",
+        "الاستسلام والانقياد لله",
+        "الصلاة",
+        "الجماعة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 372,
+      "questionText": "ما معنى كلمة (مسلم)؟",
+      "answers": [
+        "تابع لمحمد (صلى الله عليه وسلم)",
+        "من استسلم لله",
+        "شخص مسالم",
+        "عالم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 373,
+      "questionText": "ما هو (السلام) وأهميته؟",
+      "answers": [
+        "صلاة",
+        "تحية السلام (السلام عليكم)",
+        "صوم",
+        "صدقة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 374,
+      "questionText": "وفقاً للحديث، إفشاء السلام يؤدي إلى ماذا؟",
+      "answers": [
+        "المال",
+        "المحبة بين المسلمين ودخول الجنة",
+        "العلم",
+        "القوة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 375,
+      "questionText": "ما هو (الاستغفار)؟",
+      "answers": [
+        "الشكر",
+        "طلب المغفرة من الله",
+        "نوع من الصيام",
+        "طقس من طقوس الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 376,
+      "questionText": "كم مرة كان النبي (صلى الله عليه وسلم) يستغفر في اليوم؟",
+      "answers": [
+        "10 مرات",
+        "50 مرة",
+        "70 مرة أو أكثر",
+        "100 مرة"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 377,
+      "questionText": "ما هي (الصلاة على النبي)؟",
+      "answers": [
+        "نوع من الزكاة",
+        "الصلاة والسلام على النبي محمد",
+        "طقس من طقوس الحج",
+        "قاعدة في الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 378,
+      "questionText": "من هم أولو العزم من الرسل وفقاً للقرآن؟",
+      "answers": [
+        "آدم، إدريس، نوح، هود، صالح",
+        "نوح، إبراهيم، موسى، عيسى، محمد (صلى الله عليه وسلم)",
+        "جميع الأنبياء الخمسة والعشرين",
+        "داود، سليمان، أيوب، يونس، إلياس"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 379,
+      "questionText": "ما معنى (أولو العزم)؟",
+      "answers": [
+        "الأنبياء الأغنياء",
+        "الأنبياء ذوو العزم والثبات القوي",
+        "الأنبياء الأولون",
+        "الأنبياء الآخرون"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 380,
+      "questionText": "ما هي (الحكمة) في القرآن؟",
+      "answers": [
+        "القرآن فقط",
+        "الفهم العميق، وغالباً ما يرتبط بالسنة أو الرأي السديد",
+        "نوع من الصلاة",
+        "حدث تاريخي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 381,
+      "questionText": "ما معنى (الخليفة)؟",
+      "answers": [
+        "ملك",
+        "خليفة / نائب",
+        "قاضٍ",
+        "عالم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 382,
+      "questionText": "ما هي (صلاة الجنازة)؟",
+      "answers": [
+        "صلاة الجمعة",
+        "صلاة الميت (الجنازة)",
+        "صلاة العيد",
+        "صلاة التهجد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 383,
+      "questionText": "كم تكبيرة في صلاة الجنازة؟",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 384,
+      "questionText": "ما هو حكم حضور الجنازة في الإسلام؟",
+      "answers": [
+        "حرام",
+        "فرض كفاية",
+        "سنة فقط",
+        "مكروه"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 385,
+      "questionText": "ذكر الحديث: عيادة المريض حق المسلم على أخيه. وما هي الحقوق الأخرى التي ذكرها؟",
+      "answers": [
+        "إقراض المال والمساعدة في العمل",
+        "رد التحية، اتباع الجنائز، إجابة الدعوة، وتشميت العاطس",
+        "إعطاء الهدايا ومشاركة الطعام",
+        "تعليم القرآن وقضاء الديون"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الحديث"
+    },
+    {
+      "id": 386,
+      "questionText": "ما هو مفهوم (الشفاعة) في الإسلام؟",
+      "answers": [
+        "دعاء الاستسقاء",
+        "طلب الوساطة من النبي أو الصالحين يوم القيامة بإذن الله",
+        "نوع من الصدقة",
+        "حكم قانوني"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 387,
+      "questionText": "من هو النبي الذي سيعطى (المقام المحمود) يوم القيامة؟",
+      "answers": [
+        "إبراهيم",
+        "موسى",
+        "عيسى",
+        "محمد (صلى الله عليه وسلم)"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 388,
+      "questionText": "ما هو (حوض النبي)؟",
+      "answers": [
+        "نهر في الجنة",
+        "حوض يشرب منه المؤمنون يوم القيامة",
+        "بحيرة في المدينة",
+        "بئر في مكة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "الحديث"
+    },
+    {
+      "id": 389,
+      "questionText": "ما هو نهر الجنة المذكور في سورة الكوثر؟",
+      "answers": [
+        "سلسبيل",
+        "الكوثر",
+        "تسنيم",
+        "زمزم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 390,
+      "questionText": "ما هي أسماء الأنهار في الجنة المذكورة في القرآن؟",
+      "answers": [
+        "أنهار من ماء، ولبن، وخمر، وعسل",
+        "أنهار من ذهب وفضة",
+        "أنهار من زيت وعطر",
+        "أنهار من نور ونار"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 391,
+      "questionText": "أي سورة تصف أحداث يوم القيامة بتساقط النجوم واضطراب البحار؟",
+      "answers": [
+        "الملك",
+        "التكوير",
+        "البروج",
+        "الكوثر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 392,
+      "questionText": "أي سورة تبدأ بـ (إذا السماء انفطرت)؟",
+      "answers": [
+        "التكوير",
+        "الانفطار",
+        "الانشقاق",
+        "القارعة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 393,
+      "questionText": "ما هو (الصور) في علم آخر الزمان الإسلامي؟",
+      "answers": [
+        "آلة موسيقية في الجنة",
+        "القرن الذي ينفخ فيه إسرافيل يوم القيامة",
+        "الأذان",
+        "قرن الحرب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 394,
+      "questionText": "كم مرة يُنفخ في الصور؟",
+      "answers": [
+        "مرة واحدة",
+        "مرتان",
+        "ثلاث مرات",
+        "سبع مرات"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 395,
+      "questionText": "ماذا يحدث عند النفخة الأولى؟",
+      "answers": [
+        "لا شيء",
+        "تموت جميع المخلوقات / يفنى كل شيء",
+        "يُبعث الناس",
+        "تفتح الجنة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 396,
+      "questionText": "ماذا يحدث عند النفخة الثانية؟",
+      "answers": [
+        "تصلب جميع المخلوقات",
+        "يُبعث الجميع للحساب",
+        "تُخلق الجنة",
+        "لا شيء"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 397,
+      "questionText": "ما هو (يوم القيامة)؟",
+      "answers": [
+        "يوم الجمعة",
+        "يوم القيامة (البعث والحساب)",
+        "عيد",
+        "أول يوم في الخلق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 398,
+      "questionText": "من أول من يُبعث يوم القيامة حسب القرآن؟",
+      "answers": [
+        "آدم",
+        "إبراهيم",
+        "محمد (صلى الله عليه وسلم)",
+        "موسى"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 399,
+      "questionText": "ما هو الموقف الإسلامي من (الروح)؟",
+      "answers": [
+        "تم فهمها بالكامل",
+        "حقيقتها لا يعلمها إلا الله (17:85)",
+        "مخلوقة من نور",
+        "غير موجودة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 400,
+      "questionText": "أي سورة وردت فيها الآية (ويسألونك عن الروح...)؟",
+      "answers": [
+        "البقرة",
+        "الإسراء (17:85)",
+        "مريم",
+        "طه"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 401,
+      "questionText": "ما هو (الإثم) في الإسلام؟",
+      "answers": [
+        "عمل صالح",
+        "الذنب",
+        "الصلاة",
+        "الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 402,
+      "questionText": "ما هي (الكبائر) في الإسلام؟",
+      "answers": [
+        "الذنوب الصغيرة",
+        "الذنوب الكبيرة",
+        "الأعمال الصالحة",
+        "الصدقة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 403,
+      "questionText": "وفقاً للحديث، ما هو أكبر الذنوب؟",
+      "answers": [
+        "السرقة",
+        "الإشراك بالله (الشرك)",
+        "الكذب",
+        "الغيبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 404,
+      "questionText": "ما هي (الغيبة)؟",
+      "answers": [
+        "مدح الشخص",
+        "ذكر الشخص بما يكره",
+        "الكذب على الشخص",
+        "تجاهل الشخص"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 405,
+      "questionText": "ما هو (البهتان) (القذف)؟",
+      "answers": [
+        "النميمة الصادقة",
+        "قول الباطل على الشخص",
+        "المديح الزائد",
+        "النقد الصادق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 406,
+      "questionText": "بماذا شبه القرآن الغيبة؟",
+      "answers": [
+        "السرقة",
+        "أكل لحم أخيك ميتاً (49:12)",
+        "القتل",
+        "الكذب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 407,
+      "questionText": "ما هو (الحسد) وما حكمه؟",
+      "answers": [
+        "محبذ",
+        "محرم ومنهي عنه في القرآن والحديث",
+        "جائز بالقدر المعتدل",
+        "لم يُذكر في الإسلام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 408,
+      "questionText": "وفقاً للحديث: (إياكم والحسد، فإن الحسد...)",
+      "answers": [
+        "...يقوي القلب",
+        "...يأكل الحسنات كما تأكل النار الحطب",
+        "...علامة الذكاء",
+        "...يجلب المال"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 409,
+      "questionText": "ما هو (الأذان)؟",
+      "answers": [
+        "نوع من الصلاة",
+        "نداء الصلاة",
+        "دعاء",
+        "نمط من تلاوة القرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 410,
+      "questionText": "ما هي (الإقامة)؟",
+      "answers": [
+        "الأذان الأول",
+        "الأذان الثاني الذي يقال قبل الصلاة مباشرة",
+        "دعاء بعد الصلاة",
+        "نوع من الذكر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 411,
+      "questionText": "ما هو حكم الدعاء بين الأذان والإقامة؟",
+      "answers": [
+        "لا يُقبل في هذا الوقت",
+        "الدعاء فيه مقبول ولا يرد",
+        "يجب السكوت",
+        "يجب تلاوة القرآن فقط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 412,
+      "questionText": "ما هو (الاجتهاد) في الفقه الإسلامي؟",
+      "answers": [
+        "التقليد الأعمى",
+        "الاستدلال المستقل من قبل العالم المؤهل",
+        "حفظ الحديث",
+        "تلاوة القرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 413,
+      "questionText": "ما هو (التقليد)؟",
+      "answers": [
+        "الاستدلال المستقل",
+        "اتباع رأي عالم مؤهل دون معرفة الدليل",
+        "رفض كل الآراء",
+        "نوع من الصلاة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 414,
+      "questionText": "ما هو (الفتوى)؟",
+      "answers": [
+        "أمر حكومي",
+        "حكم شرعي غير ملزم يصدره عالم",
+        "قانون برلماني",
+        "حكم قضائي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 415,
+      "questionText": "من هو (المفتي)؟",
+      "answers": [
+        "قاضٍ",
+        "عالم مؤهل لإصدار الفتاوى",
+        "إمام صلاة",
+        "قارئ قرآن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 416,
+      "questionText": "ما الفرق بين المفتي والقاضي؟",
+      "answers": [
+        "لا فرق",
+        "المفتي يصدر رأياً غير ملزم، والقاضي يصدر حكماً ملزماً",
+        "المفتي أعلى درجة",
+        "القاضي هو من يفتي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 417,
+      "questionText": "أي سورة ورد فيها خلق الإنسان من طين؟",
+      "answers": [
+        "عدة سور مثل الحجر (15:26)",
+        "البقرة فقط",
+        "النساء فقط",
+        "لم يذكر في القرآن"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 418,
+      "questionText": "ما أهمية سورة الواقعة بحسب الحديث؟",
+      "answers": [
+        "تحمي من العين",
+        "تحمي من الفقر",
+        "عن الزواج",
+        "عن الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 419,
+      "questionText": "أي سورة يُستحب قراءتها قبل النوم؟",
+      "answers": [
+        "البقرة",
+        "الملك",
+        "الفاتحة",
+        "النصر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 420,
+      "questionText": "وفقاً للحديث، قراءة آخر آيتين من سورة البقرة ليلاً تكفي لماذا؟",
+      "answers": [
+        "لنيل الجنة",
+        "للحماية طول الليل",
+        "لأجر إضافي",
+        "لتعويض قيام الليل"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 421,
+      "questionText": "ما هو (ميزاب الرحمة)؟",
+      "answers": [
+        "بئر في المدينة",
+        "الميزاب الذهبي على الكعبة",
+        "نافورة في الجنة",
+        "نهر في مكة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 422,
+      "questionText": "ما هو (الحطيم) (حجر إسماعيل) قرب الكعبة؟",
+      "answers": [
+        "سوق",
+        "جدار نصف دائري كان جزءاً من الكعبة الأصلية التي بناها إبراهيم",
+        "مقبرة",
+        "مكتبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 423,
+      "questionText": "ما هو (الملتزم) من الكعبة؟",
+      "answers": [
+        "الباب",
+        "المنطقة بين الحجر الأسود وباب الكعبة حيث يستجاب الدعاء",
+        "السقف",
+        "داخل الكعبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 424,
+      "questionText": "ما هو (مقام إبراهيم)؟",
+      "answers": [
+        "مسجد",
+        "الحجر الذي فيه أثر قدم إبراهيم عليه السلام قرب الكعبة",
+        "جبل",
+        "بئر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 425,
+      "questionText": "ما هي (الحركات) في اللغة العربية؟",
+      "answers": [
+        "الحروف",
+        "علامات التشكيل (الفتحة، الكسرة، الضمة)",
+        "علامات الترقيم",
+        "الأرقام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 426,
+      "questionText": "ما هو (الوقف) في التجويد؟",
+      "answers": [
+        "نوع من الحروف",
+        "قواعد التوقف في تلاوة القرآن",
+        "حركة",
+        "قاعدة نحوية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 427,
+      "questionText": "ما هو (الإدغام) في التجويد؟",
+      "answers": [
+        "المد",
+        "إدخال حرف في آخر (الدمج)",
+        "إخفاء الحرف",
+        "النطق الواضح"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 428,
+      "questionText": "ما هو (المد) في التجويد؟",
+      "answers": [
+        "الوقف",
+        "إطالة صوت حرف المد",
+        "إدغام الحروف",
+        "الغنّة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 429,
+      "questionText": "ما هو (الغنّة) في التجويد؟",
+      "answers": [
+        "المد",
+        "صوت يخرج من الأنف عند النون والميم",
+        "الحروف الساكنة",
+        "التفخيم"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 430,
+      "questionText": "من الذي أضاف النقاط إلى الحروف العربية في القرآن؟",
+      "answers": [
+        "النبي محمد (صلى الله عليه وسلم)",
+        "أبو الأسود الدؤلي / في عهد الحجاج",
+        "أبو بكر",
+        "عمر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 431,
+      "questionText": "ما هي معركة القادسية (636 م)؟",
+      "answers": [
+        "معركة ضد الروم",
+        "معركة حاسمة هزم فيها المسلمون الإمبراطورية الساسانية (الفارسية)",
+        "معركة بحرية",
+        "حصار مكة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 432,
+      "questionText": "من قاد القوات المسلمة في معركة القادسية؟",
+      "answers": [
+        "خالد بن الوليد",
+        "سعد بن أبي وقاص",
+        "عمرو بن العاص",
+        "أبو عبيدة عامر بن الجراح"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 433,
+      "questionText": "من هو أبو عبيدة بن الجراح (رضي الله عنه)؟",
+      "answers": [
+        "خليفة أموي",
+        "صحابي جليل لقب بـ (أمين الأمة)",
+        "محدث",
+        "شاعر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 434,
+      "questionText": "ما هو (الأشْمَات) في سياق القرآن؟",
+      "answers": [
+        "أسماء السور",
+        "القراءات المتعددة الصحيحة للقرآن",
+        "قواعد النحو العربي",
+        "أنواع الآيات"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 435,
+      "questionText": "كم عدد القراءات المعروفة للقرآن؟",
+      "answers": [
+        "3",
+        "7",
+        "10",
+        "14"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 436,
+      "questionText": "من هو أول حافظ للقرآن؟",
+      "answers": [
+        "أبو بكر",
+        "عثمان",
+        "النبي محمد (صلى الله عليه وسلم)",
+        "زيد بن ثابت"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 437,
+      "questionText": "ما الفرق بين (التنزيل) و(التأويل) في الدراسات القرآنية؟",
+      "answers": [
+        "لا فرق",
+        "التنزيل: المعنى الظاهر المنزل، والتأويل: التفسير العميق",
+        "كلاهما ترجمة",
+        "التنزيل هو النسخ"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "القرآن"
+    },
+    {
+      "id": 438,
+      "questionText": "من الصحابي الذي حفظ القرآن كاملاً حسب الروايات؟",
+      "answers": [
+        "أبو بكر",
+        "عبد الله بن مسعود",
+        "أبي بن كعب",
+        "عدة صحابة حفظوه كاملاً"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 439,
+      "questionText": "ما هو (سجود التلاوة)؟",
+      "answers": [
+        "سجود الشكر",
+        "سجود يُسجد عند تلاوة أو سماع آيات معينة في القرآن",
+        "سجود السهو",
+        "حالة الوقوف"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 440,
+      "questionText": "كم عدد مواضع سجود التلاوة في القرآن؟",
+      "answers": [
+        "10",
+        "14 أو 15 (باختلاف العلماء)",
+        "20",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 441,
+      "questionText": "ما هو (تدبر) القرآن؟",
+      "answers": [
+        "الحفظ",
+        "التأمل العميق في المعاني",
+        "التلاوة السريعة",
+        "الترجمة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 442,
+      "questionText": "أي نبي ورد ذكره في القرآن بأنه أوتي الحكم صبياً؟",
+      "answers": [
+        "موسى",
+        "عيسى",
+        "يحيى",
+        "يوسف"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 443,
+      "questionText": "أي قوم عبدوا العجل الذهبي؟",
+      "answers": [
+        "قوم إبراهيم",
+        "قوم موسى (بني إسرائيل)",
+        "قوم نوح",
+        "قوم هود"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 444,
+      "questionText": "من صنع العجل الذهبي لبني إسرائيل؟",
+      "answers": [
+        "فرعون",
+        "السامري",
+        "قارون",
+        "هامان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 445,
+      "questionText": "من هو (قارون) في القرآن؟",
+      "answers": [
+        "نبي",
+        "رجل ثري من قوم موسى تكبر بماله",
+        "ملك",
+        "كاهن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 446,
+      "questionText": "ماذا حدث لقارون حسب القرآن؟",
+      "answers": [
+        "تاب",
+        "خسف الله به وبداره الأرض",
+        "أصبح نبياً",
+        "غفر له"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 447,
+      "questionText": "من هو (لقمان) المذكور في القرآن؟",
+      "answers": [
+        "نبي",
+        "رجل حكيم وعظ ابنه",
+        "ملك",
+        "ملك"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 448,
+      "questionText": "ما أول وصية لقمان لابنه؟",
+      "answers": [
+        "كن سخياً",
+        "لا تشرك بالله",
+        "صلِّ خمس مرات",
+        "تصدق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 449,
+      "questionText": "ما حكم صلاة الجمعة؟",
+      "answers": [
+        "سنة",
+        "فرض عين على كل مسلم بالغ",
+        "مستحب",
+        "واجب فقط في رمضان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 450,
+      "questionText": "كم عدد ركعات الجمعة المفروضة؟",
+      "answers": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 451,
+      "questionText": "ما هي ساعة الإجابة يوم الجمعة؟",
+      "answers": [
+        "لا شيء مميز",
+        "ساعة يستجاب فيها الدعاء",
+        "الصيام فيها فرض",
+        "صلوات إضافية واجبة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 452,
+      "questionText": "وفقاً للحديث، أي يوم هو (سيد الأيام)؟",
+      "answers": [
+        "الإثنين",
+        "الخميس",
+        "الجمعة",
+        "السبت"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 453,
+      "questionText": "ما السورة التي يستحب قراءتها يوم الجمعة؟",
+      "answers": [
+        "سورة البقرة",
+        "سورة الكهف",
+        "سورة يس",
+        "سورة الرحمن"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 454,
+      "questionText": "ما هو (الاعتكاف) ومتى يقام؟",
+      "answers": [
+        "صيام شوال",
+        "الخلوة في المسجد، غالباً في العشر الأواخر من رمضان",
+        "صلاة العيد",
+        "زيارة مكة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 455,
+      "questionText": "ما هي (زكاة الفطر)؟",
+      "answers": [
+        "زكاة المال السنوية",
+        "صدقة مفروضة تدفع قبل صلاة عيد الفطر",
+        "صدقة خاصة بالحج",
+        "صدقة تطوعية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 456,
+      "questionText": "ما هو مقدار زكاة الفطر؟",
+      "answers": [
+        "2.5% من المال",
+        "صاع (حوالي 2.5-3 كجم) من الطعام عن كل فرد",
+        "مبلغ مالي ثابت",
+        "10% من المحصول"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 457,
+      "questionText": "لماذا تعتبر معركة عين جالوت (1260 م) مهمة؟",
+      "answers": [
+        "أول انتصار صليبي",
+        "انتصر المماليك على المغول وأوقفوا تقدمهم غرباً",
+        "الفتح العثماني",
+        "سقوط بغداد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 458,
+      "questionText": "من قاد القوات المسلمة في معركة عين جالوت؟",
+      "answers": [
+        "صلاح الدين",
+        "قطز وبيبرس",
+        "نور الدين زنكي",
+        "محمد الفاتح"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 459,
+      "questionText": "ما هو مفهوم (الولاية) في الإسلام؟",
+      "answers": [
+        "الطلاق",
+        "السلطة، والوصاية، والقرب من الله",
+        "نوع من الصلاة",
+        "مصطلح مالي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 460,
+      "questionText": "ما أهمية (التلبية) في الحج؟",
+      "answers": [
+        "دعاء الاستسقاء",
+        "كلمة (لبيك اللهم لبيك) المكررة تعبيراً عن تلبية نداء الله",
+        "هتاف حربي",
+        "تحية الوداع"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 461,
+      "questionText": "ما معنى (لبيك اللهم لبيك)؟",
+      "answers": [
+        "الله أكبر",
+        "لبيك اللهم لبيك (أنا حاضر يا الله)",
+        "سبحان الله",
+        "أستغفر الله"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 462,
+      "questionText": "ما هي (مزدلفة) في سياق الحج؟",
+      "answers": [
+        "جبل في مكة",
+        "منطقة مفتوحة يبيت فيها الحجاج بعد النزول من عرفة",
+        "الكعبة",
+        "سوق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 463,
+      "questionText": "ما هي (أيام التشريق)؟",
+      "answers": [
+        "أيام رمضان",
+        "الحادي عشر والثاني عشر والثالث عشر من ذي الحجة",
+        "أول عشر ذي الحجة",
+        "آخر عشر رمضان"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 464,
+      "questionText": "ما هي صلاة (الشفع والوتر)؟",
+      "answers": [
+        "نوعان من السجود",
+        "صلاة الليل الزوجية والفردية بعد العشاء",
+        "صلاة الصباح",
+        "صلاة الجمعة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 465,
+      "questionText": "ما المقصود بـ (الأسماء الحسنى)؟",
+      "answers": [
+        "أركان الإسلام الخمسة",
+        "أسماء الله الحسنى التسعة والتسعون",
+        "أسماء الأنبياء",
+        "أسماء الملائكة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 466,
+      "questionText": "كم عدد أسماء الله الحسنى حسب الحديث؟",
+      "answers": [
+        "33",
+        "66",
+        "99",
+        "1000"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 467,
+      "questionText": "ما معنى اسم الله (الرحمن)؟",
+      "answers": [
+        "الملك",
+        "الرحمن ذو الرحمة الواسعة",
+        "العليم",
+        "الرزاق"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 468,
+      "questionText": "ما معنى اسم الله (الحكيم)؟",
+      "answers": [
+        "الخالق",
+        "المحكم للأمور",
+        "العزيز",
+        "الغفار"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 469,
+      "questionText": "ما معنى اسم الله (الودود)؟",
+      "answers": [
+        "الرزاق",
+        "المحب",
+        "الحفيظ",
+        "الهادي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "عبادات"
+    },
+    {
+      "id": 470,
+      "questionText": "ما أهمية (ليلة البراءة)؟",
+      "answers": [
+        "ليلة العيد",
+        "ليلة النصف من شعبان، وهي ليلة مغفرة عند بعض الروايات",
+        "ليلة القدر",
+        "ليلة الإسراء"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 471,
+      "questionText": "من هو العالم الإسلامي الشهير الملقب بـ (حجة الإسلام)؟",
+      "answers": [
+        "ابن تيمية",
+        "الغزالي",
+        "ابن رشد",
+        "النووي"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 472,
+      "questionText": "ما هو المصطلح الإسلامي لـ (طلب العلم)؟",
+      "answers": [
+        "طلب العلم",
+        "الذكر",
+        "الدعوة",
+        "التوبة"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 473,
+      "questionText": "وفقاً للحديث: (طلب العلم فريضة على...)",
+      "answers": [
+        "...العلماء فقط",
+        "...كل مسلم",
+        "...الرجال فقط",
+        "...البالغين فقط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 474,
+      "questionText": "ما هي (الدعوة)؟",
+      "answers": [
+        "الهجرة",
+        "دعوة الناس إلى الإسلام / مشاركة المعرفة الإسلامية",
+        "الحج",
+        "الصيام"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 475,
+      "questionText": "ماذا يقول القرآن عن تنوع الأمم والقبائل؟",
+      "answers": [
+        "عذاب",
+        "لتعارفوا (49:13)",
+        "ينبغي القضاء عليه",
+        "لم يذكر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 476,
+      "questionText": "أي آية في القرآن تقول (لا إكراه في الدين)؟",
+      "answers": [
+        "البقرة 2:256",
+        "آل عمران 3:19",
+        "النساء 4:1",
+        "المائدة 5:3"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 477,
+      "questionText": "ما هو (الإمام) في سياق الصلاة؟",
+      "answers": [
+        "سياسي",
+        "من يؤم المصلين في الصلاة",
+        "معلم قرآن",
+        "قاضٍ"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "عبادات"
+    },
+    {
+      "id": 478,
+      "questionText": "ما هو (السترة) في سياق الصلاة؟",
+      "answers": [
+        "نوع من اللباس",
+        "شيء يوضع أمام المصلي كحاجز",
+        "سجادة صلاة",
+        "نمط تلاوة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 479,
+      "questionText": "ما هو (الخشوع) في الصلاة؟",
+      "answers": [
+        "السرعة",
+        "التضرع والتركيز والطمأنينة في الصلاة",
+        "الجهر",
+        "الحفظ"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "عبادات"
+    },
+    {
+      "id": 480,
+      "questionText": "مفتاح الجنة كما جاء في الحديث؟",
+      "answers": [
+        "المال",
+        "لا إله إلا الله (الشهادة / كلمة التوحيد)",
+        "الشهرة",
+        "القوة"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "الحديث"
+    },
+    {
+      "id": 481,
+      "questionText": "ماذا قال النبي (صلى الله عليه وسلم) عن الابتسامة؟",
+      "answers": [
+        "خطأ",
+        "صدقة",
+        "للأطفال فقط",
+        "مضيعة للوقت"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 482,
+      "questionText": "ما هو موقف الإسلام من النظافة؟",
+      "answers": [
+        "غير مهم",
+        "النظافة من الإيمان",
+        "قبل الصلاة فقط",
+        "اختياري"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "الحديث"
+    },
+    {
+      "id": 483,
+      "questionText": "ما هي (الفطرة) في الإسلام؟",
+      "answers": [
+        "نوع من الصلاة",
+        "الاستعداد الفطري للإنسان نحو الخير والله",
+        "صدقة",
+        "تحية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 484,
+      "questionText": "أي سورة تحكي قصة أصحاب الفيل (جيش أبرهة)؟",
+      "answers": [
+        "القدر",
+        "الفيل",
+        "قريش",
+        "الكوثر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "القرآن"
+    },
+    {
+      "id": 485,
+      "questionText": "ما هي السورة التي تأتي بعد الفيل وتذكر قبيلة قريش؟",
+      "answers": [
+        "الكوثر",
+        "الماعون",
+        "قريش",
+        "المسد"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "القرآن"
+    },
+    {
+      "id": 486,
+      "questionText": "ما هو (الاستواء) في العقيدة الإسلامية؟",
+      "answers": [
+        "وضعية في الصلاة",
+        "صفة الله (استوى على العرش) (مسألة عقدية)",
+        "نوع من الصيام",
+        "مصطلح قانوني"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 487,
+      "questionText": "ما هو (التوسل)؟",
+      "answers": [
+        "الفطر",
+        "طلب التقرب إلى الله بالأعمال الصالحة أو الأشخاص الصالحين",
+        "نوع من الحج",
+        "استراتيجية حربية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 488,
+      "questionText": "أي صحابي بايع تحت الشجرة في الحديبية؟",
+      "answers": [
+        "10 صحابة فقط",
+        "حوالي 1,400 صحابي (بيعة الرضوان)",
+        "القادة فقط",
+        "لم يبايع أحد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 489,
+      "questionText": "ما هي (بيعة الرضوان) ولماذا هي مهمة؟",
+      "answers": [
+        "اتفاق تجاري",
+        "بيعة تحت الشجرة مدحها الله في القرآن (48:18)",
+        "مراسم زواج",
+        "معاهدة حرب"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 490,
+      "questionText": "ماذا يقول القرآن عن تحطيم إبراهيم للأصنام؟",
+      "answers": [
+        "عوقب من أجلها",
+        "حطمها ليثبت عجزها (21:57-67)",
+        "ندم على ذلك",
+        "لم يذكر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 491,
+      "questionText": "أي نبي كان راعياً قبل النبوة (كما كان العديد من الأنبياء)؟",
+      "answers": [
+        "محمد فقط",
+        "موسى",
+        "كل الأنبياء رعوا الغنم",
+        "كل من أ وب وغيرهما"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "الأنبياء"
+    },
+    {
+      "id": 492,
+      "questionText": "ماذا قال النبي (صلى الله عليه وسلم) عن الشعراء؟",
+      "answers": [
+        "كل الشعر حرام",
+        "بعض الشعر حكمة",
+        "الشعر أفضل عمل",
+        "لم يذكر الشعر"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "الحديث"
+    },
+    {
+      "id": 493,
+      "questionText": "من هو حسان بن ثابت؟",
+      "answers": [
+        "قائد عسكري",
+        "شاعر النبي (صلى الله عليه وسلم)",
+        "كاتب الوحي",
+        "قاضٍ"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 494,
+      "questionText": "ما هو مفهوم (الولاء والبراء) في العقيدة الإسلامية؟",
+      "answers": [
+        "الزواج والطلاق",
+        "موالاة المؤمنين والبراءة من الكفر",
+        "اللوائح التجارية",
+        "قانون الميراث"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "عبادات"
+    },
+    {
+      "id": 495,
+      "questionText": "ما هو (المصحف)؟",
+      "answers": [
+        "نوع من الحديث",
+        "النسخة المكتوبة من القرآن",
+        "سجادة صلاة",
+        "مسجد"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "القرآن"
+    },
+    {
+      "id": 496,
+      "questionText": "ما أهمية سورة الحشر (الآيات 22-24)؟",
+      "answers": [
+        "تتحدث عن الصيام",
+        "تحتوي على العديد من أسماء الله الحسنى",
+        "تذكر قصة موسى",
+        "عن الحج"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "القرآن"
+    },
+    {
+      "id": 497,
+      "questionText": "أي سلالة بنت قصر الحمراء في إسبانيا؟",
+      "answers": [
+        "الأمويون",
+        "العباسيون",
+        "بنو نصر (غرناطة)",
+        "العثمانيون"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 498,
+      "questionText": "في أي عام سقطت آخر مملكة إسلامية في الأندلس (غرناطة)؟",
+      "answers": [
+        "1453",
+        "1492",
+        "1517",
+        "1389"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "التاريخ الإسلامي"
+    },
+    {
+      "id": 499,
+      "questionText": "ما هو مفهوم (المحاسبة) في الإسلام؟",
+      "answers": [
+        "معاملة محاسبية",
+        "محاسبة النفس وتقييم الذات للأعمال",
+        "مصطلح تجاري",
+        "عملية قانونية"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "عبادات"
+    },
+    {
+      "id": 500,
+      "questionText": "بحسب قول عمر بن الخطاب: (حاسبوا أنفسكم...)",
+      "answers": [
+        "...بعد أن تحاسبوا",
+        "...قبل أن تحاسبوا (يوم القيامة)",
+        "...عندما يذكركم الآخرون",
+        "...في رمضان فقط"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "التاريخ الإسلامي"
+    }
+  ]
+}

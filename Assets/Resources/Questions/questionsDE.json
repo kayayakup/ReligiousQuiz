@@ -1,0 +1,6504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Wie oft am Tag sind Muslime verpflichtet zu beten (Salah)?",
+      "answers": [
+        "3",
+        "5",
+        "7",
+        "4"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 2,
+      "questionText": "Was ist der erste Pfeiler des Islam?",
+      "answers": [
+        "Salah (Gebet)",
+        "Schahada (Glaubensbekenntnis)",
+        "Zakat (Almosen)",
+        "Sawm (Fasten)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 3,
+      "questionText": "In welchem Monat fasten Muslime von der Morgendämmerung bis zum Sonnenuntergang?",
+      "answers": [
+        "Schaban",
+        "Radschab",
+        "Ramadan",
+        "Muharram"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 4,
+      "questionText": "In welche Richtung wenden sich Muslime beim Gebet?",
+      "answers": [
+        "Jerusalem",
+        "Medina",
+        "Mekka (die Kaaba)",
+        "Damaskus"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 5,
+      "questionText": "Wie heißt die obligatorische Almosensteuer im Islam?",
+      "answers": [
+        "Sadaqah",
+        "Zakat",
+        "Chums",
+        "Waqf"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 6,
+      "questionText": "Welches Gebet wird in der Morgendämmerung verrichtet?",
+      "answers": [
+        "Duhr",
+        "Asr",
+        "Fadschr",
+        "Ischa"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 7,
+      "questionText": "Wie heißt die Pilgerfahrt nach Mekka?",
+      "answers": [
+        "Umra",
+        "Haddsch",
+        "Dschihad",
+        "Hidschra"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 8,
+      "questionText": "Wie viele Rak'ah hat das Fadschr-Gebet (Morgendämmerung)?",
+      "answers": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 9,
+      "questionText": "Wie heißt das Nachtgebet im Islam?",
+      "answers": [
+        "Tahadschud",
+        "Witr",
+        "Duha",
+        "Ischraq"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 10,
+      "questionText": "Wie lautet der arabische Begriff für die rituelle Waschung vor dem Gebet?",
+      "answers": [
+        "Ghusl",
+        "Tayammum",
+        "Wudu",
+        "Istinja"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 11,
+      "questionText": "Wie viele Pfeiler des Islam gibt es?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 12,
+      "questionText": "Welches Gebet ist das längste Pflichtgebet des Tages in Bezug auf die Anzahl der Rak'ah?",
+      "answers": [
+        "Fadschr",
+        "Duhr",
+        "Maghrib",
+        "Ischa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 13,
+      "questionText": "Wie heißt das Freitagsgebet?",
+      "answers": [
+        "Eid-Gebet",
+        "Dschumu'ah",
+        "Tarawih",
+        "Dschanasah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 14,
+      "questionText": "Wie hoch ist der minimale Prozentsatz des Vermögens, der als Zakat gegeben wird?",
+      "answers": [
+        "5%",
+        "10%",
+        "2,5%",
+        "1%"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 15,
+      "questionText": "Welche Art von Waschung wird mit sauberer Erde durchgeführt, wenn kein Wasser verfügbar ist?",
+      "answers": [
+        "Wudu",
+        "Ghusl",
+        "Tayammum",
+        "Masah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 16,
+      "questionText": "Wie viele Rak'ah hat das Ischa-Gebet (Nacht)?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 17,
+      "questionText": "Wie heißt das spezielle Gebet, das in den Nächten des Ramadan verrichtet wird?",
+      "answers": [
+        "Tahadschud",
+        "Tarawih",
+        "Witr",
+        "Istikhara"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 18,
+      "questionText": "Was bricht das Fasten im Ramadan?",
+      "answers": [
+        "Schlafen",
+        "Absichtliches Essen oder Trinken",
+        "Tiefes Atmen",
+        "Lange Strecken laufen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 19,
+      "questionText": "In welchem Monat der Hidschra wird der Haddsch durchgeführt?",
+      "answers": [
+        "Muharram",
+        "Radschab",
+        "Schawwal",
+        "Dhul Hiddscha"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 20,
+      "questionText": "Wie heißt das Gebet der Reue?",
+      "answers": [
+        "Salat at-Tawba",
+        "Salat ad-Duha",
+        "Salat al-Kusuf",
+        "Salat al-Istisqa"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 21,
+      "questionText": "Was ist I'tikaf?",
+      "answers": [
+        "Eine Art des Fastens",
+        "Rückzug in die Moschee zur Anbetung",
+        "Ein Pilgerritual",
+        "Eine Art der Wohltätigkeit"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 22,
+      "questionText": "Was ist die Fidyah im Zusammenhang mit dem Fasten?",
+      "answers": [
+        "Ein Gebet",
+        "Entschädigung für versäumte Fastentage",
+        "Eine Art der Wohltätigkeit",
+        "Ein Pilgerritual"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 23,
+      "questionText": "Wie hoch ist die Nisab-Schwelle für Gold bei der Berechnung der Zakat?",
+      "answers": [
+        "50 Gramm",
+        "85 Gramm",
+        "100 Gramm",
+        "200 Gramm"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 24,
+      "questionText": "Welches der folgenden ist KEINE Bedingung, die den Haddsch verpflichtend macht?",
+      "answers": [
+        "Muslim sein",
+        "Geistig gesund sein",
+        "Den gesamten Koran auswendig gelernt haben",
+        "Physische und finanzielle Fähigkeit"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 25,
+      "questionText": "Wie heißt das Gebet, um Allah um Führung zu bitten?",
+      "answers": [
+        "Salat al-Istikhara",
+        "Salat al-Dschanasah",
+        "Salat al-Eid",
+        "Salat al-Kusuf"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 26,
+      "questionText": "Wie nennt man während des Haddsch das Gehen zwischen Safa und Marwa?",
+      "answers": [
+        "Tawaf",
+        "Sa'i",
+        "Wuquf",
+        "Rami"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 27,
+      "questionText": "Wie heißt das Gebet, das für eine verstorbene Person verrichtet wird?",
+      "answers": [
+        "Salat al-Eid",
+        "Salat al-Dschanasah",
+        "Salat al-Istikhara",
+        "Salat al-Hadscha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 28,
+      "questionText": "Wie viele Fastentage werden im Monat Schawwal nach dem Ramadan empfohlen?",
+      "answers": [
+        "3",
+        "6",
+        "10",
+        "15"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 29,
+      "questionText": "Wie lautet der Begriff für den Zustand der rituellen Weihe während des Haddsch oder der Umra?",
+      "answers": [
+        "Talbiya",
+        "Ihram",
+        "Tawaf",
+        "Miqat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 30,
+      "questionText": "Wie viele Kategorien von Menschen sind nach der islamischen Rechtslehre berechtigt, Zakat zu empfangen?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 31,
+      "questionText": "Wie hoch ist die Nisab-Schwelle für Silber bei der Berechnung der Zakat?",
+      "answers": [
+        "200 Gramm",
+        "595 Gramm",
+        "400 Gramm",
+        "1000 Gramm"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 32,
+      "questionText": "Was ist der Unterschied zwischen Haddsch al-Ifrad und Haddsch at-Tamattu'?",
+      "answers": [
+        "Ifrad beinhaltet Umra, Tamattu' nicht",
+        "Tamattu' beinhaltet Umra vor dem Haddsch, Ifrad ist nur Haddsch",
+        "Es gibt keinen Unterschied",
+        "Ifrad ist nur für Frauen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 33,
+      "questionText": "Wie lautet die Regelung zum Witr-Gebet in der hanafitischen Rechtsschule?",
+      "answers": [
+        "Sunna Mu'akkada",
+        "Wadschib (verpflichtend)",
+        "Mustahab (empfohlen)",
+        "Fard"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 34,
+      "questionText": "An welchem Tag stehen die Pilger während des Haddsch in Arafat?",
+      "answers": [
+        "8. Dhul Hiddscha",
+        "9. Dhul Hiddscha",
+        "10. Dhul Hiddscha",
+        "12. Dhul Hiddscha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 35,
+      "questionText": "Was ist die Kaffara für das absichtliche Brechen des Fastens im Ramadan ohne gültige Entschuldigung?",
+      "answers": [
+        "Nur das Fasten nachholen",
+        "60 aufeinanderfolgende Tage fasten oder 60 Arme speisen",
+        "Zakat zahlen",
+        "Den Haddsch verrichten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 36,
+      "questionText": "Was ist die erste Sure (Kapitel) des Korans?",
+      "answers": [
+        "Al-Baqara",
+        "Al-Fatiha",
+        "Al-Ikhlas",
+        "An-Nas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 37,
+      "questionText": "Wie viele Suren (Kapitel) gibt es im Koran?",
+      "answers": [
+        "100",
+        "114",
+        "120",
+        "99"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 38,
+      "questionText": "Was ist die längste Sure im Koran?",
+      "answers": [
+        "Al-Imran",
+        "An-Nisa",
+        "Al-Baqara",
+        "Al-Ma'ida"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 39,
+      "questionText": "Welche Sure ist bekannt als „Das Herz des Korans“?",
+      "answers": [
+        "Ar-Rahman",
+        "Ya-Sin",
+        "Al-Mulk",
+        "Al-Kahf"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 40,
+      "questionText": "In welcher Sprache wurde der Koran ursprünglich offenbart?",
+      "answers": [
+        "Persisch",
+        "Hebräisch",
+        "Arabisch",
+        "Aramäisch"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 41,
+      "questionText": "Was bedeutet „Koran“ wörtlich?",
+      "answers": [
+        "Das Licht",
+        "Die Rezitation / Verkündigung",
+        "Das Buch",
+        "Die Rechtleitung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 42,
+      "questionText": "Welche Sure erwähnt die Geschichte der Höhlenleute?",
+      "answers": [
+        "Al-Kahf",
+        "Al-Anfal",
+        "At-Tawba",
+        "Maryam"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 43,
+      "questionText": "Wie viele Verse (Ayat) hat die Sure Al-Fatiha?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 44,
+      "questionText": "Welche Sure entspricht vom Lohn her einem Drittel des Korans?",
+      "answers": [
+        "Al-Fatiha",
+        "Al-Falaq",
+        "Al-Ikhlas",
+        "Al-Kawthar"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 45,
+      "questionText": "Was ist die kürzeste Sure im Koran?",
+      "answers": [
+        "Al-Ikhlas",
+        "Al-Kawthar",
+        "Al-Asr",
+        "An-Nas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 46,
+      "questionText": "Über wie viele Jahre wurde der Koran offenbart?",
+      "answers": [
+        "10 Jahre",
+        "15 Jahre",
+        "23 Jahre",
+        "30 Jahre"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 47,
+      "questionText": "Welcher Engel soll den Koran dem Propheten Muhammad (Friede sei mit ihm) offenbart haben?",
+      "answers": [
+        "Mikail",
+        "Israfil",
+        "Dschibril (Gabriel)",
+        "Azrail"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 48,
+      "questionText": "Welche Sure beginnt mit „Alif Lam Mim“?",
+      "answers": [
+        "Al-Fatiha",
+        "Al-Baqara",
+        "An-Nas",
+        "Al-Ikhlas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 49,
+      "questionText": "Wo befindet sich der Ayat al-Kursi (Thronvers)?",
+      "answers": [
+        "Sure Al-Imran",
+        "Sure Al-Baqara",
+        "Sure An-Nisa",
+        "Sure Al-Ma'ida"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 50,
+      "questionText": "Welche Sure ist nach einer Frau benannt?",
+      "answers": [
+        "Al-Baqara",
+        "Maryam",
+        "An-Nisa",
+        "Al-Ahzab"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 51,
+      "questionText": "Was ist die letzte Sure des Korans?",
+      "answers": [
+        "Al-Falaq",
+        "Al-Ikhlas",
+        "An-Nas",
+        "Al-Kafirun"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 52,
+      "questionText": "Welche Sure enthält den Vers „Es gibt keinen Zwang in der Religion“?",
+      "answers": [
+        "Al-Baqara",
+        "Al-Imran",
+        "An-Nisa",
+        "Al-Ma'ida"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 53,
+      "questionText": "In wie viele Teile (Dschuz) ist der Koran unterteilt?",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 54,
+      "questionText": "Welche Sure erwähnt detailliert die Geschichte des Propheten Yusuf (Joseph)?",
+      "answers": [
+        "Yusuf",
+        "Ibrahim",
+        "Luqman",
+        "Hud"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 55,
+      "questionText": "Wie heißt die Sure, die Dhul-Qarnayn erwähnt?",
+      "answers": [
+        "Al-Anbiya",
+        "Al-Kahf",
+        "Al-Isra",
+        "Al-Hadsch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 56,
+      "questionText": "Welche Sure wird empfohlen, jeden Freitag zu rezitieren?",
+      "answers": [
+        "Ya-Sin",
+        "Al-Kahf",
+        "Ar-Rahman",
+        "Al-Mulk"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 57,
+      "questionText": "Welche Eigenschaft Allahs wird in der Sure Al-Ikhlas betont?",
+      "answers": [
+        "Seine Barmherzigkeit",
+        "Seine Einheit (Tawhid)",
+        "Seine Macht",
+        "Sein Wissen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 58,
+      "questionText": "Welche Sure enthält den als „Größten Vers“ bekannten Vers (Ayat al-Kursi)?",
+      "answers": [
+        "Al-Baqara (2:255)",
+        "Al-Imran (3:18)",
+        "An-Nisa (4:87)",
+        "Al-Haschr (59:22)"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 59,
+      "questionText": "Wie viele Verse (Ayat) umfasst der Koran ungefähr?",
+      "answers": [
+        "5.000",
+        "6.236",
+        "7.000",
+        "8.500"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 60,
+      "questionText": "Welcher Kalif ordnete die Zusammenstellung des Korans in einem einzigen Buch an?",
+      "answers": [
+        "Umar ibn al-Chattab",
+        "Abu Bakr as-Siddiq",
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 61,
+      "questionText": "Welcher Kalif standardisierte den Text des Korans und verteilte offizielle Kopien?",
+      "answers": [
+        "Abu Bakr",
+        "Umar",
+        "Uthman",
+        "Ali"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 62,
+      "questionText": "Was ist eine „mekkanische“ Sure?",
+      "answers": [
+        "Eine Sure, die in Medina offenbart wurde",
+        "Eine Sure, die in Mekka vor der Hidschra offenbart wurde",
+        "Eine Sure über Mekka",
+        "Eine Sure mit mehr als 100 Versen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 63,
+      "questionText": "Welche Sure beginnt nicht mit der Basmala („Bismillah“)?",
+      "answers": [
+        "Al-Fatiha",
+        "Al-Baqara",
+        "At-Tawba",
+        "Al-Kawthar"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 64,
+      "questionText": "Wie heißt die Wissenschaft der Koranrezitationsregeln?",
+      "answers": [
+        "Tafsir",
+        "Tadschwid",
+        "Fiqh",
+        "Usul al-Hadith"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 65,
+      "questionText": "Welche Sure erwähnt die Basmala zweimal?",
+      "answers": [
+        "Al-Fatiha",
+        "An-Naml",
+        "Al-Baqara",
+        "Al-Anfal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 66,
+      "questionText": "Wie viele Suren im Koran beginnen mit „Muqatta'at“ (getrennten Buchstaben)?",
+      "answers": [
+        "19",
+        "25",
+        "29",
+        "33"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 67,
+      "questionText": "Wie heißt die Wissenschaft der Koranauslegung?",
+      "answers": [
+        "Hadith",
+        "Tadschwid",
+        "Tafsir",
+        "Fiqh"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 68,
+      "questionText": "Welcher Vers des Korans gilt als der Schuldvers (der längste Vers)?",
+      "answers": [
+        "Al-Baqara 2:255",
+        "Al-Baqara 2:282",
+        "Al-Imran 3:7",
+        "An-Nisa 4:11"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 69,
+      "questionText": "Welcher Gefährte des Propheten war als „Katib al-Wahy“ (Schreiber der Offenbarung) bekannt?",
+      "answers": [
+        "Abu Bakr",
+        "Umar",
+        "Zaid ibn Thabit",
+        "Mu'adh ibn Dschabal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 70,
+      "questionText": "Was sind die „Sieben Ahruf“ im Kontext des Korans?",
+      "answers": [
+        "Sieben Übersetzungen",
+        "Sieben Lesearten / Dialekte der Rezitation",
+        "Sieben Kapitel",
+        "Sieben erwähnte Propheten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 71,
+      "questionText": "Wer war der erste Prophet im Islam?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Nuh (Noah)",
+        "Adam",
+        "Muhammad (Friede sei mit ihm)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 72,
+      "questionText": "Wer gilt im Islam als der letzte Prophet?",
+      "answers": [
+        "Isa (Jesus)",
+        "Musa (Mose)",
+        "Muhammad (Friede sei mit ihm)",
+        "Ibrahim (Abraham)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 73,
+      "questionText": "Welcher Prophet wurde von einem Wal verschluckt?",
+      "answers": [
+        "Musa (Mose)",
+        "Yunus (Jona)",
+        "Ayyub (Hiob)",
+        "Idris (Henoch)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 74,
+      "questionText": "Welcher Prophet baute die Arche?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Sulaiman (Salomo)",
+        "Nuh (Noah)",
+        "Dawud (David)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 75,
+      "questionText": "Welchem Propheten wurde der Zabur (Psalmen) gegeben?",
+      "answers": [
+        "Musa (Mose)",
+        "Isa (Jesus)",
+        "Dawud (David)",
+        "Ibrahim (Abraham)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 76,
+      "questionText": "Welcher Prophet wurde ins Feuer geworfen, aber von Allah gerettet?",
+      "answers": [
+        "Musa (Mose)",
+        "Ibrahim (Abraham)",
+        "Isma'il (Ismael)",
+        "Ya'qub (Jakob)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 77,
+      "questionText": "Welcher Prophet ist als „Khalilullah“ (Freund Allahs) bekannt?",
+      "answers": [
+        "Musa (Mose)",
+        "Muhammad (Friede sei mit ihm)",
+        "Ibrahim (Abraham)",
+        "Nuh (Noah)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 78,
+      "questionText": "Welchem Propheten wurde die Tora gegeben?",
+      "answers": [
+        "Dawud (David)",
+        "Musa (Mose)",
+        "Isa (Jesus)",
+        "Harun (Aaron)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 79,
+      "questionText": "Welcher Prophet konnte mit Tieren sprechen und den Dschinn befehlen?",
+      "answers": [
+        "Dawud (David)",
+        "Sulaiman (Salomo)",
+        "Idris (Henoch)",
+        "Dhul-Kifl"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 80,
+      "questionText": "Wer war der Bruder des Propheten Musa (Mose)?",
+      "answers": [
+        "Isma'il (Ismael)",
+        "Harun (Aaron)",
+        "Ishaq (Isaak)",
+        "Yusuf (Joseph)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 81,
+      "questionText": "Welcher Prophet wurde von seinen Brüdern in die Sklaverei verkauft?",
+      "answers": [
+        "Musa (Mose)",
+        "Yusuf (Joseph)",
+        "Isma'il (Ismael)",
+        "Ayyub (Hiob)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 82,
+      "questionText": "Welcher Prophet wird als „Ruhullah“ (Geist Allahs) bezeichnet?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Muhammad (Friede sei mit ihm)",
+        "Isa (Jesus)",
+        "Adam"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 83,
+      "questionText": "Wie viele Propheten werden im Koran namentlich erwähnt?",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 84,
+      "questionText": "Welcher Prophet ist als „Safiullah“ (der Auserwählte Allahs) bekannt?",
+      "answers": [
+        "Nuh (Noah)",
+        "Adam",
+        "Ibrahim (Abraham)",
+        "Muhammad (Friede sei mit ihm)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 85,
+      "questionText": "Welcher Prophet ist für seine außergewöhnliche Geduld bekannt?",
+      "answers": [
+        "Yusuf (Joseph)",
+        "Ayyub (Hiob)",
+        "Yunus (Jona)",
+        "Shu'ayb"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 86,
+      "questionText": "Welcher Prophet wurde islamischen Glaubens zufolge lebendig in den Himmel erhoben?",
+      "answers": [
+        "Musa (Mose)",
+        "Idris (Henoch)",
+        "Ilyas (Elija)",
+        "Isa (Jesus)"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 87,
+      "questionText": "Welche zwei Propheten bauten die Kaaba?",
+      "answers": [
+        "Adam und Nuh",
+        "Ibrahim und Isma'il",
+        "Musa und Harun",
+        "Muhammad und Ibrahim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 88,
+      "questionText": "Welcher Prophet wurde zum Volk der 'Ad gesandt?",
+      "answers": [
+        "Salih",
+        "Hud",
+        "Shu'ayb",
+        "Lut (Lot)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 89,
+      "questionText": "Welcher Prophet wurde zum Volk der Thamud gesandt?",
+      "answers": [
+        "Hud",
+        "Salih",
+        "Shu'ayb",
+        "Nuh (Noah)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 90,
+      "questionText": "Welches Volk wurde wegen seiner unmoralischen Praktiken (Stadt Sodom) vernichtet, zu dem ein Prophet gesandt wurde?",
+      "answers": [
+        "Shu'ayb",
+        "Hud",
+        "Lut (Lot)",
+        "Salih"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 91,
+      "questionText": "Welches Wunder wurde dem Propheten Musa (Mose) gegeben?",
+      "answers": [
+        "Heilung von Kranken",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Sprechen mit Vögeln",
+        "Spaltung des Mondes"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 92,
+      "questionText": "Welcher Prophet hatte 12 Söhne, die zu den Stämmen Israels wurden?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Ishaq (Isaak)",
+        "Ya'qub (Jakob)",
+        "Yusuf (Joseph)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 93,
+      "questionText": "Welcher Prophet war für die Herstellung von Kettenpanzern bekannt?",
+      "answers": [
+        "Sulaiman (Salomo)",
+        "Dawud (David)",
+        "Dhul-Kifl",
+        "Idris (Henoch)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 94,
+      "questionText": "Was war das Wunder des Propheten Salih für das Volk der Thamud?",
+      "answers": [
+        "Eine Flut",
+        "Eine aus einem Felsen hervorkommende Stute",
+        "Feuer vom Himmel",
+        "Ein sprechender Vogel"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 95,
+      "questionText": "Welcher Prophet wurde zum Volk von Madyan gesandt?",
+      "answers": [
+        "Lut (Lot)",
+        "Hud",
+        "Shu'ayb",
+        "Salih"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 96,
+      "questionText": "Welcher Titel wird dem Propheten Muhammad (Friede sei mit ihm) gegeben?",
+      "answers": [
+        "Khalilullah",
+        "Kalimatullah",
+        "Habibullah (Geliebter Allahs)",
+        "Ruhullah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 97,
+      "questionText": "Welcher Prophet soll im Islam ohne Vater geboren worden sein?",
+      "answers": [
+        "Adam",
+        "Isa (Jesus)",
+        "Idris (Henoch)",
+        "Yahya (Johannes)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 98,
+      "questionText": "Bei welchem Propheten waren Vater, Großvater und Urgroßvater allesamt Propheten?",
+      "answers": [
+        "Muhammad (Friede sei mit ihm)",
+        "Yusuf (Joseph)",
+        "Isa (Jesus)",
+        "Musa (Mose)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 99,
+      "questionText": "Welchem Propheten wurden die „Suhuf“ (Blätter/Schriften) gegeben?",
+      "answers": [
+        "Nuh (Noah)",
+        "Musa (Mose)",
+        "Ibrahim (Abraham)",
+        "Dawud (David)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 100,
+      "questionText": "Bei der Nacht- und Himmelsreise (Isra und Mi'radsch) – welchen Propheten traf Muhammad (Friede sei mit ihm) im ersten Himmel?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Musa (Mose)",
+        "Adam",
+        "Isa (Jesus)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 101,
+      "questionText": "Welcher Prophet wird im Koran als „Dhul-Nun“ (Gefährte des Fisches) beschrieben?",
+      "answers": [
+        "Ayyub (Hiob)",
+        "Yunus (Jona)",
+        "Dawud (David)",
+        "Ilyas (Elija)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 102,
+      "questionText": "In wie vielen Himmeln traf der Prophet Muhammad (Friede sei mit ihm) der islamischen Überlieferung nach während der Himmelsreise (Mi'radsch) Propheten?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Propheten"
+    },
+    {
+      "id": 103,
+      "questionText": "Welcher Prophet bat Allah, ihm zu zeigen, wie Er die Toten wiederbelebt (unter Verwendung von Vögeln)?",
+      "answers": [
+        "Musa (Mose)",
+        "Ibrahim (Abraham)",
+        "Isa (Jesus)",
+        "Sulaiman (Salomo)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Propheten"
+    },
+    {
+      "id": 104,
+      "questionText": "Die Geschichte welches Propheten wird im Koran als „Ahsan al-Qasas“ (die schönste Geschichte) bezeichnet?",
+      "answers": [
+        "Musa (Mose)",
+        "Ibrahim (Abraham)",
+        "Yusuf (Joseph)",
+        "Nuh (Noah)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 105,
+      "questionText": "Wie heißt die Frau des Propheten Ibrahim, die Mutter von Isma'il war?",
+      "answers": [
+        "Sarah",
+        "Hadschar (Hagar)",
+        "Maryam",
+        "Asiya"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 106,
+      "questionText": "Welcher Prophet lebte der islamischen Überlieferung nach am längsten?",
+      "answers": [
+        "Adam",
+        "Nuh (Noah)",
+        "Idris (Henoch)",
+        "Ibrahim (Abraham)"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Propheten"
+    },
+    {
+      "id": 107,
+      "questionText": "Was ist ein Hadith?",
+      "answers": [
+        "Ein Vers des Korans",
+        "Ein Ausspruch oder eine Handlung des Propheten Muhammad (Friede sei mit ihm)",
+        "Eine Art des Gebets",
+        "Ein Kapitel des Korans"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 108,
+      "questionText": "Wer hat die authentischste Hadith-Sammlung (Sahih) zusammengestellt?",
+      "answers": [
+        "Imam Muslim",
+        "Imam al-Buchari",
+        "Imam Abu Dawud",
+        "Imam at-Tirmidhi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 109,
+      "questionText": "Wie nennt man die beiden authentischsten Hadith-Sammlungen gemeinsam?",
+      "answers": [
+        "Al-Muwatta' und Musnad",
+        "Sahihain (Sahih al-Buchari und Sahih Muslim)",
+        "Sunan an-Nasa'i und Sunan Ibn Madscha",
+        "Dschami' und Musannaf"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 110,
+      "questionText": "Was bedeutet „Sahih“ im Zusammenhang mit der Hadith-Klassifikation?",
+      "answers": [
+        "Schwach",
+        "Erfunden",
+        "Authentisch / Gesund",
+        "Gut"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 111,
+      "questionText": "Wie nennt man die Überliefererkette eines Hadiths?",
+      "answers": [
+        "Matn",
+        "Isnad",
+        "Rawi",
+        "Riwaya"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 112,
+      "questionText": "Wie nennt man den Text / Inhalt eines Hadiths?",
+      "answers": [
+        "Isnad",
+        "Sanad",
+        "Matn",
+        "Rawi"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 113,
+      "questionText": "Was ist ein „Hadith Qudsi“?",
+      "answers": [
+        "Ein Hadith über das Gebet",
+        "Ein Hadith, in dem Allah in Seinen eigenen Worten durch den Propheten spricht",
+        "Ein Hadith über das Fasten",
+        "Ein erfundener Hadith"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 114,
+      "questionText": "Nach einem berühmten Hadith: Wonach werden die Handlungen beurteilt?",
+      "answers": [
+        "Ergebnissen",
+        "Absichten (Niyya)",
+        "Worten",
+        "Zeugen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 115,
+      "questionText": "Wie viele Hadithe enthält Sahih al-Buchari (ungefähr, ohne Wiederholungen)?",
+      "answers": [
+        "Etwa 2.600",
+        "Etwa 4.000",
+        "Etwa 7.000",
+        "Etwa 10.000"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 116,
+      "questionText": "Welche Klassifizierung erhält ein Hadith mit einem schwachen Überlieferer in seiner Kette?",
+      "answers": [
+        "Sahih",
+        "Hasan",
+        "Da'if (schwach)",
+        "Mawdu'"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 117,
+      "questionText": "Was ist ein „Mawdu'-Hadith“?",
+      "answers": [
+        "Ein authentischer Hadith",
+        "Ein guter Hadith",
+        "Ein erfundener / gefälschter Hadith",
+        "Ein schwacher Hadith"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 118,
+      "questionText": "Welches der folgenden Werke gehört NICHT zu den „Sechs Büchern“ (Kutub as-Sitta) der Hadith-Literatur?",
+      "answers": [
+        "Sahih al-Buchari",
+        "Al-Muwatta' von Imam Malik",
+        "Sunan Abi Dawud",
+        "Sahih Muslim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 119,
+      "questionText": "Vervollständigen Sie diesen Hadith: „Keiner von euch glaubt wirklich, bis er für seinen Bruder liebt...“",
+      "answers": [
+        "... was er für sich selbst liebt",
+        "... mehr als sich selbst",
+        "... die besten Taten",
+        "... das Paradies"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 120,
+      "questionText": "Was bedeutet „Mutawatir“ in der Hadith-Klassifikation?",
+      "answers": [
+        "Von einer einzelnen Person überliefert",
+        "Über viele unabhängige Ketten überliefert, was Fälschung unmöglich macht",
+        "Eine schwache Überlieferung",
+        "Ein Hadith über Wunder"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 121,
+      "questionText": "Wofür ist die Hadith-Sammlung „Die 40 Hadithe des Imam an-Nawawi“ bekannt?",
+      "answers": [
+        "Sie enthält die längsten Hadithe",
+        "Sie ist eine prägnante Sammlung grundlegender islamischer Lehren",
+        "Sie handelt nur vom Gebet",
+        "Sie wurde von al-Buchari zusammengestellt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 122,
+      "questionText": "Welche drei Taten sind einem Hadith zufolge die beliebtesten bei Allah?",
+      "answers": [
+        "Haddsch, Umra, Dschihad",
+        "Rechtzeitiges Gebet, Güte zu den Eltern, Dschihad auf dem Wege Allahs",
+        "Fasten, Almosen, Pilgerfahrt",
+        "Koranlesen, Dhikr, Sadaqa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 123,
+      "questionText": "Was ist „Ilm ar-Ridschal“ in der Hadith-Wissenschaft?",
+      "answers": [
+        "Die Lehre von den Überlieferern (Männern)",
+        "Die Lehre vom Hadith-Text",
+        "Die Lehre der arabischen Grammatik",
+        "Die Lehre des islamischen Rechts"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 124,
+      "questionText": "Was ist ein „Mursal-Hadith“?",
+      "answers": [
+        "Ein Hadith mit einer durchgehenden Kette",
+        "Ein Hadith, bei dem ein Tabi'i direkt vom Propheten berichtet und den Gefährten auslässt",
+        "Ein erfundener Hadith",
+        "Ein Hadith mit mehreren Ketten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 125,
+      "questionText": "Was ist laut Hadith die beste Bitte am Tage von Arafa?",
+      "answers": [
+        "Subhanallah",
+        "Alhamdulillah",
+        "La ilaha illallah wahdahu la scharika lah...",
+        "Astaghfirullah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 126,
+      "questionText": "Was ist ein „Hasan-Hadith“?",
+      "answers": [
+        "Erfunden",
+        "Authentisch",
+        "Gut (akzeptabel, aber knapp unter Sahih)",
+        "Schwach"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 127,
+      "questionText": "Wer war der erste Kalif des Islam nach dem Propheten Muhammad (Friede sei mit ihm)?",
+      "answers": [
+        "Umar ibn al-Chattab",
+        "Ali ibn Abi Talib",
+        "Abu Bakr as-Siddiq",
+        "Uthman ibn Affan"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 128,
+      "questionText": "In welchem Jahr fand die Hidschra (Auswanderung von Mekka nach Medina) statt?",
+      "answers": [
+        "610 n. Chr.",
+        "622 n. Chr.",
+        "630 n. Chr.",
+        "632 n. Chr."
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 129,
+      "questionText": "Was war die erste große Schlacht der islamischen Geschichte?",
+      "answers": [
+        "Schlacht von Uhud",
+        "Schlacht von Badr",
+        "Schlacht am Graben",
+        "Schlacht von Chaibar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 130,
+      "questionText": "Wer war die erste Frau, die den Islam annahm?",
+      "answers": [
+        "Aischa (r.a.)",
+        "Fatima (r.a.)",
+        "Chadidscha (r.a.)",
+        "Sumayya (r.a.)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 131,
+      "questionText": "Wie hieß die erste im Islam erbaute Moschee?",
+      "answers": [
+        "Al-Aqsa-Moschee",
+        "Quba-Moschee",
+        "Masjid an-Nabawi",
+        "Masjid al-Haram"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 132,
+      "questionText": "Wer war der erste Muezzin (Ruf zum Gebet) im Islam?",
+      "answers": [
+        "Abdullah ibn Mas'ud",
+        "Bilal ibn Rabah",
+        "Ammar ibn Yasir",
+        "Salman al-Farisi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 133,
+      "questionText": "In welchem Jahr wurde Mekka von den Muslimen erobert?",
+      "answers": [
+        "624 n. Chr.",
+        "625 n. Chr.",
+        "628 n. Chr.",
+        "630 n. Chr."
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 134,
+      "questionText": "Was war der Vertrag von al-Hudaybiyya?",
+      "answers": [
+        "Eine Kriegserklärung",
+        "Ein Friedensvertrag zwischen Muslimen und den Quraisch",
+        "Ein Handelsabkommen",
+        "Ein Dokument, das den islamischen Staat begründete"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 135,
+      "questionText": "Wer war der zweite Kalif des Islam?",
+      "answers": [
+        "Abu Bakr",
+        "Umar ibn al-Chattab",
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 136,
+      "questionText": "Wofür ist das „Jahr des Elefanten“ bekannt?",
+      "answers": [
+        "Das Jahr, in dem die Muslime Mekka eroberten",
+        "Das Jahr der Geburt des Propheten Muhammad (Friede sei mit ihm)",
+        "Das Jahr, in dem der Koran vollendet wurde",
+        "Das Jahr der Hidschra"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 137,
+      "questionText": "Wer war als „Das Schwert Allahs“ bekannt?",
+      "answers": [
+        "Ali ibn Abi Talib",
+        "Umar ibn al-Chattab",
+        "Chalid ibn al-Walid",
+        "Sa'd ibn Abi Waqqas"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 138,
+      "questionText": "Wohin wanderten die Muslime zuerst aus, um der Verfolgung zu entgehen?",
+      "answers": [
+        "Medina",
+        "Abessinien (Äthiopien)",
+        "Ägypten",
+        "Syrien"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 139,
+      "questionText": "Wie hieß die in Medina erlassene Verfassung?",
+      "answers": [
+        "Vertrag von al-Hudaybiyya",
+        "Charta von Medina (Verfassung von Medina)",
+        "Erklärung von Mekka",
+        "Pakt von Aqaba"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 140,
+      "questionText": "Wer war das erste Kind, das den Islam annahm?",
+      "answers": [
+        "Umar",
+        "Zaid ibn Haritha",
+        "Ali ibn Abi Talib",
+        "Abdullah ibn Abbas"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 141,
+      "questionText": "Wofür war die Schlacht am Graben (al-Chandaq) bekannt?",
+      "answers": [
+        "Eine Seeschlacht",
+        "Das Graben eines Grabens zur Verteidigung Medinas",
+        "Eine Schlacht, die in einem Gebirgspass ausgetragen wurde",
+        "Eine Belagerung von Mekka"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 142,
+      "questionText": "Wer schlug vor, den Graben bei der Schlacht am Graben zu graben?",
+      "answers": [
+        "Abu Bakr",
+        "Umar",
+        "Salman al-Farisi",
+        "Chalid ibn al-Walid"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 143,
+      "questionText": "In welchem Jahr starb der Prophet Muhammad (Friede sei mit ihm)?",
+      "answers": [
+        "630 n. Chr.",
+        "632 n. Chr.",
+        "634 n. Chr.",
+        "636 n. Chr."
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 144,
+      "questionText": "Welche islamische Dynastie erbaute den Felsendom in Jerusalem?",
+      "answers": [
+        "Abbasiden",
+        "Osmanen",
+        "Umayyaden",
+        "Fatimiden"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 145,
+      "questionText": "Wer war der erste umayyadische Kalif?",
+      "answers": [
+        "Abd al-Malik",
+        "Mu'awiya ibn Abi Sufyan",
+        "Yazid ibn Mu'awiya",
+        "Marwan ibn al-Hakam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 146,
+      "questionText": "Welcher Kalif führte den islamischen Kalender ein, der auf der Hidschra basiert?",
+      "answers": [
+        "Abu Bakr",
+        "Umar ibn al-Chattab",
+        "Uthman",
+        "Ali"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 147,
+      "questionText": "Was waren die Ridda-Kriege?",
+      "answers": [
+        "Kriege zwischen Muslimen und Römern",
+        "Kriege gegen den Abfall vom Glauben nach dem Tod des Propheten",
+        "Kriege zwischen Umayyaden und Abbasiden",
+        "Kreuzzüge"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 148,
+      "questionText": "Wer führte die muslimischen Streitkräfte in der Schlacht von Yarmuk gegen die Byzantiner an?",
+      "answers": [
+        "Umar ibn al-Chattab",
+        "Chalid ibn al-Walid",
+        "Abu Bakr",
+        "Amr ibn al-As"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 149,
+      "questionText": "Welcher muslimische General eroberte Ägypten?",
+      "answers": [
+        "Chalid ibn al-Walid",
+        "Sa'd ibn Abi Waqqas",
+        "Amr ibn al-As",
+        "Tariq ibn Ziyad"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 150,
+      "questionText": "Wer eröffnete den Muslimen den Weg nach Spanien (Al-Andalus)?",
+      "answers": [
+        "Chalid ibn al-Walid",
+        "Tariq ibn Ziyad",
+        "Musa ibn Nusair",
+        "Saladin"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 151,
+      "questionText": "Was war die Hauptstadt des abbasidischen Kalifats?",
+      "answers": [
+        "Damaskus",
+        "Bagdad",
+        "Kairo",
+        "Cordoba"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 152,
+      "questionText": "Wer war Saladin (Salah ad-Din) und wofür ist er berühmt?",
+      "answers": [
+        "Ein umayyadischer Dichter",
+        "Der Gründer des Osmanischen Reiches",
+        "Der muslimische Feldherr, der Jerusalem von den Kreuzfahrern zurückeroberte",
+        "Der Erfinder der Algebra"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 153,
+      "questionText": "Welche Schlacht im Jahr 1258 n. Chr. markierte den Fall des abbasidischen Kalifats?",
+      "answers": [
+        "Schlacht von Ain Dschalut",
+        "Belagerung von Bagdad",
+        "Schlacht von Hattin",
+        "Schlacht von Manzikert"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 154,
+      "questionText": "Welches Reich beendete das abbasidische Kalifat durch die Plünderung Bagdads?",
+      "answers": [
+        "Kreuzfahrer",
+        "Mongolen",
+        "Osmanen",
+        "Safawiden"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 155,
+      "questionText": "Wer gründete das Osmanische Reich?",
+      "answers": [
+        "Süleyman der Prächtige",
+        "Mehmed II.",
+        "Osman I.",
+        "Bayezid I."
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 156,
+      "questionText": "Welcher osmanische Sultan eroberte Konstantinopel im Jahr 1453?",
+      "answers": [
+        "Osman I.",
+        "Süleyman der Prächtige",
+        "Mehmed II. (der Eroberer)",
+        "Selim I."
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 157,
+      "questionText": "Wofür war das „Goldene Zeitalter des Islam“ bekannt?",
+      "answers": [
+        "Militärische Eroberungen",
+        "Fortschritte in Wissenschaft, Medizin, Mathematik und Philosophie",
+        "Moscheebauten",
+        "Ausweitung der Handelswege"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 158,
+      "questionText": "Wer ist als der „Vater der Algebra“ bekannt?",
+      "answers": [
+        "Ibn Sina",
+        "Al-Chwarizmi",
+        "Ar-Razi",
+        "Ibn Ruschd"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 159,
+      "questionText": "Welcher muslimische Gelehrte schrieb den „Kanon der Medizin“?",
+      "answers": [
+        "Al-Chwarizmi",
+        "Ar-Razi",
+        "Ibn Sina (Avicenna)",
+        "Ibn Chaldun"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 160,
+      "questionText": "Wer schrieb die „Muqaddima“, die als Meisterwerk der Geschichtsschreibung gilt?",
+      "answers": [
+        "Ibn Sina",
+        "Al-Ghazali",
+        "Ibn Chaldun",
+        "At-Tabari"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 161,
+      "questionText": "Was waren die „Gelöbnisse von Aqaba“?",
+      "answers": [
+        "Handelsverträge",
+        "Treuegelöbnisse aus Medina an den Propheten vor der Hidschra",
+        "Friedensabkommen mit den Quraisch",
+        "Militärbündnisse"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 162,
+      "questionText": "Wer war die erste Märtyrerin (Frau) im Islam?",
+      "answers": [
+        "Chadidscha",
+        "Fatima",
+        "Sumayya bint Chayyat",
+        "Asma bint Abi Bakr"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 163,
+      "questionText": "Was sind die sechs Glaubensartikel (Iman) im Islam?",
+      "answers": [
+        "Schahada, Salah, Zakat, Sawm, Haddsch, Dschihad",
+        "Glaube an Allah, Seine Engel, Seine Bücher, Seine Propheten, den Jüngsten Tag, die göttliche Vorherbestimmung",
+        "Gebet, Fasten, Almosen, Pilgerfahrt, Glaube, Geduld",
+        "Tawhid, Risala, Ahira, Salah, Sawm, Zakat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 164,
+      "questionText": "Was ist Ihsan im Islam?",
+      "answers": [
+        "Almosen geben",
+        "Allah so anzubeten, als ob du Ihn sehen würdest",
+        "Auf Pilgerfahrt gehen",
+        "Den Koran lesen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 165,
+      "questionText": "Wie heißt das Gebet, das während einer Sonnenfinsternis verrichtet wird?",
+      "answers": [
+        "Salat al-Istisqa",
+        "Salat al-Kusuf",
+        "Salat al-Chauf",
+        "Salat ad-Duha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 166,
+      "questionText": "Welches Gebet wird verrichtet, um um Regen zu bitten?",
+      "answers": [
+        "Salat al-Kusuf",
+        "Salat al-Chusuf",
+        "Salat al-Istisqa",
+        "Salat al-Hadscha"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 167,
+      "questionText": "Wie oft wird Sure Al-Fatiha in einem 5-Rak'ah-Gebet rezitiert?",
+      "answers": [
+        "5 Mal",
+        "3 Mal",
+        "7 Mal",
+        "6 Mal"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 168,
+      "questionText": "Was ist „Sudschud as-Sahw“?",
+      "answers": [
+        "Die Hauptniederwerfung im Gebet",
+        "Die Niederwerfung des Vergessens bei Fehlern im Gebet",
+        "Die Niederwerfung der Dankbarkeit",
+        "Die Niederwerfung während der Koranrezitation"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 169,
+      "questionText": "Was ist die Nacht, die als „Laylat al-Qadr“ (Nacht der Bestimmung) bekannt ist?",
+      "answers": [
+        "Die erste Nacht des Ramadan",
+        "Eine Nacht in den letzten zehn Nächten des Ramadan, die besser ist als tausend Monate",
+        "Die Nacht von Eid",
+        "Die Nacht vor dem Haddsch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 170,
+      "questionText": "In welcher Sure wird die Laylat al-Qadr beschrieben?",
+      "answers": [
+        "Al-Baqara",
+        "Al-Qadr",
+        "Al-Fadschr",
+        "Al-Burudsch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 171,
+      "questionText": "Welche Sure ist bekannt als „Die Königsherrschaft“ oder „Die Herrschaft“?",
+      "answers": [
+        "Al-Mulk",
+        "Al-Waqi'a",
+        "Ar-Rahman",
+        "Al-Hadid"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 172,
+      "questionText": "Welche Sure beginnt mit „Der Allerbarmende (Ar-Rahman)“?",
+      "answers": [
+        "Sure 54",
+        "Sure 55",
+        "Sure 56",
+        "Sure 57"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 173,
+      "questionText": "Was ist die „Basmala“, die die meisten Suren einleitet?",
+      "answers": [
+        "Ein Gebet um Schutz",
+        "„Im Namen Allahs, des Allerbarmers, des Barmherzigen“",
+        "Ein Vers über das Fasten",
+        "Ein Aufruf zum Gebet"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 174,
+      "questionText": "Welches Tier wird als Titel einer Sure im Koran genannt?",
+      "answers": [
+        "Al-Fil (Der Elefant)",
+        "Al-Baqara (Die Kuh)",
+        "An-Naml (Die Ameise)",
+        "Alle oben genannten"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 175,
+      "questionText": "Was ist „Asbab an-Nuzul“ in der Koranwissenschaft?",
+      "answers": [
+        "Die Wissenschaft der Rezitation",
+        "Die Anlässe / Gründe der Offenbarung",
+        "Die Aufhebung von Versen",
+        "Die Grammatik des Korans"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 176,
+      "questionText": "Was bedeutet „Nasch“ in der Koranwissenschaft?",
+      "answers": [
+        "Den Koran abschreiben",
+        "Die Aufhebung einer Regelung durch eine spätere",
+        "Rezitationsregeln",
+        "Übersetzung des Korans"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 177,
+      "questionText": "Welcher Prophet wird im Koran am häufigsten erwähnt?",
+      "answers": [
+        "Ibrahim (Abraham)",
+        "Muhammad (Friede sei mit ihm)",
+        "Musa (Mose)",
+        "Isa (Jesus)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 178,
+      "questionText": "Wie hieß die erste Ehefrau des Propheten Muhammad (Friede sei mit ihm)?",
+      "answers": [
+        "Aischa",
+        "Hafsa",
+        "Chadidscha",
+        "Zainab"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 179,
+      "questionText": "Wie lautet das islamische Glaubensbekenntnis (Schahada)?",
+      "answers": [
+        "Subhanallah",
+        "La ilaha illallah Muhammadur Rasulullah",
+        "Allahu Akbar",
+        "Bismillahir Rahmanir Rahim"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 180,
+      "questionText": "Was bedeutet „Tawakkul“?",
+      "answers": [
+        "Reue",
+        "Vertrauen auf Allah",
+        "Dankbarkeit",
+        "Geduld"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 181,
+      "questionText": "Wie heißt die Prophetenmoschee in Medina?",
+      "answers": [
+        "Masjid al-Haram",
+        "Al-Aqsa-Moschee",
+        "Al-Masjid an-Nabawi",
+        "Quba-Moschee"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 182,
+      "questionText": "Was ist die „Isra und Mi'radsch“?",
+      "answers": [
+        "Die Auswanderung nach Medina",
+        "Die Nacht- und Himmelsreise des Propheten Muhammad (Friede sei mit ihm)",
+        "Die Eroberung von Mekka",
+        "Die erste Offenbarung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 183,
+      "questionText": "Mit welchem Ereignis beginnt der islamische Kalender?",
+      "answers": [
+        "Geburt des Propheten Muhammad",
+        "Die erste Offenbarung",
+        "Die Hidschra (Auswanderung nach Medina)",
+        "Die Eroberung von Mekka"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 184,
+      "questionText": "Wer war der Onkel des Propheten, der ihn beschützte, aber den Islam nicht annahm?",
+      "answers": [
+        "Hamza",
+        "Abu Lahab",
+        "Abu Talib",
+        "Abbas"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 185,
+      "questionText": "Was ist „Schura“ in der islamischen Regierungsführung?",
+      "answers": [
+        "Militärstrategie",
+        "Konsultation bei der Entscheidungsfindung",
+        "Steuereintreibung",
+        "Gerichtliche Entscheidung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 186,
+      "questionText": "Nach einem Hadith: „Die Besten unter euch sind diejenigen, die...“",
+      "answers": [
+        "... am meisten beten",
+        "... am meisten fasten",
+        "... den Koran lernen und lehren",
+        "... am meisten Almosen geben"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 187,
+      "questionText": "Was bedeutet der Hadith „Die Religion ist Aufrichtigkeit (Nasiha)“?",
+      "answers": [
+        "Nur beten",
+        "Aufrichtiger Rat gegenüber Allah, Seinem Buch, Seinem Propheten, den muslimischen Führern und der Allgemeinheit",
+        "Almosen geben",
+        "Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 188,
+      "questionText": "Was sind die „sieben vernichtenden Sünden“ nach einem Hadith?",
+      "answers": [
+        "Lügen, Betrügen, Stehlen, Mord, Neid, Verleumdung, Tratsch",
+        "Schirk (Beigesellung), Zauberei, ungerechtfertigte Tötung, Zins, Vermögensverzehrung von Waisen, Flucht vor der Schlacht, Verleumdung keuscher Frauen",
+        "Stolz, Gier, Lust, Neid, Trägheit, Zorn, Völlerei",
+        "Glücksspiel, Alkohol trinken, Lügen, Stehlen, Mord, Ehebruch, Verleumdung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 189,
+      "questionText": "Was ist ein „Hadith Ahad“?",
+      "answers": [
+        "Ein Hadith, der von einer oder wenigen Überliefererketten überliefert wird",
+        "Ein erfundener Hadith",
+        "Ein Hadith über Träume",
+        "Ein Hadith, der nur von Frauen überliefert wird"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 190,
+      "questionText": "Wer hat die Sammlung Sunan Abi Dawud zusammengestellt?",
+      "answers": [
+        "Imam al-Buchari",
+        "Abu Dawud as-Sidschistani",
+        "Imam at-Tirmidhi",
+        "Imam an-Nasa'i"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 191,
+      "questionText": "Was ist die Bedeutung von „Ihsan“, wie im Hadith des Dschibril beschrieben?",
+      "answers": [
+        "Almosen an die Armen geben",
+        "An die sechs Glaubensartikel glauben",
+        "Allah so anzubeten, als ob du Ihn sehen würdest",
+        "Den Haddsch verrichten"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 192,
+      "questionText": "Was war die erste Offenbarung, die der Prophet Muhammad (Friede sei mit ihm) empfing?",
+      "answers": [
+        "Sure Al-Fatiha",
+        "Die ersten Verse der Sure Al-Alaq (Lies / Iqra)",
+        "Sure Al-Ikhlas",
+        "Ayat al-Kursi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 193,
+      "questionText": "Wo wurde die erste Offenbarung empfangen?",
+      "answers": [
+        "In der Kaaba",
+        "In der Masjid an-Nabawi",
+        "In der Hira-Höhle",
+        "Auf dem Berg Arafat"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 194,
+      "questionText": "Wie alt war der Prophet Muhammad (Friede sei mit ihm), als er die erste Offenbarung empfing?",
+      "answers": [
+        "25 Jahre",
+        "30 Jahre",
+        "40 Jahre",
+        "45 Jahre"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 195,
+      "questionText": "Was war der Hauptgrund für die Ablehnung des Propheten Muhammad (Friede sei mit ihm) durch die Quraisch?",
+      "answers": [
+        "Er war arm",
+        "Seine Botschaft des Monotheismus bedrohte ihren Status und ihre polytheistischen Traditionen",
+        "Er wollte politische Macht",
+        "Er stammte aus einem anderen Stamm"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 196,
+      "questionText": "Was ist „Dhikr“ im Islam?",
+      "answers": [
+        "Fasten",
+        "Gedenken Allahs durch Lobpreisungen und Gebete",
+        "Eine Art der Wohltätigkeit",
+        "Ein Pilgerritual"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 197,
+      "questionText": "Was bedeutet „Subhanallah“?",
+      "answers": [
+        "Gott ist groß",
+        "Gepriesen sei Gott",
+        "Es gibt keinen Gott außer Gott",
+        "So Gott will"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 198,
+      "questionText": "Was bedeutet „Alhamdulillah“?",
+      "answers": [
+        "Gott ist groß",
+        "Gepriesen sei Gott",
+        "Alles Lob gebührt Gott",
+        "So Gott will"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 199,
+      "questionText": "Was bedeutet „Allahu Akbar“?",
+      "answers": [
+        "Gott ist groß",
+        "Gepriesen sei Gott",
+        "Alles Lob gebührt Gott",
+        "Im Namen Gottes"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 200,
+      "questionText": "Was bedeutet „Inscha'Allah“?",
+      "answers": [
+        "Gott ist groß",
+        "So Gott will",
+        "Dank sei Gott",
+        "Ich suche Zuflucht bei Gott"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 201,
+      "questionText": "Wie heißt das Fest nach dem Ramadan?",
+      "answers": [
+        "Eid al-Adha",
+        "Eid al-Fitr",
+        "Eid al-Ghadir",
+        "Eid al-Maulid"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 202,
+      "questionText": "Wie heißt das Fest während des Haddsch?",
+      "answers": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Eid al-Ghadir",
+        "Eid al-Maulid"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 203,
+      "questionText": "Wie heißt das Opfer, das während des Eid al-Adha dargebracht wird?",
+      "answers": [
+        "Sadaqa",
+        "Zakat",
+        "Qurbani / Udhiyya",
+        "Chums"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 204,
+      "questionText": "Wie viele Rak'ah hat das Eid-Gebet?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 205,
+      "questionText": "Wie heißt die Eröffnungsbitte zu Beginn des Gebets?",
+      "answers": [
+        "Taschahhud",
+        "Du'a al-Istiftah",
+        "Qunut",
+        "Tasbih"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 206,
+      "questionText": "Was spricht man im Taschahhud während des Gebets?",
+      "answers": [
+        "Subhanallah",
+        "At-tahiyyatu lillahi...",
+        "Alhamdulillahi Rabbil Alamin",
+        "Rabbana atina fid-dunya hasanah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 207,
+      "questionText": "Was war die erste Schlacht, in der die Muslime zunächst verloren?",
+      "answers": [
+        "Badr",
+        "Uhud",
+        "Khandaq",
+        "Chaibar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 208,
+      "questionText": "Wer tötete Hamza (r.a.), den Onkel des Propheten, in der Schlacht von Uhud?",
+      "answers": [
+        "Abu Dschahl",
+        "Abu Sufyan",
+        "Wahshi ibn Harb",
+        "Chalid ibn al-Walid"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 209,
+      "questionText": "Was ist die Abschiedspredigt (Chutbat al-Wada)?",
+      "answers": [
+        "Die erste Predigt in Medina",
+        "Die letzte große öffentliche Ansprache des Propheten Muhammad während des Haddsch",
+        "Eine Predigt, die in der Schlacht von Badr gehalten wurde",
+        "Die erste Predigt von Abu Bakr als Kalif"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 210,
+      "questionText": "Welche Kernbotschaft enthielt die Abschiedspredigt?",
+      "answers": [
+        "Bereite dich auf den Krieg vor",
+        "Alle Menschen sind gleich, unabhängig von der Rasse; haltet fest am Koran und der Sunna",
+        "Baut mehr Moscheen",
+        "Erweitert das islamische Reich"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 211,
+      "questionText": "Welcher Gefährte war bekannt als „Al-Faruq“ (derjenige, der Recht von Unrecht unterscheidet)?",
+      "answers": [
+        "Abu Bakr",
+        "Umar ibn al-Chattab",
+        "Ali ibn Abi Talib",
+        "Uthman ibn Affan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 212,
+      "questionText": "Welcher Gefährte war bekannt als „Dhun-Nurayn“ (Besitzer der zwei Lichter)?",
+      "answers": [
+        "Abu Bakr",
+        "Umar",
+        "Uthman ibn Affan",
+        "Ali"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 213,
+      "questionText": "Wer war die Tochter des Propheten Muhammad (Friede sei mit ihm) und Ehefrau von Ali?",
+      "answers": [
+        "Zainab",
+        "Ruqayya",
+        "Umm Kulthum",
+        "Fatima"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 214,
+      "questionText": "Was ist die „Sunna“ im Islam?",
+      "answers": [
+        "Der Koran",
+        "Die Praktiken und Traditionen des Propheten Muhammad (Friede sei mit ihm)",
+        "Die fünf Säulen",
+        "Die sechs Glaubensartikel"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 215,
+      "questionText": "Was bedeutet „Bid'a“ im Islam?",
+      "answers": [
+        "Eine gute Tat",
+        "Eine Neuerung in religiösen Angelegenheiten, die nicht vom Propheten praktiziert wurde",
+        "Eine Art des Gebets",
+        "Eine wohltätige Handlung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 216,
+      "questionText": "Welche Sure erwähnt die Geschichte der Ertrinkung des Pharaos?",
+      "answers": [
+        "Al-Baqara",
+        "Yunus",
+        "Ta-Ha",
+        "Alle genannten erwähnen sie"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 217,
+      "questionText": "Wie lautet der islamische Begriff für „erlaubt“?",
+      "answers": [
+        "Haram",
+        "Halal",
+        "Makruh",
+        "Mubah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 218,
+      "questionText": "Wie lautet der islamische Begriff für „verboten“?",
+      "answers": [
+        "Halal",
+        "Haram",
+        "Makruh",
+        "Wadschib"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 219,
+      "questionText": "Was bedeutet „Makruh“ in der islamischen Rechtslehre?",
+      "answers": [
+        "Verpflichtend",
+        "Verboten",
+        "Missbilligt, aber nicht sündhaft",
+        "Empfohlen"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 220,
+      "questionText": "Was bedeutet „Fard“?",
+      "answers": [
+        "Freiwillig",
+        "Empfohlen",
+        "Verpflichtend",
+        "Missbilligt"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 221,
+      "questionText": "Wie viele Hauptrechtsschulen (Madhahib) gibt es im sunnitischen Islam?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 222,
+      "questionText": "Welche der folgenden ist KEINE sunnitische Rechtsschule?",
+      "answers": [
+        "Hanafiten",
+        "Dscha'fariten",
+        "Schafi'iten",
+        "Hanbaliten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 223,
+      "questionText": "Wer gründete die hanafitische Rechtsschule?",
+      "answers": [
+        "Imam Malik",
+        "Imam Schafi'i",
+        "Imam Abu Hanifa",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 224,
+      "questionText": "Was ist „Fiqh“ im Islam?",
+      "answers": [
+        "Islamische Theologie",
+        "Islamische Rechtswissenschaft (Verständnis der religiösen Gesetze)",
+        "Islamische Mystik",
+        "Islamische Geschichte"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 225,
+      "questionText": "Was ist „Tafsir“?",
+      "answers": [
+        "Islamisches Recht",
+        "Exegese / Auslegung des Korans",
+        "Hadith-Wissenschaft",
+        "Islamische Mystik"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 226,
+      "questionText": "Welche Stadt ist als „Stadt des Propheten“ bekannt?",
+      "answers": [
+        "Mekka",
+        "Medina",
+        "Jerusalem",
+        "Damaskus"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 227,
+      "questionText": "Was sind die drei heiligsten Moscheen im Islam?",
+      "answers": [
+        "Masjid al-Haram, Masjid an-Nabawi, Al-Aqsa-Moschee",
+        "Quba-Moschee, Masjid al-Haram, Masjid an-Nabawi",
+        "Masjid al-Haram, Blaue Moschee, Al-Azhar",
+        "Masjid an-Nabawi, Al-Aqsa-Moschee, Quba-Moschee"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 228,
+      "questionText": "Was ist „Sadaqa Dschariya“ (fortlaufende Wohltätigkeit)?",
+      "answers": [
+        "Einmalige Wohltätigkeit",
+        "Wohltätigkeit, deren Nutzen über den Tod des Gebers hinaus anhält",
+        "Verpflichtende Wohltätigkeit",
+        "Wohltätigkeit, die nur im Ramadan gegeben wird"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 229,
+      "questionText": "Wie hoch ist die Belohnung für das Gebet in der Masjid al-Haram im Vergleich zu anderen Moscheen?",
+      "answers": [
+        "10-fach",
+        "1.000-fach",
+        "100.000-fach",
+        "500-fach"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 230,
+      "questionText": "Was ist Zamzam-Wasser?",
+      "answers": [
+        "Wasser aus dem Nil",
+        "Heiliges Wasser aus einem Brunnen in Mekka nahe der Kaaba",
+        "In Medina gesammeltes Regenwasser",
+        "Wasser aus dem Toten Meer"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 231,
+      "questionText": "Welche Frau welches Propheten entdeckte der Überlieferung nach den Zamzam-Brunnen?",
+      "answers": [
+        "Sarah",
+        "Hadschar (Hagar)",
+        "Maryam",
+        "Chadidscha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 232,
+      "questionText": "Was ist „Tawba“ im Islam?",
+      "answers": [
+        "Dankbarkeit",
+        "Geduld",
+        "Reue",
+        "Vertrauen auf Allah"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 233,
+      "questionText": "Was ist „Sabr“ im Islam?",
+      "answers": [
+        "Dankbarkeit",
+        "Geduld und Ausdauer",
+        "Almosen",
+        "Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 234,
+      "questionText": "Was ist „Schukr“ im Islam?",
+      "answers": [
+        "Geduld",
+        "Dankbarkeit und Lobpreis gegenüber Allah",
+        "Fasten",
+        "Gebet"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 235,
+      "questionText": "Was ist „Taqwa“?",
+      "answers": [
+        "Pilgerfahrt",
+        "Gottesbewusstsein und Frömmigkeit",
+        "Almosen",
+        "Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 236,
+      "questionText": "Was ist der „Schwarze Stein“ (al-Hadschr al-Aswad)?",
+      "answers": [
+        "Ein Meteorit in einem Museum",
+        "Ein heiliger Stein, der in die Ecke der Kaaba eingelassen ist",
+        "Ein Stein vom Berg Sinai",
+        "Ein Stein in der Al-Aqsa-Moschee"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 237,
+      "questionText": "Was bedeutet „Tawaf“?",
+      "answers": [
+        "Das Stehen auf Arafat",
+        "Die siebenmalige Umkreisung der Kaaba",
+        "Das Gehen zwischen Safa und Marwa",
+        "Das Steinewerfen auf die Dschamarat"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 238,
+      "questionText": "Was ist „Rami al-Dschamarat“ während des Haddsch?",
+      "answers": [
+        "Tawaf um die Kaaba",
+        "Steinigung der Säulen (symbolische Ablehnung Satans)",
+        "Stehen auf Arafat",
+        "Laufen zwischen Safa und Marwa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 239,
+      "questionText": "Was ist die letzte Sure des Korans (nach Meinung der meisten Gelehrten)?",
+      "answers": [
+        "Al-Fatiha",
+        "An-Nasr",
+        "Al-Ma'ida",
+        "At-Tawba"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 240,
+      "questionText": "Welche Sure heißt „Das Kapitel vom Elefanten“?",
+      "answers": [
+        "Al-Fil",
+        "Al-Baqara",
+        "An-Nahl",
+        "Al-Ankabut"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 241,
+      "questionText": "Was ist die Bedeutung der Sure Al-Fil?",
+      "answers": [
+        "Sie behandelt Speisegesetze",
+        "Sie erzählt die Geschichte der Elefantenarmee, die Mekka angriff",
+        "Sie behandelt das Erbrecht",
+        "Sie handelt vom Jüngsten Gericht"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 242,
+      "questionText": "Welche Sure enthält den Vers über das Gleichnis eines guten Wortes, das einem guten Baum gleicht?",
+      "answers": [
+        "Ibrahim (14:24-25)",
+        "Al-Baqara",
+        "An-Nisa",
+        "Al-Anfal"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 243,
+      "questionText": "Worum geht es im „Thronvers“ (Ayat al-Kursi)?",
+      "answers": [
+        "Die Geschichte von Musa",
+        "Die Eigenschaften und die Größe Allahs",
+        "Der Jüngste Tag",
+        "Die Erschaffung der Menschen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 244,
+      "questionText": "Welche Sure ist bekannt als „Die Spinne“?",
+      "answers": [
+        "An-Naml",
+        "An-Nahl",
+        "Al-Ankabut",
+        "Al-Fil"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 245,
+      "questionText": "Welcher muslimische Astronom ist für seine Arbeiten zur Optik und zur Camera obscura bekannt?",
+      "answers": [
+        "Al-Chwarizmi",
+        "Ibn al-Haitham",
+        "Al-Biruni",
+        "Ar-Razi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 246,
+      "questionText": "Was war das „Haus der Weisheit“ (Bait al-Hikma)?",
+      "answers": [
+        "Eine Moschee in Mekka",
+        "Eine Bibliothek und wissenschaftliches Zentrum in Bagdad während der Abbasidenzeit",
+        "Ein Markt in Damaskus",
+        "Eine Schule in Cordoba"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 247,
+      "questionText": "Wer ist als der „Imam des Haram“ und Hadith-Gelehrter bekannt?",
+      "answers": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Schafi'i",
+        "Imam al-Buchari"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 248,
+      "questionText": "Was ist „Waqf“ im islamischen Recht?",
+      "answers": [
+        "Eine Art des Fastens",
+        "Eine Stiftung von Eigentum für religiöse oder wohltätige Zwecke",
+        "Ein Ehevertrag",
+        "Ein Handelsabkommen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 249,
+      "questionText": "Was ist „Riba“ im Islam?",
+      "answers": [
+        "Almosen",
+        "Zins / Wucher (im Islam verboten)",
+        "Eine Art des Gebets",
+        "Handel"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 250,
+      "questionText": "Worauf bezieht sich „Umma“ im Islam?",
+      "answers": [
+        "Die Familie des Propheten",
+        "Die weltweite muslimische Gemeinschaft",
+        "Die Pilger beim Haddsch",
+        "Die Gelehrten des Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 251,
+      "questionText": "Welcher Prophet ist als „Kalimullah“ (der mit Allah sprach) bekannt?",
+      "answers": [
+        "Ibrahim",
+        "Adam",
+        "Musa (Mose)",
+        "Muhammad (Friede sei mit ihm)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 252,
+      "questionText": "Was erbat der Prophet Sulaiman (Salomo) von Allah?",
+      "answers": [
+        "Reichtum",
+        "Ein Königreich, wie es niemand nach ihm haben sollte",
+        "Ein langes Leben",
+        "Viele Kinder"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 253,
+      "questionText": "Welches Wunder vollbrachte der Prophet Isa (Jesus) als Baby?",
+      "answers": [
+        "Er ging auf dem Wasser",
+        "Er sprach aus der Wiege",
+        "Er heilte Blinde",
+        "Er verwandelte Wasser in Milch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 254,
+      "questionText": "Welcher Prophet wird mit dem Wunder eines gedeckten Tisches vom Himmel in Verbindung gebracht?",
+      "answers": [
+        "Musa (Mose)",
+        "Ibrahim (Abraham)",
+        "Isa (Jesus)",
+        "Muhammad (Friede sei mit ihm)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 255,
+      "questionText": "Wie lautet der koranische Begriff für Christen und Juden?",
+      "answers": [
+        "Muschrikun",
+        "Ahl al-Kitab (Leute des Buches)",
+        "Munafiqun",
+        "Kafirun"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 256,
+      "questionText": "Was bedeutet „La ilaha illallah“?",
+      "answers": [
+        "Gott ist der Größte",
+        "Es gibt keine Gottheit außer Allah",
+        "Lob sei Gott",
+        "Im Namen Gottes"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 257,
+      "questionText": "Wie heißen die Enkel des Propheten Muhammad (Friede sei mit ihm)?",
+      "answers": [
+        "Abu Bakr und Umar",
+        "Hasan und Husain",
+        "Hamza und Abbas",
+        "Zaid und Abdullah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 258,
+      "questionText": "Welches tragische Ereignis ereignete sich mit Husain (r.a.) in Kerbela?",
+      "answers": [
+        "Er wurde verbannt",
+        "Er wurde mit seiner Familie martyrisiert",
+        "Er gewann eine große Schlacht",
+        "Er wurde Kalif"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 259,
+      "questionText": "In welchem Jahr (n. Chr.) fand die Schlacht von Kerbela statt?",
+      "answers": [
+        "661 n. Chr.",
+        "670 n. Chr.",
+        "680 n. Chr.",
+        "690 n. Chr."
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 260,
+      "questionText": "Wer war der fünfte rechtgeleitete Kalif nach Ansicht einiger Gelehrter?",
+      "answers": [
+        "Yazid",
+        "Mu'awiya II.",
+        "Umar ibn Abd al-Aziz",
+        "Abd al-Malik ibn Marwan"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 261,
+      "questionText": "Was ist die Bedeutung des Tages von Aschura (10. Muharram)?",
+      "answers": [
+        "Er markiert die Geburt des Propheten",
+        "Er markiert den Tag, an dem Musa (Mose) vor dem Pharao gerettet wurde",
+        "Es ist der Tag von Eid",
+        "Er markiert den Beginn des Ramadan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 262,
+      "questionText": "Was ist „Qiyas“ in der islamischen Rechtswissenschaft?",
+      "answers": [
+        "Konsens",
+        "Analogieschluss",
+        "Meinungsäußerung",
+        "Prophetische Tradition"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 263,
+      "questionText": "Was ist „Idschema'“ in der islamischen Rechtswissenschaft?",
+      "answers": [
+        "Analogieschluss",
+        "Meinungsäußerung",
+        "Konsens der Gelehrten",
+        "Prophetische Tradition"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 264,
+      "questionText": "Was sind die „Maqasid asch-Scharia“?",
+      "answers": [
+        "Die fünf Säulen des Islam",
+        "Die Ziele / Zwecke des islamischen Rechts",
+        "Die Glaubensartikel",
+        "Die Gebetsregeln"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 265,
+      "questionText": "Was sind die fünf Dinge, die die Scharia zu schützen sucht?",
+      "answers": [
+        "Vermögen, Land, Familie, Ehre, Wissen",
+        "Religion, Leben, Verstand, Abstammung, Eigentum",
+        "Gebet, Fasten, Almosen, Pilgerfahrt, Glaube",
+        "Koran, Sunna, Konsens, Analogie, Brauch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 266,
+      "questionText": "Was ist „Amana“ im Islam?",
+      "answers": [
+        "Geduld",
+        "Vertrauen und Verantwortung",
+        "Gebet",
+        "Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 267,
+      "questionText": "Was ist das islamische Konzept des „Tawhid“?",
+      "answers": [
+        "Prophetentum",
+        "Die Einheit Gottes",
+        "Der Jüngste Tag",
+        "Almosen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 268,
+      "questionText": "Was ist „Schirk“ im Islam?",
+      "answers": [
+        "Fünfmal täglich beten",
+        "Allah Gefährten beigesellen (Polytheismus)",
+        "Almosen geben",
+        "Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 269,
+      "questionText": "Was ist „Nifaq“ (Heuchelei) im Islam?",
+      "answers": [
+        "Aufrichtige Anbetung",
+        "Äußerlich Glauben zeigen, innerlich jedoch Unglauben verbergen",
+        "Almosen geben",
+        "Den Haddsch verrichten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 270,
+      "questionText": "Wofür sind die Engel Munkar und Nakir bekannt?",
+      "answers": [
+        "Sie zeichnen gute und schlechte Taten auf",
+        "Sie befragen die Toten im Grab",
+        "Sie bewachen die Hölle",
+        "Sie tragen den Thron Allahs"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 271,
+      "questionText": "Wofür ist der Engel Israfil bekannt?",
+      "answers": [
+        "Überbringung der Offenbarung",
+        "Das Blasen der Trompete am Jüngsten Tag",
+        "Die Seelen nehmen",
+        "Regen bringen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 272,
+      "questionText": "Wofür ist der Engel Mikail verantwortlich?",
+      "answers": [
+        "Offenbarung",
+        "Lebensunterhalt und Versorgung",
+        "Tod",
+        "Aufzeichnung der Taten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 273,
+      "questionText": "Was ist „Barzach“ in der islamischen Eschatologie?",
+      "answers": [
+        "Das Paradies",
+        "Die Barriere / das Reich zwischen Tod und Auferstehung",
+        "Die Hölle",
+        "Der Jüngste Tag"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 274,
+      "questionText": "Was ist „as-Sirat“ im islamischen Glauben?",
+      "answers": [
+        "Ein Fluss im Paradies",
+        "Eine Brücke über die Hölle, die alle überqueren müssen",
+        "Das Tor zum Paradies",
+        "Ein Berg am Jüngsten Tag"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 275,
+      "questionText": "Was ist „Mizan“ im Zusammenhang mit dem Jüngsten Tag?",
+      "answers": [
+        "Ein Buch der Taten",
+        "Die Waage, auf der die Taten gewogen werden",
+        "Eine Art Bestrafung",
+        "Eine Belohnung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 276,
+      "questionText": "Was sind die großen Zeichen des Jüngsten Tages?",
+      "answers": [
+        "Erdbeben und Überschwemmungen",
+        "Das Kommen des Daddschal, die Rückkehr von Isa, und Ya'gog und Ma'gog",
+        "Sonnenfinsternis",
+        "Eine große Seuche"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 277,
+      "questionText": "Was ist „ad-Daddschal“ in der islamischen Eschatologie?",
+      "answers": [
+        "Ein Engel",
+        "Der Antichrist / Falscher Messias",
+        "Ein Prophet",
+        "Ein König"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 278,
+      "questionText": "Wer hat die Hadith-Sammlung „Al-Muwatta'“ zusammengestellt?",
+      "answers": [
+        "Imam al-Buchari",
+        "Imam Muslim",
+        "Imam Malik",
+        "Imam Ahmad"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 279,
+      "questionText": "Was ist der Musnad von Imam Ahmad?",
+      "answers": [
+        "Ein Tafsir-Buch",
+        "Eine große Hadith-Sammlung, geordnet nach Überlieferern",
+        "Ein Buch über Fiqh",
+        "Ein Buch über Tadschwid"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 280,
+      "questionText": "Was sind einem Hadith zufolge die drei Dinge, deren Belohnung auch nach dem Tod weitergeht?",
+      "answers": [
+        "Gebet, Fasten, Haddsch",
+        "Ein frommes Kind, das für einen betet, eine fortlaufende Wohltätigkeit und nützliches Wissen",
+        "Reichtum, Eigentum und Geschäfte",
+        "Koranrezitation, Dhikr und Salah"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 281,
+      "questionText": "Was ist die Bedeutung des „Hadith von Dschibril“?",
+      "answers": [
+        "Ein Hadith über Engel",
+        "Ein Hadith, in dem Dschibril nach Islam, Iman und Ihsan fragt",
+        "Ein Hadith über die Nacht- und Himmelsreise",
+        "Ein Hadith über das Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 282,
+      "questionText": "Was bezeichnet der Begriff „Tabi'in“?",
+      "answers": [
+        "Die Gefährten des Propheten",
+        "Die Generation, die die Gefährten traf, aber nicht den Propheten",
+        "Die Schreiber des Korans",
+        "Moderne Gelehrte"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 283,
+      "questionText": "Was bedeutet „Sahabi“ (Plural: Sahaba)?",
+      "answers": [
+        "Ein Gelehrter",
+        "Ein Gefährte des Propheten Muhammad (Friede sei mit ihm)",
+        "Ein Hadith-Überlieferer",
+        "Ein Koranmemorierer"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 284,
+      "questionText": "Wer war Abu Huraira?",
+      "answers": [
+        "Ein Militärgeneral",
+        "Ein Gefährte, der für die Überlieferung der meisten Hadithe bekannt ist",
+        "Ein Koranschreiber",
+        "Ein Kalif"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 285,
+      "questionText": "Wie viele Hadithe soll Abu Huraira überliefert haben?",
+      "answers": [
+        "Etwa 500",
+        "Etwa 1.500",
+        "Etwa 5.374",
+        "Etwa 10.000"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 286,
+      "questionText": "Was ist der Unterschied zwischen dem „Koran“ und dem „Hadith Qudsi“?",
+      "answers": [
+        "Es gibt keinen Unterschied",
+        "Der Koran ist Allahs exaktes Wort; der Hadith Qudsi ist Allahs Sinn in den Worten des Propheten",
+        "Hadith Qudsi ist authentischer",
+        "Der Koran ist nur für das Gebet"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 287,
+      "questionText": "Welche Sure erwähnt Bienen und ihr Produkt (Honig)?",
+      "answers": [
+        "An-Nahl (Die Biene)",
+        "An-Naml (Die Ameise)",
+        "Al-Ankabut (Die Spinne)",
+        "Al-Fil (Der Elefant)"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 288,
+      "questionText": "Welche Sure erwähnt Eisen und seinen Nutzen?",
+      "answers": [
+        "Al-Baqara",
+        "Al-Hadid (Das Eisen)",
+        "An-Nisa",
+        "Al-Ma'ida"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 289,
+      "questionText": "Welche Sure heißt „Das Licht“?",
+      "answers": [
+        "Al-Isra",
+        "An-Nur",
+        "Al-Furqan",
+        "Ya-Sin"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 290,
+      "questionText": "Welche Sure heißt „Die Unterscheidung“?",
+      "answers": [
+        "Al-Furqan",
+        "An-Nur",
+        "Al-Hadsch",
+        "Al-Mu'minun"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 291,
+      "questionText": "Was bedeutet „Al-Furqan“?",
+      "answers": [
+        "Das Licht",
+        "Die Unterscheidung (zwischen Recht und Unrecht)",
+        "Die Barmherzigkeit",
+        "Die Eröffnung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 292,
+      "questionText": "Welche Sure erzählt die Geschichte der Gefährten des Gartens?",
+      "answers": [
+        "Al-Kahf",
+        "Al-Qalam (Der Schreibrohr)",
+        "Al-Baqara",
+        "Ar-Rahman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 293,
+      "questionText": "Welche ist die einzige Sure, die nach einer Frau benannt ist?",
+      "answers": [
+        "An-Nisa (Die Frauen)",
+        "Maryam (Maria)",
+        "Al-Mudschadila",
+        "At-Talaq"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 294,
+      "questionText": "Welcher Prophet war für die Traumdeutung bekannt?",
+      "answers": [
+        "Dawud (David)",
+        "Sulaiman (Salomo)",
+        "Yusuf (Joseph)",
+        "Ibrahim (Abraham)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 295,
+      "questionText": "Was deutete der Prophet Yusuf (Joseph) aus dem Traum des Königs von 7 fetten und 7 mageren Kühen?",
+      "answers": [
+        "Krieg und Frieden",
+        "7 Jahre des Überflusses, gefolgt von 7 Jahren der Hungersnot",
+        "Reichtum und Armut",
+        "Geburt und Tod"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 296,
+      "questionText": "Welcher Prophet war der Vater von Ishaq (Isaak) und Isma'il (Ismael)?",
+      "answers": [
+        "Adam",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)",
+        "Ya'qub (Jakob)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 297,
+      "questionText": "Wie lange predigte der Prophet Nuh (Noah) nach Überlieferung?",
+      "answers": [
+        "100 Jahre",
+        "500 Jahre",
+        "950 Jahre",
+        "200 Jahre"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 298,
+      "questionText": "Welcher Prophet wird mit der Teilung des Meeres in Verbindung gebracht?",
+      "answers": [
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)",
+        "Musa (Mose)",
+        "Sulaiman (Salomo)"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 299,
+      "questionText": "Welches Buch wurde dem Propheten Isa (Jesus) offenbart?",
+      "answers": [
+        "Die Tora",
+        "Der Zabur",
+        "Das Injil (Evangelium)",
+        "Der Koran"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 300,
+      "questionText": "Welcher Prophet war der Sohn des Propheten Dawud (David)?",
+      "answers": [
+        "Musa",
+        "Sulaiman (Salomo)",
+        "Yunus",
+        "Ayyub"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 301,
+      "questionText": "Was war das Wunder des Propheten Dawud?",
+      "answers": [
+        "Er konnte fliegen",
+        "Er konnte Eisen erweichen, und die Berge lobpreisten Allah mit ihm",
+        "Er konnte auf dem Wasser gehen",
+        "Er konnte unsichtbar werden"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 302,
+      "questionText": "Welcher Prophet ist sowohl Prophet als auch König?",
+      "answers": [
+        "Muhammad (Friede sei mit ihm)",
+        "Dawud (David)",
+        "Ibrahim (Abraham)",
+        "Sowohl Dawud als auch Sulaiman"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 303,
+      "questionText": "Welcher Prophet wird mit dem Wunder eines toten Vogels, der wieder zum Leben erwacht, in Verbindung gebracht?",
+      "answers": [
+        "Musa",
+        "Isa (Jesus)",
+        "Ibrahim (Abraham)",
+        "Sowohl Isa als auch Ibrahim"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 5,
+      "category": "Propheten"
+    },
+    {
+      "id": 304,
+      "questionText": "Welchem Stamm gehörte der Prophet Muhammad (Friede sei mit ihm) an?",
+      "answers": [
+        "Banu Hashim der Quraisch",
+        "Banu Tamim",
+        "Banu Aws",
+        "Banu Chazradsch"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 305,
+      "questionText": "Wie hieß der Vater des Propheten Muhammad (Friede sei mit ihm)?",
+      "answers": [
+        "Abu Talib",
+        "Abdullah",
+        "Abdul Muttalib",
+        "Hamza"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 306,
+      "questionText": "Wie hieß die Mutter des Propheten Muhammad (Friede sei mit ihm)?",
+      "answers": [
+        "Chadidscha",
+        "Amina",
+        "Halima",
+        "Fatima"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 307,
+      "questionText": "Wer zog den Propheten Muhammad (Friede sei mit ihm) nach dem Tod seiner Mutter auf?",
+      "answers": [
+        "Abu Bakr",
+        "Sein Onkel Abu Talib",
+        "Sein Großvater Abdul Muttalib, dann Abu Talib",
+        "Waraqa ibn Nawfal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 308,
+      "questionText": "Wer war Halima as-Sa'diya?",
+      "answers": [
+        "Die Mutter des Propheten",
+        "Die Amme / Ziehmutter des Propheten",
+        "Die Ehefrau des Propheten",
+        "Die Tochter des Propheten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 309,
+      "questionText": "Welchem Beruf ging der Prophet Muhammad (Friede sei mit ihm) vor der Prophetenschaft nach?",
+      "answers": [
+        "Landwirtschaft",
+        "Kaufmann / Händler",
+        "Schmied",
+        "Hirte und später Händler"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 310,
+      "questionText": "Welcher Titel wurde dem Propheten Muhammad (Friede sei mit ihm) bereits vor der Prophetenschaft aufgrund seines Charakters verliehen?",
+      "answers": [
+        "Al-Muchtar",
+        "Al-Amin (Der Vertrauenswürdige)",
+        "Al-Faruq",
+        "As-Siddiq"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 311,
+      "questionText": "Welches Verhältnis besteht zwischen den Propheten Musa und Harun?",
+      "answers": [
+        "Vater und Sohn",
+        "Brüder",
+        "Cousins",
+        "Lehrer und Schüler"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Propheten"
+    },
+    {
+      "id": 312,
+      "questionText": "Welcher Prophet war der islamischen Überlieferung nach auch Zimmermann?",
+      "answers": [
+        "Adam",
+        "Nuh (Noah)",
+        "Idris",
+        "Zakariyya"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 313,
+      "questionText": "Wer war der Prophet Yahya (Johannes)?",
+      "answers": [
+        "Sohn Ibrahims",
+        "Sohn Zakariyyas",
+        "Sohn Dawuds",
+        "Sohn Sulaimans"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 314,
+      "questionText": "Wie erhielt der Prophet Zakariyya im Koran die Nachricht von einem Sohn (Yahya)?",
+      "answers": [
+        "Durch einen Traum",
+        "Durch Engel, während er in seiner Kammer betete",
+        "Durch einen anderen Propheten",
+        "Durch seine Frau"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 315,
+      "questionText": "Welche Prüfung gab Allah dem Propheten Ibrahim bezüglich seines Sohnes Isma'il?",
+      "answers": [
+        "Ihn in der Wüste zurückzulassen",
+        "Ihn zu opfern",
+        "Ihn auf eine Reise zu schicken",
+        "Sowohl A als auch B"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 316,
+      "questionText": "Was wurde anstelle von Isma'il eingesetzt, als Ibrahim ihn opfern wollte?",
+      "answers": [
+        "Ein Kamel",
+        "Ein Widder",
+        "Eine Ziege",
+        "Eine Kuh"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 317,
+      "questionText": "Was ist die „Isra“ in der islamischen Geschichte?",
+      "answers": [
+        "Die Auswanderung nach Medina",
+        "Die Nacht- und Himmelsreise von Mekka nach Jerusalem",
+        "Die Eroberung von Mekka",
+        "Die erste Offenbarung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 318,
+      "questionText": "Was ist die „Mi'radsch“?",
+      "answers": [
+        "Die Auswanderung",
+        "Die Himmelfahrt durch die Himmel",
+        "Eine Art des Gebets",
+        "Eine Schlacht"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 319,
+      "questionText": "Was wurde während der Mi'radsch verordnet?",
+      "answers": [
+        "Das Fasten",
+        "Der Haddsch",
+        "Die fünf täglichen Gebete",
+        "Die Zakat"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 320,
+      "questionText": "Wie viele tägliche Gebete wurden ursprünglich verordnet, bevor sie auf fünf reduziert wurden?",
+      "answers": [
+        "10",
+        "25",
+        "50",
+        "100"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 321,
+      "questionText": "Welcher Prophet riet Muhammad (Friede sei mit ihm), eine Reduzierung der Anzahl der Gebete zu beantragen?",
+      "answers": [
+        "Ibrahim",
+        "Isa",
+        "Musa (Mose)",
+        "Adam"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 322,
+      "questionText": "Was bedeutet „Baraka“?",
+      "answers": [
+        "Bestrafung",
+        "Göttlicher Segen und Zuwachs",
+        "Weisheit",
+        "Reinheit"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 323,
+      "questionText": "Was ist „Du'a“?",
+      "answers": [
+        "Eine Art des Fastens",
+        "Bittgebet / persönliches Gebet zu Allah",
+        "Ein Kapitel des Korans",
+        "Ein Ritual des Haddsch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 324,
+      "questionText": "Was ist die Bedeutung der Nacht des 15. Scha'ban?",
+      "answers": [
+        "Es ist Eid",
+        "Eine Nacht der Vergebung und Barmherzigkeit gemäß einigen Hadithen",
+        "Der Beginn des Ramadan",
+        "Der Tag von Arafa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 325,
+      "questionText": "Was ist die „Sira“ in der Islamwissenschaft?",
+      "answers": [
+        "Die Hadith-Wissenschaft",
+        "Die Biographie des Propheten Muhammad (Friede sei mit ihm)",
+        "Koranexegese",
+        "Islamisches Recht"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 326,
+      "questionText": "Wer verfasste die früheste bedeutende Sira (Biographie) des Propheten?",
+      "answers": [
+        "Ibn Hischam",
+        "Ibn Ishaq",
+        "At-Tabari",
+        "Ibn Kathir"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 327,
+      "questionText": "Was ist „Aqida“ im Islam?",
+      "answers": [
+        "Islamisches Recht",
+        "Islamisches Glaubensbekenntnis / Glaubenssystem",
+        "Islamische Geschichte",
+        "Islamische Kunst"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 328,
+      "questionText": "Was ist „Tasawwuf“ (Sufismus)?",
+      "answers": [
+        "Islamisches Recht",
+        "Islamische Mystik mit Schwerpunkt auf innerer Reinigung",
+        "Islamische Theologie",
+        "Politischer Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 329,
+      "questionText": "Wer schrieb „Ihya' Ulum ad-Din“ (Die Wiederbelebung der Religionswissenschaften)?",
+      "answers": [
+        "Ibn Ruschd",
+        "Al-Ghazali",
+        "Ibn Sina",
+        "Ibn Taymiyya"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 330,
+      "questionText": "Was ist die „Chutba“?",
+      "answers": [
+        "Eine Art des Fastens",
+        "Eine Predigt, insbesondere die vor dem Freitagsgebet",
+        "Eine Art der Wohltätigkeit",
+        "Ein Heiratsantrag"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 331,
+      "questionText": "Was ist „Nikah“ im Islam?",
+      "answers": [
+        "Scheidung",
+        "Ehevertrag",
+        "Almosen",
+        "Erbschaft"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 332,
+      "questionText": "Was ist „Mahr“ in der islamischen Ehe?",
+      "answers": [
+        "Eine Hochzeitsfeier",
+        "Eine obligatorische Gabe des Bräutigams an die Braut",
+        "Eine Art des Gebets",
+        "Die Heiratsurkunde"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 333,
+      "questionText": "Was ist „Walima“?",
+      "answers": [
+        "Ein Ehevertrag",
+        "Ein Hochzeitsmahl",
+        "Eine Scheidung",
+        "Ein Gebet"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 334,
+      "questionText": "Der Koranvers „Wahrlich, mit der Erschwernis kommt die Erleichterung“ findet sich in welcher Sure?",
+      "answers": [
+        "Al-Baqara",
+        "Asch-Scharh (Al-Inschirah)",
+        "Al-Fatiha",
+        "An-Nas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 335,
+      "questionText": "Welche Sure enthält das Gleichnis vom Licht (Ayat an-Nur)?",
+      "answers": [
+        "Al-Baqara",
+        "An-Nur (24:35)",
+        "Al-Isra",
+        "Al-Mulk"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 336,
+      "questionText": "Worauf bezieht sich „Dschanna“ im Islam?",
+      "answers": [
+        "Die Hölle",
+        "Das Paradies",
+        "Das Grab",
+        "Das diesseitige Leben"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 337,
+      "questionText": "Worauf bezieht sich „Dschahannam“?",
+      "answers": [
+        "Das Paradies",
+        "Die Hölle",
+        "Das Grab",
+        "Der Fegefeuer"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 338,
+      "questionText": "Wie viele Tore hat das Paradies laut Hadith?",
+      "answers": [
+        "4",
+        "7",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 339,
+      "questionText": "Wie heißt das Tor des Paradieses für die Fastenden?",
+      "answers": [
+        "Bab as-Salah",
+        "Bab ar-Rayyan",
+        "Bab al-Dschihad",
+        "Bab as-Sadaqa"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 340,
+      "questionText": "Was ist „Qadr“ (Göttliche Vorherbestimmung)?",
+      "answers": [
+        "Freier Wille",
+        "Allahs Vorherbestimmung und göttlicher Wille für alle Ereignisse",
+        "Eine Art des Gebets",
+        "Eine Hadith-Klassifikation"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 341,
+      "questionText": "Was ist der Unterschied zwischen „Kitabi Qadr“ und „aktivem Qadr“?",
+      "answers": [
+        "Es gibt keinen Unterschied",
+        "Kitabi ist, was geschrieben steht; Aktiv ist, was in Echtzeit durch Allahs Willen geschieht",
+        "Kitabi ist für Propheten; Aktiv ist für alle",
+        "Kitabi ist der Koran; Aktiv ist der Hadith"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 342,
+      "questionText": "Welche Sure beginnt mit einem Schwur bei der Sonne?",
+      "answers": [
+        "Al-Fadschr",
+        "Asch-Schams",
+        "Al-Lail",
+        "Ad-Duha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 343,
+      "questionText": "Welche Sure beginnt mit einem Schwur beim Morgenlicht?",
+      "answers": [
+        "Al-Fadschr",
+        "Asch-Schams",
+        "Ad-Duha",
+        "Al-Lail"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 344,
+      "questionText": "Welche Sure beginnt mit „Bei der Zeit, der Mensch ist wahrlich im Verlust“?",
+      "answers": [
+        "Al-Asr",
+        "Ad-Duha",
+        "Al-Fadschr",
+        "Al-Lail"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 345,
+      "questionText": "Was lehrt die Sure Al-Asr?",
+      "answers": [
+        "Erbrecht",
+        "Die Bedeutung von Glaube, guten Taten, Wahrheit und Geduld",
+        "Die Geschichte von Mose",
+        "Die Gebetsregeln"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 346,
+      "questionText": "Welche Schlachten wurden zwischen den frühen Muslimen Medinas vor der Eroberung Mekkas ausgetragen?",
+      "answers": [
+        "Badr, Uhud und al-Chandaq",
+        "Ain Dschalut",
+        "Yarmuk",
+        "Qadisiyya"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 347,
+      "questionText": "Was war das Ergebnis der Schlacht von Badr?",
+      "answers": [
+        "Niederlage für die Muslime",
+        "Sieg für die Muslime, obwohl sie zahlenmäßig unterlegen waren",
+        "Unentschieden",
+        "Rückzug"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 348,
+      "questionText": "Wie viele Muslime kämpften in der Schlacht von Badr?",
+      "answers": [
+        "Etwa 100",
+        "Etwa 313",
+        "Etwa 700",
+        "Etwa 1000"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 349,
+      "questionText": "Was bedeutet der Name „Muhammad“?",
+      "answers": [
+        "Der Vertrauenswürdige",
+        "Der Gepriesene",
+        "Der Führer",
+        "Der Prophet"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 350,
+      "questionText": "Was bedeutet der Name „Ahmad“ (ein anderer Name des Propheten)?",
+      "answers": [
+        "Der Führer",
+        "Der Preiswürdigste",
+        "Der Wahrhaftige",
+        "Der Großzügige"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 351,
+      "questionText": "Was ist die „Sira Nabawiyya“?",
+      "answers": [
+        "Koranexegese",
+        "Die prophetische Biographie Muhammads (Friede sei mit ihm)",
+        "Hadith-Sammlung",
+        "Islamische Rechtswissenschaft"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 352,
+      "questionText": "Welche Sure warnt Abu Lahab?",
+      "answers": [
+        "Sure Al-Fatiha",
+        "Sure Al-Masad (Al-Lahab)",
+        "Sure Al-Kafirun",
+        "Sure An-Nasr"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 353,
+      "questionText": "Was bedeutet „Tafakkur“ im Islam?",
+      "answers": [
+        "Fasten",
+        "Tiefes Nachdenken und Kontemplation",
+        "Almosen",
+        "Rezitation"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 354,
+      "questionText": "Was ist „Husn al-Chuluq“ (Guter Charakter) gemäß dem Islam?",
+      "answers": [
+        "Reichtum",
+        "Eines der schwersten Dinge auf der Waage am Jüngsten Tag",
+        "Eine Art des Gebets",
+        "Körperliche Stärke"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 355,
+      "questionText": "Nach einem Hadith: „Der Muslim ist der, von dessen Zunge und Hand...“",
+      "answers": [
+        "... andere Nutzen ziehen",
+        "... andere sicher sind",
+        "... Wissen kommt",
+        "... Gebet kommt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 356,
+      "questionText": "Was lehrt der Hadith „Macht es einfach und macht es nicht schwer“?",
+      "answers": [
+        "Vermeide alle Härten",
+        "Das Prinzip der Erleichterung und Sanftmut in der Religion",
+        "Nie fasten",
+        "Schwierige Pflichten auslassen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 357,
+      "questionText": "Welche Bedeutung hat die Al-Aqsa-Moschee im Islam?",
+      "answers": [
+        "Sie ist der Geburtsort des Propheten",
+        "Sie war die erste Qibla und das Ziel der Isra",
+        "Sie ist die größte Moschee",
+        "Sie wurde von Muhammad (PSL) erbaut"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 358,
+      "questionText": "Welche Sure heißt „Die Römer“?",
+      "answers": [
+        "Al-Qasas",
+        "Ar-Rum",
+        "Luqman",
+        "As-Sadschda"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 359,
+      "questionText": "Welche Vorhersage über die Römer wird in der Sure Ar-Rum gemacht?",
+      "answers": [
+        "Sie würden für immer fallen",
+        "Sie würden die Perser innerhalb weniger Jahre besiegen",
+        "Sie würden den Islam annehmen",
+        "Sie würden einen großen Tempel bauen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 360,
+      "questionText": "Welche Sure rät zur Weisheit zwischen Eltern und Kind?",
+      "answers": [
+        "Sure Ibrahim",
+        "Sure Luqman",
+        "Sure Nuh",
+        "Sure Hud"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 361,
+      "questionText": "Was sind die „Mu'awwidhat“ (Schutzsuren)?",
+      "answers": [
+        "Al-Fatiha und Al-Baqara",
+        "Al-Ikhlas, Al-Falaq und An-Nas",
+        "Ya-Sin und Ar-Rahman",
+        "Al-Mulk und As-Sadschda"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 362,
+      "questionText": "Was ist „Ruqya“ im Islam?",
+      "answers": [
+        "Eine Art der Wohltätigkeit",
+        "Rezitation von Koran und Du'a zur Heilung und zum Schutz",
+        "Ein Ehevertrag",
+        "Ein Pilgerritual"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 363,
+      "questionText": "Wie ist die islamische Sichtweise auf 'Adl' (Gerechtigkeit)?",
+      "answers": [
+        "Sie ist optional",
+        "Sie ist ein zentraler Wert und ein Gebot im Koran",
+        "Sie gilt nur für Gerichte",
+        "Sie ist nur für Herrscher bestimmt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 364,
+      "questionText": "Welche Sure befiehlt die Gerechtigkeit, auch gegen sich selbst?",
+      "answers": [
+        "Al-Baqara",
+        "An-Nisa (4:135)",
+        "Al-Ma'ida",
+        "Al-Anfal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 365,
+      "questionText": "Wie ist die koranische Auffassung vom „Töten einer unschuldigen Seele“?",
+      "answers": [
+        "Es ist eine kleine Sünde",
+        "Es ist, als ob er die gesamte Menschheit getötet hätte (5:32)",
+        "Es ist leicht verzeihlich",
+        "Es wird nicht erwähnt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 366,
+      "questionText": "Welcher Gefährte war für sein Wissen über die Koranauslegung bekannt?",
+      "answers": [
+        "Abu Huraira",
+        "Abdullah ibn Abbas",
+        "Anas ibn Malik",
+        "Bilal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 367,
+      "questionText": "Welcher Titel wurde Abdullah ibn Abbas gegeben?",
+      "answers": [
+        "Das Schwert Allahs",
+        "Der Gelehrte der Umma (Habr al-Umma)",
+        "Der Löwe Allahs",
+        "Der Schild des Islam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 368,
+      "questionText": "Wofür ist Aischa (r.a.) unter Gelehrten bekannt?",
+      "answers": [
+        "Mutter der Gläubigen und eine bedeutende Hadith-Quelle",
+        "Eine militärische Führerin",
+        "Eine Koranschreiberin",
+        "Eine Richterin"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 369,
+      "questionText": "Was ist „Hisba“ in der islamischen Regierungsführung?",
+      "answers": [
+        "Steuereintreibung",
+        "Marktregulierung und Sicherstellung der öffentlichen Moralordnung",
+        "Militärische Führung",
+        "Gerichtliches Verfahren"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 370,
+      "questionText": "Was ist die „Dschizya“ im islamischen Recht?",
+      "answers": [
+        "Eine Art der Zakat",
+        "Eine Steuer, die von nichtmuslimischen Bürgern unter muslimischer Herrschaft für Schutz gezahlt wird",
+        "Eine Grundsteuer",
+        "Eine Handelssteuer"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 371,
+      "questionText": "Was bedeutet das Wort „Islam“ wörtlich?",
+      "answers": [
+        "Frieden",
+        "Unterwerfung unter den Willen Gottes",
+        "Gebet",
+        "Gemeinschaft"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 372,
+      "questionText": "Was bedeutet das Wort „Muslim“?",
+      "answers": [
+        "Ein Anhänger Muhammads",
+        "Einer, der sich Gott unterwirft",
+        "Eine Person des Friedens",
+        "Eine gelehrte Person"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 373,
+      "questionText": "Was ist „Salam“ und welche Bedeutung hat es?",
+      "answers": [
+        "Ein Gebet",
+        "Der Friedensgruß (Assalamu Alaikum)",
+        "Ein Fasten",
+        "Ein Almosen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 374,
+      "questionText": "Laut Hadith: Die Verbreitung von „Salam“ (Friedensgrüßen) führt zu was?",
+      "answers": [
+        "Reichtum",
+        "Liebe unter Muslimen und Eintritt ins Paradies",
+        "Wissen",
+        "Macht"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 375,
+      "questionText": "Was ist „Istighfar“?",
+      "answers": [
+        "Dankbarkeit",
+        "Vergebung von Allah suchen",
+        "Eine Art des Fastens",
+        "Haddsch-Ritual"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 376,
+      "questionText": "Wie oft, so sagte der Prophet (PSL), sucht er täglich um Vergebung?",
+      "answers": [
+        "10 Mal",
+        "50 Mal",
+        "70 Mal oder mehr",
+        "100 Mal"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 377,
+      "questionText": "Was ist die „Salawat“ auf den Propheten?",
+      "answers": [
+        "Eine Art der Zakat",
+        "Segens- und Friedenswünsche für den Propheten Muhammad",
+        "Ein Haddsch-Ritual",
+        "Eine Fastenregel"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 378,
+      "questionText": "Wer sind laut Koran die „Ulul-‘Azm“-Propheten?",
+      "answers": [
+        "Adam, Idris, Nuh, Hud, Salih",
+        "Nuh, Ibrahim, Musa, Isa, Muhammad (PSL)",
+        "Alle 25 erwähnten Propheten",
+        "Dawud, Sulaiman, Ayyub, Yunus, Ilyas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 379,
+      "questionText": "Was bedeutet „Ulul-‘Azm“?",
+      "answers": [
+        "Die wohlhabenden Propheten",
+        "Die Propheten mit starkem Willen und Entschlossenheit",
+        "Die ersten Propheten",
+        "Die letzten Propheten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 380,
+      "questionText": "Was ist „Hikma“ (Weisheit) im Koran?",
+      "answers": [
+        "Es bezieht sich ausschließlich auf den Koran",
+        "Tiefes Verständnis, oft verbunden mit der Sunna oder gesundem Urteilsvermögen",
+        "Eine Art des Gebets",
+        "Ein historisches Ereignis"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 381,
+      "questionText": "Was bedeutet „Chalifa“ (Kalif)?",
+      "answers": [
+        "König",
+        "Nachfolger / Statthalter",
+        "Richter",
+        "Gelehrter"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 382,
+      "questionText": "Was ist das „Dschanaza“-Gebet?",
+      "answers": [
+        "Freitagsgebet",
+        "Totengebet für den Verstorbenen",
+        "Eid-Gebet",
+        "Tahadschud-Gebet"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 383,
+      "questionText": "Wie viele Takbir gibt es im Dschanaza-Gebet?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 384,
+      "questionText": "Wie lautet die islamische Regelung zur Teilnahme an einer Beerdigung?",
+      "answers": [
+        "Verboten",
+        "Fard Kifaya (gemeinschaftliche Pflicht)",
+        "Nur Sunna",
+        "Haram"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 385,
+      "questionText": "Laut Hadith ist der Besuch von Kranken ein Recht eines Muslims gegenüber einem anderen. Welche anderen Rechte werden genannt?",
+      "answers": [
+        "Geld leihen und bei der Arbeit helfen",
+        "Grüße erwidern, Beerdigungen folgen, Einladungen annehmen, „Yarhamukallah“ beim Niesen sagen",
+        "Geschenke geben und Essen teilen",
+        "Koran lehren und Schulden bezahlen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Hadith"
+    },
+    {
+      "id": 386,
+      "questionText": "Was ist das Konzept der „Schafa'a“ (Fürsprache) im Islam?",
+      "answers": [
+        "Beten um Regen",
+        "Die Fürsprache des Propheten oder der Rechtschaffenen am Jüngsten Tag mit Allahs Erlaubnis suchen",
+        "Eine Art der Wohltätigkeit",
+        "Eine rechtliche Entscheidung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 387,
+      "questionText": "Welchem Propheten wird der „Maqam al-Mahmud“ (Gelobte Stellung) am Jüngsten Tag gegeben?",
+      "answers": [
+        "Ibrahim",
+        "Musa",
+        "Isa",
+        "Muhammad (PSL)"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 388,
+      "questionText": "Was ist „Al-Hawd“ (das Becken) des Propheten?",
+      "answers": [
+        "Ein Fluss im Paradies",
+        "Ein Becken, aus dem die Gläubigen am Jüngsten Tag trinken werden",
+        "Ein See in Medina",
+        "Ein Brunnen in Mekka"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Hadith"
+    },
+    {
+      "id": 389,
+      "questionText": "Wie heißt der Fluss des Paradieses, der in der Sure Al-Kawthar erwähnt wird?",
+      "answers": [
+        "Salsabil",
+        "Al-Kawthar",
+        "Tasnim",
+        "Zamzam"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 390,
+      "questionText": "Wie lauten die Namen der Flüsse im Paradies, die im Koran erwähnt werden?",
+      "answers": [
+        "Flüsse aus Wasser, Milch, Wein und Honig",
+        "Flüsse aus Gold und Silber",
+        "Flüsse aus Öl und Parfüm",
+        "Flüsse aus Licht und Feuer"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 391,
+      "questionText": "Welche Sure beschreibt die Ereignisse des Jüngsten Tages mit Sternen, die fallen, und Ozeanen, die ausbrechen?",
+      "answers": [
+        "Al-Mulk",
+        "At-Takwir",
+        "Al-Burudsch",
+        "Al-Kawthar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 392,
+      "questionText": "Welche Sure beginnt mit „Wenn der Himmel sich spaltet“?",
+      "answers": [
+        "At-Takwir",
+        "Al-Infitar",
+        "Al-Inschiqaq",
+        "Al-Qari'a"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 393,
+      "questionText": "Was ist die „Trompete“ (as-Sur) in der islamischen Eschatologie?",
+      "answers": [
+        "Ein Musikinstrument im Paradies",
+        "Das Horn, das Israfil bläst, um den Jüngsten Tag anzukündigen",
+        "Ein Aufruf zum Gebet",
+        "Ein Kriegshorn"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 394,
+      "questionText": "Wie oft wird die Trompete geblasen?",
+      "answers": [
+        "Einmal",
+        "Zweimal",
+        "Dreimal",
+        "Siebenmal"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 395,
+      "questionText": "Was geschieht beim ersten Trompetenstoß?",
+      "answers": [
+        "Nichts",
+        "Die gesamte Schöpfung stirbt / wird zerstört",
+        "Die Menschen werden auferweckt",
+        "Das Paradies öffnet sich"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 396,
+      "questionText": "Was geschieht beim zweiten Trompetenstoß?",
+      "answers": [
+        "Die gesamte Schöpfung stirbt",
+        "Alle werden zum Gericht auferweckt",
+        "Das Paradies wird erschaffen",
+        "Nichts"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 397,
+      "questionText": "Was ist „Yawm al-Qiyama“?",
+      "answers": [
+        "Freitag",
+        "Der Tag des Gerichts / der Auferstehung",
+        "Ein Fest",
+        "Der erste Tag der Schöpfung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 398,
+      "questionText": "Wer wird laut Koran als Erster auferweckt?",
+      "answers": [
+        "Adam",
+        "Ibrahim",
+        "Muhammad (PSL)",
+        "Musa"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 399,
+      "questionText": "Was ist die islamische Position zur „Ruh“ (Seele)?",
+      "answers": [
+        "Sie ist vollständig verstanden",
+        "Ihr wahres Wesen ist nur Allah bekannt (17:85)",
+        "Sie besteht aus Licht",
+        "Sie existiert nicht"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 400,
+      "questionText": "Welche Sure enthält den Vers „Und sie fragen dich nach der Seele...“?",
+      "answers": [
+        "Al-Baqara",
+        "Al-Isra (17:85)",
+        "Maryam",
+        "Ta-Ha"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 401,
+      "questionText": "Was ist „Ithm“ im Islam?",
+      "answers": [
+        "Gute Tat",
+        "Sünde",
+        "Gebet",
+        "Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 402,
+      "questionText": "Was sind „Kaba'ir“ im Islam?",
+      "answers": [
+        "Kleine Sünden",
+        "Große Sünden",
+        "Gute Taten",
+        "Almosen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 403,
+      "questionText": "Welche Sünde ist laut Hadith die größte?",
+      "answers": [
+        "Stehlen",
+        "Allah Gefährten beigesellen (Schirk)",
+        "Lügen",
+        "Verleumdung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 404,
+      "questionText": "Was ist „Ghiba“ (hinter dem Rücken lästern)?",
+      "answers": [
+        "Jemanden loben",
+        "Etwas über jemanden erwähnen, das dieser nicht mögen würde",
+        "Jemanden anlügen",
+        "Jemanden ignorieren"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 405,
+      "questionText": "Was ist „Buhtan“ (Verleumdung)?",
+      "answers": [
+        "Wahrer Tratsch",
+        "Etwas Falsches über jemanden sagen",
+        "Übermäßiges Loben",
+        "Wahrheitsgemäße Kritik"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 406,
+      "questionText": "Womit vergleicht der Koran die üble Nachrede?",
+      "answers": [
+        "Stehlen",
+        "Das Fleisch seines toten Bruders essen (49:12)",
+        "Mord",
+        "Lügen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 407,
+      "questionText": "Was ist „Haschd“ (Neid) und wie ist seine Regelung?",
+      "answers": [
+        "Er wird ermutigt",
+        "Er ist verboten und es wird im Koran und Hadith davor gewarnt",
+        "Er ist in Maßen erlaubt",
+        "Er wird im Islam nicht erwähnt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 408,
+      "questionText": "Laut Hadith: „Hütet euch vor dem Neid, denn der Neid...“",
+      "answers": [
+        "... stärkt das Herz",
+        "... verzehrt die guten Taten, wie das Feuer das Holz verzehrt",
+        "... ist ein Zeichen von Intelligenz",
+        "... bringt Reichtum"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 409,
+      "questionText": "Was ist der „Adhan“?",
+      "answers": [
+        "Eine Art des Gebets",
+        "Der Ruf zum Gebet",
+        "Eine Bittgebet",
+        "Eine Koranrezitationsart"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 410,
+      "questionText": "Was ist die „Iqama“?",
+      "answers": [
+        "Der erste Ruf zum Gebet",
+        "Der zweite Ruf unmittelbar vor Beginn des Gebets",
+        "Eine Bittgebet nach dem Gebet",
+        "Eine Art des Dhikr"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 411,
+      "questionText": "Welche Bittgebet wird zwischen Adhan und Iqama gesprochen?",
+      "answers": [
+        "Zu diesem Zeitpunkt wird kein Bittgebet angenommen",
+        "Das Bittgebet wird zu diesem Zeitpunkt angenommen und nicht abgelehnt",
+        "Man sollte schweigen",
+        "Man sollte nur den Koran rezitieren"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 412,
+      "questionText": "Was ist „Idschtihad“ in der islamischen Rechtswissenschaft?",
+      "answers": [
+        "Blinde Gefolgschaft",
+        "Selbständige Urteilsfindung eines qualifizierten Gelehrten",
+        "Hadith-Memorierung",
+        "Koranrezitation"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 413,
+      "questionText": "Was ist „Taqlid“?",
+      "answers": [
+        "Selbständige Urteilsfindung",
+        "Der Meinung eines qualifizierten Gelehrten folgen, ohne die Beweise zu kennen",
+        "Alle Meinungen ablehnen",
+        "Eine Art des Gebets"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 414,
+      "questionText": "Was ist eine „Fatwa“?",
+      "answers": [
+        "Ein Befehl der Regierung",
+        "Eine nicht bindende religiöse Entscheidung eines Gelehrten",
+        "Ein Gesetz im Parlament",
+        "Ein Gerichtsurteil"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 415,
+      "questionText": "Wer ist ein „Mufti“?",
+      "answers": [
+        "Ein Richter",
+        "Ein Gelehrter, der befugt ist, Fatwas zu erlassen",
+        "Ein Gebetsleiter",
+        "Ein Koranrezitator"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 416,
+      "questionText": "Was ist der Unterschied zwischen einem Mufti und einem Qadi?",
+      "answers": [
+        "Kein Unterschied",
+        "Ein Mufti erlässt nicht bindende Gutachten; ein Qadi erlässt bindende Gerichtsentscheidungen",
+        "Ein Mufti ist ranghöher",
+        "Ein Qadi erlässt Fatwas"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 417,
+      "questionText": "Welche Sure erwähnt die Erschaffung des Menschen aus Ton?",
+      "answers": [
+        "Mehrere Suren, darunter Al-Hidschr (15:26)",
+        "Nur Al-Baqara",
+        "Nur An-Nisa",
+        "Es wird im Koran nicht erwähnt"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 418,
+      "questionText": "Was ist die Bedeutung der „Sure Al-Waqi'a“ laut Hadith?",
+      "answers": [
+        "Sie schützt vor dem bösen Blick",
+        "Sie schützt vor Armut",
+        "Sie handelt von der Ehe",
+        "Sie handelt vom Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 419,
+      "questionText": "Welche Sure wird empfohlen, vor dem Schlafengehen zu rezitieren?",
+      "answers": [
+        "Al-Baqara",
+        "Al-Mulk",
+        "Al-Fatiha",
+        "An-Nasr"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 420,
+      "questionText": "Laut Hadith: Die Rezitation der letzten beiden Verse der Sure Al-Baqara in der Nacht ist ausreichend für was?",
+      "answers": [
+        "Das Paradies zu verdienen",
+        "Schutz während der ganzen Nacht",
+        "Zusätzliche Belohnung",
+        "Das Tahadschud-Gebet zu ersetzen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 421,
+      "questionText": "Was ist der „Mizab ar-Rahma“ (Die Regenrinne der Barmherzigkeit)?",
+      "answers": [
+        "Ein Brunnen in Medina",
+        "Die goldene Regenrinne an der Kaaba",
+        "Ein Springbrunnen im Paradies",
+        "Ein Fluss in Mekka"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 422,
+      "questionText": "Was ist der „Hatim“ (Hidschr Isma'il) nahe der Kaaba?",
+      "answers": [
+        "Ein Marktplatz",
+        "Eine halbrunde Mauer, die Teil der ursprünglichen von Ibrahim erbauten Kaaba ist",
+        "Ein Friedhof",
+        "Eine Bibliothek"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 423,
+      "questionText": "Was ist der „Multazam“ der Kaaba?",
+      "answers": [
+        "Die Tür",
+        "Der Bereich zwischen dem Schwarzen Stein und der Tür der Kaaba, in dem Bittgebete angenommen werden",
+        "Das Dach",
+        "Das Innere der Kaaba"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 424,
+      "questionText": "Was ist der „Maqam Ibrahim“ (Station Abrahams)?",
+      "answers": [
+        "Eine Moschee",
+        "Der Stein mit dem Fußabdruck Ibrahims nahe der Kaaba",
+        "Ein Berg",
+        "Ein Brunnen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 425,
+      "questionText": "Was sind „Harakat“ im Arabischen?",
+      "answers": [
+        "Buchstaben",
+        "Vokalzeichen (Fatha, Kasra, Damma)",
+        "Interpunktion",
+        "Zahlen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 426,
+      "questionText": "Was ist „Waqf“ in der Tadschwid?",
+      "answers": [
+        "Eine Art Buchstabe",
+        "Stopp- / Pausenregeln bei der Koranrezitation",
+        "Ein Vokalzeichen",
+        "Eine grammatikalische Regel"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 427,
+      "questionText": "Was ist „Idgham“ in der Tadschwid?",
+      "answers": [
+        "Dehnung",
+        "Verschmelzung / Assimilation von Buchstaben",
+        "Verstecken eines Buchstabens",
+        "Klare Aussprache"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 428,
+      "questionText": "Was ist „Madd“ in der Tadschwid?",
+      "answers": [
+        "Stopp",
+        "Dehnung / Verlängerung eines Vokallauts",
+        "Verschmelzung von Buchstaben",
+        "Nasalierung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 429,
+      "questionText": "Was ist „Ghunnah“ in der Tadschwid?",
+      "answers": [
+        "Dehnung",
+        "Ein nasaler Laut bei der Aussprache von Nun oder Mim",
+        "Stille Buchstaben",
+        "Betonung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 430,
+      "questionText": "Wer führte die Punkte in die arabischen Buchstaben im Koran ein?",
+      "answers": [
+        "Der Prophet Muhammad (PSL)",
+        "Abu al-Aswad ad-Du'ali / die Ära von al-Haddschadsch",
+        "Abu Bakr",
+        "Umar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 431,
+      "questionText": "Was war die Schlacht von al-Qadisiyya (636 n. Chr.)?",
+      "answers": [
+        "Eine Schlacht gegen die Römer",
+        "Eine entscheidende Schlacht, in der die Muslime das Sassanidenreich (Persien) besiegten",
+        "Eine Seeschlacht",
+        "Eine Belagerung von Mekka"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 432,
+      "questionText": "Wer führte die muslimischen Streitkräfte in der Schlacht von al-Qadisiyya an?",
+      "answers": [
+        "Chalid ibn al-Walid",
+        "Sa'd ibn Abi Waqqas",
+        "Amr ibn al-As",
+        "Abu Ubaida"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 433,
+      "questionText": "Wer war Abu Ubaida ibn al-Dscharrah?",
+      "answers": [
+        "Ein umayyadischer Kalif",
+        "Ein vertrauenswürdiger Gefährte, der als „Amin al-Umma“ (Treuhänder der Gemeinschaft) bekannt war",
+        "Ein Hadith-Gelehrter",
+        "Ein Dichter"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 434,
+      "questionText": "Was ist „al-Aschmaat“ im Zusammenhang mit dem Koran?",
+      "answers": [
+        "Namen der Suren",
+        "Mehrere gültige Lesarten (Qira'at) des Korans",
+        "Regeln der arabischen Grammatik",
+        "Arten von Versen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 435,
+      "questionText": "Wie viele anerkannte Qira'at (Lesarten) des Korans gibt es?",
+      "answers": [
+        "3",
+        "7",
+        "10",
+        "14"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 436,
+      "questionText": "Wer war der erste Hafiz (Auswendiglerner) des Korans?",
+      "answers": [
+        "Abu Bakr",
+        "Uthman",
+        "Der Prophet Muhammad (PSL)",
+        "Zaid ibn Thabit"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 437,
+      "questionText": "Was ist „Tanzil“ vs. „Ta'wil“ in der Koranwissenschaft?",
+      "answers": [
+        "Kein Unterschied",
+        "Tanzil ist die wörtliche / offenbarte Bedeutung; Ta'wil ist die tiefere Interpretation",
+        "Beide bedeuten Übersetzung",
+        "Tanzil ist Aufhebung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Koran"
+    },
+    {
+      "id": 438,
+      "questionText": "Welcher Gefährte hat der Überlieferung nach den größten Teil des Korans auswendig gelernt?",
+      "answers": [
+        "Abu Bakr",
+        "Abdullah ibn Mas'ud",
+        "Ubayy ibn Ka'b",
+        "Mehrere Gefährten lernten ihn vollständig auswendig"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 439,
+      "questionText": "Was ist „Sudschud at-Tilawa“?",
+      "answers": [
+        "Niederwerfung der Dankbarkeit",
+        "Niederwerfung beim Rezitieren oder Hören bestimmter Koranverse",
+        "Niederwerfung des Vergessens",
+        "Stehende Haltung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 440,
+      "questionText": "Wie viele Stellen des Sudschud at-Tilawa gibt es im Koran?",
+      "answers": [
+        "10",
+        "14 oder 15 (Unterschied unter Gelehrten)",
+        "20",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 441,
+      "questionText": "Was ist „Tadabbur“ des Korans?",
+      "answers": [
+        "Auswendiglernen",
+        "Tiefes Nachdenken und Besinnen über die Bedeutungen",
+        "Schnelle Rezitation",
+        "Übersetzung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 442,
+      "questionText": "Welcher Prophet wird im Koran erwähnt, dem als Kind Weisheit gegeben wurde?",
+      "answers": [
+        "Musa",
+        "Isa",
+        "Yahya (Johannes)",
+        "Yusuf"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 443,
+      "questionText": "Welcher Prophet hatte ein Volk, das ein goldenes Kalb anbetete?",
+      "answers": [
+        "Ibrahims Volk",
+        "Musas Volk (Kinder Israels)",
+        "Nuhs Volk",
+        "Huds Volk"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Propheten"
+    },
+    {
+      "id": 444,
+      "questionText": "Wer fertigte das goldene Kalb für die Kinder Israels an?",
+      "answers": [
+        "Pharao",
+        "As-Samiri",
+        "Qarun",
+        "Haman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Propheten"
+    },
+    {
+      "id": 445,
+      "questionText": "Wer war „Qarun“ (Korah) im Koran?",
+      "answers": [
+        "Ein Prophet",
+        "Ein reicher Mann aus dem Volk von Musa, der arrogant wegen seines Reichtums war",
+        "Ein König",
+        "Ein Priester"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 446,
+      "questionText": "Was geschah mit Qarun laut Koran?",
+      "answers": [
+        "Er bereute",
+        "Die Erde verschlang ihn und seine Behausung",
+        "Er wurde Prophet",
+        "Ihm wurde vergeben"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 447,
+      "questionText": "Wer war „Luqman“ im Koran?",
+      "answers": [
+        "Ein Prophet",
+        "Ein weiser Mann, der seinem Sohn Ratschläge gab",
+        "Ein König",
+        "Ein Engel"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 448,
+      "questionText": "Was war Luqmans erster Rat an seinen Sohn?",
+      "answers": [
+        "Sei großzügig",
+        "Gestehe Allah keine Gefährten bei (vermeide Schirk)",
+        "Bete fünfmal täglich",
+        "Gib Almosen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 449,
+      "questionText": "Wie ist die Rechtslage des Freitagsgebets (Dschumu'a)?",
+      "answers": [
+        "Sunna",
+        "Fard (verpflichtend) für erwachsene muslimische Männer",
+        "Mustahab",
+        "Wadschib nur im Ramadan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 450,
+      "questionText": "Wie viele Rak'ah sind Pflicht (Fard) im Freitagsgebet?",
+      "answers": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 451,
+      "questionText": "Was ist das Besondere an der Stunde der Erhörung am Freitag?",
+      "answers": [
+        "Nichts Besonderes",
+        "Es gibt eine Stunde, in der Bittgebete erhört werden",
+        "Fasten ist Pflicht",
+        "Zusätzliche Gebete sind obligatorisch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 452,
+      "questionText": "Welcher Tag ist laut Hadith der „Meister der Tage“?",
+      "answers": [
+        "Montag",
+        "Donnerstag",
+        "Freitag",
+        "Samstag"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 453,
+      "questionText": "Welche Sure wird empfohlen, am Freitag zu rezitieren?",
+      "answers": [
+        "Sure Al-Baqara",
+        "Sure Al-Kahf",
+        "Sure Ya-Sin",
+        "Sure Ar-Rahman"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 454,
+      "questionText": "Was ist I'tikaf und wann wird er typischerweise praktiziert?",
+      "answers": [
+        "Fasten im Schawwal",
+        "Rückzug in die Moschee zur Anbetung, typischerweise in den letzten zehn Tagen des Ramadan",
+        "Beten während des Eid",
+        "Besuch von Mekka"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 455,
+      "questionText": "Was ist die „Zakat al-Fitr“?",
+      "answers": [
+        "Jährliche Vermögenssteuer",
+        "Verpflichtende Wohltätigkeit, die vor dem Eid al-Fitr-Gebet gezahlt wird",
+        "Wohltätigkeit für den Haddsch",
+        "Freiwillige Wohltätigkeit"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 456,
+      "questionText": "Wie hoch ist die Zakat al-Fitr?",
+      "answers": [
+        "2,5 % des Vermögens",
+        "Ein Sa'a (ca. 2,5-3 kg) Grundnahrungsmittel pro Person",
+        "Ein fester Geldbetrag",
+        "10 % der Ernte"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 457,
+      "questionText": "Wofür ist die Schlacht von Ain Dschalut (1260 n. Chr.) bedeutsam?",
+      "answers": [
+        "Erster Kreuzzugssieg",
+        "Die Mamluken besiegten die Mongolen und stoppten ihren Vormarsch nach Westen",
+        "Osmanische Eroberung",
+        "Fall von Bagdad"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 458,
+      "questionText": "Wer führte die muslimischen Streitkräfte in der Schlacht von Ain Dschalut an?",
+      "answers": [
+        "Saladin",
+        "Qutuz und Baibars",
+        "Nur ad-Din Zangi",
+        "Muhammad al-Fatih"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 459,
+      "questionText": "Was ist das Konzept der „Wilaya“ im Islam?",
+      "answers": [
+        "Scheidung",
+        "Autorität, Vormundschaft und Nähe zu Allah",
+        "Eine Art des Gebets",
+        "Ein finanzieller Begriff"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 460,
+      "questionText": "Was ist die Bedeutung der „Talbiya“ während des Haddsch?",
+      "answers": [
+        "Ein Regengebet",
+        "Der wiederholte Ausruf „Labbayk Allahumma Labbayk“ als Antwort auf den Ruf Allahs",
+        "Ein Schlachtruf",
+        "Ein Abschiedsgruß"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 461,
+      "questionText": "Was bedeutet „Labbayk Allahumma Labbayk“?",
+      "answers": [
+        "Gott ist groß",
+        "Hier bin ich, o Allah, hier bin ich",
+        "Gepriesen sei Gott",
+        "Ich suche Vergebung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 462,
+      "questionText": "Was ist „Muzdalifa“ im Zusammenhang mit dem Haddsch?",
+      "answers": [
+        "Ein Berg in Mekka",
+        "Ein freies Gebiet, in dem die Pilger nach dem Verlassen von Arafat übernachten",
+        "Die Kaaba",
+        "Ein Markt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 463,
+      "questionText": "Was sind die Tage von Taschriq?",
+      "answers": [
+        "Die Tage des Ramadan",
+        "Der 11., 12. und 13. Dhul Hiddscha",
+        "Die ersten zehn Tage des Muharram",
+        "Die letzten zehn Tage des Ramadan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 464,
+      "questionText": "Was sind das „Schafa'-“ und „Witr“-Gebet?",
+      "answers": [
+        "Zwei Arten von Sudschud",
+        "Gerade und ungerade Nachtgebete nach Ischa",
+        "Morgengebete",
+        "Freitagsgebete"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 465,
+      "questionText": "Worauf bezieht sich „al-Asma' al-Husna“?",
+      "answers": [
+        "Die fünf Säulen",
+        "Die 99 schönsten Namen Allahs",
+        "Die Namen der Propheten",
+        "Die Namen der Engel"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 466,
+      "questionText": "Wie viele Namen hat Allah laut Hadith?",
+      "answers": [
+        "33",
+        "66",
+        "99",
+        "1000"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 467,
+      "questionText": "Was bedeutet „Ar-Rahman“ (einer der Namen Allahs)?",
+      "answers": [
+        "Der König",
+        "Der Allbarmherzige / Der Gnädige",
+        "Der Allwissende",
+        "Der Versorger"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 468,
+      "questionText": "Was bedeutet „Al-Hakim“ (einer der Namen Allahs)?",
+      "answers": [
+        "Der Schöpfer",
+        "Der Allweise",
+        "Der Mächtige",
+        "Der Vergebende"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 469,
+      "questionText": "Was bedeutet „Al-Wadud“ (einer der Namen Allahs)?",
+      "answers": [
+        "Der Versorger",
+        "Der Allliebende",
+        "Der Beschützer",
+        "Der Führer"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 470,
+      "questionText": "Was ist die Bedeutung der „Laylat al-Bara'a“?",
+      "answers": [
+        "Die Nacht von Eid",
+        "Der 15. Scha'ban, eine Nacht der Vergebung nach einigen Überlieferungen",
+        "Die Nacht der Bestimmung",
+        "Die Nacht von Isra"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 471,
+      "questionText": "Welcher berühmte islamische Gelehrte ist als „Hudschdschat al-Islam“ (Beweis des Islam) bekannt?",
+      "answers": [
+        "Ibn Taymiyya",
+        "Al-Ghazali",
+        "Ibn Ruschd",
+        "Imam an-Nawawi"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 472,
+      "questionText": "Wie lautet der islamische Begriff für „Wissenssuche“?",
+      "answers": [
+        "Talab al-Ilm",
+        "Dhikr",
+        "Da'wa",
+        "Tawba"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 473,
+      "questionText": "Laut Hadith: „Die Suche nach Wissen ist eine Pflicht für...“",
+      "answers": [
+        "nur Gelehrte",
+        "jeden Muslim",
+        "nur Männer",
+        "nur Erwachsene"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 474,
+      "questionText": "Was ist „Da'wa“?",
+      "answers": [
+        "Auswanderung",
+        "Andere zum Islam einladen / islamisches Wissen teilen",
+        "Pilgerfahrt",
+        "Fasten"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 475,
+      "questionText": "Was sagt der Koran über die Vielfalt der Nationen und Stämme?",
+      "answers": [
+        "Es ist eine Strafe",
+        "Es ist so, dass ihr euch gegenseitig kennenlernt (49:13)",
+        "Sie sollte beseitigt werden",
+        "Es wird nicht erwähnt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 476,
+      "questionText": "Welcher Vers des Korans besagt, dass es keinen Zwang in der Religion gibt?",
+      "answers": [
+        "Al-Baqara 2:256",
+        "Al-Imran 3:19",
+        "An-Nisa 4:1",
+        "Al-Ma'ida 5:3"
+      ],
+      "correctAnswerIndex": 0,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 477,
+      "questionText": "Was ist ein „Imam“ im Zusammenhang mit dem Gebet?",
+      "answers": [
+        "Ein Politiker",
+        "Die Person, die das Gemeinschaftsgebet leitet",
+        "Ein Koranlehrer",
+        "Ein Richter"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 478,
+      "questionText": "Was ist die „Sutra“ im Zusammenhang mit dem Gebet?",
+      "answers": [
+        "Eine Art Kleidung",
+        "Ein Gegenstand, der vor der betenden Person als Barriere aufgestellt wird",
+        "Ein Gebetsteppich",
+        "Ein Rezitationsstil"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 479,
+      "questionText": "Was ist „Chuschū“ im Gebet?",
+      "answers": [
+        "Geschwindigkeit",
+        "Demut, Konzentration und Hingabe während des Gebets",
+        "Lautstärke",
+        "Auswendiglernen"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 480,
+      "questionText": "Was ist laut Hadith der Schlüssel zum Paradies?",
+      "answers": [
+        "Reichtum",
+        "La ilaha illallah (Schahada / Glaubensbekenntnis)",
+        "Ruhm",
+        "Macht"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Hadith"
+    },
+    {
+      "id": 481,
+      "questionText": "Was sagte der Prophet Muhammad (PSL) über das Lächeln?",
+      "answers": [
+        "Es ist verkehrt",
+        "Es ist eine Wohltätigkeit (Sadaqa)",
+        "Es ist nur für Kinder",
+        "Es ist Zeitverschwendung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 482,
+      "questionText": "Wie ist die islamische Sichtweise zur Reinlichkeit?",
+      "answers": [
+        "Nicht wichtig",
+        "Reinlichkeit ist die Hälfte des Glaubens",
+        "Nur vor dem Gebet",
+        "Freiwillig"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Hadith"
+    },
+    {
+      "id": 483,
+      "questionText": "Was ist die „Fitra“ im Islam?",
+      "answers": [
+        "Eine Art des Gebets",
+        "Die natürliche Veranlagung / Natur des Menschen, die zu Gott neigt",
+        "Eine Wohltätigkeit",
+        "Ein Gruß"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 484,
+      "questionText": "Welche Sure erzählt die Geschichte der Gefährten des Elefanten (Abrahas Armee)?",
+      "answers": [
+        "Al-Qadr",
+        "Al-Fil",
+        "Quraisch",
+        "Al-Kawthar"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 1,
+      "category": "Koran"
+    },
+    {
+      "id": 485,
+      "questionText": "Welche Sure folgt auf Al-Fil und erwähnt den Stamm der Quraisch?",
+      "answers": [
+        "Al-Kawthar",
+        "Al-Ma'un",
+        "Quraisch",
+        "Al-Masad"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 3,
+      "category": "Koran"
+    },
+    {
+      "id": 486,
+      "questionText": "Was ist „Istiwa'“ in der islamischen Theologie?",
+      "answers": [
+        "Eine Gebetshaltung",
+        "Allahs Attribut des Sich-Erhebens über den Thron (eine Glaubensfrage)",
+        "Eine Art des Fastens",
+        "Ein Rechtsbegriff"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 487,
+      "questionText": "Worauf bezieht sich das Konzept des „Tawassul“?",
+      "answers": [
+        "Das Fastenbrechen",
+        "Die Suche nach einem Mittel der Annäherung an Allah durch rechtschaffene Taten oder Personen",
+        "Eine Art des Haddsch",
+        "Eine Schlachtstrategie"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 488,
+      "questionText": "Welcher Gefährte leistete unter einem Baum in al-Hudaybiyya den Treueid?",
+      "answers": [
+        "Nur 10 Gefährten",
+        "Etwa 1.400 Gefährten (Bay'at ar-Ridwan)",
+        "Nur die Führer",
+        "Niemand leistete den Treueid"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 489,
+      "questionText": "Was ist die „Bay'at ar-Ridwan“ und warum ist sie bedeutsam?",
+      "answers": [
+        "Ein Handelsabkommen",
+        "Ein Treuegelöbnis unter einem Baum, das im Koran (48:18) gelobt wird",
+        "Eine Hochzeitszeremonie",
+        "Ein Schlachtvertrag"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 490,
+      "questionText": "Was sagt der Koran über den Propheten Ibrahim, der die Götzen zerstörte?",
+      "answers": [
+        "Er wurde dafür bestraft",
+        "Er zerstörte sie, um ihre Ohnmacht zu beweisen (21:57-67)",
+        "Er bereute es",
+        "Es wird nicht erwähnt"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 491,
+      "questionText": "Welcher Prophet war vor der Prophetenschaft Hirte (wie viele Propheten)?",
+      "answers": [
+        "Nur Muhammad (PSL)",
+        "Musa (Mose)",
+        "Alle Propheten waren Hirten",
+        "Sowohl A als auch B unter anderem"
+      ],
+      "correctAnswerIndex": 3,
+      "difficulty": 3,
+      "category": "Propheten"
+    },
+    {
+      "id": 492,
+      "questionText": "Was sagte der Prophet laut Hadith über Dichter?",
+      "answers": [
+        "Alle Dichtung ist haram",
+        "Manche Dichtung enthält Weisheit",
+        "Dichtung ist die beste Handlung",
+        "Er erwähnte nie Dichtung"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Hadith"
+    },
+    {
+      "id": 493,
+      "questionText": "Wer war Hassan ibn Thabit?",
+      "answers": [
+        "Ein militärischer Befehlshaber",
+        "Der Dichter des Propheten",
+        "Ein Koranschreiber",
+        "Ein Richter"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 3,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 494,
+      "questionText": "Was ist das Konzept von „Wala' wal-Bara'“ im islamischen Glaubensbekenntnis?",
+      "answers": [
+        "Heirat und Scheidung",
+        "Loyalität zu den Gläubigen und Distanzierung vom Unglauben",
+        "Handelsvorschriften",
+        "Erbrecht"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 495,
+      "questionText": "Was ist der „Mus'haf“?",
+      "answers": [
+        "Eine Art Hadith",
+        "Die physische, geschriebene Kopie des Korans",
+        "Ein Gebetsteppich",
+        "Eine Moschee"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 2,
+      "category": "Koran"
+    },
+    {
+      "id": 496,
+      "questionText": "Was ist die Bedeutung von „Sure Al-Haschr“ (Verse 22-24)?",
+      "answers": [
+        "Sie behandelt das Fasten",
+        "Sie enthält mehrere der schönsten Namen Allahs",
+        "Sie erzählt die Geschichte von Musa",
+        "Sie behandelt den Haddsch"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Koran"
+    },
+    {
+      "id": 497,
+      "questionText": "Welche Dynastie war für den Alhambra-Palast in Spanien bekannt?",
+      "answers": [
+        "Umayyaden",
+        "Abbasiden",
+        "Nasriden-Dynastie von Granada",
+        "Osmanen"
+      ],
+      "correctAnswerIndex": 2,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 498,
+      "questionText": "In welchem Jahr fiel das letzte muslimische Königreich (Granada) in Spanien?",
+      "answers": [
+        "1453",
+        "1492",
+        "1517",
+        "1389"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 5,
+      "category": "Islamische Geschichte"
+    },
+    {
+      "id": 499,
+      "questionText": "Was ist das islamische Konzept der „Muhasaba“?",
+      "answers": [
+        "Buchhalterische Transaktion",
+        "Selbstabrechnung und Selbstreflexion über die eigenen Taten",
+        "Ein Handelsbegriff",
+        "Ein rechtliches Verfahren"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Gottesdienst"
+    },
+    {
+      "id": 500,
+      "questionText": "Nach Umar ibn al-Chattab: „Zieht euch selbst zur Rechenschaft...“",
+      "answers": [
+        "... nachdem ihr gerichtet wurdet",
+        "... bevor ihr zur Rechenschaft gezogen werdet (am Jüngsten Tag)",
+        "... wenn andere euch daran erinnern",
+        "... nur im Ramadan"
+      ],
+      "correctAnswerIndex": 1,
+      "difficulty": 4,
+      "category": "Islamische Geschichte"
+    }
+  ]
+}

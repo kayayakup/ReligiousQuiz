@@ -35,5 +35,30 @@ namespace MillionaireGame
             Debug.Log($"[JsonLoader] Loaded {db.questions.Count} questions from JSON.");
             return db;
         }
+
+        /// <summary>
+        /// Loads and deserializes the reminders database.
+        /// </summary>
+        public static ReminderDatabase LoadReminders(string fileName)
+        {
+            TextAsset textAsset = Resources.Load<TextAsset>(fileName);
+
+            if (textAsset == null)
+            {
+                Debug.LogError($"[JsonLoader] Could not find Resources/{fileName}.json!");
+                return null;
+            }
+
+            ReminderDatabase db = JsonUtility.FromJson<ReminderDatabase>(textAsset.text);
+
+            if (db == null || db.items == null || db.items.Count == 0)
+            {
+                Debug.LogError($"[JsonLoader] JSON parsed but reminder list is empty for {fileName}!");
+                return null;
+            }
+
+            Debug.Log($"[JsonLoader] Loaded {db.items.Count} reminders from JSON.");
+            return db;
+        }
     }
 }

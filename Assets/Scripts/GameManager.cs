@@ -70,6 +70,9 @@ namespace MillionaireGame
         private bool _waitingForAnswer;      // prevents double‑clicks
         private float _timer;
         private bool _timerActive;
+        private int _consecutiveLosses = 0;
+
+        private ReminderDatabase _reminderDB;
 
         // ═══════════════════════════════════════════════
         //  UNITY LIFECYCLE
@@ -93,6 +96,9 @@ namespace MillionaireGame
 
         private void Start()
         {
+            // Load localization data
+            LocalizationManager.LoadData();
+
             // Build the entire UI programmatically
             _uiMgr.BuildUI();
 
@@ -118,10 +124,12 @@ namespace MillionaireGame
             else
             {
                 // First launch – show language selection (gear hidden until language chosen)
-                _uiMgr.btnTurkish.onClick.AddListener(() => OnFirstLanguageSelected("TR"));
-                _uiMgr.btnEnglish.onClick.AddListener(() => OnFirstLanguageSelected("EN"));
+                _uiMgr.PopulateLanguageButtons(LocalizationManager.AvailableLanguages, OnFirstLanguageSelected);
                 _uiMgr.ShowLanguageScreen(true);
             }
+
+            // Initial gradient
+            _uiMgr.ChangeBackgroundGradient(Random.Range(0, 10));
 
             // Initialize background music
             if (audioBackground != null)
@@ -185,7 +193,7 @@ namespace MillionaireGame
         private void ApplyLanguageAndShowCategories(string language)
         {
             _currentLanguage = language;
-            string fileName = (language == "TR") ? "questions" : "questionsEN";
+            string fileName = (language == "TR") ? "Questions/questions" : $"Questions/questions{language}";
 
             _questionMgr.LoadDatabase(fileName);
 
@@ -195,11 +203,21 @@ namespace MillionaireGame
                 return;
             }
 
+            string reminderFileName = (language == "TR") ? "Reminders/Reminders" : $"Reminders/Reminders{language}";
+            _reminderDB = JsonLoader.LoadReminders(reminderFileName);
+            
+            // Fallback for reminders if language-specific file doesn't exist
+            if (_reminderDB == null && language != "EN")
+            {
+                _reminderDB = JsonLoader.LoadReminders("Reminders/RemindersEN");
+            }
+
             // Apply localized text to UI
             _uiMgr.ApplyLanguage(language);
 
-            // Sync dropdown to current language (0 = TR, 1 = EN)
-            _uiMgr.languageDropdown.SetValueWithoutNotify(language == "TR" ? 0 : 1);
+            // Sync dropdown to current language
+            int langIndex = LocalizationManager.AvailableLanguages.FindIndex(l => l.code == language);
+            _uiMgr.languageDropdown.SetValueWithoutNotify(langIndex >= 0 ? langIndex : 0);
 
             // Populate category buttons
             _uiMgr.PopulateCategoryButtons(
@@ -207,7 +225,26 @@ namespace MillionaireGame
                 OnCategorySelected
             );
 
-            _uiMgr.ShowCategoryScreen(true);
+            // Show reminder before categories
+            if (_reminderDB != null && _reminderDB.items != null && _reminderDB.items.Count > 0)
+            {
+                int rIdx = Random.Range(0, _reminderDB.items.Count);
+                string rTitle = LocalizationManager.Get("wisdomOfDay");
+                string rText = _reminderDB.items[rIdx].text;
+                if (!string.IsNullOrEmpty(_reminderDB.items[rIdx].source))
+                    rText += $"\n\n<i>- {_reminderDB.items[rIdx].source}</i>";
+
+                string closeLabel = LocalizationManager.Get("continue");
+                _uiMgr.reminderCloseButton.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = closeLabel;
+
+                _uiMgr.ShowReminderScreen(rTitle, rText, () => {
+                    _uiMgr.ShowCategoryScreen(true);
+                });
+            }
+            else
+            {
+                _uiMgr.ShowCategoryScreen(true);
+            }
         }
 
         private void Update()
@@ -233,19 +270,33 @@ namespace MillionaireGame
 
             PlayAudio(audioWrong);
 
-            bool isTurk = (_currentLanguage == "TR");
-            string title = isTurk ? "Süre Doldu!" : "Time's Up!";
-            string msg = isTurk ? "Soruyu cevaplamak için süreniz doldu." : "You ran out of time to answer the question.";
+            string title = LocalizationManager.Get("timesUp");
+            string msg = LocalizationManager.Get("timesUpMsg");
             string guaranteed = MoneyLadder.GetGuaranteedPrize(_currentStep);
-            string dropMsg = isTurk ? "Şu seviyeye düştünüz:" : "You drop to the guaranteed level:";
+            string dropMsg = LocalizationManager.Get("youDropTo");
 
             _uiMgr.ShowResult(title, $"{msg}\n\n{dropMsg} {guaranteed}");
+            HandleLoss();
+        }
+
+        private void HandleLoss()
+        {
+            _consecutiveLosses++;
+            if (_consecutiveLosses >= 3)
+            {
+                _consecutiveLosses = 0;
+                if (GoogleAdMobController.Instance != null)
+                {
+                    GoogleAdMobController.Instance.ShowInterstitialAd();
+                }
+            }
         }
 
         /// <summary>Called when language is changed via settings dropdown.</summary>
         private void OnLanguageChangedFromSettings(int index)
         {
-            string lang = index == 0 ? "TR" : "EN";
+            if (index < 0 || index >= LocalizationManager.AvailableLanguages.Count) return;
+            string lang = LocalizationManager.AvailableLanguages[index].code;
             if (lang == _currentLanguage) return;
 
             PlayerPrefs.SetString(PREF_LANGUAGE, lang);
@@ -339,7 +390,9 @@ namespace MillionaireGame
             PlayAudio(audioNewQuestion);
             SpawnParticles(_particlesNewQuestion);
 
-            _uiMgr.ShowQuestion(_currentQuestion, _currentStep, _currentLanguage);
+            _uiMgr.ChangeBackgroundGradient(Random.Range(0, 10));
+
+            _uiMgr.ShowQuestion(_currentQuestion, _currentStep);
             _uiMgr.UpdateLadder(_currentStep);
             RefreshLifelineButtons();
             _uiMgr.btnWalkAway.interactable = true;
@@ -417,14 +470,14 @@ namespace MillionaireGame
                 if (_currentStep >= MoneyLadder.TotalSteps)
                 {
                     PlayAudio(audioWin);
-                    bool isTurk = (_currentLanguage == "TR");
-                    string congrat = isTurk ? "🎉 Tebrikler!" : "🎉 Congratulations!";
-                    string text = isTurk ? $"Tüm 15 soruyu doğru cevapladınız!\n\n{MoneyLadder.PrizeLabels[MoneyLadder.TotalSteps - 1]} kazandınız!" : $"You answered all 15 questions correctly!\n\nYou won {MoneyLadder.PrizeLabels[MoneyLadder.TotalSteps - 1]}!";
+                    string congrat = LocalizationManager.Get("congratulations");
+                    string text = string.Format(LocalizationManager.Get("winMessage"), MoneyLadder.PrizeLabels[MoneyLadder.TotalSteps - 1]);
                     // 🎉 WINNER!
                     _uiMgr.ShowResult(
                         congrat,
                         text
                     );
+                    _consecutiveLosses = 0; // Reset losses on win
                 }
                 else
                 {
@@ -438,16 +491,16 @@ namespace MillionaireGame
                 string guaranteed = MoneyLadder.GetGuaranteedPrize(_currentStep);
                 string wonLabel = _currentStep > 0 ? MoneyLadder.PrizeLabels[_currentStep - 1] : "$0";
 
-                bool isTurk = (_currentLanguage == "TR");
-                string title = isTurk ? "Yanlış Cevap!" : "Wrong Answer!";
-                string TheCorrectAnswerWas = isTurk ? "Doğru cevap şuydu:" : "The correct answer was:";
-                string YouDropTo = isTurk ? "Şu seviyeye düştünüz:" : "You drop to the guaranteed level:";
+                string title = LocalizationManager.Get("wrongAnswer");
+                string TheCorrectAnswerWas = LocalizationManager.Get("correctAnswerWas");
+                string YouDropTo = LocalizationManager.Get("youDropTo");
 
                 _uiMgr.ShowResult(
                     title,
                     $"{TheCorrectAnswerWas}\n{_currentQuestion.answers[_currentQuestion.correctAnswerIndex]}\n\n" +
                     $"{YouDropTo} {guaranteed}"
                 );
+                HandleLoss();
             }
         }
 
@@ -561,7 +614,11 @@ namespace MillionaireGame
         private void PlayAudio(AudioClip clip)
         {
             if (clip != null && _audioSource != null)
-                _audioSource.PlayOneShot(clip);
+            {
+                _audioSource.Stop();
+                _audioSource.clip = clip;
+                _audioSource.Play();
+            }
         }
 
         private void SpawnParticles(ParticleSystem prefab)
