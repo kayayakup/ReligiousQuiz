@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 /// <summary>
 /// GameManager — the central orchestrator.
@@ -52,6 +53,7 @@ namespace MillionaireGame
 
         [Header("UI Customization")]
         [SerializeField] private Sprite _settingsButtonSprite;
+        public TMP_FontAsset timerFont;
 
         private AudioSource _audioSource;
         private AudioSource _musicSource;
@@ -83,7 +85,9 @@ namespace MillionaireGame
             // Create manager components on this same GameObject
             _questionMgr = gameObject.AddComponent<QuestionManager>();
             _lifelineMgr = gameObject.AddComponent<LifelineManager>();
-            _uiMgr       = gameObject.AddComponent<UIManager>();
+            _uiMgr       = GetComponent<UIManager>();
+            if (_uiMgr == null) _uiMgr = gameObject.AddComponent<UIManager>();
+            _uiMgr.timerFont = timerFont;
 
             _audioSource = gameObject.AddComponent<AudioSource>();
             _audioSource.playOnAwake = false;

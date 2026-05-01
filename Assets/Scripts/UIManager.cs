@@ -49,6 +49,7 @@ namespace MillionaireGame
         public TextMeshProUGUI lblAskAudience;
         public TextMeshProUGUI lblPhoneFriend;
         public TextMeshProUGUI timerText;
+        public TMP_FontAsset timerFont;
 
         // Walk‑away
         public Button btnWalkAway;
@@ -460,6 +461,7 @@ namespace MillionaireGame
 
             // ── Middle: Question Text ──
             timerText = CreateTMP(gamePanel.transform, "TimerText", "60", 64, TextAlignmentOptions.Center, new Vector2(400, 40), new Vector2(200, 80));
+            if (timerFont != null) timerText.font = timerFont;
             timerText.color = _accentGold;
             timerText.fontStyle = FontStyles.Bold;
 
